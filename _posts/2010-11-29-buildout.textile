@@ -1,0 +1,38 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - Django
+    - project management
+    - education
+    - research
+    - college
+title: Buildout
+summary:
+    Instead of improving their code, the Zope and Plone communities have been improving the tool that manages their code. They've created a monster. It goes by the name of zc.buildout.
+---
+
+At work, we're using "buildout":http://www.buildout.org/ to automate configuration, builds and deployment of a huge-ass Plone website, namely "http://www.ugent.be":http://www.ugent.be . Most Django coders have heard of buildout before. The story usually goes like this:
+
+bq.  _Rugged Zope developer:_ We have this wonderful little thing called Buildout, and yet you, untutored Django script kiddie, insist on using pip and fabric and all those other messy half-assed dev and deployment tools. _Djangonaut, looking glum:_ But, I mean, I kind of like the way I deploy my stuff. _Rugged Zope developer:_ You're a moron.
+
+I mean, not really, but there's this feeling that Django coders ignore a lot of excellent Python goodies because they weren't invented in their own workshops, and that they're worse for it. Perhaps. But buildout isn't one of those forgotten tools. It's simply not that great.
+
+Buildout is not great, but it does a lot of great things:
+
+* Buildout can detect, list and install dependencies, similarly to how pip's requirements files work. Pip calls it freezing, buildout calls it dumppickedversions. (I don't make up these names.)
+* Buildout also helps a lot with configuration, like by auto-creating the config files for a complicated database setup.
+* You can make recipes which consist of any ol' python code and do whatever you want them to do. Nothing's stopping you from using buildout to install system packages or supporting software, like "Varnish":http://pypi.python.org/pypi/plone.recipe.varnish , memcached, or even "download, compile, install and configure Apache":http://pypi.python.org/pypi/plone.recipe.apache/0.3.2 to serve up your Python app in no time.
+* Buildout can be used to tailor your development environment, like configuring and enabling a bunch of debugging tools and a development server.
+* Buildout was made for _builds_ , but a lot of people use it for _deployment_ as well. To "Alan Runyan":http://www.enfoldsystems.com/about/management.html 's chagrin, but Plone coders are so used to deploying with buildout, Alan would have to pry the tool out of their cold, dead hands before they abandon their way of doing things.
+
+Anyhow, so buildout is like "pip":http://pip.openplans.org/ , "fabric":http://docs.fabfile.org/ and "paster":http://pythonpaste.org/script/ all thrown together, with a smallish wink at "Puppet":http://www.puppetlabs.com/ and "Chef":http://wiki.opscode.com/display/chef/Home . Nifty. But also scary. Buildout is a bear to get comfortable with, and it combines so many functions that you're never quite sure what it does or where something went wrong, if and when it does go wrong. Soon you'll be fixing broken buildout "INIs":http://en.wikipedia.org/wiki/INI_file , rather than broken builds.
+
+With virtualenv, pip, fabric, git for version control, perhaps paster for scaffolds and maybe Chef if we feel the need to beef up our hacker cred, we have at our disposal a bunch of small, simple tools that do everything a Python developer could wish for. Each of them is tested and reasonably well documented. They do one thing, and do it extremely well. It's easy to replace one part without affecting the others. They play nice together.
+
+Why, then, prefer the big monolith that is zc.buildout over a veritable "UNIX-style nirvana":http://en.wikipedia.org/wiki/Unix_philosophy#Mike_Gancarz:_The_UNIX_Philosophy ? The big secret is that Plone installations can be a real pain in the ass to configure. Nobody actually wants to edit "ZCML":http://plone.org/documentation/manual/theme-reference/buildingblocks/components/wiring configuration files if they can help it. Wiring up an app isn't as simple as adding a single line of code tosettings.py. Disabling debug mode takes more work than just declaringDEBUG = False(how could you be so naive!). And so buildout exists to manage the deluge of boilerplate code and configuration that Zopeheads, like their Java-coding colleagues, have become desensitized to, but which permeates their frameworks.
+
+Instead of improving their code, the Zope and Plone communities have been improving the tool that manages their code. Which is kind of sad, isn't it?

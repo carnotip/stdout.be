@@ -1,0 +1,74 @@
+---
+layout: talk
+language: en
+categories:
+    
+tags:
+    - en
+    - context
+    - polyhierarchy
+    - loose coupling
+    - Hack de Overheid!
+    - behavior
+title: Sprinkles on top — live from the DDJ
+summary:
+    
+---
+
+_This is the (expanded) text to a short table setter I did for a roundtable discussion titled *New Formats for Presenting Information and Stories* , here in Amsterdam at_  " _EJC's_ ":http://www.ejc.net/  _Data-driven Journalism conference._ Let's start off with "a quote from Adrian Holovaty":http://mashable.com/2009/12/11/programmer-journalists/ :
+
+bq. I’ve only met a handful of people who became journalists because they like information. And I think that helps explain why there have been some major cultural issues in the journalism world in the age of the Internet
+
+Taking information seriously means we don't treat stories as big blobs of text, but recognize that, say, an interview is not the same thing as a book review. "We need to bring out the implicit structure":/2010/the-basic-unit-of-information/ in all those content types.
+
+Taking information seriously means we don't stuff stories into an undifferentiated archive, but "categorize":/2010/themes-and-topics/ those stories according to what they're about.
+
+Taking information seriously means that we don't see a story as an island, but rather "annotate it with all kinds of metadata":/2010/tags-dont-cut-it/ about persons, organizations, places, events, previous reporting, sources and data that are related to each story.h3. Three challenges for the news industry
+
+At this point, you're probably wondering: why bother? Solid question. Allow me to take a step back.
+
+The news industry is facing any number of challenges. There are three, in particular, that I think are important.
+
+#  "We're stuck in the perpetual now":http://www.r4isstatic.com/?p=90 . Each day we churn out new stories, and it's getting really hard for people to keep on top of that information flow, and to really learn something about the larger issues that are at hand.
+# We're slowly realizing that there's more to journalism that storytelling. It's about informing communities, in whichever way we can.
+# We're not making the amount of money we used to. Advertising revenues aren't what they used to. Maybe we're trying to sell our readers a product they no longer want, "as Robert Pickard insists":http://themediabusiness.blogspot.com/2010/04/search-for-alternative-media-business.html . And news has become a commodity. It's difficult to profit from commodities.
+
+h3. Better living through information
+
+We're definitely doing some things right: we're following readers on whichever platform they prefer: Twitter, Facebook, web, print, iPad, mobile. We're experimenting with "timelines":http://www.nytimes.com/interactive/2008/03/18/world/middleeast/20080319_IRAQWAR_TIMELINE.html and "maps and aggregation":http://www.everyblock.com/ . We're going beyond stories, with "wikis":http://howto.wired.com/ and "news apps":http://www.politifact.com/ .
+
+But we're simply not making enough money and our readers aren't getting the broader context or the deeper knowledge they need. Information would help us solve those three challenges. It might sound far-fetched but it isn't.
+
+Metadata would help.
+
+* Metadata can give readers a broader picture, by linking up stories with profiles of people and organizations. By linking stories to previous reporting, external sources and relevant data.
+* Metadata can give readers a different picture. We can make maps, because we have structured data on each place that's mentioned in a story. We can make timelines, because we've got the same kind of data for events.
+* Metadata can lead readers to easily explore related themes or content from the same neighborhood, instead of jumping away once they've read a single article.
+
+Summed up, metadata helps us move beyond the perpetual now.
+
+And structure can help.
+
+* Structure, by decoupling content from its presentation, makes it easy to publish to the web, in a print magazine and on the iPhone simultaneously, in a way that's tailored to each platform. Create once, publish everywhere.
+* Structure, because it splits up content into its constituent atoms, also makes it possible to recombine, say, different recipes into a searchable database, or to split up our political reporting by region, and to show that on a map.
+
+Summed up, structured information saves money and helps us find new ways of informing our readers.h3. If that's so great, how come you ain't rich?
+
+So, if structuring, categorizing and annotating information is so great, why is nobody really doing it?
+
+Well, we are, to some extent! "The Guardian":http://www.guardian.co.uk/ , the "New York Times":http://www.nytimes.com/ and the "Texas Tribune":http://www.texastribune.org/ (courtesy of "Hot Type Consulting":http://www.hottypeconsulting.com/ ) are doing a whole lot more than just publishing stories as big blobs of text, and it shows.
+
+But why don't we, when we don't? I can think of two reasons.
+
+# CMSes "suck":http://sunlightlabs.com/blog/2009/content-management-systems-just-dont-work/ . They can't handle a lot more than a title and a body field, and they're not meant to store rich metadata. "You're not supposed to build applications on top of them.":http://hackshackers.com/2010/04/13/dont-mistake-your-cms-for-a-development-platform/ They don't _manage_ information at all, they just put stuff up on the internet, whatever its form. And publishers aren't inclined to take matters into their own hands, reminding us that "they make news, not technology":http://www.niemanlab.org/2010/08/seeking-sustainability-part-4-texas-tribunes-evan-smith-on-the-many-tensions-of-technology/ .
+# Our industry has been so slow to realize they're in the information business, is because metadata is invisible. It's an investment in your back end systems that only leads to cost savings or a better user experience in the long term.
+
+And while asking for infographics or flash animations or one-off news apps is all fine and dandy, most executives are not about to commission a new content management system. It just feels a bit too extravagant.
+
+And with that, we've kind of reached into the core of the problem. For most executives in the news business, digital innovation is the cherry on top, not the key to our future. It's the sprinkles on a cake.
+
+In "the words of Paul Rissen":http://www.r4isstatic.com/?p=90 :
+
+bq. In the overwhelming chase for the ‘new’, and with financial constraints, it’s often not regarded as possible to consider anything which doesn’t provide a simple, quick and easy solution. Perfectly understandable. But also perfectly misguided and wrong.
+
+What we, as an industry, need to learn, is that digital strategy is not about sprinkles, but about baking a better cake. If we don't see the opportunities, somebody else will.

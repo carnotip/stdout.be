@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+canonical: http://www.niemanlab.org/2010/05/the-newsonomics-of-simplicity/comment-page-1/#comment-110480
+title: The Newsonomics of simplicity
+---
+
+Cloud hosting can make sense for news orgs, as it’s a cheap way to handle high amounts of (peak) traffic. Some cloud services (perhaps for e.g. customer relationship management) can make sense as well, as you need IT departments free to focus on the core business of the newspaper.
+
+But outsourcing content management… that’s tricky. In essence, it means tying any and all your capacity for innovating on the web to one vendor. Goodbye experimentation, goodbye competitive advantage. Our core business, which is what the web is slowly but surely becoming, is not the kind of thing where simplicity and cost savings should be the defining virtues.
+
+If anything, I hope more and more newspapers will see the sense in building strong digital teams that can create bespoke software that does exactly what they need, instead of relying on unwieldy and generic software from big industry players like DTI and vjoon (Softcare).

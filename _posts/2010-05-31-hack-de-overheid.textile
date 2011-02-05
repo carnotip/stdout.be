@@ -1,0 +1,65 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - authenticiteit
+    - Bart Van Herreweghe
+    - Henk van Ess
+    - overheid
+    - Ton Zijlstra
+    - technology
+    - startups
+    - Steve Buttry
+title: Hack de overheid
+summary:
+    
+---
+
+Twee dagen geleden vond in Amsterdam "Hack de Overheid!":http://www.hackdeoverheid.nl/ ten einde, een "barcamp":http://en.wikipedia.org/wiki/BarCamp waar iedereen zijn zeg kon doen over de toekomst van open data en open government, in Nederland en daarbuiten. Het moet nog wat bezinken, maar: wat een dagje! Gekeken naar een inspirerende presentatie van "Richard Pope":http://rewiredstate.org/ en een andere van "Henk van Ess":http://twitter.com/henkvaness , gepraat met mensen van het "Nederlandse Ministerie van Binnenlandse Zaken":http://www.bzk.nl/ en met journalisten, en geluisterd naar projectvoorstellen van coders.
+
+[caption id="attachment_279" align="alignnone" width="520" caption="De trouwzaal in Het Sieraad — de main conference room; (c) Ton Zijlstra"] !http://stdout.be/wp-content/uploads/2010/05/4652582776_16f2754eb0_o-1024x768.jpg! [/caption]h3. Open data
+
+ _Het is essentieel dat de samenleving eigenaarschap heeft van haar overheid_ , zo lees je in het eindrapport van de Vlaamse Commissie Efficiënte en Effectieve overheid. Alleen: hier in Vlaanderen verstoppen ze dat ergens in een rapport, daar in Nederland zijn ze d'r echt mee bezig.
+
+Gespreksonderwerp bij uitstek was *data, data, data* . Om nog even terug te grijpen naar ons eigen Vlaanderen voor ik verder vertel over HDO: wij lezen in een beleidsnota overheidscommunicatie van 2 december 2009:
+
+bq. Zo moet de informatie die de afdeling Contactpunt Vlaamse Infolijn verzamelt en ontsluit via haar eigen overheidskanalen bijvoorbeeld bestaan uit open data, die ook gebruikt kunnen worden voor en door burgers. Op die manier kan een burger een meerwaarde bieden aan de informatie en gegevens van de overheid (door feedback of signalen te geven of door eigen data toe te voegen).
+
+Onze overheid wil naar eigen zeggen een "open en transparante overheid zijn". Alleen zo jammer dat we daar weinig van zien. "Bart Van Herreweghe":http://bart.vanherreweghe.com/ikke registreerde op 22 januari 2010 in naam van de overheid de domeinnaam opendata.be:
+
+bq. Domain:      opendata
+Status:      REGISTERED
+Registered:  Fri Jan 22 2010
+Agent Technical Contacts:
+First Name:    Bart
+Last Name:     Van Herreweghe
+Company Name:  Kanselarij van de Eerste Minister
+
+...maar ze zijn daar zo _open_ dat Bart het niet eens nodig achtte om te reageren op mijn mailtje, waarin ik vroeg wat precies de plannen zijn van de overheid rond open data. (Reageer op m'n post, Bart, en 't is je allemaal vergeven!)
+
+Zo gaat het vaak: *als je een open overheid wil moet je 't zelf op gang trekken* . En dat doen ze dus momenteel bij onze noorderburen in Nederland. Het is de moeite.h3. Geen gezeik
+
+Studenten, mensen van de rijksoverheid, iemand van het ICTU, mensen van privébedrijven die regelmatig samenwerken met de overheid zoals Siemens, onderzoekers... een heel boeltje. En ze luisterden naar elkaar, zonder hiërarchische bullshit. En met verbazend veel enthousiasme bij de ambtenaren, die zonder probleem hun zaterdag opofferden voor Hack De Overheid.
+
+[caption id="attachment_277" align="alignnone" width="520" caption="(c) Ton Zijlstra"] " !http://stdout.be/wp-content/uploads/2010/05/4652616178_32d1f2248a_o-768x1024.jpg! ":http://stdout.be/wp-content/uploads/2010/05/4652616178_32d1f2248a_o.jpg [/caption]
+
+Na een paar inleidende presentaties kreeg iedereen post-its in z'n hand geduwd, met de mededeling: " *schrijf hier eens op waar jij over wil praten* , wat jou interesseert". De regel wat immers: als je niet meedoet, dan hoor je hier niet thuis. Geen passieve toekijkers. En uiteindelijk hebben we twee grote borden volgekleefd met een ad-hoc agenda op basis van al onze talking points.
+
+Ik begeleidde een sessie over lobbywerk (hoe overtuig je de overheid om met je samen te werken en data vrij te geven?), Henk van Ess gaf een meer praktische sessie over hoe je als journalist verborgen databanken kan weten te vinden in het donkere web, en "Ton Zijlstra":http://www.zylstra.org/blog/ leidde op verzoek van het "BZK":http://www.bzk.nl/ een soortement barcamp-binnen-de-barcamp waarbij verschillende groepen aan het brainstormen sloegen over hoe *data.overheid.nl* er zou moeten uitzien. De Amerikaanse aanpak, de Engelse aanpak, veel of weinig standardisering, _be agile and get started_ of doe het goed zodat iedereen meteen overtuigd is van het nut en je geen half-af portaal presenteert... héél belangrijke vragen waar niemand zo meteen een antwoord op had, maar waar op 90 minuten tijd een shitload aan inzichten zijn komen bovendrijven. Een barcamp op z'n best, eigenlijk.
+
+De barcamp bestond uit twee tracks. Ik zat in de publieke dienstverleningstrack, vooral met de _praters_ (ach ja!) maar daarnaast was er ook nog een politieke datatrack, waar veel deelnemers aan het coden sloegen en *prototypes* uitdachten voor open data apps. Hack De Overheid "kreeg immers onlangs vijventwintigduust euro":http://www.apache.be/2010/04/hoofdredacties-missen-lange-termijnvisie/ van het "Stimuleringsfonds voor de Pers":http://www.stimuleringsfondspers.nl en die willen de HDO'ers weggeven aan slimme knapen met een goed project. Dit event was iedereen z'n kans om ter plekke een idee uit te denken, in kleine groepjes een prototype uit te denken, en dat te pitchen.h3. Demo's
+
+De wedstrijd leek voor mij op iets dat de organisatoren op het allerlaatste aan de conferentie gekleefd hadden — niet echt van groot belang, om de boel nog wat op te leuken. Maar voor de Nederlanders in de zaal — toch het gros van de aanwezigen, vanzelfsprekend — was dat waarschijnlijk wel anders: 't is _hun_ overheid en _hun_ land, en zij konden met het geld gaan lopen.
+
+De demo's dus. Sommige mensen hadden op een paar uurtjes tijd al een applicatie bij elkaar weten te hacken, waarvoor chapeau, want de programmeersessies begonnen pas om 14 uur na een late lunch. Andere deelnemers hadden niet meer dan een paar schetsen, maar zo goed als iedereen wist mooi hun idee en hun applicatie te presenteren en te verdedigen.
+
+Even een overzichtje van de apps die ik het leukst vond. *waaromnietopenbaar.nl* wil "WOB-aanvragen":http://www.wobbing.eu/ semi-automatisch laten verlopen, en zo het aantal beschikbare documenten en datasets de hoogte in jagen. Stel je voor: een vectorkaart van Nederland (of België for that matter), daar betaal je tienduizenden euro's voor, maar zulke kaarten worden opgebouwd op basis van het kadaster van elke gemeente. En die gemeentes gebruiken diezelfde gegevens ook om waterleidingen te plannen, bouwaanvragen te evalueren en wat nog allemaal. Die kaarten dienen dus om het beleid te ondersteunen en daar zou je dus eigenlijk via een WOB-aanvraag toegang tot moeten krijgen. Doe dat in elke gemeente, puzzel de kaarten tesamen, en presto, weg licensingkosten. Het vraagt heel wat dromen en er zijn waarschijnlijk juridische of praktische obstakels die roet in het eten gooien, maar _so what._ Vindingrijk voorstel. *Politwoops* wil alle verwijderde tweets van politici bijhouden en weergeven op een website met naast elk twitterberichtje een grote retweet-knop. *Schadenfreude* ten top. "Thomas Markus":http://twitter.com/tmarkus , een NLP-wizard en onderzoeker aan de universiteit van Utrecht, wou wel eens weten hoe media en politiek zich tot elkaar verhouden. Door persberichten van partijen te crossreffen met wat de media schrijft, zou je met de nodige magie te weten kunnen komen of de media de politiek bepaalde maatschappelijke thema's opdringt, dan wel of de media louter braaf bericht over waar politici mee bezig zijn. En welke partij zou het meest mediagevoelig zijn? Boeiend.
+
+Tussen de presentaties riep iemand nog vlug de zaal in "Henk vroeg deze morgen naar wat data mining op de vermiste personen-databank, om die boel te correleren met land van oorsprong, dus dat heb ik dan maar lekker even gedaan." Dat zegt wel iets over de *sfeer* die er hing in Amsterdam. Zoveel leuke dingen gemaakt en zoveel bijgeleerd op een kleine namiddag.
+
+Ze doen hun best, daar in Nederland. Er is "openkvk.nl":www.openkvk.nl en "ikregeer.nl":http://ikregeer.nl/ . data.overheid.nl ìs er nog niet maar zit in de verkennende fase. "Burgerlink":http://burgerlink.nl van de "ICT Uitvoeringsorganisatie":http://www.ictu.nl/ en "Digitale Pioniers":http://www.digitalepioniers.nl/ van "Kennisland":http://www.kennisland.nl/ .
+
+Het is misschien nog vooral praten, en de overheid moedigt wel aan maar doet (nog) niet veel, maar ik voel het begin van iets moois.

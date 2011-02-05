@@ -1,0 +1,21 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - navigation
+    - algorithms
+title: Ik stop ermee
+summary:
+    Ik stop met Apache.
+---
+
+Ik voel me gepriviligeerd dat ik heb kunnen samenwerken met mijn collega-oprichters van het "nieuwslab Apache":http://www.apache.be , maar het is genoeg geweest voor mij.
+
+Tom en Georges zijn onbetwistbare klassejournalisten. "Tim":http://mensbrugghe.wordpress.com/ is één van de enige journalisten in Vlaanderen die weet hoe échte human interest er moet uitzien. En ik ben vooral blij dat ik "Bram":http://www.kapingamarangi.be/ heb leren kennen en samen met hem heb kunnen nadenken over de toekomst van de journalistiek. Ik wens ze het beste.
+
+En toch verlaat ik ze. Er was nooit voldoende plaats om echt na te denken over de toekomst van de journalistiek, nooit voldoende aandacht voor de zakelijke uitdagingen eigen aan een nieuw medium.
+
+Ik ga op zoek naar een andere uitdaging.

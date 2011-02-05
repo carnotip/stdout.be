@@ -1,0 +1,58 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - polyhierarchy
+title: Are information architects UX designers?
+summary:
+    Information architects shouldn't just take information as a given. We should design how content is structured and how it relates to other content. We should take cues from software architects. They've been doing domain modeling for ages.
+---
+
+What is it I do? Lately I've taken to calling myself an _information architect_ .
+
+I help people create news websites that encourage exploration, tease out the deeper context behind every news story and have the rich structure and metadata needed for easy repurposing across platforms.
+
+That's my first stab at an elevator pitch, by the way.
+
+I considered _information designer_ , but nobody knows what the heck that means.
+
+I described myself as a journalist/coder for a while, but it's been a long time since I did any reporting myself. Plus, I'm not the guy who creates infographics or multimedia packages that tell an _individual_ story differently. Instead, I do infrastructure work to better present _each and every_ story. I want to make sure all the content on a news website works together to provide readers with clear pictures of broader issues. So journalist/coder doesn't quite fit.
+
+I'm a pretty accomplished coder and I have some experience with larger software projects, but then again, I'm not really a software architect pur sang either.
+
+So information architect it is. For now.
+
+But then again, maybe I'm not an information architect in the same way a lot of other people are information architects.
+
+Most publications (though not in the "Polar Bear":http://oreilly.com/catalog/9780596000356 book!) relate information architecture closely to user experience design, maybe even suggesting IA as a subfield of UX design. User experience design for information-heavy websites. But I don't do any UxD myself, though it fascinates me.
+
+I work on taxonomies and all kinds of navigation. Enhancing findability and encouraging exploration is very big for me. That's classic IA if anything is.
+
+But what keeps me up at night? Thinking about how content on a news website can relate to other content, and to people, places, events and so on. Or, technically speaking: creating domain-specific ontologies that bring out the structure and interrelations in content.  And domain modeling  is traditionally a task either assigned to a software architect or, "in very specific circumstances":http://en.wikipedia.org/wiki/Ontology_engineering , to a library or information scientist.
+
+And the fact that many information architects take the structure of information as a given upsets me to no end. Because it essentially conflates information architecture and user experience design.
+
+If information is a given in our line of work, all that's left for us to do is a little dressing up. Sprinkle information with some faceted metadata. Tweak the search engine a bit. Think up a few different ways of navigating around that information. Important, sure, but it's work on the fringes.
+
+Crap in means crap out. An information architect who doesn't have a say in how information is carved up and how it relates to other information — as well as its entry, codification, storage and retrieval — ends up being a glorified UX designer with an expertise in information-heavy websites.
+
+That's not me.
+
+Usability and user experience professionals with an expertise in large-scale information-heavy websites are exactly the sort of people a lot of companies could use. But an UxD isn't going to change the way you think about
+
+* how information flows through different systems
+* how information can be put to use in different contexts and for different end products
+* how information can be reliably archived
+* how to avoid jumbling presentational markup with structural markup
+* how applying structure to information can fuel database applications
+* which workflows should be in place to ensure accurate metadata
+* whether there are any sensible international standards or nascent conventions (like microformats) that should be adhered to
+
+and so on.
+
+The core of a digital strategy.
+
+Companies should make sure they hire people — either information architects or software architects — who can solve these problems and can spot opportunities hidden within data or information. That's what makes an information architect different from a user experience designer. A UX designer isn't supposed to think out an archiving strategy or a publishing workflow. They're better at other things. Things I do awfully. And vice versa.

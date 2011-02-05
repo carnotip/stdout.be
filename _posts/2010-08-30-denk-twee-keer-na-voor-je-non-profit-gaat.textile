@@ -1,0 +1,48 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - succes
+    - metadata
+    - GitHub
+    - Anton Vowl
+    - Paul Graham
+    - Judy Sims
+title: Denk twee keer na voor je non-profit gaat
+summary:
+    
+---
+
+Wie me al wat langer volgt weet dat ik nogal een "dubbel":/2010/dont-reward-broccoli-journalism/  "gevoel":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ heb tegenover non-profits in de journalistieke wereld. Ze zijn waarschijnlijk wel nodig. Maar 't voelt tegelijk een beetje aan als opgeven: _wij_  _zijn "een onontbeerlijk publieke goed":http://www.mediakritiek.be/blog/2010/05/journalistiek_is_een_publiek_goed_en_staatssteun_is_onvermijdelijk.html _  _, maar we hebben totaal geen commercieel inzicht, dus laat ons maar aanmodderen en geef ons daar geld voor!_  "37signals":http://37signals.com/svn/ zegt over de startupcultuur in de VS:
+
+bq. It's a place where expenses are somebody else's problem. It's a place where that pesky thing called revenue is never an issue. It's a place where you can spend other people's money until you figure out a way to make your own. It's a place where the laws of business physics don't apply. (Jason Fried&David Heinemeier Hansson - Rework, p. 56)
+
+Die kritiek geldt net zo goed voor non-profits.
+
+Vraag de gemiddelde journalist om een nieuw journalistiek project te starten, en hetgeen hij mee naar voor komt is een hoop dromen, en de hoop dat een zakelijk genie die dromen kan omtoveren tot een businessplan. Dat werkt niet. Zoals "Allan Mutter":http://newsosaur.blogspot.com/2010/06/journalists-running-start-ups-face-tall.html zegt:
+
+bq. I fear a good many journalistic entrepreneurs are doomed to fail because they are not objectively confronting the steep odds they face – or putting nearly enough thought and effort into giving themselves a fighting chance to succeed. [...] Instead of trying to build a business, they are trying to give themselves the job they always wanted.
+
+Je moet vanaf dag één denken aan hoe je geld wil verdienen, omdat dat ook je eindproduct en je strategie zal beïnvloeden. Het "project":/2010/the-business-plan-is-the-plan/  * "IS":/2010/the-business-plan-is-the-plan/ *  "het businessplan":/2010/the-business-plan-is-the-plan/ .
+
+Al vanaf de eerste brainstormsessies over je project moet er een wisselwerking bestaan tussen "wat willen we" en "wat rendeert er".
+
+* Een goed idee dat teveel geld kost? Ofwel doen we het niet, ofwel gaat het terug naar de tekentafel tot er een manier is gevonden om het te monetiseren.
+* Kunnen we 90% doen met 50% van het geld?
+* Kunnen we hetzelfde resultaat op een heel andere manier bereiken die kostenefficiënt is?
+* Voeren we een idee uit omdat we het _leuk_ vinden, of "omdat het iets opbrengt":http://www.yelvington.com/content/praise-quick-and-dirty-when-pursuit-excellence-enemy-success ?
+
+ " !http://stdout.be/wp-content/uploads/2010/08/plannen.png! ":http://stdout.be/wp-content/uploads/2010/08/plannen.png De noodzaak om geld te verdienen is het beste middeltje om je geest te focussen op wat belangrijk is en er toe doet. "Zoals ze bij GitHub weten":http://37signals.blogs.com/products/2008/07/how-github-used.html :
+
+bq. Really, not accepting funding has been huge for us. Would you pay out of your own pocket for Feature X? No? Shelve it. If I'm not going to love a feature, I'm not going to spend my time (and therefor money) implementing it. Money is quite powerful, and so is its absence.
+
+Seth Godin zegt aan mensen die een zaak willen opstarten dat ze "niet tegen windmolens moeten vechten":http://sethgodin.typepad.com/seths_blog/2010/05/don-quijote-didnt-ship.html :
+
+bq. My best advice: win little battles. Get in the habit of winning, of shipping, of having customers that can't live without you. Once you've demonstrated you know how to do the art, then go after the windmills.
+
+Godin heeft het over startups die het _against all odds_ willen maken. De nieuwe Google worden, of de wereld veroveren zelfs al heb je geen businessmodel, zoals Twitter doet. Maar volgens mij geldt zijn advies ook voor mensen — journalisten of gelijk wie — die overwegen om een non-profit op te starten. Vzw's zijn broodnodig, maar keihard om goed te beheren.
+
+Daag jezelf uit. Leer jezelf de vaardigheden die nodig zijn om een winstgevende zaak draaiende te houden. Wil je daarna een non-profit oprichten? By all means, ga ervoor. Als je weet hoe je een for-profit runt, heb je alle inzicht in huis om een non-profit een succes te maken. Zo heeft John Thornton van de "Texas Tribune":http://www.texastribune.org/ het gedaan, en zo doet Joel Kramer van de "Minneapolis Post":http://www.minnpost.com/ het. En daarom zijn hun projecten zo sterk.

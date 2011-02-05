@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block pagetype %}review{% endblock %}
+
+{% block header %}
+<p id="about-this">Reviews of every IA book under the sun</p>
+{% endblock %}
+
+{% block body %}
+<div class="centered">
+    <div class="content">
+        <p class="section">Talk</p>
+        <h1>{{ talk.delivered }}<br />{{ review.title }}</h1>
+        <div id="review">
+            {{ review.body }}
+        </div>
+    </div>
+    <div id="infocard">
+        <p class="section">Summary</p>
+        <p id="lowdown">{{ review.event }}</p>
+    </div>
+</div>
+<div class="centered">
+    <div class="nav">
+        <hr class="divider" />
+       {% include "inc.menu.html" %} 
+    </div>
+</div>
+{% endblock %}

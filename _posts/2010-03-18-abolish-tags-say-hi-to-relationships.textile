@@ -1,0 +1,23 @@
+---
+layout: guest post
+language: en
+canonical: http://www.futureofcontext.com/?p=32         
+title: Abolish tags, say hi to relationships                                         
+---
+
+We’d all love it if more news websites simply started tagging their content. But when you think about it, tagging is a very primitive way of saying how things relate to each other. It says “this article has something to do with this concept or thing”. They don’t tell you exactly these things relate. They also don’t tell you whether the the thing the article relates to is a topic, a person, an organization, an event or a location. That’s okay for humans because we can guess, but computers can’t, and we’re really going to need computers to aid us in bringing context — even to do trivial things like provide an index of all the people that a site has content on.
+
+With just a little more effort on behalf of the writer, it’s easy to specify real relationships in "familiar triplets:":http://en.wikipedia.org/wiki/Resource_Description_Framework critiques <person>, contains an interview with <band>, revolves around <topic>.
+
+This information could be used to make search queries more intelligent, and to make sure topic pages are more than just link dumps that leave the reader figuring out how exactly the linked content relates to the topic at hand.
+
+The New York Times already splits up its tags into four categories:
+
+* (Des) = subject descriptor/heading
+* (Per) = person
+* (Geo) = geographic location
+* (Org) = organization
+
+Let’s take that system one step further and instead of just splitting up tags into different categories of tags, treat persons not like tags but like persons. Tags are just labels, persons have names, birth dates, profile pictures, things they’ve said (quotes), personal websites and so on. Ditto for organizations, locations and events.
+
+I know of no CMS that supports this out of the box, which is understandable because being able to say “this sorta relates to that” is sufficient for most intents and purposes. It just doesn’t cut it for news websites, though.

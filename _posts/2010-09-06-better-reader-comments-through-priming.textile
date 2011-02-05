@@ -1,0 +1,53 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - blogging
+    - Roularta
+    - Knack
+    - Karl van den Broeck
+title: Better reader comments through priming
+summary:
+    
+---
+
+Priming: _to prep_  _are (someone) for a situation or task, typically by supplying them with relevant information_ You might've noticed that some blogs and news websites carry a little message that accompanies their comment forms. Underneath each story and above the text box in which you type your reply, it usually says something like "be fair, be reasonable, be a decent human being". The idea being that a simple, friendly message might sometimes be enough to encourage readers to give up on caustic cynicism and rude remarks.
+
+Change user behavior by changing how you invite those users to participate. I wonder — I'm not saying I know — whether we could scare away baddies and improve comments by kicking that technique up a notch.
+
+If somebody dies and you publish an obit, wouldn't it be reasonable to allow people to pay their respects, while noting to readers that this is probably not the right time to evaluate whether the deceased' time on earth was well-spent?
+
+If a story really has no use for random opinions, but could benefit from people sharing their own experiences, why don't we ask people whether they have an _experience_ they'd like to _share_ , instead if asking them if they want to _react_ ?
+
+If an investigative piece could use corroboration, why don't we ask if readers wish to _inform_ us of anything or if they have any pertinent links they would like to share, not whether they want to _respond_ ?
+
+If a columnist publishes a beautiful _tranche de vie_ , is there really any point in having people _interact_ with the author? Is not the only meaningful interaction, for a contemplative piece like that, for people to say whether they like it or not? If that's so, why not replace the comment form with a simple "like"-button?
+
+If a public thinker gives us a tough thesis to chew on, shouldn't we ask people to mail back their thoughts or ripostes after mulling it over, instead of encouraging them to fire off a quick two-sentence reply?
+
+Priming readers for certain kinds of contributions is not about trying to own the conversation. You never do. People can always vent their thoughts through Facebook and Twitter. It would be about encouraging people to have the kind of conversations actually worth having.
+
+Different kinds of content require different kinds of responses. And responses come in a cornucopia of flavors:
+
+* corrections
+* appreciation
+* additional information: an expert view or external links
+* responses to the author, rather than public comments
+* experiences from readers' lives
+* opinions
+* discussion among readers
+
+Add your own.
+
+Some types of responses even ask for different interfaces.
+
+We could encourage people to contribute information or sources they've found, by making it easy to add a link, Facebook-style.
+
+Corrections could use their own Wikipedia-like discussion pages, so accusations and inaccuracies can be treated with the gravitas they deserve, while not disturbing the lively on-topic discussion going on.
+
+Currently, when newspaper websites ask readers to share their thoughts, the very language and user interface biases responses towards opinions and (smart-alecky) corrections. That's okay, but we also need more people sharing their own experiences, their expert views, that one obscure but incredibly relevant web page on the topic at hand. We're not getting enough of those re.
+
+Isn't that just bad interaction design?

@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block pagetype %}homepage{% endblock %}
+
+{% block header %}
+<div class="centered"><p id="intro">I'm Stijn Debrouwere. I help people create news websites that encourage exploration, tease out the context behind every story and have the rich structure and metadata that's needed for repurposing across platforms.</p></div>
+{% endblock %}
+
+{% block body %}      
+<div id="writing" class="inset content">
+    <div class="centered">
+        <h2>Latest writing <a href="" class="switch" style="display: none;">↔ most popular</a></h2>
+        <div class="filter tk-ff-netto-web" style="border: 1px solid #ccc; display: inline-block; margin-bottom: 15px; padding: 5px 0 5px 10px;">
+            <input type="checkbox" checked="checked" id="show-blog" /> <label for="show-blog">blogposts</label>
+            <input type="checkbox" checked="checked" id="show-guestpost" /> <label for="show-guestpost">guest posts</label>
+            <input type="checkbox" checked="checked" id="show-review" /> <label for="show-review">reviews</label>
+            <input type="checkbox" checked="checked" id="show-print" /> <label for="show-print">print</label>
+            <input type="checkbox" id="show-presentation" disabled="disabled" /> <label for="show-presentation">talks</label>
+            <input type="checkbox" id="show-comment" /> <label for="show-comment">comments</label>
+            <span style="display: inline-block; padding: 5px 10px; margin: -5px 0 -5px 10px; background: #bbb;"><input type="checkbox" checked="checked" class="toggle" /></span>
+        </div>
+        <table>
+            {% for post in posts %}
+            <tr data-timestamp="{{ post.timestamp }}">
+                <td><a href="" class="badge {{ post.type.slug }}blog" title="Show every {{ post.type.name }}">blog</a></td>
+                <td><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></td>
+            </tr>
+            {% endfor %}
+            <tr data-timestamp="50">
+                <td><a href="" class="badge guestpost">guest post</a></td>
+                <td>50 <a href="">Sprinkles on top — live from the DDJ</a></td>
+            </tr>
+            <tr data-timestamp="80">
+                <td><a href="" class="badge comment">comment</a></td>
+                <td>80 <a href="">Koning Middelmaat</a></td>
+            </tr>
+            <tr data-timestamp="60">
+                <td><a href="" class="badge review">review</a></td>
+                <td>60 <a href="">Ambient Findability (David Weinberger)</a></td>
+            </tr>
+            <tr data-timestamp="50">
+                <td><a href="" class="badge print">print</a></td>
+                <td>50 <a href="">Broccoli-journalistiek (Crossmediale journalistiek)</a></td>
+            </tr>
+        </table>
+        <p>You can also see what I'm bookmarking and reading on <a href="">my delicious page</a>.</p>
+    </div>
+</div>
+
+<div id="links" class="content">
+    <div class="centered">
+        <p>Bla dee bla bla bla</p>
+    </div>
+</div>
+
+<div class="centered content">
+    <h2>Projects</h2>
+    <ul id="projects">
+        <li><img src="{{ MEDIA_URL }}projects/camayak.png" /> <a href="">Camayak</a>: transforming content management for the media</li>
+        <li><img src="{{ MEDIA_URL }}projects/extendables.png" /> <a href="">Extendables</a>: a framework for Adobe ExtendScript</li>
+        <li><img src="{{ MEDIA_URL }}projects/oss.png" /> <a href="">A couple of open-sourced Django apps</a>, available over at GitHub</li>
+    </ul>
+    <p>All my contributions to open-source software live at <a href="http://github.com/stdbrouw">GitHub</a>.</p>
+</div>
+
+<div class="centered content">
+    <h2>Work</h2>
+    <p>I work with information. I think about how information gets created, stored, how it travels around, is categorized, found, managed and how to meaningfully present <em>all</em> that information to users. So my work fits somewhere in between UX design, software architecture, taxonomy and process management.</p>
+    <p>I'm available for <a href="">consultancy</a>, <a href="">dev jobs</a> and I love giving <a href="">workshops and presentations</a>.</p>
+
+    </p>
+    <h2>Stuff</h2>
+    <p>Find out <a href="">who my muses are</a>. Photos on <a href="">Flickr</a>. A tumblog with noise and random snapshots called <a href="">Dr. Livingstone, I presume?</a> A profile on <a href="">Dopplr</a>. I'm not on twitter, sorry guys. I love to chat with like-minded people, so feel free to just <a href="">drop me a line</a> instead.</p>
+</div>
+{% endblock %}

@@ -1,0 +1,64 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - Matt Thompson
+    - newspapers
+    - polyhierarchy
+    - NPR
+    - transparency
+    - search
+    - findability
+title: The Basic Unit of Information
+summary:
+    A meandering little post about (1) three different types of structured information, (2) the "basic unit of information" meme that wants to put the filing cabinet and brains of every journalist on the web and (3) how information architecture for news websites doesn't just pose design and technical challenges, but requires us to think about the fundamentals of the journalistic enterprise and its future.
+---
+
+Let it be known that "structured information":http://stdout.be/2010/we-are-in-the-information-business/ is "really":http://www.holovaty.com/writing/fundamental-change/  "cool":http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html . Not because it's flashy or because it sounds good, but because it allows newspapers and their wired journalists — "information designers?":http://www.pbs.org/idealab/2010/04/programmer-journalist-hacker-journalist-our-identity-crisis107.html — to make really cool stuff.
+
+In the context of a news story, structured information comes in a few different flavors:
+
+# elements that are already a part of the story, albeit too often in an unstructured way (subtitles, questions and answers in an interview, infoboxes, images).
+# additional metadata that adds some information that isn't always obvious from the text itself ( "mood and sentiment":http://www.paulnus.com/content/mobile-first-strategy-no , links to earlier reporting on this topic, genre).
+# information that can't be grasped from the text — I'm especially thinking of information that relates to the writing and the investigative process behind most news stories: sources, documents, facts, audio recordings of interviews.
+
+Think of these three kinds of structured information like specific wavelengths on the color spectrum: they're anchors in a continuum, not discrete categories. "Explicitly linking up a story with relevant persons and organizations":/2010/tags-dont-cut-it/ is somewhere between (1) and (2) — most of it is somewhere in the text, but not all of it, and it takes effort to summarize the persons, organizations, events and what-not an article talks about.
+
+(3) is a particularly interesting category of metadata that I haven't had the chance yet to talk about. If we look at information that relates to the journalistic process, well, there's nothing really special about it from the POV of information architecture. Information is information, same ol' challenges and opportunities "we've talked about before":/2010/we-are-in-the-information-business/ . But it _can_ learn us a valuable way of thinking about our content.
+
+In late 2008 or early 2009, a very precious strand of thought regarding structured content blossomed. The topic must have been in the air, for as early as 2006 someone nicknamed Rogerr had remarked that "The structured information you refer to amounts basically to reporter's notes." in response to Adrian Holovaty's landmark "A fundamental change":http://www.holovaty.com/writing/fundamental-change/ post about shifting from a story-centric to an information-centric worldview.
+
+This strand of thought began its life as a call to journalists. Whenever possible, they should release their primary sources and documents, allowing readers to delve deeper into certain issues themselves when they so please. Take this comment by "Dave Winer":http://www.scripting.com/2008/11/24.html :
+
+bq. [Reporters and editors are] being very selective about what sources, facts, ideas and opinions we [can] have.
+
+I want it all, and I don't want anyone saying what I can and can't have.
+
+We don't need your stories, we need your brain. Some organizations got the message. More and more documents are popping up to accompany news articles. Documents and data is a big part of "The Texas Tribune":http://www.texastribune.org/ . The Trib calls it their "library":http://www.texastribune.org/library/documents/ . Very recently, "employees from the New York Times and ProPublica":http://www.documentcloud.org/about released a beta of their "Knight-sponsored":http://www.knightapps.org/app/documentcloud  "DocumentCloud":http://www.documentcloud.org service:
+
+bq. DocumentCloud is an index of primary source documents and a tool for annotating, organizing and publishing them on the web.
+
+But source documents are only part of the demand.
+
+bq. By starting with each source, quote, factual statement, picture, graphic, audio clip or video clip as an isolated element, or “tweet”, properly tagged with automatic tagging engines, those elements can be packaged or searched directly, allowing the most transparent view of local information. ( "Chuck Peters":http://chuckpeters.iowa.com/2008/12/information-in-the-first-instance/ )
+
+ "Jeff Jarvis":http://www.buzzmachine.com/2008/12/02/a-complete-ecology-of-news/ , at the end of '08:
+
+bq. Think about news as its constituent components, not in the bizarro news world we live in, think about news in the actual world. The components are: sources, facts, ideas, opinions, readers.
+
+If journalists really see themselves as serving the public good — and considering the rise of non-profit journalism, they do — it becomes close to an ethical imperative to make not only the finished narrative but the initial research available as well. That way other reporters have something to build on if they want to investigate further.
+
+Separating each asset (picture, video, audio), source, quote and factual statement, and providing it to whomever may want to see those _units of information_ separately from the narrative experience, is exciting, even if no one really knows how it should work and if it's the kind of by-product that "might pay off.":http://37signals.com/svn/posts/1620-sell-your-by-products Others can surely make a more convincing case for basic units of information as an integral part of the move towards an information-centric worldview in journalism. I'm thinking about the broader lesson to be had. Chuck Peters, Dave Winer, Jeff Jarvis&co. didn't just take what's there, they thought about _what could be_ .
+
+Framing our information architecture with the question ‘How can we apply structure to this content?’ is a mistake. When we take our content as a given, we miss opportunities. We'd be deciding how everything should look and fit together, based solely on what we see, when instead we should worry about what's _not_ there and what the content _should_ be and look like, regardless of its current state. It's no use trying to bring structure to news if we're not willing to rethink our reporting. It's about a worldview, not just a technical improvement to our website.
+
+Sources, facts and ideas aren't a part of a published story as we conceive of it. For now. That's what makes it a valuable idea.
+
+More often than not, information architects are tasked with bringing out the best in an existing pile of content. But in the news industry, we can reinvent both how our content should be stored/codified to bring out its potential _and_ what that content should look like in the first place if it is to have any future at all. It reminds me of something Robert Lockwood once said:
+
+bq. In any redesign, if you retain the conventional structure of the newsroom, you will inevitably assume the values of the past.To redesign the newspaper you need to redesign the operation.
+
+As information architects and software developers, whether we like it or not, we're on the front lines, fighting for the future of journalism.

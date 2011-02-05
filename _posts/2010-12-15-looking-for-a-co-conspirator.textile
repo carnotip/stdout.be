@@ -1,0 +1,30 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - loose coupling
+    - Amy Gahran
+    - The Gazette
+title: Looking for a co-conspirator
+summary:
+    
+---
+
+One of the more insightful blog posts of the last few months was "one where Max Cutler lists the three main shortcomings of news content management systems":http://www.maxcutler.com/2010/09/13/what-is-a-news-cms :
+
+* CMSes don't really manage anything. They "publish":http://blog.programmableweb.com/2009/10/13/cope-create-once-publish-everywhere/ something.
+* While a CMS should be adding value to your content, bringing out the interrelations, more often than not it makes everything unfindable.
+* A CMS is tied to a production platform, when what we really need as news organizations is a tool with the ability to "push to print, the web, social media, mobile and whatever new platforms may crop up":http://www.paulnus.com/content/mobile-first-strategy-no .
+
+For a couple of months now, I've been discussing with Max how content management should really work, and together with Roman Heindorff we've been tinkering on a prototype. But our wish has long been to go beyond tinkering. We want to really nail this and turn it into a product. Not a CMS, mind you. Drupal and Wordpress are perfectly fine for publishing to the web. What we want to build is a content hub for managing the gloriously messy editorial process. A content hub that "loves structured data":http://stdout.be/2010/we-are-in-the-information-business/ and semantic annotations. A launch pad for pushing content to any platform you can think of.
+
+And we _would_ create exactly that product. We're a decent bunch of fellows. Roman has the keys to a sweet old school studio loft in London, ready for us to turn into our base of operations. We've talked to enough publishers to know what we need to do. We would, except we're one coder short. And we really can't pull this off without the right team.
+
+We're looking for a real partner on this project. Not just a code monkey but someone who can spot a shitty idea when they see one, and has some thoughts of their own. Someone who can commit to this full-time. Somebody who knows a thing or two about the publishing industry. We want to get started sooner rather than later. But that's up to you, innit?
+
+We're a Django joint, but would also love to speak with you if you're as excited about "CoffeeScript":http://jashkenas.github.com/coffee-script/ as we are.
+
+My e-mail address is all over the web, so you know where to find me.

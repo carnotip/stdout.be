@@ -1,0 +1,8 @@
+---
+layout: comment
+language: nl
+canonical: http://usability-blog.be/geen-error-404-pagina-bij-google/comment-page-1/#comment-8942
+title: Geen error 404 pagina bij Google?
+---
+
+Dat het geen knappe 404-pagina is, dat klopt, maar dat is helemaal niet het gevolg van vergetelheid: Google, zoals zoveel andere grote websites, krijgt zoveel ongewenste traffiek van bots op allerlei willekeurige adressen, dat ze bijna niet anders kunnen dan hun foutpagina’s sec te houden, als ze niet willen dat spammers en ander onguur volk de helft van hun bandbreedte en rekenkracht opeet. Of dat opweegt tegen de mindere gebruiksvriendelijkheid voor échte gebruikers, dat weet ik niet, maar er is wel degelijk over nagedacht.

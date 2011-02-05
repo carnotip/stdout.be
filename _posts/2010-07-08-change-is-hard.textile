@@ -1,0 +1,39 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - context
+    - science reporting
+    - curation
+    - natural language processing
+title: Change is hard
+summary:
+    
+---
+
+I've been trying to take in some of the precious sunshine that has deigned to pay us a visit here in Belgium these last few weeks. But my mind never stays empty for long, and I got to thinking about some of the conversations I had in Cedar Rapids "when I visited SourceMedia Group there in June":http://stdout.be/2010/c3/ . About content. And about how news is becoming a commodity. But personalities like "Mike Masnick":http://www.techdirt.com/ aren't. "Conversation isn't.":http://stdout.be/2010/conversational-journalism/ News companies right now should be thinking about how to avoid their products from becoming commodities, insofar as they aren't already.
+
+Simple economics mean that profit margins for commodities gravitate towards zero. So that's not a business most people want to be in. It's definitely not a business The Gazette wants to be in.
+
+But content is very much the business newspapers and magazines and tv stations used to be in. Even the word 'content' might be enough to upset journalists: they're not just churning out generic textual drivel, they're producing meaningful analyses about healthcare, insightful commentary on the oil spil in the Gulf, beautiful reporting about the theatre and about education. "Don't just call that content as if it means nothing!" And "they're right":http://37signals.com/svn/posts/2358-this-is-not-content . But it doesn't change a thing. Most of the stuff the average journalist produces, is a commodity. Reporters don't get paid much because what they produce isn't worth much.
+
+Reporters have the skillset and hopefully still the vigor to do things better and differently. News companies, even though their influence might be waning, still command an attentive audience. So changing news orgs around and repositioning them to be ready for new challenges shouldn't be impossible.
+
+Yet often changing companies around is hard. Really hard. Because people are afraid to fail. They're afraid to tell their co-workers that wacky new idea they're dreaming about. They get antsy when they have to fix a problem, instead of being excited by the challenge. People get defensive. And the, it's exactly the sort of attitude our school system tries to instill in people:
+
+bq. A harried teacher might find it easier to teach a class to obey first and think second, but is that sort of behavior valuable or scarce now? [...] The paradox is that the very people that are the easiest to categorize, to command and to dominate are the last people we want to work with. ( "Seth Godin":http://sethgodin.typepad.com/seths_blog/2010/07/low-esteem-and-the-factory.html )
+
+Tim McDougall, who is VP of marketing at "SourceMG":http://www.gazcomm.com and a very smart guy, told me a nifty anecdote. When he's feeling mischievous, he goes around asking people about their biggest failure. Preferably in a social setting where other people are involved in the conversation too. "So, what's your biggest failure?" Some people have no trouble admitting their fuck-ups, laughing about them and telling you what they've learned in the process. Other people freeze. And as Tim says: "Not having a biggest failure makes the conversation that much more awkward, doesn't it?"
+
+So that's how Tim McDougall wants to run things. "I'd rather have 50 successes out of 500 attempts, than 20 projects that are, each and every one of them, a success." I kind of like that. A lot. How many executives, do you think, share that spirit? How many in the news business? It's one of the things that makes me very excited about what "Chuck Peters":http://chuckpeters.iowa.com/ and his team at The Gazette have "in store for us":http://chuckpeters.iowa.com/2010/01/exploration-to-execution/ , and glad that I can be of some service to them in the process.
+
+Becky Lutgen Gardner, who heads information content at SourceMG, said it best: *we should stop clinging to self-limiting behavior* . Because that's exactly what most news media are doing. We're throwing away "reporter's notes that could provide useful context":http://www.holovaty.com/writing/fundamental-change/ to news stories, and we "don't care to publish primary documents":http://blogs.reuters.com/felix-salmon/2010/06/15/the-nyt-doesnt-care-about-posting-primary-documents/ even though our readers might really like them. Colleagues are duplicating efforts because they don't know what the guy in the next cubicle is working on, or because they don't particularly care to know. Reporters still worry too much about what technology and ambient journalism (e.g. by citizen reporters) means for their jobs, rather than grabbing the opportunities it offers with both hands.
+
+All that potential. Gently floating by.
+
+What makes innovation so hard in modern corporations? Management and corporate hierarchies were invented to make work go faster and smoother. Maybe they still do. But not fast enough. Not smooth enough. And definitely not agile enough to adapt to the rapid pace of change the media industry is demanding.
+
+Must do better.

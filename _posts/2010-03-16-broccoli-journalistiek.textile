@@ -1,0 +1,14 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - Coding
+title: Broccoli-journalistiek
+summary:
+    
+---
+
+Schrijver en journalist Thomas Van Aalten werkt aan een boek crossmediale journalistiek, en hij vroeg onlangs aan de redactie van Apache of we niks kwijt wilden over de toekomst van de media. Ik heb dan maar een tekst bij elkaar geschreven over de rol die subsidies van de overheid (niet) kunnen spelen in dat verhaal. "Lees op Apache.":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ Heb nog een paar mooie teksten zitten die ik misschien al langer geleden op deze blog had moeten loslaten; hoe oe het ook zi, de eerste is voor later vandaag.

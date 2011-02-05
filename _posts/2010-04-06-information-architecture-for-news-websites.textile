@@ -1,0 +1,37 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - Newsless
+    - Jeff Jarvis
+    - newspapers
+    - polyhierarchy
+    - metadata
+title: Information architecture for news websites
+summary:
+    April will see me blogging about a small but important piece of the puzzle that is the future of news: the information architecture behind a good news website. Each of the four-and-a-half parts will look at the current state of things, criticize what's wrong with our websites and what should change, but also provide a first stab at a solution.
+---
+
+Newspapers aim to make sense of the world. "But they don't.":http://www.newsless.org/2009/08/the-3-key-parts-of-news-stories-you-usually-dont-get/ News consumption is moving to the web. But news websites too often just mirror the structure and attitudes of their print product. News websites can no longer pretend that the competition doesn't exist. The competition is just one click away. Yet newspapers are "still rewriting stuff that's already out there":http://blogs.reuters.com/felix-salmon/2010/03/08/link-phobic-bloggers-at-the-nyt-and-wsj/ .
+
+Journalists "are":http://www.buzzmachine.com/2006/10/13/independent-journalist-as-brand/  "reinventing":http://www.fastcompany.com/magazine/10/brandyou.html  "themselves":http://belowthefold.typepad.com/my_weblog/2006/03/unbundled_journ.html . Entrepreneurs and "media labs":http://www.niemanlab.org/ are "trying to find the business models of the future":http://newsinnovation.com/ . Technologists are inventing "new tools":http://dotspots.com/ . And everybody is wondering how the news site of the future should look.
+
+During the month of April, starting tomorrow, I'll be blogging about a small but important piece of the puzzle that is the future of news: _the information architecture behind a good news website_ . Each of the four parts (and two addenda) will look at the current state of things, criticize what's wrong with our websites and what should change, but I'll also provide a first stab at a solution. We've had enough “journalism is in crisis but I don't know how to get us out either”-type blogposts lately, so I'm not looking to add any verbiage to that pile.
+
+Here's the menu:
+
+#  *April 7th* : _ "Tags Don't Cut It.":/2010/tags-dont-cut-it/ _ This one will be all about how we can infuse news with context and give it lasting value.
+#  *April 9th* : _ "Topics, themes and subjects.":/2010/themes-and-topics/ _ This is a follow-up to Tags Don't Cut It (which is why I'm publishing those two so closely together) with a specific focus on using topics as a way of bundling content together.
+#  *April 14th* : _ "Navigation Headaches.":/2010/navigation-headaches/ _ We're outgrowing sections as a way of organizing our content.
+#  * *April 21st* : _ "We're in the information business.":/2010/we-are-in-the-information-business/ _ We're slowly realizing that we can do better than to publish our content as big blobs of text.* 
+#  *April 26th* : _ "The Basic Unit of Information.":/2010/the-basic-unit-of-information/ _ Readers want to know the ingredients — facts, quotes and sources — that make up a news story, not just the finished narrative. An addendum to We're in the information business.
+#  *April 28th* : _ "Findability and exploration.":/2010/findability-and-exploration/ _ Search engines on news websites are notoriously bad at finding the stuff we're searching for, or suggesting the stuff we might like to explore. But we have the technology to kick it up a notch.
+
+(I'll add the links to these posts as I publish them, so this introduction will serve as a table of contents.)
+
+This series of blogposts will probably be a bit academic for people used to sweeping discussions and visionary tales about the future of journalism, and a bit too vague for seasoned information scientists. But it's important stuff and you should read it. Really.
+
+At the end of the ride I'll do a link dump, so be sure to leave your must-read suggestions for books, blogs, reports and papers in the comments. Thanks!

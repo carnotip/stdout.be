@@ -1,0 +1,10 @@
+---
+layout: comment
+language: en
+canonical: http://www.danielbachhuber.com/2010/05/18/now-served-with-slicehost/#comment-1650     
+title: Now served with Slicehost
+---
+
+Yep, I love Slicehost and their tutorials too, even though I’m now on Linode because of their London datacenter.
+
+I would cut Apache out of the picture entirely though. Just use PHP-FPM, which is a FastCGI thingie that allows you to serve PHP straight from NGINX. Might be a bit harder to get going than simply running apt-get apache, but it’s more elegant and has less overhead.

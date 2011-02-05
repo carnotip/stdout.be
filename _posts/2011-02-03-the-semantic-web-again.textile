@@ -1,0 +1,46 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - context
+    - polyhierarchy
+    - cms
+title: The Semantic Web, again
+summary:
+    
+---
+
+Dan Conover's been pretty prolific lately in updating his early thoughts about "journalism and metadata":http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html in two big blogposts ( "one":http://xark.typepad.com/my_weblog/2010/12/the-semantic-economy.html , "two":http://xark.typepad.com/my_weblog/2011/01/standards-based-journalism-in-a-semantic-economy.html ).
+
+Lots of inspiring material in there.
+
+bq. [The] raw material of this information economy is essentially like oil shale: the latent value is obvious, but the cost of extracting these information resources from today's existing deposits (think web archives) is so high given today's technology that no one is going to spend a dime to start the project.
+
+The oil shale analogy makes it clear how much the semantic web will depend on efficiency, convenience and turning a profit. I wholeheartedly agree. I'd also add, in a journalistic context: it will depend on tapping into people's habits, instead of forcing new ways of doing things on them.
+
+Oil shale. I like how down to earth it sounds. A nice contrast to, for example, Reg Chua's "The Molecules of News":http://structureofnews.wordpress.com/2010/12/26/the-molecules-of-news/ , which seems to assume that not caring about structured information is equal to leaving money on the table plain and simple, and that all we have to do is "sell the sawdust, not just the logs" as the 37signals proverb goes. It's not that simple, I don't think.
+
+And that's the thing: as much as it pains me to battle a kindred spirit, I'm afraid Dan doesn't really see the full impact of the oil shale analogy on his own writings: something can be valuable and unreachable at the same time. Like, say, a semantic economy.
+
+Dan's writings remind me of a post Jonathan Stray did half a year ago, in response to my IA series: "The world cannot be represented in machine-readable form.":http://jonathanstray.com/the-world-cannot-be-represented-in-machine-readable-form I never did agree with his criticisms, because I've always made it abundantly clear that I don't want to represent the world in machine-readable form, and I don't think we need to either. Dan, on the other hand, with his insistence on semantic annotations at the level of words and sentences, and building monetizable databases of facts, comes dangerously close to trying what artificial intelligence researchers have been trying to do for half a decade, and have been failing at spectacularly.
+
+A collection of sentences or or single bits of information, stripped from their context as a potential goldmine... I don't know. I'd love it but I fear it's a pipe dream. Words change meaning. Definitions can be disputed. Factual statements are made as part of a broader exposition, and may not make any sense in and of themselves. We write about things with varying amounts of certainty. Can we possibly hope to track all that and more in what Dan calls our directories of meaning? And still profit?
+
+And does Dan truly believe that "if we give people user-friendly tools that provide authoritative access to facts, then over time we will isolate the less credible voices in society to rhetorical ghettos of their own construction." That's not how people work. That's not how language works. That's not how facts work.
+
+What can we do, then, if we want to move beyond big blobs of text and if we want to get more value out of journalists' hard labor; what to do if we want to provide readers something truly _of the web_ ?
+
+Well, there's actually a lot that could be done: more emphasis on structured news formats, tailored to video, reviews, blogposts, profiles, recipes and all those other types of content we're currently all still treating as a generic story, even though they're not. A clear separation between content and presentation. Rock-solid metadata (like taxonomies) at the story-level — not dissecting every little particle in every story you've ever written.
+
+Both approaches wish to extract more value from journalism through structure and relationships. Both approaches have you trade a little hurt during content creation for yet-to-materialize advantages. That's unavoidable — no such thing as a free lunch.
+
+But what's nice about the latter approach, the "Adrian Holovaty"-approach if you will, and sorely lacking from Dan's thoughts, is that it's a strategy with direct impact on what you can deliver to your readership. You don't have to wait on a global marketplace of machine-readable information before your efforts start making sense.
+
+Dan is essentially asking the publishing industry to take a huge bet, and I'm not sure he's thought through all the implications of what he's saying. He wavers between providing gorgeous amounts of detail, and glossing over important parts of his scheme by saying _"yeah, some thingmabob will guide you through creating semantically annotated content, it'll be a middleware that fits between anything you're using, and it'll just work"_ . Forgive me some pessimism, but it _won't_ ‘just work’.
+
+You need a way from A to B. And a way to profit even if you're not quite there.
+
+Don't bother with an ISO standard. Forget interoperability for a moment. You don't need directories of single, unambiguous, authoritative representations. Instead, go for the big gains. Think about which parts of your content would benefit most from a little structure, assure that applying that structure is part of a slick workflow, and then just go ahead and do it.

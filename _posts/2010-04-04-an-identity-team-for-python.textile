@@ -1,0 +1,28 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - project management
+    - ruby
+    - information architecture for news websites
+title: An identity team for Python
+summary:
+    
+---
+
+Thinking out loud. A while ago I asked "a question on StackOverflow":http://stackoverflow.com/questions/2351793/what-should-people-new-to-python-know-about-its-community-and-ecosystem that has been keeping my mind occupied since: "What should people new to Python know about its community and ecosystem?". I observed:
+
+bq. With How to Think Like a Computer Scientist and other great tutorials, it's easy to get familiar with the language, but it took me a fair while before I knew what The Cheese Shop, or, err, PyPi is about, how pip and virtualenv work and why you should use them, where you should go for help, the interesting blogs that you should follow, how your code should look (PEP 8, writing pythonic code) and so on. The 'soft stuff'.
+
+Googling "python best practices" and similar queries can get you somewhere, taking a look at "http://www.python.org/community/":http://www.python.org/community/ is worth a moment of your time too, but it's all so fragmented, and it's all pretty dry.
+
+The Ruby people faced a similar problem five years ago, so a bunch of them banded together to create the "Ruby Visual Identity Team":http://rubyidentity.org/ . They describe themselves as "a group of individuals dedicated to improving the online presence of the Ruby programming language." They redesigned "http://www.ruby-lang.org":http://www.ruby-lang.org to be more like a friendly message to fellow coders and less like a boring technical document, successfully so.
+
+I wonder if perhaps we need something similar. A way to get people familiar with the wonderful "philosophy behind Python":http://www.python.org/dev/peps/pep-0020/ , and an introduction to the community, the goings-on, the best practices. Not as a bunch of big lists like on python.org, but designed like a warm invitation to explore the language, both visually and in its writing.
+
+I'm not talking about a big, time-consuming new community site, I'm not talking about weekly podcasts and I'm not talking about a new go-to site that replaces python.org. I'm also not talking about a whole new visual identity or marketing strategy for Python like what the Ruby folks did. I'm talking about a welcome message for people new to Python. A way of introducing people to python-the-ecosystem rather than python-the-language.
+
+Does this resonate with anyone?

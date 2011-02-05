@@ -1,0 +1,59 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - succes
+    - RAD
+    - information architecture for news websites
+    - javascript
+title: A much-needed poison
+summary:
+    
+---
+
+_Or: on the curious relationship between yak shaving, diversions and creating the next big thing._ For the longest time now, I've wanted to create a documentation tool that isn't crap. ( "Sphinx":http://sphinx.pocoo.org/ is nice, but bloated and with a very messy syntax. "Docco":http://jashkenas.github.com/docco/ is a lovely educational tool, but that's all it is.) Every software project I do reminds me of how utterly mediocre our doc tools are. For even longer, I've wanted to create an open-source wiki platform that doesn't make me want to barf. Every project I do in need of a wiki makes it so blatantly obvious how bad "MediaWiki":http://www.mediawiki.org/wiki/MediaWiki and its numerous clones are at facilitating knowledge transfer. But I can't justify the time investment in a wiki or a documentation generator, so I've never taken a stab at either, and probably never will.
+
+I did create a low-level API for storing directed acyclic graphs in Django, though. And a "framework for Adobe ExtendScript":http://extendables.org/ , of all things. In both cases helping me do something I set out to do, but in both cases also delaying what I set out to do by days and weeks, respectively.
+
+To "quote liberally":http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html from Seth Godin's blog:
+
+bq.  "Yak Shaving":http://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html is the last step of a series of steps that occurs when you find something you need to do. "I want to wax the car today."
+
+"Oops, the hose is still broken from the winter. I'll need to buy a new one at Home Depot."
+
+"But Home Depot is on the other side of the Tappan Zee bridge and getting there without my EZPass is miserable because of the tolls."
+
+"But, wait! I could borrow my neighbor's EZPass..."
+
+"Bob won't lend me his EZPass until I return the mooshi pillow my son borrowed, though."
+
+"And we haven't returned it because some of the stuffing fell out and we need to get some yak hair to restuff it."
+
+And the next thing you know, you're at the zoo, shaving a yak, all so you can wax your car.
+
+Yak shaving is doing things only vaguely related to your original problem, in the hopes of improving the way you do things in general, and not being conscious of the fact that you're no longer pursuing your original goal.
+
+Shaving the yak is a continuum. It sure as hell doesn't pay off to spend an entire day tweaking your editor to fix a small annoyance you encounter every once in a while when you're coding. And it's even worse if you're not aware of the path you're starting down.
+
+But it would make a ton of sense to stray from your immediate goal to set up a sensible deployment strategy and spend two days being a "DevOp":http://en.wikipedia.org/wiki/DevOps , while what you really just wanted to do was get your site live.
+
+The guys at "LiveJournal":http://www.livejournal.com/ thought their stuff should go a little bit faster, and they ended up building an in-memory "caching system":http://memcached.org/ .
+
+David Heinemeier Hansson was tasked with creating a simple project management app, but wanted to use Ruby. And Ruby didn't really have a readily available database abstraction. Or a router to call code from URLs. Or a nice templating system. So David ended up creating "Ruby on Rails":http://rubyonrails.org/ . And in doing so not just shaved the yak, but an entire herd.
+
+Well, you say, but those aren't really yak shaving expeditions, because these guys kept on being perfectly productive while working on their wild schemes. And at some point they reflected on their digression and decided to continue — not the mindless plumbing we associate with yak shaving. And, sure, their detours actually made them more productive in the end. Doesn't mean they didn't go off on a tangent, doesn't mean they didn't spend a ton of time working on things they didn't really need to complete the project.
+
+One of the best ways to hide protracted yak shaving, then, is by declaring it an important infrastructure subproject or necessary cleanup you had in mind all along. After all, a yak shave doesn't imply anything about the nature of the work undertaken, it defines the psychological process that led us down a path of distractions.
+
+And while we don't like distractions, we do like infrastructure work and tidying up. Every wasted afternoon researching arcane technologies, every wasted foray into the finer points of kernel optimization is compensated with that perfect backup strategy you kind of stumbled into setting up and which took you _waaaay too long_ , but which saved your ass two years later when the server caught fire.
+
+The phenomenon of yak shaving, broadly conceived, is exactly why freelancing as a coder is a mixed blessing. You can never take the scenic route, never keep chewing on a problem merely because it rouses your craftman's instinct. Every detour is a delay for your client, and a context switch for you. But *we need detours* , we need to stumble in order to learn. Mucking about is the stuff from which best practices are made.
+
+Getting distracted and turning your attention to trifles can fuck up an entire project, can lead to analysis paralysis... or it can lead to the first lines of code towards a piece of software that changes how we do our jobs. Maybe that one little bit of shell config which still gives you the warm fuzzies half a decade later.
+
+There's no clear guideline to distinguish bad diversions from good diversions. We cannot know whether "focusing on the little things":http://developers.facebook.com/blog/post/358 will work out or was time better spent elsewhere.
+
+So we stumble on.

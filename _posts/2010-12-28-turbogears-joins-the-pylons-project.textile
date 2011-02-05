@@ -1,0 +1,14 @@
+---
+layout: comment
+language: en
+canonical: http://news.ycombinator.com/item?id=2046243                                           
+title: TurboGears joins the Pylons Project
+---
+
+The simple fact is that the larger Python community never really cared for repoze.bfg and TurboGears. The Pylons, BFG and TurboGears teams joining forces feels more like a last, somewhat desparate move to garner some attention for projects that never reached critical mass. I don't think it'll change much of anything.
+
+I used to do development in Pylons and I've tried my hand at Pyramid, and there's simply nothing to get excited about. Even the documentation for Pyramid, which at first seems beautifully comprehensive and one of the system's strong points, turns out to be an interlinking mess lacking clear explanations of even the very basics of the system.
+
+True enough, like Pylons before it, Pyramid is anything but opinionated, which probably makes it a good base platform for the TurboGears devs, but how much will it matter when people will just shrug their shoulders after looking at the landing page, and proceed to download Django or Flask/Werkzeug or, heck, Ruby on Rails?
+
+Anyway, regardless of my scepticism, building new stuff and starting new projects is always fun, so hopefully the Pylons project devs enjoy the process.

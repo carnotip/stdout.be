@@ -1,0 +1,19 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+title: Een blog, dus
+summary:
+    
+---
+
+Ach kom, een mens mag toch een beetje onbescheiden zijn. Ik heb iets te zeggen, en daarom heb ik nu een blog. Twee blogs zelfs, eigenlijk. Eentje in het Engels waar alles dat gerelateerd is met informatica op zal verschijnen, en eentje in het Nederlands waar mijn ideeën over journalistiek en mijn laatste bezigheden aan bod komen.
+
+Die eerste blog in het Engels is mijn kleine bijdrage tot het prachtige ecosysteem dat de laatste tien jaar ontstaan is tussen programmeurs, die elkaars leven een massa eenvoudiger gemaakt hebben, eenvoudigweg door ervaringen en persoonlijke meningen te delen. Niks hoogdravends, zonder het gevoel de wijsheid in pacht te hebben, maar gewoon, zomaar, omdat men enthousiast is over hetgeen waar men mee bezig is en dat graag wil delen met andere mensen. Je zou het niet denken, maar softwareontwikkelaars zijn een behoorlijk sociale bende.
+
+Maar ik wou toch nog een uitlaatklep in de eigen taal, om iets bredere onderwerpen te kunnen belichten. Ik heb iets te zeggen, maar daarom hoeft nog niet de hele wereld mee te luisteren. Met een aantal nieuwsgierige Vlamingen ben ik ook tevreden.
+
+Van start dan maar.

@@ -1,0 +1,8 @@
+---
+layout: comment
+language: en
+canonical: http://streamhacker.com/2010/05/17/text-classification-sentiment-analysis-precision-recall/
+title: Text Classification for Sentiment Analysis
+---
+
+Nothing much to add, Jacob, just wanted to let you know that I really appreciate these posts on natural language processing, good stuff. It's an exciting but underappreciated field of study. Cheers!

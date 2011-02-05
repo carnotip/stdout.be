@@ -1,0 +1,80 @@
+---
+layout: post
+canonical: http://groups.drupal.org/node/8550
+title: Schamper, our student newspaper on Drupal
+summary: We've recently redesigned "our website":http://www.schamper.be, so I took the time to do a small writeup and look back on our switch to Drupal a while ago. Hope you enjoy the read.
+---
+
+We've recently redesigned "our website":http://www.schamper.be , so I took the time to do a small writeup and look back on our switch to Drupal a while ago. Hope you enjoy the read.
+
+h2. Making the transit from Textpattern to Drupal
+
+When I joined the newspaper four years ago the website didn't have any content management, everything was put online directly in HTML. We wanted a CMS with the dual purpose of making online publishing faster, but also to rethink the horrible workflow of our print edition. Articles used to be delivered by mail in a variety of formats, without uniform markup, and proofreading was done on print-outs that were scattered around the newsroom. This was a burden, especially on the DTP-people.
+
+We started out with "Textpattern":http://www.textpattern.com -- a simple and elegant system -- that we then modified to support a print-to-web workflow. The time needed to produce the paper was cut almost in half. After using Textpattern for two years, however, it became clear to us, that we needed something more sophisticated if we wanted to grow. That concern became even greater when we found out that Textpattern 4 was actually a renamed Textpattern 1, and that new development was proceeding agonizingly slow. So in the summer of 2007 we switched to Drupal.
+
+Two things impressed me immediately. One was the exceptional handling of taxonomies in Drupal. The other was the great system of hooks and api's that makes creating modules so easy. Textpattern also had a plugin system, but anything complex required hacking the distribution. I converted all my hacks into Drupal modules in a few days. "Pro Drupal Development" by VanDyck and Westgate did ease the learning process.
+
+Data migration wasn't really an issue. We didn't have a very big archive, and we'd used few Textpattern-specific features, so writing a few SQL select-and-insert statements was a breeze. However, it did get very messy because of charset problems. The formatting in Textpattern was UTF8, but the database and tables were in latin1, so the data was actually stored as latin1 but could only be read if it was interpreted as UTF8. Textpattern did this correctly, but the SQL exports didn't. This took hours and hours to fix. In the end, I managed to get everything into "real" UTF8 by first converting all special entities to HTML entities and then converting those to UTF8. I had forgotten all about this episode, and remembering it still aggravates me.
+
+We did continue to use the Textile markup language that comes bundled with Textpattern but also exists as a module for Drupal, simply because it's (together with Markdown) the best thing out there. We also imported the PDFs of our print edition, and they are searchable thanks to the search_attachments module.
+
+h2. Content Management
+
+It's preaching to the choir, but anyway: CCK is very, very handy. It allowed us to radically rethink our content management. We don't just use Drupal for our website, we've also added an internal discussion forum and a lot of internal documentation, lists of subscribers and advertisers, manuals and reports (which are automatically mailed to all our reporters with the help of Actions). A student newspaper typically loses about a fourth of its workforce every year as students graduate, and ours is no different. That makes effective organisation pretty hard, and a lot of expertise is lost forever when somebody leaves the paper. By having all that information in a central repository and encouraging people to write how-to's, checklists and so on, we've been able to alleviate that situation somewhat, and I'm convinced that this will be a godsend for those that are in charge when I leave.
+
+Starting now, we'll also use Drupal to coordinate our photography. This is possible because we have a dedicated server that is located in our newsroom, and is connected to our local network and to a super-speedy university line, so our layout staff doesn't have to download anything because it's all on the local network. Pretty much everything that can be centralized has been centralized.
+
+h2. Integration with InDesign
+
+I've hinted at our web-to-print workflow and will elaborate a bit on that. From the start, our back-end has been more important to us than the front-end website. (That's why our new front-end design lags half a year behind our switch to Drupal itself.) So the first thing I did when we switched to Drupal, was convert my homebrewn automatic xml export code into a module. Every time an article is saved, it updates or creates an xml file on our server with all the articles in it for the edition that article belongs to (which it grabs from the taxonomy). It's a bit of a mess because I'm not actually a programmer by trade (I study philosophy) but I've vowed to make a version that is decent enough to release as a contributed module this summer.
+
+Our DTP-software is InDesign. We switched over from Quark the moment that InDesign 1 was available. We're currently using CS3, and I must say: it's a great piece of software and the team behind it knows what it's doing and they really listen to users' needs. Anyway, InDesign has advanced XML support, and gives you the possibility to "link" to the XML instead of doing a one-time import. That means that when the XML is updated (because editors have proofread an article) the content that is put on the page instantly refreshes as well. So the layout team doesn't have to wait on our proofreaders anymore, but can start working whenever a rough version of an article is available.
+
+This kind of workflow, I think, is really worth a look for small papers and magazines that don't require the fancy functions of expensive publishing systems. It's free, it brings enormous timesavings, and people can do more without having to be physically in the newsroom.
+
+h2. Various
+
+A few things worth mentioning. I can give more detailed info or answer other "How did ya do that?"-questions if anybody has any.
+
+h3. Author handling
+
+Basic author handling in Drupal is not geared toward publications at all. There is no support for multiple authors, it displays usernames instead of full names, and it doesn't support guest authors. Thankfully all of that was pretty easy to fix.
+
+We made a user "Press photographer" and another user "Guest writer". We also added a CCK field "byline" so that editors can override the author information without having to register a new user every time. The theme works so that the user information is ignored every time a byline is filled in. This has the advantage that articles where a user wants another name displayed (e.g. for comical effect in a satire article) are still linked to them and part of their portfolio, and that pieces by guest writers display the name of that writer instead of just "Guest Writer".
+
+We then added a multivalue userreference CCK field to the story to accomodate multiple authors. This is themed so that all authors get equal credit. Somebody surfing the site can't see the difference between the "real" author in Drupal and the additional authors.
+
+We also used a template.php codesnippet to display users' full names everywhere instead of usernames.
+
+h3. Image handling
+
+I decided to use the standard Image functionality instead of imagecache/CCK for two reasons. One: I adopted the attitude not to use a custom module when something very similar is available in core, because of concerns about upgradability. Less modules means less to worry about. Two: images as nodes easily allow commenting, ratings et cetera. Because our images are nodes, the aforementioned handling of authors applies to images too.
+
+(The frontpage contains a lot of photos. The beautiful information.dk website inspired us in this regard.)
+
+h3. Comment display
+
+As you can see on our frontpage under "Commentaar", we've grouped recent comments per article, and display the title of the article and the last reaction to it.
+
+This was actually not that easy to do. Views' "node: distinct" filter didn't work to filter out multiple recent comments to the same article, so I had to cook something up myself. The View now loads about 30 comments and then a .tpl for that view picks out the last comment on each article (a simple PHP loop and conditional) until it has found seven distinct nodes. This is a bit wasteful, and I probably should have just written my own SQL, but for the moment it'll do.
+
+h2. Design
+
+Because our student newspaper is actually more of a newsmagazine, we wanted  a look that is fresh like the site for a magazine, but with a lot of information clearly and efficiently placed like on newspaper sites. It also couldn't look too serious, because, well, we're not too serious ourselves.
+
+We recently started doing daily news, and made the somewhat bold move to put that daily news at the top of our frontpage, the user-contributed stuff (comments, feeds) below that, and the content that is available offline (i.e. in our print edition) at the bottom of the page. Editors tend to think of our print content as more prestigious (although that is slowly changing - writers like the fact that people can comment on and rate their articles), but there really is no point in giving the content that is already available in our print edition prime coverage on the website as well.
+
+Panels2 came in very handy, although the complex organisation of the frontpage proved to be a mess to theme for Internet Explorer. As usual. It's still not perfect in IE, but for the moment I've had enough of it's quirks to do additional finetuning. This is why I like desktop publishing a lot more than webdesign.
+
+I looked at and got my inspiration from an enormous amount of existing websites, too numerous to mention here.
+
+h2. Challenges and lessons learned
+
+Make sure your OS, php, mysql, the drupal database and all of its fields have UTF8 encoding. Really.
+
+Selecting modules takes a lot of research. There are quite a few unstable modules out there, modules that are no longer actively developed and so on. It is often best to just skim the lists instead of performing a search on drupal.org because it's nearly impossible to guess how the functionality you want will be described and titled. The upside to this approach is that it is sometimes possible to find a module with some interesting features you weren't even looking for.
+
+Another challenge was that I had to do just about everything myself, because we have no real programmers or webdesigners at our newspaper, and hiring external help was prohibitively expensive for our limited budgets. However, knowing a little PHP and mysql goes a long way. Producing the site took a lot of time and effort, but most of the coding that I had to do was relatively simple. If you're looking to start a news site without any experience with coding and with no budget to hire someone, you'll do good to get some basic PHP under your belt.
+
+Another thing I've learned is that it is worthwhile to take as much or more time thinking about what you want, making sketches (on paper, not in photoshop) and so on, before you start theming and building your site.  It allows you to focus on the essentials and not the implementation.

@@ -1,0 +1,15 @@
+---
+layout: comment
+language: en
+canonical: http://www.maxcutler.com/2010/09/13/what-is-a-news-cms/comment-page-1#comment-128     
+title: What is a (news) CMS
+context: Are web CMSes antithetical to multi-channel publishing and structured data formats, or are we just using them wrong?
+---
+
+Hmm, defining what is and what isn’t a “root issue” is tricky business. Web CMSes expect that you’ll (first and foremost) publish to the web, and most of them use WYSIWYG editors that lead to semanti­cally worthless output… but then again, as you rightly point out, Curtiss, it’s certainly not impossible to swap out the editor in a CMS, or, heck, mark up content in straight XML, or output to PDFs or mobile apps or what ever. But it’d be so much nicer if a CMS would actually lend a helping hand and, y’know, help us manage all that stuff. And none of the CMSes out there really do.
+
+Some other opinions:
+
+http://jeffcroft.com/blog/2006/sep/20/personal-content-management/
+http://www.holovaty.com/writing/fundamental-change/
+http://blog.programmableweb.com/2009/10/13/cope-create-once-publish-everywhere/

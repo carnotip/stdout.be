@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block pagetype %}review{% endblock %}
+
+{% block header %}
+<p id="about-this">Reviews of every IA book under the sun</p>
+{% endblock %}
+
+{% block body %}
+<div class="centered">
+    <div class="content">
+        <p class="section">Book review</p>
+        <h1>{{ review.author }}<br />{{ review.title }}</h1>
+        <div id="review">
+            {{ review.body }}
+        </div>
+    </div>
+    <div id="infocard">
+        <p class="section">Summary</p>
+        <p id="score" class="good">warmly recommended<!-- / it's okay / quite dull --></p>
+        <p id="lowdown">Succesvolle personen durven opgeven, en houden niet vast aan zaken die toch hopeloos zijn. Op voorhand nadenken wat je zou doen stoppen, kan je ook de nodige motivatie geven om een tandje bij te steken als het project wél nog de moeite waard is. “Quitting as a tactic is stupid, quitting as a strategy is necessary.</p>
+        <p id="purchase">Purchase on amazon <a href="http://www.amazon.com/{{ review.get_amazon_url }}">com</a> <a href="http://www.amazon.fr/{{ review.get_amazon_url }}">fr</a> <a href="http://www.amazon.de/{{ review.get_amazon_url }}">de</a> <a href="http://www.amazon.uk/{{ review.get_amazon_url }}">uk</a></p>   
+    </div>
+</div>
+<div class="centered">
+    <div class="nav">
+        <hr class="divider" />
+       {% include "inc.menu.html" %} 
+    </div>
+</div>
+{% endblock %}

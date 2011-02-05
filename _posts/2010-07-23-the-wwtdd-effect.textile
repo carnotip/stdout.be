@@ -1,0 +1,18 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - context
+    - Generation M
+    - conference
+title: The WWTDD effect
+summary:
+    
+---
+
+I did a guest post yesterday over at the "Online Journalism Blog":http://onlinejournalismblog.com/ , titled "The WWTDD Effect". It's about the tricky balance between giving readers what they want and what they need. And why focusing on what readers _want_ can actually be a good thing. Readers aren't stupid, and journalists aren't all-knowing.
+
+Anyway, "go check it out":http://onlinejournalismblog.com/2010/07/22/the-wwtdd-effect/ .

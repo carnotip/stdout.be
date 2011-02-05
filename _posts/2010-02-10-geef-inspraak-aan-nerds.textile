@@ -1,0 +1,66 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - Coding
+title: Geef inspraak aan nerds
+summary:
+    
+---
+
+Kent u het boek "Jonge Honden":http://www.fondspascaldecroos.org/inhoud/nieuws/jonge-honden ? Dat is een boek waarin Geert Zagers tien interessante mensen interviewt die iets te zeggen hebben over media. De toekomst, de nieuwe generatie journalisten, zeg maar. "Tien mensen die mee de toekomst van de journalistiek zullen bepalen" staat er op de binnenflap. Mensen van wie je nog zal horen. Of moest je ze al kennen, nog van zal blijven horen. Bij sommige mensen, zoals "Brecht Decaestecker":http://brechtdc.wordpress.com/ , misschien niet met volle goesting, maar we dwalen af. Soit.
+
+"Jonge honden" werd uitgegeven naar aanleiding van het tienjarige bestaan van het Fonds Pascal Decroos voor onderzoeksjournalistiek. Als seal of approval kan dat wel tellen.
+
+Ik zet me neer om te lezen. Pen en papier naast me. Klaar om me te laten inspireren en gretig notities te nemen.
+
+Zeer inzichtelijke bijdragen van "Ike Picone":http://twitter.com/ikepicone en "Pieter Baert":http://www.pietel.be/ . "Bart Becks":http://www.flyingchaz.com/ en "Olaf Koens":http://olafkoens.nl/ stralen passie uit. Maar ik hoop uit de grond van mijn hart dat dit niet de toekomst is. Een half A5'je heb ik volgekregen met nota's, een vierde als je de achterkant meerekent, toen ik het boek 192 pagina's verder dichtsloeg. Zoveel nieuwe inzichten staan er in de interviewreeks van Geert Zagers.
+
+'t Zijn geen slechte mensen, hoor. De tien jonge honden zijn goed mee met hun tijd. Ze volgen de evoluties in de media op de voet. Maar zeg nu zelf: een mens kan toch niet anders dan zich een beetje te verkneukelen bij de voortdurend weerkerende admiratie van Geert Zagers voor journalisten die "Facebook":http://www.facebook.com en "twitter":http://www.twitter.com 'begrijpen'. Bonuspunten als je "Flickr":http://www.flickr.com kent. Op de schaal der innovatie, die begint bij 'saaien dees' en eindigt bij 'genie', bevinden die eenvoudige vaardigheden zich zo ergens ter hoogte van 'net niet hersendood'. Toch? 't Is alsof men een alternatief universum binnenstapt waar de hyperlink "nog maar net is uitgevonden":http://en.wikipedia.org/wiki/Project_Xanadu .h3. De toekomst volgens Bart Van Belle
+
+Dat moest er even uit. Maar eerder dan gratuit mensen te kakken te zetten, zou ik er graag één bijdrage wat uitlichten, namelijk die van "Bart Van Belle":http://twitter.com/Bartvanbelle , webredacteur bij De Standaard Online. Niets tegen die mens, hij leest "Wired":http://www.wired.com/ (zij het louter in feedvorm, waardoor hij de helft van het plezier mist) dus Bart moet wel meevallen. Maar hij zegt een paar dingen waar ik toch op wil reageren.
+
+Je kent mij niet, maar ik ben de technicus van dienst bij "De Werktitel":http://www.werktitel.be , een groepsblog waar je misschien (hopelijk!) wel al van gehoord hebt, en ik werk daar mee aan een nieuw publicatieplatform dat we nog voor de lente op jullie willen loslaten. Dat wat de context betreft.
+
+Ik voel even de nood om _mijn soort_ te verdedigen.
+
+Van Belle zegt: "als we straks met informatici over een nieuwe site moeten praten, weten we wat we willen op het vlak van integratie van filmpjes, Google Maps, API's, infografieken, polls en zo meer."
+
+Er is vanalles mis met die opmerking.
+
+Ten eerste: Bart presenteert een enig lijstje aan technologieën, maar helaas technologieën die allemaal met elkaar gemeen hebben dat ze zelfs in 2005 amper nog innovatief waren. Sinds wanneer ben je innovatief door gewoon nog maar te spreken over Google Maps of een interface ("nen API", zoals we zeggen in de vaktaal) waarmee programmeurs aan je artikels en andere data kunnen?
+
+Ten tweede. Een gemakkelijke manier om buzzwords te onderscheiden van betekenisvolle verwijzingen naar technologieën werkt als volgt. Stel de vraag: zegt deze persoon hoe hij deze technologie wil aanwenden om een concreet doel te verwezenlijken? Zo nee, buzzword. Zo ja, goed bezig. Welnu, Bart vermeldt bijvoorbeeld lukraak API's, zonder enige "context":http://www.programmableweb.com/code . Hij spreekt niet over, ik zeg maar iets, de hoop dat De Standaard op die manier de knutselaars onder de lezers kan overtuigen om informatie van standaard.be op een nieuwe, onverwachte manier weer te geven; of omgekeerd, om met informatie van elders op het web "standaard.be":http://www.standaard.be te verrijken. Nog steeds abstract, maar moest er zoiets staan... wel, ik ben snel tevreden.
+
+Hetzelfde met Google Maps: kaarten bestaan al sinds mensheugnis, zeg liever wat je ermee zou kunnen doen, en laat dat zich alsjeblieft niet beperken tot het aanduiden van een locatie die aan bod komt in een artikel. En over polls wil ik niet eens beginnen.
+
+Enfin, ik plaag maar wat, uiteindelijk gaat het mij niet om Bart Van Belle, gelijk welke online-journalist had die opmerking kunnen maken. Belangrijker voor mij is een dieperliggende attitude die blijkt uit een uitspraak als "als we straks met informatici over een nieuwe site moeten praten, weten we wat we willen".h3. Weg met de dienst informatica
+
+Eigenlijk kan je het Van Belle niet verwijten dat hij gewoon maar een oplijsting maakt van een aantal technologieën die leuke potentiële toepassingen hebben op nieuwswebsites. (Je kan het anderzijds Geert Zagers of het fonds wel kwalijk nemen dat ze wél iemand uit de advertisingwereld aan bod laten, maar geen enkele techie.) Van Belle is zelf geen programmeur, dus veel meer dan de waaier aan technologische mogelijkheden overschouwen en daar een selectie uit maken, kan hij niet. Dat is zijn job ook niet.
+
+Het lastige is dat bij veel kranten niemand met technische aanleg de opdracht krijgt om dieper na te denken over de toekomst van de media. Waar zijn de _wired journalists_ , waar is onze Vlaamse "Adrian Holovaty":http://www.holovaty.com/ of "Matt Waite":http://www.mattwaite.com/ ?
+
+De informatici van dienst implementeren wat het management hen vraagt, en het management vraagt niet naar de technologieën van morgen maar naar wat ze elders al gezien hebben en wat daar lijkt te werken. Soms bespreken ze die dingen met de interne IT-dienst, zodat er nog enige discussie en tweerichtingsverkeer mogelijk is, maar voor grotere opdrachten gaat men aankloppen bij externe partners, die de gegeven opdracht braaf uitwerken naar specificatie en niet lastig doen, als hun facturen maar betaald worden.
+
+Kranten en weekbladen hebben die strategie lang kunnen volhouden. IT is een zware kost, dus daar spring je zuinig mee om, je kiest enkel voor betrouwbare en bewezen oplossingen, en zo nodig besteed je het uit. Zo beperk je je risico. Je hebt weinig vaste medewerkers nodig. Fair enough.
+
+Maar het beeld van technologie als een _kost_ wordt in veel industrieën stilaan onhoudbaar. Dat geldt niet in het minste voor mediabedrijven. Technologie wordt meer en meer hetgeen je onderscheidt van de concurrentie. Technologie is een competitief voordeel, niet een kost die je nu eenmaal moet maken maar waar je je verder best niet te veel van aantrekt.
+
+Je core business, dat hou je intern, dat besteed je niet uit. Dus wordt het, "pace Steve Yelvington":http://www.yelvington.com/content/first-rule-coding-drupal , tijd om de informaticadienst uit te breiden en meer en meer aspecten van het productieproces zelf in handen te nemen. Tijd om de ontwikkelaars nauw te betrekken bij hetgeen ze moeten ontwikkelen.
+
+De volgende stap: "schaf die informaticadienst af":http://infoworld.com/print/108477 . Laat me toe dat even uit te leggen. Journalisten babbelen al lang over de "perfide scheiding tussen online- en printredacties":http://www.washingtoncitypaper.com/blogs/citydesk/2010/01/27/washington-post-blog-post-critical-of-washington-post-disappears-from-web-site/ . Met recht en rede, ik kan me geen enkele reden indenken waarom een journalist niet mediumonafhankelijk zou werken. Maar men negeert de nog veel grotere muur tussen de informatici en de redactie.
+
+IT wordt in veel bedrijven nog steeds gestructureerd als een aparte dienst die werkt voor 'interne klanten'. Dat betekent dat de softwareontwikkelaars maar slaafs te volgen hebben wat een redactie van would-be internet-experten hen vraagt. IT is een zwarte doos: requirement sheets naar binnen, eindproduct naar buiten, als je me even een overdrijving toelaat. Informatici krijgen in veel bedrijven, en dat geldt niet minder voor de media, geen enkele mogelijkheid om te innoveren op wat nochtans onmiskenbaar hun _turf_ is. Zo gaat veel talent verloren.
+
+Kijk om je heen. Mark Zuckerberg, het brein achter Facebook, is een programmeur. Larry Page en Sergey Brin,  die samen Google opstartten, zijn briljante computerwetenschappers die samen studeerden in Stanford. Jack Dorsey van twitter: een software-architect. De mensen die blogs gepopulariseerd hebben en toegankelijk hebben gemaakt voor een groot publiek, van Brad Fitzpatrick (bekend van "LiveJournal":http://www.livejournal.com/ , één van de eerste blogplatformen) tot "Matt Mullenweg":http://ma.tt/ , schrijven zelf code. Ward Cunningham, de uitvinder van wiki-software, yep, een programmeur.h3. Power to the nerds
+
+Zie je het patroon? Informatici stonden aan het stuur van alle grote successen op het internet. En dan hoor je Bart Van Belle trots zeggen dat hij en zijn collega's voor de opvolger van De Standaard Online piekfijn zullen kunnen uitleggen aan de IT'ers wat voor een webplatform ze nodig hebben om de toekomst van de journalistiek vorm te geven. Op die manier kan De Standaard niet anders dan achter de feiten aanhollen. En 't zal hen niet eens kwaad doen want de andere grote kranten in ons taalgebied zijn in hetzelfde bedje ziek. Maar dan moet De Standaard ook niet zwanzen dat hun website een hoogtechnologisch mirakel is.
+
+Denk je echt dat informatici zich enkel willen bezighouden met het schrijven van code, hele dagen lang, en dat ze niet op de hoogte zijn van alles wat gaande is in de digitale wereld? Het prachtige aan een job als informaticus is net dat je altijd in aanraking komt met een domein dat niet het jouwe is. Je lost problemen op voor biologen, voor ingenieurs, voor zakenlui en, jawel, voor "journalisten":http://www.medill.northwestern.edu/admissions/page.aspx?id=58645 .
+
+Een goed informaticus wéét hoe hij zich moet inwerken in een probleemdomein, en door de juiste vragen te stellen een goed idee te krijgen over hoe een bepaalde droom of idee kan omgezet worden in werkelijkheid. Een goed informaticus weet ook echte problemen te onderscheiden van _pet projects_ en _pet peeves_ van een manager. Maar informatici die vastzitten in logge bedrijfsstructuren krijgen amper de kans om die kennis aan te wenden.
+
+Hoeveel informatici zouden er aanwezig zijn op de gemiddelde redactievergadering bij De Morgen of De Standaard? Hoeveel informatici denk je te vinden onder het kaderpersoneel? Geef informatici de ruimte om na te denken over de toekomst van de journalistiek, en dan zal je vonken zien. Wil je innoveren op het internet? Geef inspraak aan nerds.

@@ -1,0 +1,1 @@
+This is the code and content that will soon power my personal blog at http://stdout.be. It runs on the Jekyll static site generator, with a server-side include and a small Flask app for the comments.

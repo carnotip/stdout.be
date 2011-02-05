@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+canonical: http://adamwestbrook.wordpress.com/2010/04/28/getting-kitted-up-again-for-video-journalism/#comment-11688
+title: Getting kitted up (again) for video journalism
+---
+
+I wasn’t really convinced by the power of DSLR filming before (it was either too expensive or lacked manual control and things like audio input), but the 550D is a game-changer indeed. The video/stereomic + lapel combo you have is very versatile too.
+
+Only thing I’d add would perhaps be a reflector, a shine-through umbrella and a few off-the-shelf CFLs for cheap DIY 3-point lighting. If you have the time to prepare for a video interview, and can bear to carry all that gear, $100 worth of lighting can really make the difference.
+
+How are you liking FCP? I’ve been playing with Final Cut Express a bit, and wasn’t really impressed. My workflow now is just plain ol’ iMovie, perhaps with a last pass through FCE for some minor tweakage.

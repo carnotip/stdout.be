@@ -1,0 +1,16 @@
+---
+layout: comment
+language: nl
+canonical: http://www.nijst.org/2009/11/15/de-technologie-van-titanics-versus-the-huffington-post/#comment-2479
+title: De technologie van ‘Titanics’ versus The Huffington Post & Talking Points Memo
+---
+
+Je vergeet toch een aantal héél mooie voorbeelden van traditionele media die mee zijn met het internet. Denk The Guardian met haar open API en datastores. Denk aan The New York Times die prachtige visualisaties verzorgt en met Times Topics heel wat contextuele informatie koppelt aan haar artikels. Dat is wel wat anders dan die prutserijen van The Huffington Post in Movable Type :-)
+
+Het gaat ook om meer dan louter technologie. Crowdsourcing is geen onderdeel van de routine van de gevestigde journalist. En als je wil dat redacteurs ‘data denken’, dan heb je een redactiecultuur nodig waar het wordt aangemoedigd om nieuwe formats te bedenken, waar redacteurs zichzelf de vraag stellen hoe ze een verhaal kunnen contextualiseren of verder stofferen, en waar redacteurs nauw samenwerken met de techies. Dat is een lastige evolutie voor traditionele media, die veel IT uitbesteden en niet geneigd zijn om hun in-house ontwikkelaars in dezelfde ruimte te steken als hun redactie.
+
+Bijkomend probleem voor oudere media is dat ze gebonden zijn aan hun jarenlange archief dat vol zit met big blobs of text. Post-hoc structuur brengen in al die duizenden artikels is een onbegonnen werk. En een eenvoudige ingreep als tags aanbrengen bij artikels is zinloos als die tags enkel betrekking hebben op artikels vanaf 2009. Dat historische nadeel geldt niet voor elke mogelijke technische innovatie, maar plaatst de traditionele media volgens mij wel in een benadeelde positie tegenover jonge wolven. Een nieuw medium kan het van de eerste keer juist doen.
+
+Bij De Werktitel (http://www.werktitel.be/) was ons oorspronkelijke plan om een hele tijd bij WordPress te blijven en tegelijk op het gemak te werken aan een opvolger in Django, maar we hebben onlangs besloten om dat herontwerp in versneld tempo door te zetten en al vrij binnenkort een light-versie te lanceren (ik spreek niet graag over ‘beta’). Die site gaan we dan verder uitwerken op basis van de feedback die we krijgen van lezers. Ik werk al jaren met WP en hou er enorm van, maar we merken nu al dat het een systeem is dat te weinig flexibiliteit biedt voor een nieuwswebsite. En zoals Chase David zegt, als je je wil onderscheiden van al die duizenden andere nieuwswebsites heb je een zandbak nodig om in te kunnen experimenteren.
+
+Trouwens: “A Fundamental Change” kan niet vaak genoeg gelinkt worden, briljante tekst, dat.

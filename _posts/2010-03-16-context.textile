@@ -1,0 +1,46 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - Newsless
+    - Jay Rosen
+    - Geert Buelens
+    - Stijn Fockedey
+    - wikipedia
+    - algorithmic authority
+    - Freebase
+    - RDF
+    - bespreking
+title: Context!
+summary:
+    
+---
+
+De laatste tijd heel wat gelezen over hoe nieuwsorganisaties dringend afmoeten van "snel nieuws". Heel wat nagedacht over context. En ik "ben":http://www.nijst.org  "niet":http://www.newsless.org/  "de":http://journalism.nyu.edu/pubzone/weblogs/pressthink/  "enige":http://www.futureofcontext.com/ . Tegen iedereen die het wil horen, spreek ik over Steve Yelvington en "zijn boutade":http://www.yelvington.com/daily-journalism-and-monkey-screech dat de helft van alle nieuws voor de helft van alle lezers niet veel meer is dan _monkey screech_ : een hoop feiten in een verhaal gegoten, zonder enige indicatie waarom net die feiten belangrijk zijn en in welk breder verhaal ze passen. Tenzij je een nieuwsjunkie bent, worden zo'n items al snel onbegrijpelijk. Je _begrijpt_ de tekst wel op een basaal niveau, maar voor je het weet ben je 'm al vergeten, en je bent weinig wijzer geworden.
+
+De laatste maanden blijft de conversatie maar aangroeien. Gisteren was er "een panel op South by Southwest (SXSW)":http://panelpicker.sxsw.com/ideas/view/3861 in het mooie Austin getiteld 'Future of Context: Getting the Bigger Picture Online'. De eerste samenvatting van het gesprek kan je al lezen bij Elise Hu  maar op de terugkijk van de grote gasten — Jay Rosen, Tristan Harris, Staci Kramer en Matt Thompson — moeten we nog even wachten.
+
+En dezelfde opmerkingen als die van Yelvington blijven komen. Gisteren vond er in het mooie Austin op South by Southwest (SXSW) zelfs een heus panel plaats, getiteld 'Future of Context: Getting the Bigger Picture Online'. De eerste samenvatting staat al online op de blog van "Elise Hu":http://elisehu.wordpress.com/2010/03/15/contextualizing-context/ . Maar we hoeven niet te wachten op de retrospectieven van panelisten zoals Jay Rosen en Matt Thompson ( "newsless.org":http://www.newsless.org/ ). "Eén van de meer lyrische omschrijvingen":http://www.nieman.harvard.edu/reportsitem.aspx?id=101886 van het 'contextprobleem' kon je in september 2009 al lezen en komt van de organisator van het panel, Matt Thompson zelf:
+
+bq. For the longest time, whenever I read the news, I’ve often felt the depressing sensation of lacking the background I need to understand the stories that seem truly important. Day after day would bring front pages with headlines trumpeting new developments out of city hall, and day after day I’d fruitlessly comb through the stories for an explanation of their relevance, history or import. Nut grafs seemed to provide only enough information for me to realize the story was out of my depth.
+
+En zoals Thompson ook aanduidt, is dat een absurde situatie. De waarde van nieuws in de ogen van het publiek blijft dalen. Terwijl Wikipedia steeds maar groter en beter wordt. Zoals "Stijn Fockedey":http://www.nijst.org/2009/12/14/googles-living-stories/ zegt: “Wikipedia, met al zijn gebreken, is nog steeds de beste manier om on line snel terug van iets volledig op de hoogte te willen zijn.”h3. Wat zit er allemaal in het hoofd van een journalist
+
+Het hoeft nochtans niet moeilijk te zijn. Al die contextuele context zit tòch al in het hoofd van de journalist. Een reactie op "een blogpost van Adrian Holovaty":http://www.holovaty.com/writing/fundamental-change/ van een zekere Rogerr gaat als volgt:
+
+bq. My wife is a reporter at a small daily. […] The structured information you refer to amounts basically to reporter's notes. One of the things that kills me about my wife's job is the amount of info that she gathers that never makes it into the story — either the story develops a different way, or editors take it out. That work is just waste right now.
+
+Journalisten doen de opperste moeite om aan het soort kennis te geraken dat nodig is om hun _beat_ onder controle te krijgen, om zichzelf een expert te kunnen noemen, maar al die kennis blijft in hun hoofd zitten of in hun dossierkast. Lezers moeten zich behelpen met korte nieuwsberichten. "Toch te gek?":http://www.newsless.org/2010/03/the-case-for-context-my-opening-statement-for-sxsw/ h3. Context is geen high tech
+
+Ten tweede is het brengen van context niet zoiets dat nieuwe technologische wonderen behoeft. Zoals ik vorige week schreef als reactie op Thompson z'n post: “Well, while I’m sure that there are many opportunities on the web to go beyond context as we understand that from the point of view of printed publications (the web is timeless, as you say), at the end of the day, I don’t think it’s really that hard.”
+
+Als je recente blogposts over de nood aan het contextualiseren van het nieuws doorleest, zie je dat velen zich afvragen hoe we in hemelsnaam die contextualisatie moeten doordrijven. Ze kijken watertandend naar apps zoals "Microsoft Pivot":http://www.readwriteweb.com/archives/microsoft_launches_pivot_a_radically_new_visualiza.php . Terwijl er niks aan is, en er geen enkele fancy-schmancy nieuwe applicatie nodig is om context te brengen. 't Is geen raketwetenschap.
+
+Er bestaan waarschijnlijk honderden kleine truukjes om op het internet meer context te bieden, die allemaal gebruik maken van de prachtige mogelijkheden die dat internet biedt (ik denk aan de mogelijkheden die "algorithmic authority":http://www.shirky.com/weblog/2009/11/a-speculative-post-on-the-idea-of-algorithmic-authority/ kan bieden, ik denk aan integratie van je content met "Freebase":http://www.freebase.com/ en "DBPedia":http://dbpedia.org/ , ik denk aan annotaties in "RDFa":http://www.w3.org/TR/xhtml-rdfa-primer/ ). Maar uiteindelijk: context is context. Dat zijn biografieën van de mensen die je bespreekt. Dat zijn themapagina's die méér zijn dan een verzameling van artikels. Dat zijn reeksen waarbij de artikels verbonden zijn door een overkoepelende tijdslijn van de gebeurtenissen die je bespreekt en met een intropagina die duidelijk maakt hoe elk stuk een ander aspect belicht van het onderwerp in kwestie.
+
+Context is wat we al sinds jaar en dag verstaan onder context, niks meer en niks minder. We weten wat het is, we weten hoe we het moeten inwerken, technologisch is het een non-issue, het vereist geen enkele innovatie, en tòch doen we het niet. Dàt is de kwestie.
+
+De fundamentele vraag die we nu moeten oplossen is dus: hoe kunnen wij als content providers onze workflows en onze attitude veranderen en transformeren in een werkwijze die zorgt voor méér achtergrond voor lezers?

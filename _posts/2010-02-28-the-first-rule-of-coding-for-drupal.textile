@@ -1,0 +1,17 @@
+---
+layout: comment
+language: en
+canonical: http://www.yelvington.com/content/first-rule-coding-drupal#comment-6293
+title: The first rule of coding for Drupal                         
+---
+
+Hi Steve. Was searching for a contact form but since this site doesn't have one (?) I'll put my message here in the comments. I've been thinking about this post for more than a month now. You definitely raise a valid point, but I do feel ambivalent about the suggestion that Drupal is great because it doesn't require coding.
+
+Drupal is not necessarily more maintainable just because it has so many contributed modules — I've had my fair share of grief because of great-looking modules that eventually lose their maintainers, forcing maintenance onto yourself anyway.
+
+And the opposite of the NIH-syndrome is that by using off-the-shelf components for just about anything, you're losing out on opportunities to provide something truly unique for your visitors. Even seemingly simple things like commenting or account registration provide opportunities to differentiate yourself from the competition. Building those things yourself forces you to think about even these mundane aspects of the site, and that's not a bad thing.
+
+Anyhow, to plug myself a bit, I've written some of my thoughts about Drupal down "on my own blog.":http://stdout.be/2010/coder-happiness-in-drupal-and-django-part-i/ Maybe you'll find them interesting.
+
+Cheers,
+Stijn

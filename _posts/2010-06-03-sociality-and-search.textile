@@ -1,0 +1,11 @@
+---
+layout: comment
+language: en
+canonical: http://www.usit.com.au/2010/06/02/sociality-and-search/#respond                       
+title: Sociality and Search
+context: In response to Scott Bryant's disappointment that I didn't mention social search in my April IA series.
+---
+
+“Excellent breakdown” — gee, thanks :-) Anyway, the reason why I didn’t mention social search and a whole host of other stuff is that, while “Findability and Exploration” tries to take a look at the future, it does so from the narrow viewpoint of what the search engine on a (news) website should look like, which is an entirely different question from what “search” in general should look like or will look like in the future. I think you’re right that we do need that broader perspective, but I have to confess that, as an IA, that’s not my forte.
+
+Cheers!

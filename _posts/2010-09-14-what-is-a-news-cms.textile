@@ -1,0 +1,14 @@
+---
+layout: comment
+language: en
+canonical: http://www.maxcutler.com/2010/09/13/what-is-a-news-cms/comment-page-1#comment-124     
+title: What is a (news) CMS?
+---
+
+“Unfortunately, though, tools like InDesign (which you reference in your flow charts) simply aren’t set up to extract and style XML or HTML content easily.”
+
+Really? You can import any XML and get started right away with “Map Tags to Styles”, and InDesign has a whole bunch of advanced XML features and things like XSLT transforms on top of that. InDe sign + XML is a match made in heaven.
+
+In my experience, the trouble starts right in the CMS. If you’re using a WYSIWYG editor, XHTML output is either not well-formatted, so InDesign can’t import it, or it’s heavily markup-based (a title isn’t marked up as a title, just as bold text etc.) Additionally, assets (like infoboxes or images) are bunched together with the body copy, giving you very little control over placement in InDesign. And really, I could list a zillion other problems with using most out-of-the-box CMSes to drive multiple platforms, or even multi­ple presentations on the same platform.
+
+As a side note: it’s true that some form of cas cad ing styles would be nice to have in InDesign (“lay out titles in the culture section like this, but titles in the news section like that”), but you could actually do that pretty easily through a little script.

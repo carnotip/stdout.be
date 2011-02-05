@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+canonical: http://www.currybet.net/cbet_blog/2010/08/external-news-links-user-experience.php#comment-5744
+title: External links from news sites - what should the user experience be?
+---
+
+About internal versus external links: I'm not sure whether a little 'exit' icon before or after an external link actually hurts the reading experience. I certainly don't mind it when I surf on Wikipedia, though admittedly that's hardly scientific evidence.
+
+About linkrot: well, I'd like to see news websites mimic Google in this regard: keep internal text-only caches of everything you link to. When a sweeper reports that the original link is a 404 or otherwise unavailable, rewire those links to your internal cache. Insofar as that's viable copyright-wise, that is. While not exactly important if the external link points to a little bit of non-crucial additional information, assuring external links keep working is very important for link journalism or other situations where an external link provides crucial context, like a response to an earlier piece on another website. Even when those pieces are way old.
+
+Anyway, I'm a sucker for detailed analyses of IA/UX issues, so kudos!

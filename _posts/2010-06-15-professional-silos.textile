@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+canonical: http://lealaabbott.com/wp/archives/156/comment-page-1#comment-138                     
+title: Professional Silos
+---
+
+These silos are all over the place, but I think you do need to grasp the amount of savvy it takes even just to be able to get a rough view of the terrain out there. If you’re in an organization and need something asset-management-maybe-content-management-central-information-storage-uhm-whatever where should you look first? Should you talk to a software architect? A digital asset management professional? An MLIS grad? An information architect? It’s really not that obvious, so at that point, who do you hire if you don’t know exactly what you need? Most of the time it won’t even be an information professional (whatever the specialization) who makes such hiring decisions anyway.
+
+The word “silos” seems to indicate that the situation we’re in is to some extent self-imposed. I think you should give your colleagues a bit more cred. Instead of focusing on purported ignorance, let’s just focus on getting better at what we do and let’s learn to know more about fields of study that touch upon our own.
+
+Cheers!

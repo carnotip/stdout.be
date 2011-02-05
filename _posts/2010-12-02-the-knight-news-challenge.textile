@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+canonical: http://www.chryswu.com/blog/2010/12/02/the-knight-news-challenge-from-one-judges-perspective/comment-page-1/#comment-307
+title: The Knight News Challenge, from One Judge's Perspective
+---
+
+Having participated in a number of challenges and requests for grants myself as well as having read a bunch of KNC proposals, and reflecting on those failures… the problem, if other people are anything like me: money distracts.
+
+You have an idea, you want money. And that idea, to you, is so powerful that you don’t dare ask yourself whether you’re actually in a position to make it work. And you care even less about the specific requirements of each grant or challenge or prize, because, again, your idea seems so great that jury members ought to appreciate it regardless of whether the proposal actually aligns with what the foundation is looking for.
+
+That naiveté leads to well-intentioned proposals that are full of vision but ultimately very, very poorly thought out. Human nature, eh :-)

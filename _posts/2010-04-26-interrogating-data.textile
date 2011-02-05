@@ -1,0 +1,10 @@
+---
+layout: comment
+language: en
+canonical: http://onlinejournalismblog.com/2010/04/26/data-journalism-pt2-interrogating-data/comment-page-1/#comment-33993
+title: Interrogating data
+---
+
+“Use a spellchecker to check for misspellings. You will probably have to add some words to the computer’s dictionary.” — I guess these sort of things is why it still pays off to team up with a developer. E.g. in this case levenshtein distances are often enough to allow a computer to clean up dirty data by grouping together slight variations on a spelling, and in other cases simple regular expressions can go where simple find and replace can’t.
+
+Thanks for link to ScraperWiki, looks like a pretty cool service.

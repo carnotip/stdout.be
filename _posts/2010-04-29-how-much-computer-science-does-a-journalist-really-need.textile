@@ -1,0 +1,14 @@
+---
+layout: comment
+language: en
+canonical: http://blogs.journalism.co.uk/editors/2010/04/29/how-much-computer-science-does-a-journalist-really-need/comment-page-1/#comment-34918
+title: How much computer science does a journalist really need?
+---
+
+You’re quite right that nobody has any use for what rjlohman over at Wired called a “melding of roles where you get individuals that are half as experienced at twice as many jobs”. However, for starters, this is Columbia, they can place very high expectations on the applicants. And more importantly, in an age of ever increasing specialization, we do very much need people who can can mediate between different fields of study.
+
+So much potential is wasted because journalists don’t understand technology and CS grads don’t understand journalism. (Or by business executives who understand neither.) Thinking is building, as coders like to say, so I’m not convinced that doing a little bit of reading on Javascript or dabbling with programming 101 would solve that. A two-year master of science might. You need to really get a feel for what programming is like and what it can or cannot do.
+
+Also keep in mind that this is a unique program for those few people who feel up to the challenge, not Columbia’s view of what the skillset of each and every journalist should look like.
+
+I don’t know if their masters will work, and I’m glad that there are people like yourself who can keep some perspective, but I’m hopeful.

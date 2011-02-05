@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+
+{% block pagetype %}blogpost{% endblock %}
+
+{% block header %}
+<p id="about-this">A blog about programming, information architecture and journalism</p>
+{% endblock %}
+
+{% block body %}      
+<div id="summary" class="inset content">
+    <div id="prevnext">
+        <div class="prev"><a href="{{ post.prev.get_absolute_url }}" title="Previous post: {{ post.prev.title }}">←</a></div>
+        <div class="content">
+            <p class="meta">
+                <span class="date">{{ post.published|date:"DATE_FORMAT" }}</span> in
+                <a href="" class="category">information architecture</a>
+            </p>
+            <h1>{{ post.title }}</h1>
+            <p><strong>Summary</strong> {{ post.summary }}</p>
+        </div>
+        <div class="next"><a href="{{ post.next.get_absolute_url }}" title="Next post: {{ post.next.title }}">→</a></div>
+    </div>
+</div>
+
+<div id="post" class="centered content">
+    <div>
+        {{ post.body|safe }}
+    </div>
+</div>
+
+<hr class="divider" />
+
+<div id="comments" class="centered">
+    <h2>5 comments</h2>
+    
+    <div>
+        <div class="comment">
+            <div class="comment-about">
+                <div class="comment-meta">4 June 2010</div>
+                <img src="http://0.gravatar.com/avatar/4f194d106a90f485dc625c06eb9b433b?s=80&amp;d=identicon&amp;r=G" />
+            </div>
+            <div class="comment-content">
+                <div class="comment-author">Wouter Ryckbosch <a href="" class="permalink" style="text-decoration: none; padding: 0 25px 0 5px;">¶</a></div>
+                <p>Sympathiek, maar ik geloof dat je toch te veel eer geeft aan het huidige roster. Om WWTDD of YANP neer te pennen moet je wel degelijk een stuk vlotter ter taal zijn dan om een standaard-recensie te schrijven zoals jij ze ontleedt. Het gaat ook over gebrek aan talent, en niet enkel over een vastgeroest zitten in een overbodig genre.</p>
+                <p>Verder deel ik je gevoel. Maar telkens dat sentiment me overvalt, herlees ik nog eens deze of gene recensie en besef ik dat er toch waarde kan zitten in het overdragen van meer dan slechts een puntige mening. Want YANP is minstens even vluchtig als het leuk is, niet?</p>
+            </div>
+        </div>
+
+        <div class="comment by-author">
+            <div class="comment-about">
+                <div class="comment-meta">4 June 2010</div>
+                <img src="http://0.gravatar.com/avatar/4f194d106a90f485dc625c06eb9b433b?s=80&amp;d=identicon&amp;r=G" />
+            </div>
+            <div class="comment-content">
+                <div class="comment-author">Stijn Debrouwere</div>
+                <p>Sympathiek, maar ik geloof dat je toch te veel eer geeft aan het huidige roster. Om WWTDD of YANP neer te pennen moet je wel degelijk een stuk vlotter ter taal zijn dan om een standaard-recensie te schrijven zoals jij ze ontleedt. Het gaat ook over gebrek aan talent, en niet enkel over een vastgeroest zitten in een overbodig genre.</p>
+                <p>Verder deel ik je gevoel. Maar telkens dat sentiment me overvalt, herlees ik nog eens deze of gene recensie en besef ik dat er toch waarde kan zitten in het overdragen van meer dan slechts een puntige mening. Want YANP is minstens even vluchtig als het leuk is, niet?</p>
+            </div>
+        </div>
+
+        <div id="comment-test" class="comment">
+            <div class="comment-about">
+                <div class="comment-meta">4 June 2010</div>
+                <img src="http://0.gravatar.com/avatar/4f194d106a90f485dc625c06eb9b433b?s=80&amp;d=identicon&amp;r=G" />
+            </div>
+            <div class="comment-content">
+                <div class="comment-author">Wouter Ryckbosch</div>
+                <p>Sympathiek, maar ik geloof dat je toch te veel eer geeft aan het huidige roster. Om WWTDD of YANP neer te pennen moet je wel degelijk een stuk vlotter ter taal zijn dan om een standaard-recensie te schrijven zoals jij ze ontleedt. Het gaat ook over gebrek aan talent, en niet enkel over een vastgeroest zitten in een overbodig genre.</p>
+                <p>Verder deel ik je gevoel. Maar telkens dat sentiment me overvalt, herlees ik nog eens deze of gene recensie en besef ik dat er toch waarde kan zitten in het overdragen van meer dan slechts een puntige mening. Want YANP is minstens even vluchtig als het leuk is, niet?</p>
+            </div>
+        </div>
+        
+        <div class="comment">
+            <div class="comment-about">
+                <div class="comment-meta">4 June 2010</div>
+                <img src="http://0.gravatar.com/avatar/4f194d106a90f485dc625c06eb9b433b?s=80&amp;d=identicon&amp;r=G" />
+            </div>
+            <div class="comment-content">
+                <div class="comment-author">Wouter Ryckbosch</div>
+                <p>Sympathiek, maar ik geloof dat je toch te veel eer geeft aan het huidige roster. Om WWTDD of YANP neer te pennen moet je wel degelijk een stuk vlotter ter taal zijn dan om een standaard-recensie te schrijven zoals jij ze ontleedt. Het gaat ook over gebrek aan talent, en niet enkel over een vastgeroest zitten in een overbodig genre.</p>
+                <p>Verder deel ik je gevoel. Maar telkens dat sentiment me overvalt, herlees ik nog eens deze of gene recensie en besef ik dat er toch waarde kan zitten in het overdragen van meer dan slechts een puntige mening. Want YANP is minstens even vluchtig als het leuk is, niet?</p>
+            </div>
+        </div>
+    </div>
+</div>
+            
+<div class="inset">
+    <div class="centered">
+        <ul id="categories">
+            <li><a href="">coding</a></li>
+            <li><a href="">journalism</a></li>
+            <li><a href="" class="active">information architecture</a></li>
+            <li><a href="">open data</a></li>
+            <li><a href="">business & management</a></li>
+            <li><a href="">inspirational</a></li>
+            <li><a href="">personal</a></li>
+        </ul>
+    </div>
+</div>
+<div class="centered">
+    <div class="nav">
+       {% include "inc.menu.html" %} 
+    </div>
+</div>
+{% endblock %}

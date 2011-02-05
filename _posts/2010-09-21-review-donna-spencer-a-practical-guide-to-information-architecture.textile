@@ -1,0 +1,36 @@
+---
+layout: review
+rating: bad
+language: en
+categories:
+    
+tags:
+    - en
+    - polyhierarchy
+    - i18n
+title: Review: Donna Spencer - A Practical Guide to Information Architecture
+summary:
+    
+---
+
+"Donna Spencer's book":http://practical-ia.com/ is a weird one.
+
+Weird, because A Practical Guide is aimed at designers and intranet managers who want to make better websites, but that same audience will probably never pick up the book because they haven't a clue what information architecture is and how it could help them.
+
+Weird, because Donna says the book will introduce its reader to the wonderful world of information architecture, but aside from brief forays into classification and navigation, the book might as well have been called "A Practical Guide to "Content Strategy":http://en.wikipedia.org/wiki/Content_strategy ".
+
+Weird, because she acknowledges that, in real life, information architecture is practiced by everybody from project leads to writers, that it's a fluid role, yet she still takes the time to meticulously explain the exact deliverables you will be expected to produce as an IA.
+
+Sometimes the book is insightful, as when Donna notes that making mistakes can actually be cost-effective sometimes, so we shouldn't over-prepare. Sometimes it's inane, as when she explains that, for informal testing on an existing site, we should ask existing users for feedback. Really.
+
+Maybe Spencer should've just named the book "Planning for Better Websites".  We get the same useful but cliché advice on project management we've heard over and over again: communicate, make sure everybody is on the same page, ascertain if there are any business, design or IT limitations you need to work with, get buy-in from management. A couple of chapters on user research. Advice on how to do a content audit. Tips for creating better user interfaces. But very little meat.
+
+Whenever things get interesting, the book moves on to the next topic.
+
+When Donna talks about building websites that encourage people to explore — a favorite topic of mine — she simply concludes that the task is so broad that she can offer no meaningful advice.
+
+Instead, on page 130, we're reminded to "Use standard keyboard shortcuts for copy and paste."
+
+There are a couple of interesting chapters. Chapters 16 and 21 give an overview of common design patterns on how to display information and how to navigate through it. But even there the book falls short of being excellent, because there's nary an explanation to be spotted about which patterns help solve which challenges.
+
+Anyway. I don't want to bash A Practical Guide to Information Architecture simply because it didn't help me. It hopes to be a friendly introduction to the field rather than a bible like the "Polar Bear":http://oreilly.com/catalog/9780596000356 is. Fair enough. Even so, the book contains a lot of filler, and very little to inspire novice IAs to "go do it!"

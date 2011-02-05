@@ -1,0 +1,10 @@
+---
+layout: comment
+language: en
+canonical: http://rc3.org/2011/01/08/2011-skill-of-the-year/comment-page-1/#comment-10311        
+title: 2011 Skill of the Year
+---
+
+Excellent choice. You should also consider learning some CoffeeScript alongside ‘plain’ Javascript — makes you realize that conceptually if not syntactically, Javascript is actually a pretty elegant and powerful language.
+
+For me, I want to spend a couple of weeks in 2011 on machine learning and NLP, and if for some absurd reason I have too much time on my hands, I might take a stab at either Erlang or Scala as well. Though with regards to the latter two, as you mention, it’s difficult keeping yourself motivated without a real project in mind.

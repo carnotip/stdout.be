@@ -1,0 +1,56 @@
+---
+layout: review
+rating: bad
+language: en
+categories:
+    
+tags:
+    - nl
+    - Seth Godin
+    - succes
+    - falen
+    - strategie
+    - lifehacks
+    - Business
+title: The Dip van Seth Godin
+summary:
+    'The Dip' van Seth Godin staat vol van slecht advies, maar als je goed zoekt, kan je wel een paar stukjes wijsheid terugvinden.
+---
+
+Je zou het niet denken, maar ik ben eigenlijk een liefhebber van allerlei "inspirational":http://www.e-myth.com/  "writing":http://www.fourhourworkweek.com/ : zelfhulpboeken die niet gênant genoeg zijn om zelfhulpboeken te noemen. Vaak geven zo'n boeken een aantal algemene adviezen die je dan naar naar eigen smaak kan interpreteren. De waarde zit hem vaak meer in het feit dat je even stilstaat bij je leven, je zaak of je werk, dan in het boek zelf. Want dat had je evengoed zelf kunnen schrijven. Maar dat geeft niet.
+
+Dit weekend het kleine boekje 'The Dip' van "Seth Godin":http://sethgodin.typepad.com/ uitgelezen en eigenlijk een beetje teleurgesteld. 'The Dip' gaat over die momenten in je leven dat je beter met iets zou stoppen maar de moed niet hebt om het op te geven, en die andere momenten dat je beter zou volhouden maar het je ontbreekt aan motivatie. Er zijn weinig dingen die een mens ongelukkiger maken dan het gevoel dat je vastzit in een hopeloze situatie en geen uitweg ziet, dus Godin schrijft alleszins over een belangrijk onderwerp. Maar de adviezen die je meekrijgt zijn nogal dubieus.h3. Goed zijn in alles is niks waard
+
+Volgens Godin moet je specialiseren tot je niet verder kan specialiseren.
+
+Het klopt, mijn accountant hoeft niks te weten van literatuur en de zanger van mijn favoriete muziekgroep hoeft geen wiskundig genie te zijn. Onze wereld zou stilvallen zonder specialisten. Mensen betalen niet voor iets dat goed is, ze betalen voor het beste.
+
+Maar in een wereld waarin iedereen zich steeds meer specialiseert, openen zich ook kansen voor generalisten.
+
+Zo merk je in de academische wereld dat buiten de disciplinaire grenzen bijna niemand van elkaars onderzoek afweet. De wetenschapsfilosofe "Lorraine Daston":http://en.wikipedia.org/wiki/Lorraine_Daston vertelde me ooit "You could write a very interesting history on the relationship between architecture and scholarship" — wie in hetzelfde gebouw zit, denkt hetzelfde. De vrijheid van denken die nodig is om nieuwe dingen te doen, vind je bij mensen die kiezen om niet te specialiseren maar om een probleem vanuit meerdere disciplines te benaderen.
+
+In de journalistiek stijgt de vraag naar journalisten die overweg kunnen met multimedia, en naar programmeurs die weten hoe een redactie werkt. Ik kan mijn werk bij "Apache":http://www.apache.be enkel doen omdat ik behalve mijn kennis als programmeur ook lang nog zèlf artikels geschreven heb, en een gezonde interesse heb voor informatiewetenschap.
+
+En zelfs van mijn boekhouder verwacht ik dat hij een goede communicator is.h3. Als het even niet vooruit gaat, zet door
+
+Volgens Godin laten mensen zich te snel afleiden als het wat minder gaat met hun werk, en storten ze zich op nutteloze andere bezigheden. Godin zegt: zet door! Op zich is dat natuurlijk geen slecht advies: als je iets moet confronteren is het zinloos om de uitdaging uit de weg te gaan.
+
+Maar het kan héél zinnig zijn, om, als je een oplossing zoekt voor een moeilijk probleem en je creativiteit het nulpunt heeft bereikt, je aandacht te richten op iets heel anders. Soms is tien minuutjes genoeg, soms een paar maanden. Om dezelfde reden dat multidisciplinaire teams tot betere oplossingen komen, komen ook multidisciplinaire personen to creatievere oplossingen.h3. Je kan niet concurreren met grote bedrijven
+
+Het is nogal wiedes dat je niet de volgende Microsoft Word moet proberen maken. Maar in bepaalde industrieën — zoals bij softwaremakers — kan je met een héél klein budget heel veel bereiken, terwijl de _incumbents_ lijden onder een remmende voorsprong. Om zo'n bedrijven weg te concurreren moet je natuurlijk geen frontale aanval inzetten, want die verlies je. Je mag natuurlijk ook niet proberen concurreren zoals Adam Smith concurrentie zag: door exact hetzelfde product te leveren aan een lagere prijs. Maar wie kan innoveren hoeft geen schrik te hebben om zich in dezelfde markt te positioneren als een grote speler. "37signals":http://37signals.com/ lanceerde haar project- en klantenbeheer in een overgesatureerde markt met bovendien een aantal grote spelers (denk Microsoft met "MS Project":http://office.microsoft.com/project , denk "Salesforce":http://www.salesforce.com/ ) en dat heeft hen alleszins geen windeieren gelegd.h3. Mensen denken niet na over de lange termijn
+
+Volgens Godin geven mensen te snel op. Mensen denken volgens Godin niet na over de voordelen die hen op lange termijn toekomen als ze van een project een success kunnen maken.
+
+Wat een absurde vaststelling. Godin schrijft voor een hoger opgeleid publiek dat best wel weet dat je soms moet doorzetten om iets te bereiken. Anders hadden ze nooit hun diploma behaald. Zelfs niet-zo-ambitieuze mensen doen vaak de meest ambetante dingen omdat ze hopen op een voordeel op lange termijn. Jezelf afmatten in de fitness. Een beugel dragen. Avondlessen volgen naast een drukke fulltime job.
+
+Er zijn altijd mensen die niet voorbij vandaag kunnen kijken, maar het omgekeerde is bij veel nochtans intelligente mensen een grotere kwaal: voortdurend leven in functie van je toekomst, en omdat je altijd meer wil, nooit kunnen genieten van het heden.h3. Stukjes wijsheid
+
+Een boek is een van de goedkoopste vormen van inspiratie. Je geeft 10 of 20 euro uit en je zet je een uur of tien aan het lezen, en zelfs al is het bladzijde na bladzijde bagger, er zullen altijd wel een paar bruikbare ideeën instaan. 10 euro en een paar uurtjes moeite voor een goed idee is goedkoop. Maar ik zal je dat geld en die moeite besparen. Hier een paar lessen die je kan trekken uit 'The Dip', in een notendop. *Eén.* Je moet zorgen dat je de beste bent in je wereld. De truuk bestaat er in om voor jezelf heel nauwgelet te bepalen wàt voor jou de wereld is. Als ik zoek naar de beste koffiebar ter wereld, betekent dat voor mij de beste koffiebar in Gent, want voor wat caffeïne ga ik niet op de trein springen. Als ik zoek naar de beste boekhouder voor mij, dan moet die zich niet alleen in mijn buurt bevinden maar bovendien betaalbaar zijn en ervaring hebben in mijn branche. Je kan gerust de beste zijn in een kleine wereld, je hoeft geen continenten te veroveren, maar hoe klein de wereld ook is waarin je als persoon of met je zaak het verschil in wil maken, binnen die wereld moet je de beste zijn.
+
+bq. So while it's more important to be the best in the world than ever, it's also easier: _if_ you pick the right thing and do it all the way. More places to win, and the stakes are higher too. (p. 11-12)
+
+ _Don't settle for less._  *Twee.* Het loont om jezelf, voor je iets aanvat, de vraag te stellen wat die queeste de moeite waard maakt, en in welke omstandigheden het sop de kolen niet meer waard is, en je beter zou stoppen. "Iets" kan een lessenreeks zijn, een project op je werk, een engagement bij een lokale vereniging of een nieuwe job. Door op voorhand voor jezelf duidelijk te maken waarom dit stukje van je leven belangrijk is, en hoeveel energie je er wil instoppen, is het makkelijker om op een neutrale manier te kijken naar je leven, en te beslissen wanneer genoeg genoeg is.
+
+Succesvolle personen durven opgeven, en houden niet vast aan zaken die toch hopeloos zijn. Als je in een dip zit en je hebt op voorhand nagedacht over wat dit engagement de moeite waard maakt, hoef je niet voortdurend te twijfelen of je zou stoppen of niet: je hebt op voorhand al beslist hoeveel pijn en moeite teveel pijn en moeite is, en wat je wil en zal verdragen. Op voorhand nadenken wat je zou doen stoppen, kan je ook de nodige motivatie geven om een tandje bij te steken als het project wél nog de moeite waard is. "Quitting as a tactic is stupid, quitting as a strategy is necessary." zoals Seth Godin zegt. *Drie.* Het is markant hoezeer mensen problemen proberen negeren of uit de weg te gaan. Problemen moet je confronteren. Een "dip" moet je ofwel motiveren om dubbel zo hard achter iets te zitten, ofwel is het een teken dat je werk nergens naartoe gaat, en je beter zou opgeven. Een is een pivoteerpunt. Je moet niet passief verdragen als een project wat minder gaat, je moet jezelf actief afvragen of je verder wil. Zo ja moet je bekijken hoe je jezelf terug kan motiveren. Zo nee kijk je of er een laatste tactiek is die je kan aanwenden om alles weer op het spoor te krijgen — je wil opgeven, dus dan kan je er net zo goed nog een laatste lap opgeven, er is toch geen risico aan. En als dat niet lukt zoek je een exit strategy. Problemen moeten aanzetten tot denken en tot handelen.
+
+Zo, dat is in een paar paragrafen samengevat die paar stukjes wijsheid die je kan destilleren uit 'The Dip'. Veel meer zit er helaas niet in.

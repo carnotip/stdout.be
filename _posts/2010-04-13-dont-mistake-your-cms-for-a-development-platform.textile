@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+canonical: http://hackshackers.com/2010/04/13/dont-mistake-your-cms-for-a-development-platform/#comment-44643984
+title: Don't mistake your CMS for a development platform
+---
+
+Some good points here, but they're based on the assumption that all the innovation should be channeled towards creating special one-off applications and whiz-bang interactive stuff.
+
+I think there's a lot to be said for innovating how we present and publish day-to-day news as well. Most CMS'es still don't allow you to enter news in a well-formatted and structured way (see www.holovaty.com/writing/fundamental-change/) that would make it repurposable, nor do they allow you to get serious about contextualizing the news (see http://stdout.be/2010/tags-dont-cut-it/). E.g. the Texas Tribune chose Django as the base on which to build their CMS, because they wanted the flexibility to be able to experiment with their day-to-day publishing, and that requires more than just a playground for special occasions.
+
+You're right though, you need the resources to pull off something like that (and the courage to say legacy software goodbye), because when using a MVC framework for everyday content management you do lose some things that a good CMS gives you for free. But it can pay off nicely if it's part of a larger strategy.

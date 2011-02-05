@@ -1,0 +1,18 @@
+---
+layout: comment
+language: en
+canonical: http://www.laurenmichell.com/2010/04/bcni-notes-design-roundtable-news-sites-still-suck/comment-page-1/#comment-811
+title: BCNI Notes: Design Roundtable “News Sites Still Suck”
+---
+
+“We still categorize stories under sports, arts, news, opinion, etc. because this is how the print product was laid out.” Very true. I’d love to see more innovation on this front.
+
+- -
+
+I wouldn’t overestimate RSS usage. Ike Picone, a doctoral student here in Belgium, recently did some research where he explained RSS to users and got them to use it for a few days or weeks. Aside from the fact that very people were actually aware of the existence of RSS before he explained it to them, when they did try it out as part of the research, Ike noted that a lot of them quickly became tired of the constant stream of new content and actually preferred a pull-model above a push-model. They felt bad about themselves if they weren’t able to read the news at the rate that it came in, which was often the case.
+
+Ikes data might not hold true for the US, but I wouldn’t be surprised if it does. It aligns with my own experience using RSS as well. When I look at my own RSS subscriptions, now at about 150 feeds, the vast majority of these are blogs that have a low frequency of publication. It’s very annoying to have to sift through fifty new stories each day, most of them with news you don’t care about anyway, to see which items you might want to read. The only exceptions I can think of are Techdirt and Nieman, and even those only post approximately 5 stories a day, not the 30-60 a large news website would.
+
+The New York Times Custom Feeds solves the RSS-information-overload problem to some extent, and I really like those, but I wouldn’t write off plain-vanilla surfing with a desktop web browser just yet.
+
+Check out this post by Rafe Colburn about RSS, by the way: http://rc3.org/2009/12/22/rss-readers-are-for-professionals/

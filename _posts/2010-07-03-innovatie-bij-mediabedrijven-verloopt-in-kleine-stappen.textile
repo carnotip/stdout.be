@@ -1,0 +1,10 @@
+---
+layout: comment
+language: nl
+canonical: http://www.denieuwereporter.nl/2010/07/innovatie-bij-mediabedrijven-verloopt-in-kleine-stappen/comment-page-1/#comment-282206
+title: Innovatie bij mediabedrijven verloopt in kleine stappen
+---
+
+We hebben die discussie al eens gehad bij "Nijst.":http://www.nijst.org/2009/11/15/de-technologie-van-titanics-versus-the-huffington-post/ Ik ben er niet zo van overtuigd dat de grote innovaties momenteel komen van startups. The Huffington Post heeft qua berichtgeving heel wat traditionele journalistieke waarden in vraag gesteld, d’accord, maar het zijn nog altijd The Guardian en The New York Times die steevast met de beste visualisaties afkomen, met crowdsourcing-projecten, met linked data experimenteren en zoverder.
+
+Ik ben er van overtuigd dat het voor startups makkelijker is om iets helemaal nieuws te doen, zonder zich iets te moeten aantrekken van een bestaande, logge bedrijfscultuur. Maar dat wil niet zeggen dat dat altijd gebeurt. Je moet mensen hebben met de juiste visie, zowel op journalistiek als op technologisch vlak. En gezien "veel nieuwsstartups tegenwoordig louter uitgaan van journalisten":http://newsosaur.blogspot.com/2010/06/journalists-running-start-ups-face-tall.html met weinig besef van de mogelijkheden van het web, laat staan de resources, ("Viewsflow is een mooie uitzondering":http://www.viewsflow.com/), vind je eigenlijk veel minder innovatie bij nieuwe mediaprojecten dan je zou verwachten. Dat is jammer maar het is zo.

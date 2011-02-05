@@ -1,0 +1,39 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - Journalism
+    - en
+    - context
+    - Newsless
+    - Jeff Jarvis
+    - Matt Thompson
+    - Jay Rosen
+    - Geert Buelens
+    - subsidies
+    - government
+    - crisis in journalism
+    - Steve Yelvington
+title: Don't reward broccoli journalism
+summary:
+    
+---
+
+The value of an item isn't necessarily equal to its price. We've "known this":http://www.poynter.org/column.asp?id=31&aid=148910  "for quite a while":http://www.techdirt.com/articles/20080819/0314402026.shtml now. The work of journalists is a case in point, being worth more than people are willing to pay, so it's obvious that governments should step in and right that wrong. Is it? Really?
+
+Journalists are, or should be, the watchdogs of our society.  Their research and analyses are important to the health of our society and communities. But heavy-duty journalism often costs more than it delivers, which has led to a dearth of careful analyses and insightful stories, giving us a proliferation of mediocre, "truthy":http://en.wikipedia.org/wiki/Truthiness journalism in its place. If the market can't support the good stuff, it's not too far-fetched to ask our governments to "support":http://www.cjr.org/the_news_frontier/rejuvenating_american_journali.php?page=all and "protect":http://www.washingtonpost.com/wp-dyn/content/article/2009/10/22/AR2009102203960.html it. A few buckets of cash at the doorstep wouldn't hurt.
+
+But that's not an entirely fair way to think about government subsidies either. The reasoning assumes that the malaise in journalism today is due to greedy publishers whose only intent is to turn a profit, publishers that lack respect for what's really important. So supporters of government intervention want to go back fifty years in time, when apparently there was still a budget at most newspapers to do the kind of meticulous writing that has come to be in short supply. And taxpayers' money should pay for this re-enactment of a golden past. I just plain don't like the sound of that. Now, especially now, we need to search for the future of our profession. We need to reinvent our métier. We need to find new ways to make money off of our work and we need to involve our readers with what we're doing. We want people to happily pay for their favorite newspaper or news website because it's just that great and because they really feel its _theirs_ .
+
+Subsidies shouldn't serve to sweep our collective lack of vision and business acumen under the rug, allowing us to carry on doing what we've always been doing. Business as usual is _not_ what we need right now. If you're courting the government for structural, blanket subsidies, you're essentially giving up on the quest to reinvent your own and your newspaper's way of working. Before you've even started. I don't see how that helps anyone.
+
+“If people don't want to pay for our work, the government should” is defeatism, nothing else. "As Jeff Jarvis snidely remarks":http://www.buzzmachine.com/2009/10/19/giving-up-on-the-news-business/ : “This is the ultimate in broccoli journalism: You are not only forced to read what journalists say is good for you but you are now forced to pay for it through taxation.”
+
+Newspapers and other media have the potential to mean so much to people's lives, to make the world comprehensible. If the government wants to aid the media in realizing that potential, there are better choices to be made than providing life support for a failing industry. You could just as well burn the money. Governments should make the smart move and support innovation and experiments, either by helping fund it, or by fostering "an environment and culture in which that innovation can thrive":http://en.wikipedia.org/wiki/Open_Data . Support those publications, old or new, that provide a glimpse into the future of sustainable, durable, quality journalism. Those experiments might not yet be profitable and they need all the help they can get, but ultimately they do provide the breeding ground for the business models of tomorrow. Not the media giants of yesteryear but the newsrooms of tomorrow will help us out of this media crisis. "Those":http://www.minnpost.com/  "new":http://www.texastribune.org/  "players":http://www.everyblock.com/ — and those older players like the "New York Times":http://www.nytimes.com/ and "The Guardian":http://www.guardian.co.uk/ who do _get it_ — don't get distracted by the cocky attitude that we, _The Media_ , know what our readers need and that they just have to "open their mouths and swallow":http://www.slate.com/id/2231009/ . “If you raise kids on sweets, they'll never learn how to appreciate any nutritious and thus essential foods" "remarked":http://www.standaard.be/artikel/detail.aspx?artikelid=852K7N4G Geert Buelens (writer and professor at "Utrecht University":http://en.wikipedia.org/wiki/Utrecht_University ) in a well-read essay in the Flemish newspaper "De Standaard":http://en.wikipedia.org/wiki/De_Standaard . According to Buelens such talk stems not from paternalism, but from a feeling of responsibility from the journalist towards his readers. Well, I speak on behalf of the reader when I say: don't be concerned about our welfare, we're doing just fine, we'd much rather just read a dependable newspaper that doesn't live in the past.
+
+Editors refuse to ask fundamental questions about the "changing expectations of the news reader":http://www.pewinternet.org/Reports/2010/Online-News.aspx . People want to know the "broader context behind a story":http://www.newsless.org/2009/08/the-3-key-parts-of-news-stories-you-usually-dont-get/ . But the average news website barely contains any topic pages or dossiers, and the search function is barely usable.
+Readers are searching for added value. But newspapers would rather "pay a journalist to rewrite a story":http://blogs.reuters.com/felix-salmon/2010/03/08/link-phobic-bloggers-at-the-nyt-and-wsj/ that was already out there on the web days ago. "Readers expect some consideration":http://reportr.net/2008/11/21/three-social-media-principles-for-journalists/ . But they get barely any response to their letters to the editor or online  comments. And writers only use Facebook to dump links to their latest articles, not as a platform for meaningful interaction with readers.
+
+Too many newsrooms refuse to believe that their product "may be lacking":http://www.newwest.net/topic/article/the_problem_with_non_profit_journalism/C559/L559/ . The future lies with those publishers that aren't blind to their own flaws and that reject the broccoli journalism ethos. Nurture that future, not the past. _This is a translation of my contribution to the Dutch-language textbook ‘Handboek Crossmediale Journalistiek’ by , which will be published by_  " _Boom Onderwijs_ ":http://www.boomonderwijs.nl/  _and comes out this summer._

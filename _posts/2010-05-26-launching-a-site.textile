@@ -1,0 +1,10 @@
+---
+layout: comment
+language: en
+canonical: http://www.niemanlab.org/2010/05/launching-a-site-five-tips-to-get-you-off-on-the-right-foot/comment-page-1/#comment-117223
+title: Launching a site
+---
+
+While I can definitely see the advantages of a big fat launch, don’t forget that there’s a real alternative out there: start out quietly, and build up a loyal audience over time. As the 37signals guys tell us: you’re going to mess up when you get started, you’re going to need some time to learn, so launching quietly can actually be an advantage.
+
+At some point, that juicy story will come, or you will reach that critical mass and find your way into the public consciousness. There’s no reason why that has to be on launch day.

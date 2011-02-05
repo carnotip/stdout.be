@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+canonical: http://www.currybet.net/cbet_blog/2010/08/tyranny-of-chronology-slight-return.php#comment-5587
+title: Follow-up journalism? Timeless journalism? It is the tyranny of chronology that gets in the way...
+---
+
+It's unfortunate that I'm only reading this now — your essay on the tyranny of chronology covers a lot of the same ground as "a series on IA for news websites I did earlier this year":http://stdout.be/2010/information-architecture-for-news-websites/. Then again, perhaps it's a good sanity check to see other people advocating for the same changes to how we handle news content, independently: the importance of extensive metadata and the importance not just of creating content but of managing it as well, and how current CMSes do a lousy job in that regard.
+
+"It seems simply crazy to me that at a time when we are producing more media content than ever before, we are employing less and less people to expertly curate it - leaving it instead to machines and systems that we have not trained properly to deal with the complexity and nuances of our news 'language'." Yes!
+
+The trouble is probably that metadata-driven systems prove their worth only over the long term, require an effort in annotating archival content and always involve custom development, which makes them a hard sell.

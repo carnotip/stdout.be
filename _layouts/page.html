@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block pagetype %}page {{ page.slug }} about-me{% endblock %}
+
+{% block body %}
+<div class="centered">
+    <div class="nav">
+        <hr class="divider" />
+       {% include "inc.menu.html" %} 
+    </div>
+</div>
+{% endblock %}

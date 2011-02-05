@@ -1,0 +1,60 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - Django
+    - Drupal
+    - project management
+    - RAD
+    - identity
+title: Coder happiness in Drupal and Django, part II: putting together a project
+summary:
+    
+---
+
+I'd promised earlier to follow up my post on coder happiness in "Drupal":http://www.drupal.org and "Django":http://www.djangoproject.com . I'll take a look at how coordinating a project in both systems feels like.
+
+But before we get down to it: how does running a project in any framework or system feel like, for that matter?h3. Software is easy, the domain is hard
+
+If you've been coding for a while, you know that finetuning a website often takes up more time than implementing the basic functionality does. As "Salvatore Sanfilippo":http://antirez.com (of "Redis":http://code.google.com/p/redis/ fame) "laments":http://antirez.com/post/what-we-lost.html : if you take away scaling issues, what's going on under the hood of even very kick-ass websites like Reddit, is boring. 90 percent of web development still bottles down to "create-read-update-delete":http://en.wikipedia.org/wiki/Create,_read,_update_and_delete . As Salvatore mentions himself, "web applications are much more an art involving the ability to design nice user interfaces and about picking the right features".
+
+But web development's lack of hard engineering problems doesn't mean it's boring. Developers can focus on getting things _just right_ and providing maintainable and bug-free code. Project managers can focus on the deliverables without having to worry too much about potential technological stumbling blocks.
+
+But this shift towards the "complexity being in the market":http://blog.superfeedr.com/outsourcing/startups/validation/on-outsourcing/ rather than in the technology, has implications for project management. In "The Mythical Man-Month":http://en.wikipedia.org/wiki/The_Mythical_Man-Month , which was first printed 35 years ago in 1975, Fred Brooks tries to get it into our thick programmer skulls that creating a finished software product is a whole other ballgame than creating a working prototype. When you've finished the prototype, you've completed about a third of the project, not 90 percent as we'd love to believe. (I still think that way, only now I force myself not to believe my own estimates.)
+
+Tweaking the UI, fleshing out the functionality, throwing away the stuff you aren't happy with and rebuilding it, testing and QA, documentation — a lot of stuff still to be done once the basic building blocks are in place. Brooks said that in 1975, when creating software was still _hard._ In 2010, creating a working prototype for even fairly advanced web-related stuff (real-time web, GIS, natural language analysis) is, I daresay, trivial.
+
+If coding only took up  a third of the time to get a good software project out the door in 1975, it should take even less nowadays. The focus in web development is now more than ever on getting the specs down _just right_ (using e.g. domain-driven design), being agile and listening to the client's needs every step of the way. You're creating a finished project, not a piece of code.h3. From prototype to finished product
+
+h3. So that's my take on how your average webdev project looks in 2010. Prototypes are trivial, the complexity is in the market or in capturing the needs of your client. It's not about technology. Even if you're not a project manager you know this is true. Getting the HTML just like you want it, getting the interface exactly right, nailing the feel. Trying out different things. Getting to the point where you actually understand a client and can think like he does.
+
+So, when discussing how Django and Drupal can help us deliver better results in less time, it's important not to become myopic and compare both frameworks merely in terms of code and extensions. We have to think about the flow of a project from start to finish.
+
+Working on a project in Drupal _feels_ differently from working on a project in Django. When you're putting together something in Drupal, and it's a project that fits well with what Drupal provides — that is, content management — that goes double. Because of all the available modules and the solid core Drupal install, on smaller projects you can often provide a client with 80 or 90 percent of the required functionality within a week.
+
+Drupal doesn't provide rapid prototyping. Drupal provides instant prototyping, which is pretty nifty. Django has a good bunch of reusable apps itself, and you can cook up new functionality pretty quickly — it's a RAD framework, after all — but nothing like Drupal. Browse the module catalog, download the app you like best, do the one-click install and twenty minutes of configuration and integration later, you have a whole chunk of functionality that simply _wasn't there before_ .
+
+But if you agree with me that getting the basic functionality down is only a small part of a software project, the speed of prototyping isn't all that matters. And when we get to the finetuning and polishing phase, working with Drupal tends to become tedious and time-consuming.
+
+Implementing raw functionality is fun. It's what programmers are trained to do. Finetuning and polishing comes with its own kind of satisfaction, true enough, but with one caveat. Polishing is fun if what you're actually doing is polishing. Adding some javascript goodness, improving the html, handling the UX for edge cases, writing unit tests and so on. That's how tweaking works in Django and in most other frameworks as well.
+
+In Drupal, because of its hybrid nature (is it a CMS? is it a framework?), polishing more often than not means getting low down and dirty, trying to find the right hooks to manipulate the generated html that Drupal churns out, or modifying the internals of contributed modules because they don't work exactly the way you need them too. Polishing is fun. Ripping apart the internals of an app to make small changes to its default behavior isn't. Spending hours reading shabby documentation isn't either. (Essentially this boils down to building versus modifying, as I talked about in "Part I":/2010/coder-happiness-in-drupal-and-django-part-i/ .)
+
+The prototyping phase in Drupal is fundamentally different from everything that comes after it. While prototyping, you're not writing even a single line of code. Once the prototype is done, that's all you do.
+
+Django is different. Finetuning still takes up a lot of time, but because you've built everything from the ground up, changing the details and finetuning how things look and react, is not so fundamentally different from the work during initial development.h3. Don't make polishing any harder than it already is
+
+It's possible to keep tuning and tweaking down to a minimum in Drupal, but only if you're willing to compromise and stick to the way contributed modules work and interact. If you're working for a client with very specific demands (and most clients have very specific demands once you stop doing brochureware work and start making bigger websites and apps), finetuning starts taking up an inordinate amount of time.
+
+Don't confuse more time spent on finetuning in Drupal to mean that a project made in Drupal will have any more attention to detail than one in Django or any other framework or CMS. It simply takes more time to accomplish the same thing because it's harder to modify the flow of an existing CMS than it is to modify code you've built from the ground up to serve your specific purposes and goals.
+
+Because Drupal stretches the finetuning stage, managing clients becomes a challenge. Clients don't understand that they can see a rough version so quickly, yet have to wait so long for what may seem in their eyes like mere finishing touches. So any methodology or framework that can cut down on finetuning, and push some of that work back into the initial development stage, is a methodology or framework I like.
+
+The blame, of course, does not rest solely on Drupal: if you can't manage your clients, that's your problem and you shouldn't point the finger at your tools. But when you're in the position to choose your own tools, it's wise to choose those tools that support good project management, rather than those that work against it.
+
+As with my previous post, my point is not to argue that Django will always get the job done any quicker or easier. It's about how it feels to conduct a project in Drupal and Django. Drupal might well get things done faster for certain projects (although, it bears repetition, you shouldn't focus excessively on the number of contributed modules Drupal has available when making that evaluation). But if the work itself provides less satisfaction or if the project becomes more difficult to handle than you're comfortable with, that still counts as a disadvantage for Drupal.
+
+Don't make the polishing stage, which is in many ways the hardest of the development cycle, any harder than it should be.

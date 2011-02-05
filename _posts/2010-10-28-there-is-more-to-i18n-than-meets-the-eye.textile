@@ -1,0 +1,57 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - 37signals
+    - language
+    - javascript
+    - adobe
+    - coding
+title: There's more to i18n than meets the eye
+summary:
+    
+---
+
+I'm in Bristol this week, attending "Plone Conf 2010":http://www.ploneconf2010.org/ . Not quite convinced that the Plone CMS can compete with "the Wordpress/Django double whammy":http://birdhouse.org/blog/2009/11/11/drupal-or-django/ , but I'm picking up some useful nuggets nonetheless.
+
+I heard a good talk earlier today by "Saša Vinčić":http://sasha.vincic.org/ that boils down to this: there isn't a right and a wrong way to go about multilingual websites, follow the use-cases wherever they lead you.
+
+Most CMSes follow one of two strategies:
+
+# different languages imply different audiences, so i18n support is achieved simply by creating subsites with their own information architecture.
+# people may speak different languages, but they're here for the same thing, so i18n is achieved by having one version of each content item for each language.
+
+But there are all kinds of options and considerations in between those extremes.h3. How much to translate?
+
+Some content only requires a couple of fields to be translated into multiple languages. For a short user bio, you don't want translations of the user's name, e-mail address or phone number. Just translating the short biographical stub itself is what matters. Well, it's the only thing you _can_ translate, really.
+
+If you choose to create subsites for each language, does that mean that each language has their own hierarchies and tags, or would it perhaps still make sense to share tags among languages, just differently labeled to accomodate the same concept in all the languages?h3. Equivalent pages
+
+How are equivalent pages handled?
+
+The ideal scenario is one where selecting another language leads you to the equivalent page in that other language. Not the homepage, preferably, because that yanks you away from wherever in the site you were browsing.
+
+But translations can be expensive, take a while to produce, or might just be forgotten. What if there's no equivalent to redirect to?
+
+* A 404 Not Found?
+* A message that explains that this piece of content doesn't — or doesn't yet — exist in the language you requested, but that it does exist in two other languages, providing links to those alternatives?
+* Just redirect to the homepage after all? Who ever changes languages in the middle of a browsing session, right?
+
+Should list pages contain content that hasn't yet been translated into our active language, or should it hide those items? Consistency is worth a lot, but in some cases you absolutely don't want to withhold information just because it isn't available in the user's preferred language yet.
+
+Prefixing or affixing links with a country flag icon if they're not in the active language probably alleviates a lot of the weirdness of switching languages out of necessity. Regardless, I wouldn't be surprised if some UX experts would freak out at the thought of throwing another language in users' faces when dealing with content with no appropriate translation.
+
+The "thomann.de":http://www.thomann.de/ music store sometimes displays information about the stuff they sell in German, even when you're on their English-language site. And I'm happy they do, because I much prefer specifications in German to no specifications at all.h3. Workflows
+
+Then there's also the question of how to handle translation workflows, which is what "Saša's talk":http://www.slideshare.net/valentineweb/manage-multilingual-sites was about.
+
+Because keeping translations up to date is hard. If there's a base language and a piece of content gets updated, the same item needs to be updated for all other languages. If there's no base language, an update to _any_ language should raise an alarm bell for editors and translators, alerting them that translations might need updating to reflect the new content.
+
+And not just that. For sensitive or important messages that have a newer version in another language, users need to be made aware that they might be looking at outdated content, and be given the choice to read what is guaranteed to be the latest version, provided they understand the language that latest version was formulated in.
+
+And, heck, now I've just touched on translation, but in addition you also need a solid way to do localization of the interface ( "http://www.transifex.net/":http://www.transifex.net/ might help there). A way to deal with either internationalized URIs or "transliteration":http://en.wikipedia.org/wiki/Transliteration of those URIs into ASCII-compatible ones. "Handle user accounts":http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/ . Know how to route feedback or inquiries from visitors to people within your organization that speak the language of the visitor. Language detection and redirection that's not annoying. And so on and so on.
+
+Being aware of the pitfalls and of all the choices you'll have to make in putting together a multilingual site is half the battle. Internationalization doesn't have to be hard, but it sure as hell is more than enabling a module in a CMS and calling it a day. Think on it a bit.

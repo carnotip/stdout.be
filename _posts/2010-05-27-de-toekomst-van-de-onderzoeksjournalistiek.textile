@@ -1,0 +1,41 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - blogging
+    - open government
+    - authenticiteit
+    - Generatie M
+    - strategy
+    - nonprofits
+title: De toekomst van de onderzoeksjournalistiek
+summary:
+    
+---
+
+_Dit is de vertaling van een_  " _stukje van mijnentwege_ ":http://www.lostremote.com/2010/05/25/guest-post-the-future-of-investigative-journalism/  _dat eerder deze week op_  " _Lost Remote_ ":http://www.lostremote.com/  _verscheen._ Er zijn twee soorten nieuwe media die je de laatste jaren ziet ontstaan. Er zijn de onderzoeksjournalisten zoals "ProPublica":http://www.propublica.org/ en het "Center for Investigative Reporting":http://www.centerforinvestigativereporting.org/ in de VS, of "Apache":http://www.apache.be/ bij ons. En dan zijn er websites zoals "EveryBlock":http://www.everyblock.com/ of "lawrence.com":http://www.lawrence.com/ die zich proberen binden aan het weefsel van een gemeenschap. En weinig daartussen. Vreemd.
+
+Nu ook niet dat er "Rain Man":http://en.wikipedia.org/wiki/Rain_Man -gewijs een ijzersterk patroon te ontwaren valt, maar toch. Je zou verwachten dat net communitysites het belang inzien van onderzoek. 't Is immers onderzoeksjournalistiek die gemeenschappen moet beschermen van boemannen en malfaisanten. (En als je dat al een opgeblazen missieverklaring vindt, dan moet je maar eens de gemiddelde onderzoeksjournalist over zijn werk horen. Dat terzijde.)
+
+Maar ik denk dat ik weet hoe de vork aan de steel zit. De mensen met de grootste passie voor het heruitvinden van de stads- en wijkjournalistiek zijn jonge knapen uit een "nieuwe generatie":http://blogs.hbr.org/haque/2009/07/today_in_capitalism_20_1.html . Generatie M zegt men soms.
+
+Mag ik even Generatie M verpersoonlijken? Ik wil "authenticiteit":http://www.reportr.net/2008/11/21/three-social-media-principles-for-journalists/ en menselijkheid. Ik wil dat anderen mij vertrouwen en zelf vertrouwen kunnen stellen in mensen. Ik wil mijn rol opnemen in de maatschappij, en "interageren":http://open311.org/ met een overheid die niet enkel transparant is maar echt "open":http://delicious.com/stdbrouw/gov2.0 .
+
+Wat ik wil is een wereld waar je online elk aspect van het overheidsfunctioneren kan nakijken en bestuderen. Een wereld waar het niet alleen de overheid is die jou informeert, maar "jij die de overheid informeert":http://www.fixmystreet.com/ als er wat mis is.
+
+In zo'n wereld gebeurt er bijna niks achter gesloten deuren. Dat houdt politici en machtshebbers niet tegen om snode plannetjes te smeden, maar ze weten wel dat er een sterke, geïnformeerde community klaarstaat om te protesteren vanaf er ook maar iets louche ruikt. Dus dat ze beter twee keer nadenken.
+
+Een mooie, mooie wereld zou dat zijn. En ja, zoals dat gezegde dat er nog nooit iemand geld is verloren door te wedden op de dommigheid van mensen,  zo kan het waarschijnlijk ook geen kwaad om aan te nemen dat machtshebbers zelfs binnen een transparante en burgergerichte overheid de mogelijkheid zullen zien tot zelfbedeling. Maar dan zullen we d'r verdomme toch voor zorgen dat ze het wreed lastig hebben om dat gedaan te krijgen.
+
+Een onderzoeksjournalist verdient geld met miserie. Ik wil geld verdienen door dingen beter te maken. En in tegenstelling tot vroeger, toen de kranten nog de voornaamste bron van informatie waren voor mensen, kan je er niet meer van uitgaan dat een stuk onderzoeksjournalistiek echt tot positieve veranderingen zal leiden. Het kan verloren gaan tussen honderd andere stukken. Of mensen kunnen verontwaardigd zijn maar nergens de mogelijkheid zien om die verontwaardiging te kanaliseren. Eén scherp mes is niet langer voldoende, we hebben een hele set nodig om als burger onze stempel te drukken op de maatschappij.
+
+Onderzoeksjournalisten worden vaak genoemd als de waakhonden van de samenleving. Het daagt me nu pas hoe fout die voorstelling van de feiten eigenlijk is. Een waakhond beschermt. Een onderzoeksjournalist ontdekt vaak pas de malfaisance als het kwaad al geschied is. In het beste geval kan erger voorkomen worden, en wordt een eind gesteld aan een langlopende praktijk. Of krijgt iets de nodige aandacht die het verdient, na zoveel jaren verwaarloosd te zijn geweest.
+
+In die optiek is een nieuwswebsite die een gemeenschap ondersteunt en informeert en allerlei toegankelijke-maar-tegelijk-verborgen informatie bovenhaalt (denk EveryBlock) de nieuwe onderzoeksjournalistiek. Ze is preventief. ------
+
+Traditionele onderzoeksjournalistiek blijft belangrijk — en ik zie gelukkig geen enkele van die nieuwe media die die plicht vergeten is. Ik ben een dromer, en veel mensen uit de internetgeneratie zijn dromers met mij, maar we zijn nu ook niet zo naïef om te denken dat wat transparantie in de overheid hier en daar ervoor zorgt dat politici plots de braafste mensen in de wereld zijn. En zelfs dan hebben we onderzoeksjournalisten nodig om te pijlen hoe goed we slagen in ons opzet: hoeveel fuckups passeren er langs de mazen van onze netten? Het is een pijler, maar het is maar één pijler. Het wordt tijd om onderzoeksjournalistiek te herdefiniëren. En services en 'ambient information' en 'community support' zullen een belangrijk deel moeten uitmaken van die heroriëntatie.
+
+Een onderzoeksjournalist is de man met de zeis. Het is hij die de mensen met meer macht dan goed voor hen is op hun plaats zet en hun verdiende loon geeft. Je hebt ze nodig, maar je hebt meer nodig dan dat.

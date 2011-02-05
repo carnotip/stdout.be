@@ -1,0 +1,54 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - nl
+    - Newsless
+    - GitHub
+    - 37signals
+title: Geef je primeurs weg!
+summary:
+    
+---
+
+Toen ik nog in het kernteam van "Apache":http://www.apache.be/ vertoefde, werd er regelmatig gesproken over de kracht van exclusieve verhalen. We hebben _scoops_ nodig. Welnu, laat mij toe om even exact het omgekeerde te beargumenteren: *geef je primeurs weg, verkoop ze!* Eind 2009 waren er gesprekken tussen Apache en "Knack":http://knack.rnews.be/ . Knack zag wel iets in onze stukken en wou er graag op regelmatige basis een aantal van overnemen. Het voorstel:
+
+# Knack koopt onze stukken aan het gebruikelijke tarief
+# 's woensdags bij het verschijnen van een nieuwe editie komen de gekochte stukken in het nieuwsmagazine
+# 's avonds publiceren we ze zelf op Apache
+
+We zouden niet de enige publicatie zijn die zo werkt. De "Chicago News Cooperative":http://www.chicagonewscoop.org/ publiceert in de "New York Times":http://www.nytimes.com/ en het laatst opgestarte "Follow the Money":http://www.ftm.nl/ in Nederland profileert zichzelf naar kranten toe als freelancersgezelschap: "Wij leveren straks betaalbare onderzoeksproducties, _on demand_ " "lezen we":http://www.villamedia.nl/nieuws/bericht/follow-the-money-gaat-nu-echt-live/44204/ . Maar vergis je niet: beide initiatieven hebben een mooie, uitgebreide eigen website.
+
+Maar hoewel Apache de verkoop van stukken wel zag zitten, was er één voorwaarde: elk artikel moest eerst bij ons verschijnen. Primeurs geef je niet weg.h3. Schrijverscollectief
+
+Elke paar weken probeerde wel iemand anders ons te overtuigen dat we beter een *schrijverscollectief* zouden starten, met een eigen *website als*  _ *uithangsbord* en als aanvulling op de berichtgeving die in de krant terechtkomt_ . Maar hoezeer mensen als "Jan Vangrinsven":http://be.linkedin.com/pub/jan-vangrinsven/4/439/ab8 die aanpak prezen, 't was niks voor ons. De Morgen zou toch niks van ons publiceren want Christian Van Thillo is een haatdragende klojo. De Standaard zou misschien sommige stukken willen overnemen, maar andere niet. Het soort journalistiek die wij wilden brengen, daar was immers — zo ging de redenering — geen plaats meer voor in de media. Quod non, zo toonde de interesse van Roularta. Alleen: zonder eerste publicatie op onze website én een verwijzing in Knack naar "apache.be":http://www.apache.be was er voor ons geen deal. En voor hen ook niet. Waarom zouden zij immers betalen voor een tweedehands stuk?
+
+En nu denk ik terug aan die gesprekken, en ik denk: *wat zijn wij toch dom geweest* !h3. Scoops zijn marketing
+
+Waarom wil je als journalist of als blad een scoop? Ha, omdat je op die manier het publiek op de hoogte kan brengen van iets dat ze nog niet wisten maar wel moeten weten. Een lekkere scoop over pakweg "financieel gesjoemel bij het Vlaams Belang":http://www.apache.be/2010/03/financieel-gesjoemel-legt-bom-onder-vlaams-belang/ , daar doe je 't toch voor?
+
+Primeurs, die tonen dat journalistiek de vierde macht is. "Publiek goed, weet je.":/2010/clueless/ Klopt, klopt volledig, maar dat is niet de waarde van _de eerste te zijn_ , dat is de waarde van _nieuws_ brengen. De waarde van een scoop is het cachet dat het je geeft als nieuwsmedium. Mensen associëren je naam met slimme journalistiek. "Die mannen weten wat ze doen." *Scoops zijn marketing.* Georges Timmerman zei me ooit: "Als journalist kan je nieuws dat je hebt niet laten vallen, je kan het niet weggeven." Maar een journalist zou daar eigenlijk geen zeg over mogen hebben. Als een scoop dient om je _merk_ te versterken, dan is de beslissing of je een scoop zelf runt dan wel verkoopt, een marketingbeslissing. De verkoop van je stukken kan voor een onafhankelijk nieuwsmedium op het internet een *cruciale inkomstenbron* zijn.h3. Een nieuw soort medium: als volgt!
+
+En ik pleit ervoor om die inkomstenbron aan te spreken. Want als je als journalist écht gelooft dat je schrijft voor de glorie van de natie, dan werk je als volgt.
+
+Je hebt een geweldig verhaal over "katholiek lobbywerk":http://www.apache.be/2010/01/vaticaan-verzet-zich-hevig-tegen-europees-holebi-beleid/ . Prachtig.
+
+# Je hangt aan de lijn met een mediapartner, luistert naar hoe ze het stuk van jou willen krijgen (hoeveel tekens, welk formaat, zijn er "foto's":http://www.thehyperlocalist.com/2010/05/26/still-life-with-money/ nodig) en je schrijft dat.
+# Je spreekt af dat er een sperperiode is: het staat 's ochtendsvroeg in de krant, en om 13u 's middags mag je het zelf publiceren.
+# Hup, stuk afgewerkt. Ondertussen begin je voor te bereiden hoe je het nieuws wil brengen op Twitter en Facebook.
+# Je begint ondertussen ook te schrijven aan een kleine update voor de *wikipagina* over het Vaticaan, om dit nieuws in te werken.
+# Je denkt na of je geen *achtergrondstuk* kan schrijven, voor lezers die meer willen weten nadat ze het nieuws vernemen (in de krant, in een magazine of op je eigen website)
+
+De krant heeft een goed verhaal, en lezers zijn er tuk op. Ze zijn tevreden. Jij hebt eventjes met je duimen moeten draaien: de mediapartner heeft verdorie al je trafiek afgepakt. _Maar_ , ho, kijk!
+
+# Tegen 's avonds stromen de reacties binnen op je artikel, dat ondertussen ook al bij jou online staat.
+# De volgende dagen, zo merk je in Google Analytics, komen heel wat mensen terecht op je site met zoektermen als 'Vaticaan holebi', omdat ze toch wat meer willen weten over de hele affaire.
+# Na een week sterft die trafiek, maar dan moet de " _long tail_ ":http://www.wired.com/wired/archive/12.10/tail.html nog komen: heel het volgende jaar komt iedereen die iets wil weten over die affaire of de betrokken personen, via Google bij jou terecht. Jij hebt er immers de beste informatie over, omdat je zoveel werk hebt gestoken in je achtergrondverhaal en je wikipagina's. Jij krijgt die trafiek, niet bij de krant die het papieren stuk publiceerde.
+
+En omdat je natuurlijk een pak meer weet over de kwestie en over de actoren dan er plaats beschikbaar was in het artikel, schrijven die achtergrondstukken en wikipagina's eigenlijk zichzelf. 't Is gewoon een kwestie *je kennis neer te pennen* . En als een krant of magazine later een retrospectieve wil, of een breder stuk, dan komen ze weer bij jou aankloppen en dan verdien je er nog een tweede keer en een derde keer aan.
+
+Je levert belangrijk werk en je bereikt het grootst mogelijke aantal lezers. Je hebt een eigen website met een geëngageerd nichepubliek. Je maakt naam. Je verdient geld aan die website, maar 't is okee als dat niet voldoende is om van te leven: de helft van je inkomsten komt uit copyrights. 't Leven kan mooi zijn.
+
+Dus "win het verhaal, niet de primeur.":http://www.newsless.org/2009/09/five-concrete-steps-to-improving-the-news/

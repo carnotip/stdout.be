@@ -1,0 +1,70 @@
+{% load compress %}
+{% load i18n %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html>
+	<head>
+		<title>stdout.be{% block title %} | about information architecture and the media industry{% endblock %}</title>
+		{% block feeds %}
+		{% endblock %}
+        {% block scripts-async %}
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <script type="text/javascript">
+            /*
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-12933299-1']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_setDomainName', 'stdout.be']);
+            
+            (function() {
+            var ga = document.createElement('script');
+            ga.src = ('https:' == document.location.protocol ?
+                'https://ssl' : 'http://www') +
+                '.google-analytics.com/ga.js';
+            ga.setAttribute('async', 'async');
+            document.documentElement.firstChild.appendChild(ga);
+            })();
+            */
+        </script>
+        <script type="text/javascript" src="http://use.typekit.com/uwo6abd.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        {% endblock %}
+        {% compress css xhtml %}
+        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/base.sass" />
+        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/homepage.sass" />
+        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/blog.sass" />
+        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/reviews.sass" />
+        {% endcompress %}
+	</head>
+	{% get_current_language as LANGUAGE_CODE %}
+	<body class="{{ LANGUAGE_CODE }} {% block pagetype %}{% endblock %}">
+        <div id="main">
+            <div id="header" class="centered">
+                <a href="/" class="avatar"><img src="{{ MEDIA_URL }}img/me.jpg" /></a>
+                <div class="nav">
+                    <ul id="language" class="inline">
+                        <li><a href="{{ equivalent_page.nl }}" class="nl-be">NL</a></li>
+                        <li><a href="{{ equivalent_page.en }}" class="en-us">EN</a></li>
+                    </ul>
+                    {% include "inc.menu.html" %}
+                </div>
+                <p class="title"><a href="/">stdout.be</a></p>
+            {% block header %}
+            {% endblock %}
+        </div>
+        {% block body %}
+        <div class="centered">
+            <p>This is an empty page.</p>        
+        </div>
+        {% endblock %}
+        </div>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+        {% block scripts %}
+        <script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.inview.js"></script>
+        <script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.url.packed.js"></script>
+        <script type="text/javascript" src="{{ MEDIA_URL }}js/scripts.js"></script>
+        {% endblock %}
+	</body>
+</html>
