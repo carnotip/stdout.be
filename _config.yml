@@ -4,11 +4,11 @@ server:      false
 server_port: 4000
 
 source:      .
-exclude      ./_director
+exclude      
+    - ./_director
+    - ./nginx.conf
 destination: ./_site
 plugins:     ./_plugins
-
-permalinks:  pretty
 
 future:      true
 lsi:         false
