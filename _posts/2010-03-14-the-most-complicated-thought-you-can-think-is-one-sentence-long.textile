@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Joel Spolsky
+canonical: http://www.joelonsoftware.com/items/2010/03/14.html
+---
+
+Although I appreciate that many people find Twitter to be valuable, I find it a truly awful way to exchange thoughts and ideas. It creates a mentally stunted world in which the most complicated thought you can think is one sentence long. It’s a cacophony of people shouting their thoughts into the abyss without listening to what anyone else is saying. Logging on gives you a page full of little hand grenades: impossible-to-understand, context-free sentences that take five minutes of research to unravel and which then turn out to be stupid, irrelevant, or pertaining to the television series Battlestar Galactica. I would write an essay describing why Twitter gives me a headache and makes me fear for the future of humanity, but it doesn’t deserve more than 140 characters of explanation, and I’ve already spent 820.

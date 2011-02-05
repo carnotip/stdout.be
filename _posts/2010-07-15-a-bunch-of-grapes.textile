@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Steve Buttry
+canonical: http://stevebuttry.wordpress.com/2010/07/15/academics-measure-new-media-again-by-old-media-yardstick/
+---
+
+Especially if you’re studying whether citizens could “replace” old media, you need to look at the full citizen effort. The cliché of bad comparisons is that you’re comparing apples to oranges. This is more like comparing an apple to a grape. A grape will never replace an apple. But a bunch of grapes might provide similar or more nutrition, even if one makes a better pie and the other better wine.

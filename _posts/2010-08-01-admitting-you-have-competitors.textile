@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Tristan Harris
+canonical: http://www.tristanharris.com/2010/06/we-dont-have-any-competitors/
+---
+
+So for an entrepreneur, admitting that you have competitors is like admitting that your unique ideas and burning passion are the same as someone else’s. Artists don’t like to think that way, because the whole point is to do something that’s never been done before. Artists never believe that they’re just copying someone else’s work.

@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Brooke Magnanti
+canonical: http://belledejour-uk.blogspot.com/2010_03_01_archive.html#8457655376121928304
+---
+
+Real geeks can't stop doing and thinking what they're doing and thinking. Remuneration for it does not really enter the equation and holidays do not switch it off.

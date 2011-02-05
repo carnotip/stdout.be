@@ -1,0 +1,9 @@
+---
+layout: quote
+language: en
+author: John Paton
+canonical: http://www.buzzmachine.com/2010/01/11/john-paton-on-newspapers-future/
+context: Online opens up new possibilities for print journalism as well, something that's often forgotten.
+---
+
+Saying ‘Print Last’ is not treating the print product “so poorly”. Not changing the print product to reflect how the new news ecology works is, to my mind, treating the print product “poorly”.

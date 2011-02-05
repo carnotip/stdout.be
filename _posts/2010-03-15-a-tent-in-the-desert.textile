@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Christine Meranda
+canonical: http://www.hindsightlabs.com/blog/2010/03/15/jinja2-and-django-4ever/
+---
+
+In the beginning, there was Django, and it was good. But gradually we began to find its paradigms counterintuitive: we disliked the idea of apps and considered the built-in template language pretty crippled. More importantly, we prefer the epically powerful SQLAlchemy to Django’s ORM of Doom, so with the evidence before us, we switched to Pylons and the haven of SQLAlchemy/Jinja, only to discover we had switched from a shitty apartment in Brooklyn to a tent in the desert. No cockroaches, true, but no running water, either. Who really wants to write a thumbnail library? (Apologies to anyone who has actually written a thumbnail library)

@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Seth Godin
+canonical: http://sethgodin.typepad.com/seths_blog/2010/04/failure-success-and-neither.html
+---
+
+The math is magical: you can pile up lots of failures and still keep rolling, but you only need one juicy success to build a career.

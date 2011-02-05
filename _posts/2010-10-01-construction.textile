@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Frank Lloyd Wright
+context: ... and this quote has absolutely no practical relevance for software development, even though some people would think so.
+---
+
+You can use an eraser on the drafting table or a sledgehammer on the construction site.

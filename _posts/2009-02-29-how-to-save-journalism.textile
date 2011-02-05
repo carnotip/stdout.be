@@ -1,0 +1,9 @@
+---
+layout: quote
+language: en
+author: Steve Rhodes
+canonical: http://www.beachwoodreporter.com/column/the_monday_papers_142.php
+context: A hyperlink, that is.
+---
+
+If you haven't ever made a link, you have no business being within 500 miles of any "town hall" on how to save journalism.

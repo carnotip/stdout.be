@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Salvatore Sanfilippo
+canonical: http://antirez.com/post/one-year-of-redis.html
+---
+
+Other times you instead feel like the feature request is ok, general enough, not too hard to implement, and there are no good ways to address the problem in some other way: this may be a good feature to implement, and yet it is a good idea to wait a a few weeks at least, to see if after some time the addition appears to be still good. Basically every non trivial feature should stay in the TODO list some time before to get implemented.

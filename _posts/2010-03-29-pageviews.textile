@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: John Gruber
+canonical: http://daringfireball.net/linked/2010/03/29/pageviews
+---
+
+Be careful of the “everyones” who say pageviews are imperfect but the best we can do. They’re the ones who are happy with the web as a market for bullshit.

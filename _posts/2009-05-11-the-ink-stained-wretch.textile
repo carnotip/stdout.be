@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Dan Conover
+canonical: http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html
+---
+
+Journalism is a profession for storytellers, and our newsroom culture celebrates romantic myths that are generally hostile to structure. We enjoy jockeying with authority, poking bureaucrats and annoying anal-retentive city editors. Few journalists are good with numbers, and we don't see that as a weakness. It's all part of a rebellious "ink-stained wretch" identity that hasn't reflected reality in at least a generation, if in fact it ever did.

@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Christopher K. Sopher
+canonical: http://www.niemanlab.org/2010/08/the-kids-are-alright-how-news-organizations-can-tap-the-vast-potential-of-younger-consumers/
+---
+
+Most sectors of journalism thought have rejected the bimodal theory of news: either it’s inherently boring but deeply important (town council minutes) or entertaining but inane (Lindsey Lohan updates). Yet for some reason the assumption of bifurcation continues to pervade news outlets’ discussion of young people: Journalist types implore young people to eat more broccoli, while most news organizations’ efforts to reach young people assume they’re only interested in candy.

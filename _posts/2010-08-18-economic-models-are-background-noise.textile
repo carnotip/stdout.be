@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Paul Rissen
+canonical: http://www.r4isstatic.com/?p=90
+---
+
+The whole debate around economic models for news on the Web is important, probably, but for me, again, it’s just background noise. It’s like we’ve discovered electricity, and instead of experimenting and investigating its properties, uses and opportunities, we’re sitting around debating how to bill people for their use of it.

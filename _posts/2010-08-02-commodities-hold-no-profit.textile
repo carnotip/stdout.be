@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Matthew Ingram
+canonical: http://gigaom.com/2010/08/02/hey-newspaper-paywall-fans-news-is-not-like-hbo-or-talk-radio/
+---
+
+The reality is that most of what newspapers offer is a commodity product, something that has a relatively short shelf life and therefore is difficult to sell as unique or different. Until newspapers solve that problem, their paywall attempts are likely doomed.

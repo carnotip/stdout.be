@@ -1,0 +1,10 @@
+---
+layout: quote
+language: en
+author: Tim Berners-Lee
+canonical: http://www.w3.org/DesignIssues/RDFnot.html
+---
+
+The concept of machine-understandable documents does not imply some magical artificial intelligence which allows machines to comprehend human mumblings. It only indicates a machine's ability to solve a well-defined problem by performing well-defined operations on existing well-defined data.
+
+We remove the centralized concepts of absolute truth, total knowledge, and total provability, and see what we can do with limited knowledge.

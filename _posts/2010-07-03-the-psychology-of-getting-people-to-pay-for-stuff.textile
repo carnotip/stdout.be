@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Steve Yelvington
+canonical: http://charman-anderson.com/2010/07/03/honesty-in-the-age-of-the-paywall/
+---
+
+You could pick a random street vendor out of a Bangkok bazaar and find a more sophisticated understanding of the psychology of getting people to pay for stuff than you get from the people running most of the world’s newspaper companies who think they are going to “make” people pay for content.

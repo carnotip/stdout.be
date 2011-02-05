@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Seth Godin
+canonical: http://sethgodin.typepad.com/seths_blog/2010/04/when-a-stranger-reads-your-blog.html
+---
+
+Every interaction might be the whole thing.

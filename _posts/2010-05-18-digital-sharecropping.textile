@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Kellan Elliott-McCrea 
+canonical: http://laughingmeme.org/2010/05/18/minimal-competence-data-access-data-ownership-and-sharecropping/
+---
+
+With Flickr you can get out, via the API, every single piece of information you put into the system. [...] Asking people to accept anything else is sharecropping. It’s a bad deal. Flickr helped pioneer “Web 2.0″, and personal data ownership is a key piece of that vision. Just because the wider public hasn’t caught on yet to all the nuances around data access, data privacy, data ownership, and data fidelity, doesn’t mean you shouldn’t be embarrassed to be failing to deliver a quality product.

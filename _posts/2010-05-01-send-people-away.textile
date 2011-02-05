@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Dave Winer
+canonical: http://www.scripting.com/2005/12/12.html#howToMakeMoneyOnTheInternetVersion3
+---
+
+People come back to places that send them away. Memorize that one.

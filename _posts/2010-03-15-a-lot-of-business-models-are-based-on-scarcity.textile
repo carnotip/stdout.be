@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Jeremy Littau
+canonical: http://www.jlittau.net/?p=896
+---
+
+We use free information sharing to create public goods through better efficiency, but at some point it’s going to trip over business models that depend on the problem not being solved. Abundance of information, in this case, breaks a lot of business models based on scarcity.

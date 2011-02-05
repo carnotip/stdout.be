@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Tim O'Reilly
+canonical: http://www.inc.com/magazine/20100501/the-oracle-of-silicon-valley_pagen_2.html
+---
+
+Yes, most entrepreneurs want to make money, but they are perfectly happy without making billions of dollars a year. They are not predators; they are farmers.

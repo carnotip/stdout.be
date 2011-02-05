@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Paul Graham
+canonical: http://www.paulgraham.com/opensource.html
+---
+
+Those in the print media who dismiss the writing online because of its low average quality are missing an important point: no one reads the average blog. In the old world of channels, it meant something to talk about average quality, because that's what you were getting whether you liked it or not. But now you can read any writer you want. So the average quality of writing online isn't what the print media are competing against. They're competing against the best writing online.

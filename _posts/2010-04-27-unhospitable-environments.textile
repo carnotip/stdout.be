@@ -1,0 +1,8 @@
+---
+layout: quote
+language: en
+author: Ann Danylkiw
+canonical: http://www.currybet.net/cbet_blog/2010/04/young_journalist_interviews_4.php
+---
+
+What has surprised me is the closed nature of media establishments, the lack of willingness to work with new journalists, especially in terms of mentoring. But at the same time, I’m not certain I’m better off without it for the simple reason that it seems like so many people in the media don’t 'get' new media. But even within organizations that 'get' new media, they are very closed and very negative to anyone who is just starting out.
