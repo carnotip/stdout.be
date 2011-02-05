@@ -1,0 +1,107 @@
+body.blogpost h1 {
+  color: #ca2c6f; }
+
+div#summary {
+  background: #eeeeee;
+  padding: 25px 0; }
+  div#summary p {
+    margin-bottom: 0; }
+  div#summary strong {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: 10pt;
+    line-height: 1;
+    margin: 0.35em 0;
+    border-left: 16px solid #999999;
+    padding-left: 16px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+    margin-right: 10px; }
+
+div#prevnext {
+  position: relative;
+  width: 960px;
+  margin: 0 auto; }
+  div#prevnext div.content {
+    margin-left: 90px;
+    width: 780px;
+    display: inline-block; }
+  div#prevnext div.prev, div#prevnext div.next {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: 40pt;
+    line-height: 1;
+    margin: 0.35em 0;
+    position: absolute;
+    top: 50%;
+    height: 64px;
+    margin-top: -32px;
+    color: #aaaaaa;
+    display: inline-block;
+    width: 90px; }
+  div#prevnext div.prev a, div#prevnext div.next a {
+    padding: 5px;
+    text-decoration: none; }
+  div#prevnext div.prev a:hover, div#prevnext div.next a:hover {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background: white; }
+
+div.comment {
+  margin-bottom: 20px; }
+  div.comment p:last-child {
+    margin-bottom: 0; }
+div.comment-about {
+  font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+  font-size: auto;
+  line-height: 1;
+  margin: 0.35em 0; }
+div.comment-meta {
+  font-weight: bold;
+  margin-bottom: 30px; }
+div.comment-content p {
+  font-size: 17px;
+  line-height: 1.7; }
+div.comment-about {
+  text-align: right;
+  width: 100px;
+  display: inline-block;
+  vertical-align: top; }
+div.comment-content {
+  padding-left: 20px;
+  margin-left: 20px;
+  border-left: 1px solid #dddddd;
+  width: 480px;
+  display: inline-block; }
+div.comment-author {
+  font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+  font-size: 16pt;
+  line-height: 1;
+  margin: 0.35em 0; }
+div#comments {
+  margin-bottom: 20px; }
+div.by-author div.comment-content {
+  border-left: 1px dotted #ca2c6f; }
+div.by-author div.comment-author {
+  color: #ca2c6f; }
+
+div#post div {
+  width: 550px;
+  padding-right: 30px;
+  border-right: 1px solid #d4d4d4; }
+div#post p, div#post li {
+  font-size: 17px;
+  line-height: 1.7; }
+
+ul#categories {
+  padding: 0; }
+  ul#categories li {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: auto;
+    line-height: 1;
+    margin: 0.35em 0;
+    display: inline-block;
+    list-style-type: none;
+    margin-bottom: 0; }
+    ul#categories li a {
+      background: white; }

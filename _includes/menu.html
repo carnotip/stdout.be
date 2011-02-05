@@ -1,0 +1,13 @@
+<ul class="menu top inline">
+{% if language == 'en' %}
+    <li><a href="/en/" class="blog">→ blog</a></li>
+    <li><a href="/en/services" class="work">→ services</a></li>
+    <li><a href="/en/reviews/review" class="contact">→ get in touch</a></li>
+    <li><a href="/en/about-me" class="about-me">→ about me</a></li>
+{% else %}
+    <li><a href="/nl/" class="blog">→ blog</a></li>
+    <li><a href="/nl/werk" class="work">→ diensten</a></li>
+    <li><a href="/nl/contacteer-me" class="contact">→ contacteer me</a></li>
+    <li><a href="/nl/over-mij" class="about-me">→ over mij</a></li>
+{% endifequal %}
+</ul>

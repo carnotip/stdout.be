@@ -1,0 +1,40 @@
+ul#projects li {
+  list-style-type: none;
+  margin-bottom: 15px; }
+
+div#writing ul {
+  padding: 0; }
+div#writing li {
+  list-style-type: none; }
+div#writing td:first-child {
+  text-align: right; }
+div#writing table {
+  font-size: 13pt; }
+div#writing td {
+  padding-bottom: 10px; }
+div#writing table td:last-child a {
+  text-decoration: none;
+  border-bottom: 1px dotted; }
+
+a.badge {
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+  font-size: 11pt;
+  line-height: 1;
+  margin: 0.35em 0;
+  padding: 1px 4px;
+  color: white;
+  text-transform: uppercase;
+  margin-right: 10px; }
+  a.badge.blog {
+    background: #333333; }
+  a.badge.guestpost {
+    background: #3ca062; }
+  a.badge.print {
+    background: #62a6ae; }
+  a.badge.comment {
+    background: #999999; }
+  a.badge.review {
+    background: #99aa64; }

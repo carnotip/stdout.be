@@ -8,11 +8,12 @@ exclude      ./_director
 destination: ./_site
 plugins:     ./_plugins
 
+permalinks:  pretty
+
 future:      true
 lsi:         false
 pygments:    true
 markdown:    maruku
-permalink:   /:language/:year/:title
 
 rdiscount:
   extensions: []

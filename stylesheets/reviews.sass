@@ -1,0 +1,70 @@
+@import "constants"
+
+body.review 
+  div.content
+    display: inline-block
+    vertical-align: top
+    width: 450px
+  
+  p.section
+    @include netto
+    text-transform: uppercase
+    background: $silver
+    padding: 10px
+  
+  h1
+    text-transform: none
+    line-height: 1.4
+    
+  div#review p
+    font-size: 16px
+
+div#infocard
+  display: inline-block
+  vertical-align: top
+  width: 280px
+  margin-left: 20px
+  
+  p#lowdown
+    font-size: 16px
+
+p#score
+  padding-top: 10px
+
+  @include netto(16px)
+  letter-spacing: 2px
+  text-transform: uppercase
+  color: $cerise
+
+  &:after
+    margin-left: 10px
+    position: relative
+
+  &.good:after
+    top: 5px
+    content: url('../img/love.png')
+
+  &.okay:after
+    content: url('../img/like.png')
+
+  &.bad:after
+    content: url('../img/not.png')
+
+p#purchase
+  @include netto
+  
+  padding: 10px 0 12px 0
+  border: solid darken($silver, 10%)
+  border-width: 1px 0
+
+  a
+    @include radius(5px)
+    background: $blue
+    color: white
+    text-decoration: none
+    padding: 1px 3px
+    text-transform: uppercase
+    font-size: 11pt
+    
+    &:hover
+      background: $babyblue

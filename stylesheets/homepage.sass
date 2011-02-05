@@ -1,0 +1,41 @@
+@import "constants"
+
+ul
+  &#projects li
+    list-style-type: none
+    margin-bottom: 15px
+    
+div#writing
+  ul
+    padding: 0
+  li
+    list-style-type: none
+  td:first-child
+    text-align: right
+  table
+    font-size: 13pt
+  td
+    padding-bottom: 10px
+  table td:last-child a
+    text-decoration: none
+    border-bottom: 1px dotted
+
+
+
+a.badge
+  @include radius(4px)
+  @include netto(11pt)
+  padding: 1px 4px
+  color: white
+  text-transform: uppercase
+  margin-right: 10px
+  &.blog
+    background: #333
+  &.guestpost
+    background: #3ca062
+  &.print
+    background: #62a6ae
+  &.comment
+    background: $gray
+  &.review
+    background: #99aa64

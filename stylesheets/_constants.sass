@@ -1,0 +1,31 @@
+@mixin netto($size: auto)
+  font-family: "ff-netto-web-1","ff-netto-web-2", sans-serif
+  font-size: $size
+  line-height: 1
+  margin: 0.35em 0
+
+@mixin radius($size)
+  border-radius: $size
+  -moz-border-radius: $size
+  -webkit-border-radius: $size
+
+@mixin compact
+  padding: 0
+  margin: 0
+  
+@mixin hz
+  padding-left: 0
+  display: inline-block
+
+  li
+    list-style-type: none
+    display: inline-block
+
+$silver = #eee
+$gray = #999
+$blue = #1d53c2
+$babyblue = #3e79f1
+$blond = #ffd
+$lemon = #ffa
+$yellow = #ff3
+$cerise = #ca2c6f

@@ -1,0 +1,112 @@
+@import "constants"
+
+body.blogpost h1
+  color: $cerise
+
+div#summary
+  background: $silver
+  padding: 25px 0
+  
+  p
+    margin-bottom: 0
+    
+  strong
+    @include netto(10pt)
+    border-left: 16px solid $gray
+    padding-left: 16px
+    letter-spacing: 1px
+    text-transform: uppercase
+    color: $gray
+    margin-right: 10px
+
+div#prevnext
+  position: relative
+  width: 960px
+  margin: 0 auto
+  
+  div.content
+    margin-left: 90px
+    width: 780px
+    display: inline-block
+      
+  div.prev, div.next
+    @include netto(40pt)
+    position: absolute
+    top: 50%
+    height: 64px
+    margin-top: -32px
+    color: #aaa
+    display: inline-block
+    width: 90px
+    
+  div.prev, div.next
+    a
+      padding: 5px
+      text-decoration: none
+    a:hover
+      @include radius(5px)
+      background: white
+
+div
+  &.comment
+    margin-bottom: 20px
+    p:last-child
+      margin-bottom: 0
+      
+  &.comment-about
+    @include netto
+    
+  &.comment-meta
+    font-weight: bold
+    margin-bottom: 30px
+    
+  &.comment-content p
+    font-size: 17px
+    line-height: 1.7
+    
+  &.comment-about
+    text-align: right
+    width: 100px
+    display: inline-block
+    vertical-align: top
+    
+  &.comment-content
+    padding-left: 20px
+    margin-left: 20px
+    border-left: 1px solid #ddd
+    width: 480px
+    display: inline-block
+    
+  &.comment-author
+    @include netto(16pt)
+    
+  &#comments
+    margin-bottom: 20px
+    
+  &.by-author div
+    &.comment-content
+      border-left: 1px dotted $cerise
+      
+    &.comment-author
+      color: $cerise
+
+div#post
+  div
+    width: 550px
+    padding-right: 30px
+    border-right: 1px solid darken($silver, 10%)
+    
+  p, li
+    font-size: 17px
+    line-height: 1.7
+
+ul#categories
+  padding: 0
+  li
+    @include netto
+    display: inline-block
+    list-style-type: none
+    margin-bottom: 0
+    
+    a
+      background: white
