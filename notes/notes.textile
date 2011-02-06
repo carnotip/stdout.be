@@ -1,0 +1,271 @@
+---
+layout: thing
+language: en
+name: Django
+---
+
+django
+
+---
+layout: thing
+language: en
+name: Drupal
+---
+
+drupal
+
+---
+layout: person
+language: en
+name: Jeff Jarvis
+---
+
+jeff-jarvis
+
+---
+layout: person
+language: en
+name: Matt Thompson
+---
+
+matt-thompson
+
+---
+layout: person
+language: en
+name: Jay Rosen
+---
+
+jay-rosen
+
+---
+layout: person
+language: en
+name: Geert Buelens
+---
+
+geert-buelens
+
+---
+layout: person
+language: en
+name: Steve Yelvington
+---
+
+steve-yelvington
+
+---
+layout: person
+language: en
+name: Stijn Fockedey
+---
+
+stijn-fockedey
+
+---
+layout: thing
+language: en
+name: wikipedia
+---
+
+wikipedia
+
+---
+layout: thing
+language: en
+name: RDF
+---
+
+rdf
+
+---
+layout: person
+language: en
+name: Seth Godin
+---
+
+seth-godin
+
+---
+layout: person
+language: en
+name: Adrian Holovaty
+---
+
+adrian-holovaty
+
+---
+layout: person
+language: en
+name: Chuck Peters
+---
+
+chuck-peters
+
+---
+layout: organization
+language: en
+name: IPTC
+---
+
+iptc
+
+---
+layout: organization
+language: en
+name: NPR
+---
+
+npr
+
+---
+layout: person
+language: en
+name: Daniel Jacobson
+---
+
+daniel-jacobson
+
+---
+layout: person
+language: en
+name: Dave Winer
+---
+
+dave-winer
+
+---
+layout: person
+language: en
+name: Peter Morville
+---
+
+peter-morville
+
+---
+layout: person
+language: en
+name: Eric Evans
+---
+
+eric-evans
+
+---
+layout: person
+language: en
+name: Dan Roam
+---
+
+dan-roam
+
+---
+layout: person
+language: en
+name: Lauren Rabaino
+---
+
+lauren-rabaino
+
+---
+layout: person
+language: en
+name: Daniel Bachhuber
+---
+
+daniel-bachhuber
+
+---
+layout: person
+language: en
+name: Amy Gahran
+---
+
+amy-gahran
+
+---
+layout: person
+language: en
+name: 37signals
+---
+
+37signals
+
+---
+layout: person
+language: en
+name: Anton Vowl
+---
+
+anton-vowl
+
+---
+layout: person
+language: en
+name: Paul Graham
+---
+
+paul-graham
+
+---
+layout: person
+language: en
+name: Judy Sims
+---
+
+judy-sims
+
+---
+layout: organization
+language: nl
+name: Hack de Overheid!
+---
+
+hack-de-overheid
+
+---
+layout: person
+language: en
+name: Steve Buttry
+---
+
+steve-buttry
+
+---
+layout: person
+language: en
+name: SourceMedia Group
+---
+
+sourcemedia-group
+
+---
+layout: person
+language: en
+name: Tim McDougall
+---
+
+tim-mcdougall
+
+---
+layout: person
+language: en
+name: Becky Lutgen Gardner
+---
+
+becky-lutgen-gardner
+
+---
+layout: person
+language: en
+name: Roularta
+---
+
+roularta
+
+---
+layout: person
+language: en
+name: Dan Conover
+---
+
+dan-conover

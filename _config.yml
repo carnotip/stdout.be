@@ -7,7 +7,7 @@ source:      .
 exclude      
     - ./_director
     - ./nginx.conf
-destination: ./_site
+destination: ./public
 plugins:     ./_plugins
 
 future:      true
