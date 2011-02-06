@@ -1,0 +1,43 @@
+## category descriptions ##
+
+# coding
+
+I've been coding in Django since 1.0, and did a lot of stuff in PHP/Drupal before that. I've done a lot of InDesign automation scripts in ExtendScript as well. I have some stuff up on <a href="">GitHub</a>. I don't share my experiences and code as much as I should, but I try.
+
+--
+
+~~~~~~
+
+De meeste van mijn schrijfsels over programmeerwerk verschijnen in het Engels.
+
+# journalism
+
+I was editor-in-chief at the local student newspaper during my senior year in college. I got my love for writing there. But my fascination with the future of the media actually came a bit later, when I did a stint at a new media startup here in Flanders.
+
+I can be a bit snarky when I write about journalism and journalists, but it's all in good faith.
+
+# information architecture
+
+Information architecture is still a pretty new field and everyone pretty much defines it however they want to. While some people see it more <a href="http://stdout.be/2010/are-information-architects-ux-designers/">as a subdomain of user experience design</a>. I put more emphasis on how information is structured and how it flows through systems. <em>Architecture</em> is about more than just how things look and feel.
+
+--
+
+~~~ 
+
+De meeste van mijn schrijfsels over informatie-architectuur verschijnen in het Engels.
+
+# open data
+
+Ik heb zelf een paar jaar geleden nog meegewerkt aan de online stadsgids <a href="">Gent Verkend</a>, en laat het me zeggen: moesten overheden en instellingen een deeltje van hun data openstellen aan het publiek, je zou vonken zien. Voorlopig blijft het maar wat aanmodderen, zeker als je vergelijkt met wat ze in de VS al doen. Maakt het niet minder boeiend, natuurlijk.
+
+# business & management
+
+Most people don't exactly grow up wanting to be managers. Very few people have the urge to start their own business. But it kinda grows on you.
+
+# inspirational
+
+I'm a complete sucker for well-written self-help literature. It's incredibly easy to descend into vagueries and new age foolishness, which makes the good stuff stand out even more.
+
+# personal
+
+Doesn't happen too often, but sometimes you'll see a more personal blogpost on stdout.be. Most of the quirky stuff is tucked away at <a href="">Dr. Livingstone, I presume?</a>, though.
