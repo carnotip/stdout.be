@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - coding
 author: Christine Meranda
 canonical: http://www.hindsightlabs.com/blog/2010/03/15/jinja2-and-django-4ever/
 ---

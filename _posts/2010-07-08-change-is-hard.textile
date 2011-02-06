@@ -2,7 +2,9 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
+    - business
+    - personal
 tags:
     - en
     - context

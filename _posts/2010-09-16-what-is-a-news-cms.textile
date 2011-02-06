@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - information architecture
 canonical: http://www.maxcutler.com/2010/09/13/what-is-a-news-cms/comment-page-1#comment-128     
 title: What is a (news) CMS
 context: Are web CMSes antithetical to multi-channel publishing and structured data formats, or are we just using them wrong?

@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: nl
+categories:
+    - journalism
+    - coding
 canonical: http://www.nijst.org/2009/11/15/de-technologie-van-titanics-versus-the-huffington-post/#comment-2479
 title: De technologie van ‘Titanics’ versus The Huffington Post & Talking Points Memo
 ---

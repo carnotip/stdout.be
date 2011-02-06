@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - personal
 canonical: http://www.buzzmachine.com/2010/05/20/public-parts/#comment-414519                    
 title: Public Parts
 context: In reply to Gary Arndt asking "Isn’t writing another dead tree book with old media company and a paywall exactly the same thing you rail against newspapers for doing?"

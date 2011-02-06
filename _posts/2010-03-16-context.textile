@@ -2,7 +2,8 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
+    - inormation architecture
 tags:
     - nl
     - Newsless

@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - information architecture
 canonical: http://www.usit.com.au/2010/06/02/sociality-and-search/#respond                       
 title: Sociality and Search
 context: In response to Scott Bryant's disappointment that I didn't mention social search in my April IA series.

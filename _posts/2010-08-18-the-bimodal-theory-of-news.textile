@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
+    - society
 author: Christopher K. Sopher
 canonical: http://www.niemanlab.org/2010/08/the-kids-are-alright-how-news-organizations-can-tap-the-vast-potential-of-younger-consumers/
 ---

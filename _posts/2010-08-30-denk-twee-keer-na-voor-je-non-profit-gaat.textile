@@ -2,7 +2,8 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
+    - business
 tags:
     - nl
     - succes

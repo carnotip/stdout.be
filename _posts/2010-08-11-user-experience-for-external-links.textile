@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - journalism
+    - information architecture
 canonical: http://www.currybet.net/cbet_blog/2010/08/external-news-links-user-experience.php#comment-5744
 title: External links from news sites - what should the user experience be?
 ---

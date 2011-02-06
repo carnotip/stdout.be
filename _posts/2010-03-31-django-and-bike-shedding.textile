@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
+    - coding
 author: smulloni
 canonical: http://www.reddit.com/r/django/comments/bhvhz/the_onion_uses_django_and_why_it_matters_to_us/
 context: Detailing The Onion's switch from Drupal to Django

@@ -1,6 +1,10 @@
 ---
 layout: quote
 language: en
+categories:
+    - business & management
+    - inspirational
+    - society
 author: Dave Winer
 canonical: http://www.scripting.com/2005/12/12.html#howToMakeMoneyOnTheInternetVersion3
 ---

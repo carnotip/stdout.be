@@ -2,7 +2,10 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
+    - coding
+    - society
+    - inspirational
 tags:
     - en
     - Paul Nus
@@ -15,7 +18,7 @@ summary:
     Our methods of newsgathering have hardly changed in the last century. The web has given every single person with an internet connection the same research tools as reporters. Time to change that around again.
 ---
 
-I had an interesting conversation with "Max Cutler":http://twitter.com/maxcutler and "Daniel Bachhuber":http://www.danielbachhuber.com/ last weekend about machine learning. There's been an explosion of websites that provide some form of curation using trend tracking. "Mediagazer":http://www.mediagazer.com/ . "Viewsflow":http://www.viewsflow.com/ . "Loud3r":http://www.loud3r.com/ . "The Hourly Press":http://hourlypress.com/ .
+I had an interesting conversation with "Max Cutler":http://twitter.com/maxcutler and "Daniel Bachhuber":http://www.danielbachhuber.com/ last weekend about machine learning. There's been an explosion of websites that provide some form of curation using trend tracking. "Mediagazer":http://www.mediagazer.com/. "Viewsflow":http://www.viewsflow.com/ . "Loud3r":http://www.loud3r.com/ . "The Hourly Press":http://hourlypress.com/.
 
 Now, I happen to think automated trend tracking is incredibly cool, if only because it upsets the heck out of music reporters who used to trick us into believing they had some sort of a superhuman grip on reality, whereas apparently they were just following three or four different websites to track down "the next big thing". Sucks to be you, guys.
 
@@ -23,7 +26,7 @@ But anyway. Automated trend tracking is cool, but it's also disappointing, borin
 
 Readers want to know what everybody else is talking about, and join the debate. So tracking what's hot is, well, cool. But instead of the bazillionth trend tracking app, I'd much rather see a tool that would use aggregation, machine learning and natural language processing to crawl the far outreaches of the web and spot obscure but valuable news or opinions that could enhance existing coverage. Like a robot army of researchers for every reporter, working 24/24 to suggest new angles and exciting topics we've missed. Topics _everyone_ has missed. That _one_ interesting commentary from an otherwise incredibly dreary blog that nobody would ever want to put in their RSS reader.
 
-* An aggregation tool like "Superfeedr":http://superfeedr.com/ , combined with "Yahoo! BOSS":http://developer.yahoo.com/search/boss/ , could provide the raw content from feeds, from Twitter, from all over the web.
+* An aggregation tool like "Superfeedr":http://superfeedr.com/ , combined with "Yahoo! BOSS":http://developer.yahoo.com/search/boss/, could provide the raw content from feeds, from Twitter, from all over the web.
 * Natural language analysis using the "NLTK":http://www.nltk.org/ and "Open Calais":http://www.opencalais.com/ would ascertain for each piece of incoming content whether it belongs in one of the topical areas our news org covers, and if not, throw it away.
 * Machine learning using "PyBrain":http://pybrain.org/ or the "Google Prediction API":http://code.google.com/apis/predict/ could give a rough estimate of how interesting this piece of news is, based on previous coverage — similar to "how":http://www.google.com/support/reader/bin/answer.py?answer=80468&cbid=-1a543yd8l3et9&src=cb&lev=index Google Reader's "magic ranking":http://www.google.com/support/reader/bin/answer.py?hl=en&answer=164681 works.
 * The "Google Language API":http://code.google.com/apis/ajaxlanguage/ could do rough translations of content in Spanish, French, Ukrainian, whatever. When tied in with the aforementioned language analysis and machine learning, those translations might hint at fascinating content from across the globe.

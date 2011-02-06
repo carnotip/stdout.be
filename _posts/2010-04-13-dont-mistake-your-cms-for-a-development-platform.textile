@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - coding
+    - journalism
 canonical: http://hackshackers.com/2010/04/13/dont-mistake-your-cms-for-a-development-platform/#comment-44643984
 title: Don't mistake your CMS for a development platform
 ---

@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: nl
+categories:
+    - journalism
+    - information architecture
 canonical: http://maartencorten.wordpress.com/2010/08/01/top-10-‘schoonheidsfoutjes’-nieuwssites/#comment-14
 title: Top 10 'schoonheidsfoutjes' nieuwssites
 ---

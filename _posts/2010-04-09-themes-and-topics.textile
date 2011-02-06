@@ -2,7 +2,8 @@
 layout: post
 language: en
 categories:
-    
+    - information architecture
+    - journalism
 tags:
     - en
     - newspapers

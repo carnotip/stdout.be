@@ -2,7 +2,8 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
+    - information architecture
 tags:
     - en
     - Matt Thompson

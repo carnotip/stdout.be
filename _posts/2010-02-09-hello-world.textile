@@ -2,7 +2,7 @@
 layout: post
 language: en
 categories:
-    
+    - personal
 tags:
     - nl
 title: Een blog, dus

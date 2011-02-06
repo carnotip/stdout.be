@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - inspirational
+    - business & management
 author: Seth Godin
 canonical: http://sethgodin.typepad.com/seths_blog/2010/04/when-a-stranger-reads-your-blog.html
 ---

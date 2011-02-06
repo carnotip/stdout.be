@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - coding
+    - journalism
 canonical: http://blogs.journalism.co.uk/editors/2010/04/29/how-much-computer-science-does-a-journalist-really-need/comment-page-1/#comment-34918
 title: How much computer science does a journalist really need?
 ---

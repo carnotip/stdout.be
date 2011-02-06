@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
+    - business
 author: Steve Yelvington
 canonical: http://charman-anderson.com/2010/07/03/honesty-in-the-age-of-the-paywall/
 ---

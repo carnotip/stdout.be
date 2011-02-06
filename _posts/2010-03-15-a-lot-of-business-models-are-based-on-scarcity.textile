@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - society
+    - business & management
 author: Jeremy Littau
 canonical: http://www.jlittau.net/?p=896
 ---

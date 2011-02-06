@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: nl
+categories:
+    - information architecture
 canonical: http://usability-blog.be/geen-error-404-pagina-bij-google/comment-page-1/#comment-8942
 title: Geen error 404 pagina bij Google?
 ---

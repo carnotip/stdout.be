@@ -1,8 +1,11 @@
 ---
 layout: comment
 language: nl
+categories:
+    - personal
 canonical: http://www.nijst.org/2010/06/01/empathie/comment-page-1/#comment-4268                 
 title: Empathie
+context: Heeft onze generatie een gebrek aan empathie?
 ---
 
 http://www.scottberkun.com/blog/2010/the-deception-of-studies-say/ :-)

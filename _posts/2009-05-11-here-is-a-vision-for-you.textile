@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
 author: Dan Conover
 canonical: http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html
 context: Media execs would rather think about how best to support their current business models, rather than realizing they're fucked and should be striving to create new products and explore new avenues.

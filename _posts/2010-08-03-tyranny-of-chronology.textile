@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - information architecture
+    - journalism
 canonical: http://www.currybet.net/cbet_blog/2010/08/tyranny-of-chronology-slight-return.php#comment-5587
 title: Follow-up journalism? Timeless journalism? It is the tyranny of chronology that gets in the way...
 ---

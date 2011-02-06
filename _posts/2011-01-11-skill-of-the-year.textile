@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - coding
 canonical: http://rc3.org/2011/01/08/2011-skill-of-the-year/comment-page-1/#comment-10311        
 title: 2011 Skill of the Year
 ---

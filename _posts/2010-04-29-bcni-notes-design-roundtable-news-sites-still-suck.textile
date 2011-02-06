@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - information architecture
+    - journalism
 canonical: http://www.laurenmichell.com/2010/04/bcni-notes-design-roundtable-news-sites-still-suck/comment-page-1/#comment-811
 title: BCNI Notes: Design Roundtable “News Sites Still Suck”
 ---

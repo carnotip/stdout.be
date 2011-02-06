@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: nl
+categories:
+    - journalism
+    - business
 canonical: http://www.denieuwereporter.nl/2010/07/innovatie-bij-mediabedrijven-verloopt-in-kleine-stappen/comment-page-1/#comment-282206
 title: Innovatie bij mediabedrijven verloopt in kleine stappen
 ---

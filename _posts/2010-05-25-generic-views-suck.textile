@@ -2,14 +2,7 @@
 layout: post
 language: en
 categories:
-    
-tags:
-    - en
-    - Django
-    - project management
-    - open gov
-    - Hack de Overheid!
-    - Nederland
+    - coding
 title: Generic views suck
 summary:
     

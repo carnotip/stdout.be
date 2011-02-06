@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - inspirational
 author: Seth Godin
 canonical: http://sethgodin.typepad.com/seths_blog/2010/04/failure-success-and-neither.html
 ---

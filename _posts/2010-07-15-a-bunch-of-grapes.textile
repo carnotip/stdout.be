@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
+    - society
 author: Steve Buttry
 canonical: http://stevebuttry.wordpress.com/2010/07/15/academics-measure-new-media-again-by-old-media-yardstick/
 ---

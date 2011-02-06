@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: nl
+categories:
+    - journalism
 canonical: http://maxinestevens.wordpress.com/2010/06/07/kwaliteit-versus-pulp/#comment-374      
 title: Kwaliteit versus pulp
 ---

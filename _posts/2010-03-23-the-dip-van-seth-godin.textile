@@ -3,7 +3,9 @@ layout: review
 rating: bad
 language: en
 categories:
-    
+    - personal
+    - inspirational
+    - business & management
 tags:
     - nl
     - Seth Godin

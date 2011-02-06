@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
 author: Ann Danylkiw
 canonical: http://www.currybet.net/cbet_blog/2010/04/young_journalist_interviews_4.php
 ---

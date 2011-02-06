@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: nl
+categories:
+    - journalism
+    - society
 canonical: http://www.kapingamarangi.be/nucleus/item/2010/04/web-leidt-ons-naar-een-decentrale-maatschappij#1919
 title: Web leidt ons naar een decentrale maatschappij
 ---

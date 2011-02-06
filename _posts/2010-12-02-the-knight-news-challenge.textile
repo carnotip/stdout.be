@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - journalism
+    - society
 canonical: http://www.chryswu.com/blog/2010/12/02/the-knight-news-challenge-from-one-judges-perspective/comment-page-1/#comment-307
 title: The Knight News Challenge, from One Judge's Perspective
 ---

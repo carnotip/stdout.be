@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - coding
 canonical: http://news.ycombinator.com/item?id=2046243                                           
 title: TurboGears joins the Pylons Project
 ---

@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - coding
 author: Brian W. Kernighan
 ---
 

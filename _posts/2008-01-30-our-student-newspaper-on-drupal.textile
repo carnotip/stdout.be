@@ -1,11 +1,14 @@
 ---
 layout: post
 canonical: http://groups.drupal.org/node/8550
+categories:
+    - coding
+    - journalism
 title: Schamper, our student newspaper on Drupal
 summary: We've recently redesigned "our website":http://www.schamper.be, so I took the time to do a small writeup and look back on our switch to Drupal a while ago. Hope you enjoy the read.
 ---
 
-We've recently redesigned "our website":http://www.schamper.be , so I took the time to do a small writeup and look back on our switch to Drupal a while ago. Hope you enjoy the read.
+We've recently redesigned "our website":http://www.schamper.be, so I took the time to do a small writeup and look back on our switch to Drupal a while ago. Hope you enjoy the read.
 
 h2. Making the transit from Textpattern to Drupal
 

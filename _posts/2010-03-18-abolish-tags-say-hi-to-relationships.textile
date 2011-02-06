@@ -1,6 +1,9 @@
 ---
 layout: guest post
 language: en
+categories:
+    - journalism
+    - information architecture
 canonical: http://www.futureofcontext.com/?p=32         
 title: Abolish tags, say hi to relationships                                         
 ---

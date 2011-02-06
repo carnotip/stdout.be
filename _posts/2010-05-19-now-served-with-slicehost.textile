@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - coding
 canonical: http://www.danielbachhuber.com/2010/05/18/now-served-with-slicehost/#comment-1650     
 title: Now served with Slicehost
 ---

@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
+    - information architecture
 author: Dan Conover
 canonical: http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html
 ---

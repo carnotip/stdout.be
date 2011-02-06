@@ -2,7 +2,9 @@
 layout: post
 language: en
 categories:
-    
+    - society
+    - coding
+    - personal
 tags:
     - en
 title: A rumination on blogging

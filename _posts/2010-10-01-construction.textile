@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - inspirational
+    - coding
 author: Frank Lloyd Wright
 context: ... and this quote has absolutely no practical relevance for software development, even though some people would think so.
 ---

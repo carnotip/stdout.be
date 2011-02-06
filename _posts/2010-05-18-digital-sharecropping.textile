@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - society
 author: Kellan Elliott-McCrea 
 canonical: http://laughingmeme.org/2010/05/18/minimal-competence-data-access-data-ownership-and-sharecropping/
 ---

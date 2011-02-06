@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - coding
 author: Luis Pedro Coelho
 canonical: http://www.mutualinformation.org/2010/03/why-i-switched-to-pylons-after-using-django-for-six-months/
 ---

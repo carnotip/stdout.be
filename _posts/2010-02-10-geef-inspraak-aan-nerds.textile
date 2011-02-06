@@ -2,10 +2,7 @@
 layout: post
 language: en
 categories:
-    
-tags:
-    - nl
-    - Coding
+    - journalism
 title: Geef inspraak aan nerds
 summary:
     

@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: nl
+categories:
+    - journalism
 canonical: http://www.nijst.org/2009/12/26/eindredactie-bij-the-new-yorker/#comments         
 title: Eindredactie bij The New Yorker    
 ---

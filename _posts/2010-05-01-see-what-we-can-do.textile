@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - information architecture
 author: Tim Berners-Lee
 canonical: http://www.w3.org/DesignIssues/RDFnot.html
 ---

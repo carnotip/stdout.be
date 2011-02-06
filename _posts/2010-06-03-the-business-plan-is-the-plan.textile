@@ -2,7 +2,8 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
+    - business
 tags:
     - en
     - context
@@ -15,12 +16,12 @@ summary:
     When you get a new project underway, start with a plan on how to get to profitability from day one. Anything else is bullshit.
 ---
 
-I recently had the pleasure of speaking with a bright fellow who works at a news startup. We got to talking about how "disruptive":http://en.wikipedia.org/wiki/Disruptive_technology technology can be for journalism. After some time discussing text mining, semantic annotations and "the subtleties of tagging":/2010/tags-dont-cut-it/ , he said something along the lines of: "Yeah, preaching to the choir here. But we're not going position ourselves as a tech company. I just don't see it happening. So the question for us is, how can we make things work with what we have?" Make things work, as in, make money.
+I recently had the pleasure of speaking with a bright fellow who works at a news startup. We got to talking about how "disruptive":http://en.wikipedia.org/wiki/Disruptive_technology technology can be for journalism. After some time discussing text mining, semantic annotations and "the subtleties of tagging":/2010/tags-dont-cut-it/, he said something along the lines of: "Yeah, preaching to the choir here. But we're not going position ourselves as a tech company. I just don't see it happening. So the question for us is, how can we make things work with what we have?" Make things work, as in, make money.
 
-It's not technology I want to talk about though. Luddites can do good journalism. Slow journalism (think "San Francisco Panorama":http://www.mcsweeneys.net/SFPanoramaPR.html ) is just as important as process-driven reporting and databases and metadata and what-not. The thing that struck a familiar chord was the underlying attitude, shared by many journalists, towards both technology and business acumen. Ardent reporters and editors come up with a plan that describes the newspaper or news website or magazine of their dreams. Subsequently, they go looking for investors, business partners, managers and coders with one question and one question only: "here's the blueprint — will you make this work for me?"
+It's not technology I want to talk about though. Luddites can do good journalism. Slow journalism (think "San Francisco Panorama":http://www.mcsweeneys.net/SFPanoramaPR.html) is just as important as process-driven reporting and databases and metadata and what-not. The thing that struck a familiar chord was the underlying attitude, shared by many journalists, towards both technology and business acumen. Ardent reporters and editors come up with a plan that describes the newspaper or news website or magazine of their dreams. Subsequently, they go looking for investors, business partners, managers and coders with one question and one question only: "here's the blueprint — will you make this work for me?"
 
-"Will you make this work for me?" betrays a way of thinking that embodies a deep dichotomy between _what something should be_ and _how do we turn this into something real_ . And despite their vigor and enthusiasm, that split sets these journalists up for failure even before they get started.
+"Will you make this work for me?" betrays a way of thinking that embodies a deep dichotomy between _what something should be_ and _how do we turn this into something real_. And despite their vigor and enthusiasm, that split sets these journalists up for failure even before they get started.
 
 Beginning with the very first brainstorm sessions, thinking up a new media project (or any other project for that matter) should involve a back-and-forth between _what we want_ and _what is possible_ . Do we have a good idea that would cost an exuberant amount of money? Does it involve insurmountable technical challenges? Okay, let's go back to the drawing board and see whether we can't do 90% of what we want with half the money. Are there some technical opportunities out there that might inform how we conceive of our brain child? Let's not allow those opportunities to pass us by. If you ask these questions, little by little, you'll end up with something great. And just as important: it'll actually work.
 
-Don't just start a project and say, "yeah, we intend to turn a profit within, um, five years". That's just an excuse not to think about the difficult business decisions you _should_ be thinking about. Not two years from now, but _at this very moment_ . When you get a new project underway, start with a plan on how to get to profitability from day one. Anything else is bullshit.
+Don't just start a project and say, "yeah, we intend to turn a profit within, um, five years". That's just an excuse not to think about the difficult business decisions you _should_ be thinking about. Not two years from now, but _at this very moment_. When you get a new project underway, start with a plan on how to get to profitability from day one. Anything else is bullshit.

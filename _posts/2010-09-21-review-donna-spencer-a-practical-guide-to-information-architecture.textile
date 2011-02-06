@@ -3,7 +3,7 @@ layout: review
 rating: bad
 language: en
 categories:
-    
+    - information architecture
 tags:
     - en
     - polyhierarchy

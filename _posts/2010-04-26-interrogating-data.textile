@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - coding
+    - journalism
 canonical: http://onlinejournalismblog.com/2010/04/26/data-journalism-pt2-interrogating-data/comment-page-1/#comment-33993
 title: Interrogating data
 ---

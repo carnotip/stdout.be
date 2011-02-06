@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - journalism
 canonical: http://adamwestbrook.wordpress.com/2010/04/28/getting-kitted-up-again-for-video-journalism/#comment-11688
 title: Getting kitted up (again) for video journalism
 ---

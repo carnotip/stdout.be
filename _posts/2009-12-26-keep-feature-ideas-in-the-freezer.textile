@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - coding
 author: Salvatore Sanfilippo
 canonical: http://antirez.com/post/one-year-of-redis.html
 ---

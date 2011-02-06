@@ -1,5 +1,8 @@
 ---
 layout: guest post
+categories:
+    - journalism
+    - society
 title: Overheidssteun en broccoli-journalistiek
 canonical: http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/
 ---

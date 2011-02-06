@@ -2,7 +2,7 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
 tags:
     - nl
     - context

@@ -2,7 +2,8 @@
 layout: post
 language: en
 categories:
-    
+    - coding
+    - society
 tags:
     - nl
     - authenticiteit

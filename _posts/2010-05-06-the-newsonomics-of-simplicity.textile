@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: en
+categories:
+    - journalism
+    - business & management
 canonical: http://www.niemanlab.org/2010/05/the-newsonomics-of-simplicity/comment-page-1/#comment-110480
 title: The Newsonomics of simplicity
 ---

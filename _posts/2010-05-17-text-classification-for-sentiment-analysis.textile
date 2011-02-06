@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - coding
 canonical: http://streamhacker.com/2010/05/17/text-classification-sentiment-analysis-precision-recall/
 title: Text Classification for Sentiment Analysis
 ---

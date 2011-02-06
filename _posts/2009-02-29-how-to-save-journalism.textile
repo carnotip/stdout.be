@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
 author: Steve Rhodes
 canonical: http://www.beachwoodreporter.com/column/the_monday_papers_142.php
 context: A hyperlink, that is.

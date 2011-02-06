@@ -1,6 +1,8 @@
 ---
 layout: comment
 language: en
+categories:
+    - business & management
 canonical: http://www.niemanlab.org/2010/05/launching-a-site-five-tips-to-get-you-off-on-the-right-foot/comment-page-1/#comment-117223
 title: Launching a site
 ---

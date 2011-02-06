@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - journalism
+    - business
 author: Paul Rissen
 canonical: http://www.r4isstatic.com/?p=90
 ---

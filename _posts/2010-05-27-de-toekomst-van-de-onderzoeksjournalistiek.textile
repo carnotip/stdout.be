@@ -2,7 +2,9 @@
 layout: post
 language: en
 categories:
-    
+    - journalism
+    - society
+equiv: 2010-05-25-the-future-of-investigative-journalism
 tags:
     - nl
     - blogging

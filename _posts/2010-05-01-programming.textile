@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - coding
+    - inspirational
 author: Alan Perlis
 canonical: http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html
 ---

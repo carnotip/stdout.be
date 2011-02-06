@@ -1,6 +1,9 @@
 ---
 layout: comment
 language: nl
+categories:
+    - journalism
+    - information architecture
 canonical: http://www.nijst.org/2010/05/24/obstakels-context-gerichte-nieuwssite/comment-page-1/#comment-4229
 title: Obstakels voor een context-gerichte nieuwssite
 ---

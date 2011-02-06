@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: nl
+categories:
+    - journalism
 author: Clem Robyns
 context: (Een commentaar op Facebook.) Journalistiek gedreven door een gemeenschap is een prachtig goed, maar voor veel mensen en in veel situaties is een krant of een nieuwswebsite toch nog altijd een plaats waar je komt om van een ander te lezen hoe de vork in de steel zit, en wat belangrijk is in de wereld. Beide zijn waardevolle streefdoelen voor een nieuwsmedium.
 ---

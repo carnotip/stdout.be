@@ -1,6 +1,9 @@
 ---
 layout: quote
 language: en
+categories:
+    - society
+    - journalism
 author: Paul Graham
 canonical: http://www.paulgraham.com/opensource.html
 ---

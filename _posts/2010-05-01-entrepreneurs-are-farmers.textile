@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - business & management
 author: Tim O'Reilly
 canonical: http://www.inc.com/magazine/20100501/the-oracle-of-silicon-valley_pagen_2.html
 ---
