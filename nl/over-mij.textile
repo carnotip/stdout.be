@@ -1,3 +1,8 @@
+---
+layout: page
+language: nl
+---
+
 Tijdens mijn studententijd bracht ik een hele poos door bij Schamper, en sinds dien ben ik gefascineerd door de uitdagingen van de media en andere uitgevers. Workflow management. Snel publiceren op meerdere platformen. Automatisering van layouts. Metadata. Het digitaliseren van archieven. Behoorlijk nerdy, maar het boeit me.
 
 Ik ben beginnen programmeren ergens toen ik twaalf of dertien was, meer klooien dan wat anders, maar zelfs een klein beetje kennis kan gevaarlijk zijn. Ondertussen ben ik een behoorlijk goeie Python-programmeur geworden.

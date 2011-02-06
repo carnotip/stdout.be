@@ -1,3 +1,8 @@
+---
+layout: page
+language: en
+---
+
 Ever since my college years at the student newspaper, I've been captivated by the publishing industry and its challenges. Workflows. Cross-platform publishing and web-to-print. Layout automation. Metadata management. Digitizing paper archives. Nerd stuff, but it fascinates me to no end.
 
 I started out as a script kiddie when I was twelve or thirteen, hacking away many a late night at crummy PHP scripts. After graduating from college, I finally took the time to learn how to code properly, and picked up Python. Ended up as a freelancer mostly by accident.

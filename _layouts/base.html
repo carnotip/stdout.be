@@ -1,13 +1,7 @@
-{% load compress %}
-{% load i18n %}
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!DOCTYPE html>
 <html>
 	<head>
-		<title>stdout.be{% block title %} | about information architecture and the media industry{% endblock %}</title>
-		{% block feeds %}
-		{% endblock %}
-        {% block scripts-async %}
+		<title>stdout.be | about information architecture and the media industry</title>
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
@@ -30,41 +24,43 @@
         </script>
         <script type="text/javascript" src="http://use.typekit.com/uwo6abd.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-        {% endblock %}
-        {% compress css xhtml %}
-        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/base.sass" />
-        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/homepage.sass" />
-        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/blog.sass" />
-        <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/reviews.sass" />
-        {% endcompress %}
+        <link rel="stylesheet" type="text/css" href="/stylesheets/base.css" />
+        <link rel="stylesheet" type="text/css" href="/stylesheets/homepage.css" />
+        <link rel="stylesheet" type="text/css" href="/stylesheets/blog.css" />
+        <link rel="stylesheet" type="text/css" href="/stylesheets/reviews.css" />
 	</head>
-	{% get_current_language as LANGUAGE_CODE %}
-	<body class="{{ LANGUAGE_CODE }} {% block pagetype %}{% endblock %}">
+	<body class="{{ page.language }} {{ page.layout }}">
         <div id="main">
             <div id="header" class="centered">
-                <a href="/" class="avatar"><img src="{{ MEDIA_URL }}img/me.jpg" /></a>
+                <a href="/" class="avatar"><img src="/images/me.jpg" /></a>
                 <div class="nav">
                     <ul id="language" class="inline">
-                        <li><a href="{{ equivalent_page.nl }}" class="nl-be">NL</a></li>
-                        <li><a href="{{ equivalent_page.en }}" class="en-us">EN</a></li>
+                        <li><a href="{{ page.equiv }}" class="nl-be">NL</a></li>
+                        <li><a href="{{ page.equiv }}" class="en-us">EN</a></li>
                     </ul>
-                    {% include "inc.menu.html" %}
+                    <ul class="menu top inline">
+                    {% if page.language == 'en' %}
+                        <li><a href="/en/" class="blog">→ blog</a></li>
+                        <li><a href="/en/services" class="work">→ services</a></li>
+                        <li><a href="/en/reviews/review" class="contact">→ get in touch</a></li>
+                        <li><a href="/en/about-me" class="about-me">→ about me</a></li>
+                    {% else %}
+                        <li><a href="/nl/" class="blog">→ blog</a></li>
+                        <li><a href="/nl/werk" class="work">→ diensten</a></li>
+                        <li><a href="/nl/contacteer-me" class="contact">→ contacteer me</a></li>
+                        <li><a href="/nl/over-mij" class="about-me">→ over mij</a></li>
+                    {% endif %}
+                    </ul>
                 </div>
                 <p class="title"><a href="/">stdout.be</a></p>
-            {% block header %}
-            {% endblock %}
         </div>
-        {% block body %}
         <div class="centered">
-            <p>This is an empty page.</p>        
+            {{ content }}    
         </div>
-        {% endblock %}
         </div>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-        {% block scripts %}
-        <script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.inview.js"></script>
-        <script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.url.packed.js"></script>
-        <script type="text/javascript" src="{{ MEDIA_URL }}js/scripts.js"></script>
-        {% endblock %}
+        <script type="text/javascript" src="/scripts/jquery.inview.js"></script>
+        <script type="text/javascript" src="/scripts/jquery.url.packed.js"></script>
+        <script type="text/javascript" src="/scripts/scripts.js"></script>
 	</body>
 </html>

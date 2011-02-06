@@ -1,3 +1,8 @@
+---
+layout: page
+language: nl
+---
+
 I work as software developer and information architect. To make sure I'm the best at what I do, I focus all my work on the publishing industry. 
 
 <dl>
