@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html xmlns:dc="http://purl.org/dc/elements/1.1/">
+<html
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	<head>
 		<title>stdout.be | about information architecture and the media industry</title>
         {% if language == 'en' %}
@@ -11,9 +14,14 @@
         {% endif %}
         <meta property="dc:creator" content="Stijn Debrouwere" />
         <meta property="dc:publisher" content="Stijn Debrouwere" />
+        <meta property="og:site_name" content="stdout.be" />
+        <meta property="og:url" content="http://stdout.be{{ page.url }}" />
         <meta property="dc:title" content="{{ content.title }}" />
+        <meta property="og:title" content="{{ content.title }}" />
         <meta property="dc:date" content="" />
         <meta property="dc:type" content="text" />
+        <meta property="og:type" content="blog"/>
+        <link rel="foaf:primaryTopic foaf:maker" href="/en/about-me/" />
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
@@ -75,9 +83,16 @@
                     </ul>
                 </div>
                 <p class="title"><a href="/">stdout.be</a></p>
+                {% if page.description %}
+                    {% if page.language == 'en' %}
+                    <p id="about-this">{{ page.description.en }}</p>
+                    {% else %}
+                    <p id="about-this">{{ page.description.nl }}</p>                    
+                    {% endif %}
+                {% endif %}
             </div>
-        {{ content }}    
         </div>
+        {{ content }}
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
         <script type="text/javascript" src="/scripts/jquery.inview.js"></script>
         <script type="text/javascript" src="/scripts/jquery.url.packed.js"></script>

@@ -28,7 +28,7 @@ a.badge {
   color: white;
   text-transform: uppercase;
   margin-right: 10px; }
-  a.badge.blog {
+  a.badge.post {
     background: #333333; }
   a.badge.guestpost {
     background: #3ca062; }

@@ -1,9 +1,10 @@
 ---
 layout: base
-type: blogpost
+type: post
+description:
+  nl: Een blog over programmeren, informatie-architectuur en journalistiek
+  en: A blog about programming, information architecture and journalism
 ---
-
-<p id="about-this">A blog about programming, information architecture and journalism</p>
 
 <div id="summary" class="inset content">
     <div id="prevnext">
@@ -12,7 +13,7 @@ type: blogpost
         {% endif %}
         <div class="content">
             <p class="meta">
-                <span class="date">{{ page.date }}</span> in
+                <span class="date">{{ page.date | date: "%Y/%m/%d" }}</span> in
                 <a href="" class="category">information architecture</a>
             </p>
             <h1>{{ page.title }}</h1>
