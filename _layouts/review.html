@@ -1,31 +1,51 @@
-{% extends 'base.html' %}
+---
+layout: base
+type: review
+---
 
-{% block pagetype %}review{% endblock %}
-
-{% block header %}
 <p id="about-this">Reviews of every IA book under the sun</p>
-{% endblock %}
 
-{% block body %}
 <div class="centered">
     <div class="content">
         <p class="section">Book review</p>
-        <h1>{{ review.author }}<br />{{ review.title }}</h1>
+        <h1>{{ page.author }}<br />{{ page.title }}</h1>
         <div id="review">
-            {{ review.body }}
+            {{ content }}
         </div>
     </div>
     <div id="infocard">
         <p class="section">Summary</p>
-        <p id="score" class="good">warmly recommended<!-- / it's okay / quite dull --></p>
-        <p id="lowdown">Succesvolle personen durven opgeven, en houden niet vast aan zaken die toch hopeloos zijn. Op voorhand nadenken wat je zou doen stoppen, kan je ook de nodige motivatie geven om een tandje bij te steken als het project wél nog de moeite waard is. “Quitting as a tactic is stupid, quitting as a strategy is necessary.</p>
-        <p id="purchase">Purchase on amazon <a href="http://www.amazon.com/{{ review.get_amazon_url }}">com</a> <a href="http://www.amazon.fr/{{ review.get_amazon_url }}">fr</a> <a href="http://www.amazon.de/{{ review.get_amazon_url }}">de</a> <a href="http://www.amazon.uk/{{ review.get_amazon_url }}">uk</a></p>   
+        <p id="score" class="{{ page.rating }}">
+        {% case page.rating %}
+            {% when "great" %}
+            warmly recommended
+            {% when "okay" %}
+            it's okay
+            {% else %}
+            quite dull
+        {% endcase %}
+        </p>
+        <p id="lowdown">{{ page.summary }}</p>
+        {% if page.amazon %}
+        <p id="purchase">Purchase on amazon <a href="http://www.amazon.com/{{ page.amazon }}">com</a> <a href="http://www.amazon.fr/{{ page.amazon }}">fr</a> <a href="http://www.amazon.de/{{ page.amazon }}">de</a> <a href="http://www.amazon.uk/{{ page.amazon }}">uk</a></p>
+        {% endif %}
     </div>
 </div>
 <div class="centered">
     <div class="nav">
         <hr class="divider" />
-       {% include "inc.menu.html" %} 
+        <ul class="menu top inline">
+        {% if page.language == 'en' %}
+            <li><a href="/en/" class="blog">→ blog</a></li>
+            <li><a href="/en/services" class="work">→ services</a></li>
+            <li><a href="/en/reviews/review" class="contact">→ get in touch</a></li>
+            <li><a href="/en/about-me" class="about-me">→ about me</a></li>
+        {% else %}
+            <li><a href="/nl/" class="blog">→ blog</a></li>
+            <li><a href="/nl/werk" class="work">→ diensten</a></li>
+            <li><a href="/nl/contacteer-me" class="contact">→ contacteer me</a></li>
+            <li><a href="/nl/over-mij" class="about-me">→ over mij</a></li>
+        {% endif %}
+        </ul>
     </div>
 </div>
-{% endblock %}

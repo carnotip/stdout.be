@@ -26,7 +26,7 @@ tags:
     - Amy Gahran
     - community
     - conversational journalism
-title: IA for news websites: a link dump
+title: "IA for news websites: a link dump"
 summary:
     
 ---

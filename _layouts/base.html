@@ -1,7 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<head>
 		<title>stdout.be | about information architecture and the media industry</title>
+        {% if language == 'en' %}
+        <meta http-equiv="Content-Language" content="en-US" />
+        <meta property="dc:language" content="en-US" />
+        {% else %}
+        <meta http-equiv="Content-Language" content="nl-BE" />
+        <meta property="dc:language" content="nl-BE" />
+        {% endif %}
+        <meta property="dc:creator" content="Stijn Debrouwere" />
+        <meta property="dc:publisher" content="Stijn Debrouwere" />
+        <meta property="dc:title" content="{{ content.title }}" />
+        <meta property="dc:date" content="" />
+        <meta property="dc:type" content="text" />
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
@@ -29,34 +41,42 @@
         <link rel="stylesheet" type="text/css" href="/stylesheets/blog.css" />
         <link rel="stylesheet" type="text/css" href="/stylesheets/reviews.css" />
 	</head>
-	<body class="{{ page.language }} {{ page.layout }}">
+	<body class="{{ page.language }} {{ page.type }}">
         <div id="main">
             <div id="header" class="centered">
-                <a href="/" class="avatar"><img src="/images/me.jpg" /></a>
+                <a href="/{{ page.language }}/" class="avatar"><img src="/images/me.jpg" /></a>
                 <div class="nav">
                     <ul id="language" class="inline">
-                        <li><a href="{{ page.equiv }}" class="nl-be">NL</a></li>
-                        <li><a href="{{ page.equiv }}" class="en-us">EN</a></li>
+                        {% if page.equiv %}
+                            {% if page.language == 'en' %}
+                            <li><a href="{{ page.equiv }}" class="nl">NL</a></li>
+                            <li><a href="{{ page.url }}" class="en">EN</a></li>
+                            {% else %}
+                            <li><a href="{{ page.url }}" class="nl">NL</a></li>
+                            <li><a href="{{ page.equiv }}" class="en">EN</a></li>                            
+                            {% endif %}                        
+                        {% else %}
+                        <li><a href="/nl/" class="nl">NL</a></li>
+                        <li><a href="/en/" class="en">EN</a></li>                        
+                        {% endif %}
                     </ul>
                     <ul class="menu top inline">
                     {% if page.language == 'en' %}
                         <li><a href="/en/" class="blog">→ blog</a></li>
-                        <li><a href="/en/services" class="work">→ services</a></li>
-                        <li><a href="/en/reviews/review" class="contact">→ get in touch</a></li>
-                        <li><a href="/en/about-me" class="about-me">→ about me</a></li>
+                        <li><a href="/en/services/" class="work">→ services</a></li>
+                        <li><a href="/en/reviews/" class="contact">→ get in touch</a></li>
+                        <li><a href="/en/about-me/" class="about-me">→ about me</a></li>
                     {% else %}
                         <li><a href="/nl/" class="blog">→ blog</a></li>
-                        <li><a href="/nl/werk" class="work">→ diensten</a></li>
-                        <li><a href="/nl/contacteer-me" class="contact">→ contacteer me</a></li>
-                        <li><a href="/nl/over-mij" class="about-me">→ over mij</a></li>
+                        <li><a href="/nl/diensten/" class="work">→ diensten</a></li>
+                        <li><a href="/nl/contacteer-me/" class="contact">→ contacteer me</a></li>
+                        <li><a href="/nl/over-mij/" class="about-me">→ over mij</a></li>
                     {% endif %}
                     </ul>
                 </div>
                 <p class="title"><a href="/">stdout.be</a></p>
-        </div>
-        <div class="centered">
-            {{ content }}    
-        </div>
+            </div>
+        {{ content }}    
         </div>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
         <script type="text/javascript" src="/scripts/jquery.inview.js"></script>

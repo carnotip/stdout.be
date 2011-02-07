@@ -1,29 +1,26 @@
-{% extends 'base.html' %}
+---
+layout: base
+type: talk
+---
 
-{% block pagetype %}review{% endblock %}
-
-{% block header %}
 <p id="about-this">Reviews of every IA book under the sun</p>
-{% endblock %}
 
-{% block body %}
 <div class="centered">
     <div class="content">
         <p class="section">Talk</p>
-        <h1>{{ talk.delivered }}<br />{{ review.title }}</h1>
+        <h1>{{ page.delivered }}<br />{{ page.title }}</h1>
         <div id="review">
-            {{ review.body }}
+            {{ content }}
         </div>
     </div>
     <div id="infocard">
         <p class="section">Summary</p>
-        <p id="lowdown">{{ review.event }}</p>
+        <p id="lowdown">{{ page.event }}</p>
     </div>
 </div>
 <div class="centered">
     <div class="nav">
         <hr class="divider" />
-       {% include "inc.menu.html" %} 
+       {% include "menu.html" %} 
     </div>
 </div>
-{% endblock %}

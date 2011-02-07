@@ -1,12 +1,6 @@
 jQuery.fn.sort = function() {  
    return this.pushStack([].sort.apply(this, arguments), []);  
- };  
-  
-function newest_first(a, b){
-    a = $(a).attr("data-timestamp")
-    b = $(b).attr("data-timestamp")
-    return parseInt(a) < parseInt(b) ? 1 : -1;  
-};  
+ };
 
 function hide_comments() {
     var anchor = $.url.attr("anchor") || '';
@@ -26,19 +20,18 @@ function toggle_all () {
 function filter_rows (checked) {
     var rows = $();
     checked.each(function () {
-        var show = $(this).attr("checked")
+        var show = $(this).attr("checked");
         if (show) {
             var type = $(this).attr("id").split("-")[1];
             var matches = $("." + type).closest("tr");
-            rows = rows.add(matches)         
+            rows = rows.add(matches);      
         }
     });
     return rows;
 }
 
 function redraw_latest_writing (checked) {
-        $("tr").hide()
-        $('table tr').sort(newest_first).appendTo('table');
+        $("tr").hide();
         filter_rows(checked).slice(0, 7).show();
         return false;
 }
@@ -62,7 +55,7 @@ $(document).ready(function () {
     checkboxes.add(toggle).click(function () {
         // filter rows
         redraw_latest_writing(checkboxes);
-    
+        
         // if every type is checked, the global toggle should be checked as well
         // and vice versa
         var total = checkboxes.length;
@@ -75,9 +68,4 @@ $(document).ready(function () {
             toggle.attr("checked", false)
         }
     });
-
-    var row = '<tr data-timestamp="200">\
-                <td><a href="" class="badge guestpost">guest post</a></td>\
-                <td>200 <a href="">This new thang</a></td>\
-            </tr>'
 });

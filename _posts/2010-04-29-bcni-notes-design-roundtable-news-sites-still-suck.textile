@@ -5,7 +5,7 @@ categories:
     - information architecture
     - journalism
 canonical: http://www.laurenmichell.com/2010/04/bcni-notes-design-roundtable-news-sites-still-suck/comment-page-1/#comment-811
-title: BCNI Notes: Design Roundtable “News Sites Still Suck”
+title: "BCNI Notes: Design Roundtable “News Sites Still Suck”"
 ---
 
 “We still categorize stories under sports, arts, news, opinion, etc. because this is how the print product was laid out.” Very true. I’d love to see more innovation on this front.

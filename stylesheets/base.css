@@ -10,19 +10,23 @@ body {
   line-height: 1.4; }
   body.blogpost ul.menu li a.blog {
     border-color: #999999; }
+  body.services ul.menu li a.services {
+    border-color: #999999; }
+  body.contact ul.menu li a.contact {
+    border-color: #999999; }
   body.about-me ul.menu li a.about-me {
     border-color: #999999; }
-  body.nl-be ul#language li a.nl-be {
+  body.nl ul#language li a.nl {
     background: #1d53c2;
     border: 0;
     color: white; }
-    body.nl-be ul#language li a.nl-be:hover {
+    body.nl ul#language li a.nl:hover {
       color: #ffff33; }
-  body.en-us ul#language li a.en-us {
+  body.en ul#language li a.en {
     background: #1d53c2;
     border: 0;
     color: white; }
-    body.en-us ul#language li a.en-us:hover {
+    body.en ul#language li a.en:hover {
       color: #ffff33; }
 
 /* HEADER AND NAV */

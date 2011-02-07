@@ -36,13 +36,13 @@ p#score {
   p#score:after {
     margin-left: 10px;
     position: relative; }
-  p#score.good:after {
+  p#score.great:after {
     top: 5px;
-    content: url("../img/love.png"); }
+    content: url("../images/great.png"); }
   p#score.okay:after {
-    content: url("../img/like.png"); }
+    content: url("../images/okay.png"); }
   p#score.bad:after {
-    content: url("../img/not.png"); }
+    content: url("../images/bad.png"); }
 
 p#purchase {
   font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;

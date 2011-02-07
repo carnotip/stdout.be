@@ -15,7 +15,7 @@ tags:
     - Eric Evans
 crossposts:
     - http://www.masternewmedia.org/content-navigation-and-search-how-to-facilitate-online-content-exploration/
-title: Findability and Exploration: the future of search
+title: "Findability and Exploration: the future of search"
 summary:
     When readers are exploring and searching, we see them at a crucial point in time: a moment when they're ready, willing and eager to learn. The power to turn exploration into learning is the most wonderful gift we can give to our readers. Let us help readers on their quest for knowledge  by retooling navigation and search.
 ---

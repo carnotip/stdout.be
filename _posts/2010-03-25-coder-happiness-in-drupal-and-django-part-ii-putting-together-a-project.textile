@@ -11,7 +11,7 @@ tags:
     - project management
     - RAD
     - identity
-title: Coder happiness in Drupal and Django, part II: putting together a project
+title: "Coder happiness in Drupal and Django, part II: putting together a project"
 summary:
     
 ---

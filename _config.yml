@@ -4,16 +4,13 @@ server:      false
 server_port: 4000
 
 source:      .
-exclude      
-    - ./_director
-    - ./nginx.conf
+exclude:     ./README, ./LICENSE, ./_director, ./nginx.conf, ./__posts
 destination: ./public
 plugins:     ./_plugins
+
+permalink:   pretty
 
 future:      true
 lsi:         false
 pygments:    true
 markdown:    maruku
-
-rdiscount:
-  extensions: []

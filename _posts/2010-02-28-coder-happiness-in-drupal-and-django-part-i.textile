@@ -6,7 +6,7 @@ categories:
 tags:
     - Django
     - Drupal
-title: Coder happiness in Drupal and Django, part I: hacking away
+title: "Coder happiness in Drupal and Django, part I: hacking away"
 summary:
     
 ---

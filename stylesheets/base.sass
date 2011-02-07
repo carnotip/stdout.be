@@ -25,16 +25,22 @@ body
   
   &.blogpost
     @include active(blog)
+
+  &.services
+    @include active(services)
+
+  &.contact
+    @include active(contact)
       
   &.about-me
     @include active(about-me)
       
-  &.nl-be
-    ul#language li a.nl-be
+  &.nl
+    ul#language li a.nl
       @include active-lang
 
-  &.en-us
-    ul#language li a.en-us
+  &.en
+    ul#language li a.en
       @include active-lang
 
 /* HEADER AND NAV */

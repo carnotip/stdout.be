@@ -1,6 +1,7 @@
 ---
 layout: page
 language: nl
+equiv: /en/about-me/
 ---
 
 Tijdens mijn studententijd bracht ik een hele poos door bij Schamper, en sinds dien ben ik gefascineerd door de uitdagingen van de media en andere uitgevers. Workflow management. Snel publiceren op meerdere platformen. Automatisering van layouts. Metadata. Het digitaliseren van archieven. Behoorlijk nerdy, maar het boeit me.
@@ -9,4 +10,4 @@ Ik ben beginnen programmeren ergens toen ik twaalf of dertien was, meer klooien 
 
 Ik ben in 2008 afgestudeerd als filosoof aan de UGent. 't Is een vreselijke opleiding en de meeste filosofie is onwetenschappelijke bullshit, maar het blijft een mooie studie. Als je ooit een filosoof leest, lees dan John Dewey.
 
-Ik leef in Gent, en leef daar graag.
+Ik leef momenteel in Londen, maar blijf psychologisch een beetje gekluisterd aan Gent.
