@@ -4,23 +4,25 @@
   xmlns:og="http://ogp.me/ns#"
   xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	<head>
-		<title>stdout.be | about information architecture and the media industry</title>
+		<title>stdout.be | {% if page.title %}{{ page.title }}{% else %}about information architecture and the media industry{% endif %}</title>
         {% if language == 'en' %}
         <meta http-equiv="Content-Language" content="en-US" />
-        <meta property="dc:language" content="en-US" />
+        <meta name="dc:language" content="en-US" />
         {% else %}
         <meta http-equiv="Content-Language" content="nl-BE" />
-        <meta property="dc:language" content="nl-BE" />
+        <meta name="dc:language" content="nl-BE" />
         {% endif %}
-        <meta property="dc:creator" content="Stijn Debrouwere" />
-        <meta property="dc:publisher" content="Stijn Debrouwere" />
-        <meta property="og:site_name" content="stdout.be" />
-        <meta property="og:url" content="http://stdout.be{{ page.url }}" />
-        <meta property="dc:title" content="{{ content.title }}" />
-        <meta property="og:title" content="{{ content.title }}" />
-        <meta property="dc:date" content="" />
-        <meta property="dc:type" content="text" />
-        <meta property="og:type" content="blog"/>
+        <meta name="author" content="Stijn Debrouwere" />
+        <meta name="dc:creator" content="Stijn Debrouwere" />
+        <meta name="dc:publisher" content="Stijn Debrouwere" />
+        <meta name="og:site_name" content="stdout.be" />
+        <meta name="og:url" content="http://stdout.be{{ page.url }}" />
+        <meta name="dc:title" content="{{ page.title }}" />
+        <meta name="og:title" content="{{ page.title }}" />
+        <meta name="dc:date" content="" />
+        <meta name="dc:type" content="text" />
+        <meta name="og:type" content="blog"/>
+        <meta name="keywords" content="{{ page.categories }}"
         <link rel="foaf:primaryTopic foaf:maker" href="/en/about-me/" />
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -51,9 +53,9 @@
 	</head>
 	<body class="{{ page.language }} {{ page.type }}">
         <div id="main">
-            <div id="header" class="centered">
+            <header class="centered">
                 <a href="/{{ page.language }}/" class="avatar"><img src="/images/me.jpg" /></a>
-                <div class="nav">
+                <nav>
                     <ul id="language" class="inline">
                         {% if page.equiv %}
                             {% if page.language == 'en' %}
@@ -81,7 +83,7 @@
                         <li><a href="/nl/over-mij/" class="about-me">→ over mij</a></li>
                     {% endif %}
                     </ul>
-                </div>
+                </nav>
                 <p class="title"><a href="/">stdout.be</a></p>
                 {% if page.description %}
                     {% if page.language == 'en' %}
@@ -90,7 +92,7 @@
                     <p id="about-this">{{ page.description.nl }}</p>                    
                     {% endif %}
                 {% endif %}
-            </div>
+            </nav>
         </div>
         {{ content }}
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>

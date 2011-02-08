@@ -3,7 +3,7 @@
 body.post h1
   color: $cerise
 
-div#summary
+summary
   background: $silver
   padding: 25px 0
   
@@ -47,50 +47,49 @@ div#prevnext
       @include radius(5px)
       background: white
 
-div
-  &.comment
-    margin-bottom: 20px
-    p:last-child
-      margin-bottom: 0
+article.comment
+  margin-bottom: 20px
+  p:last-child
+    margin-bottom: 0
       
-  &.comment-about
+  .comment-about
     @include netto
     
-  &.comment-meta
+  .comment-meta
     font-weight: bold
     margin-bottom: 30px
     
-  &.comment-content p
+  .comment-content p
     font-size: 17px
     line-height: 1.7
     
-  &.comment-about
+  .comment-about
     text-align: right
     width: 100px
     display: inline-block
     vertical-align: top
     
-  &.comment-content
+  .comment-content
     padding-left: 20px
     margin-left: 20px
     border-left: 1px solid #ddd
     width: 480px
     display: inline-block
     
-  &.comment-author
+  .comment-author
     @include netto(16pt)
+
+div#comments
+  margin-bottom: 20px
     
-  &#comments
-    margin-bottom: 20px
-    
-  &.by-author div
+  .by-author div
     &.comment-content
       border-left: 1px dotted $cerise
       
     &.comment-author
       color: $cerise
 
-div#post
+article#post
   div
     width: 550px
     padding-right: 30px
