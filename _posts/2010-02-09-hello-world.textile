@@ -6,8 +6,7 @@ categories:
 tags:
     - nl
 title: Een blog, dus
-summary:
-    
+summary: Een blog. In het Nederlands en in het Engels.
 ---
 
 Ach kom, een mens mag toch een beetje onbescheiden zijn. Ik heb iets te zeggen, en daarom heb ik nu een blog. Twee blogs zelfs, eigenlijk. Eentje in het Engels waar alles dat gerelateerd is met informatica op zal verschijnen, en eentje in het Nederlands waar mijn ideeën over journalistiek en mijn laatste bezigheden aan bod komen.

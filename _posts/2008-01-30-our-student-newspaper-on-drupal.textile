@@ -6,7 +6,7 @@ categories:
     - coding
     - journalism
 title: Schamper, our student newspaper on Drupal
-summary: We've recently redesigned "our website":http://www.schamper.be, so I took the time to do a small writeup and look back on our switch to Drupal a while ago. Hope you enjoy the read.
+summary: Schamper is the independent student newsmagazine/newspaper of the university of Ghent, the largest university in Flandres, Belgium. We've recently redesigned <a href="http://www.schamper.be">our website</a> and made the switch from Textpattern to Drupal. The switch enabled us to turn our website from a mere repository of stories into the central hub for a web-to-print workflow and into a general solution for our content management — most of the interesting stuff is actually going on behind the scenes.
 ---
 
 We've recently redesigned "our website":http://www.schamper.be, so I took the time to do a small writeup and look back on our switch to Drupal a while ago. Hope you enjoy the read.
@@ -49,13 +49,13 @@ We made a user "Press photographer" and another user "Guest writer". We also add
 
 We then added a multivalue userreference CCK field to the story to accomodate multiple authors. This is themed so that all authors get equal credit. Somebody surfing the site can't see the difference between the "real" author in Drupal and the additional authors.
 
-We also used a template.php codesnippet to display users' full names everywhere instead of usernames.
+We also used a @template.php@ codesnippet to display users' full names everywhere instead of usernames.
 
 h3. Image handling
 
 I decided to use the standard Image functionality instead of imagecache/CCK for two reasons. One: I adopted the attitude not to use a custom module when something very similar is available in core, because of concerns about upgradability. Less modules means less to worry about. Two: images as nodes easily allow commenting, ratings et cetera. Because our images are nodes, the aforementioned handling of authors applies to images too.
 
-(The frontpage contains a lot of photos. The beautiful information.dk website inspired us in this regard.)
+(The frontpage contains a lot of photos. The beautiful "information.dk"http://www.information.dk website inspired us in this regard.)
 
 h3. Comment display
 
