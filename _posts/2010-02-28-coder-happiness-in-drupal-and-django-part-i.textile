@@ -10,7 +10,9 @@ title: "Coder happiness in Drupal and Django, part I: hacking away"
 summary: It's easier and more pleasant to build than it is to modify. Great as it may be, Drupal involves a ton of configuration and tweaking, and very little building. Unfortunately, that equals very little fun.
 ---
 
-I'm currently working on a "Drupal":http://www.drupal.org project, and it did well to remind me as to why I've switched most of my development over to "Django":http://www.djangoproject.com some time ago. I have a comprehensive comparison in the works between these two frameworks and a few others as well, but for now I'd like to focus on just one thing and what it means for development in Drupal and Django: coder happiness.h3. Configuration over coding
+I'm currently working on a "Drupal":http://www.drupal.org project, and it did well to remind me as to why I've switched most of my development over to "Django":http://www.djangoproject.com some time ago. I have a comprehensive comparison in the works between these two frameworks and a few others as well, but for now I'd like to focus on just one thing and what it means for development in Drupal and Django: coder happiness.
+
+h3. Configuration over coding
 
 Most people who have a career in software development actually, surprisingly, really like coding _a lot_ . We code after work, perhaps hacking together a widget for personal use or contributing to an open-source project. A lot of coders "write about coding":/2010/a-rumination-on-blogging/ as well.
 
@@ -29,8 +31,6 @@ Take, for example, how you access your database in Drupal. You use the Views mod
 [gist id="317066"]
 
 you get to fill out a gigantic form that generates your view, after which you'll have to fill out a similarly large form in the Panels module to get that list displayed where you want it to. And if want to customize the html that Views produces (because, being geared towards end-users, Views is both a query builder and an html generator) you'll have to override a bunch of theme files as well.
-
-
 
 !http://stdout.be/wp-content/uploads/2010/02/Screen-shot-2010-02-13-at-16.33.35.png(Could you give me the latest comments?"—"Sure, just fill in this small form, file it in triplicate, and we'll get back to you.")!
 

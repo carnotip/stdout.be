@@ -9,8 +9,7 @@ tags:
     - ruby
     - information architecture for news websites
 title: An identity team for Python
-summary:
-    
+summary: Ruby screams of plain good-natured fun, it invites you in. Python, on the other hand, looks stodgy and there's no easy way to get introduced to the community. That should change.   
 ---
 
 Thinking out loud. A while ago I asked "a question on StackOverflow":http://stackoverflow.com/questions/2351793/what-should-people-new-to-python-know-about-its-community-and-ecosystem that has been keeping my mind occupied since: "What should people new to Python know about its community and ecosystem?". I observed:

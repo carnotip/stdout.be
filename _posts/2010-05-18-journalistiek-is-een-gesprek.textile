@@ -1,11 +1,10 @@
 ---
 layout: post
-language: en
+language: nl
 categories:
     - journalism
     - society
 tags:
-    - nl
     - blogging
     - onderzoeksjournalistiek
     - open data
@@ -14,15 +13,15 @@ summary:
     We zien vandaag het begin van een nieuw journalistiek landschap. Een landschap waar iedereen zijn steentje bijdraagt aan de conversatie en waar journalisten niet langer broadcasters zullen zijn, maar facilitators, en waar burgers, bloggers, experts en journalisten een gelijkwaardige rol vervullen bij het creëeren van een geïnformeerde gemeenschap.
 ---
 
-Er was een tijd dat de krant een machtig instrument was, zegt "Judy Sims":http://simsblog.typepad.com/simsblog/2009/11/pity-the-poor-publisher.html . Dat een uitgever politici kon maken en kraken, corruptie aan het licht brengen, de kleine man beschermen én tegelijk hopen poen scheppen. Maar beetje bij beetje verliezen de krantenmannen hun authoriteit ( "34% vindt kranten betrouwbaar en accuraat":http://news.bbc.co.uk/2/hi/entertainment_and_arts/10121759.stm ). En daar voelen ze zich meer dan een klein beetje oncomfortabel bij.
+Er was een tijd dat de krant een machtig instrument was, zegt "Judy Sims":http://simsblog.typepad.com/simsblog/2009/11/pity-the-poor-publisher.html. Dat een uitgever politici kon maken en kraken, corruptie aan het licht brengen, de kleine man beschermen én tegelijk hopen poen scheppen. Maar beetje bij beetje verliezen de krantenmannen hun authoriteit ("34% vindt kranten betrouwbaar en accuraat":http://news.bbc.co.uk/2/hi/entertainment_and_arts/10121759.stm). En daar voelen ze zich meer dan een klein beetje oncomfortabel bij.
 
 De uitspraak van Christian Van Thillo dat "bloggers de vuilnisbak van het internet zijn":http://www.newsup.be/2723/2723/ doet al lang de ronde, en weinig journalisten hier in Vlaanderen denken dat ze echt iets moeten vrezen van bloggers. Daarvoor zijn ze eenvoudigweg niet goed genoeg. Eén probleem met die redenering:
 
-bq. Those in the print media who dismiss the writing online because of its low average quality are missing an important point: no one reads the average blog. In the old world of channels, it meant something to talk about average quality, because that's what you were getting whether you liked it or not. But now you can read any writer you want. So the average quality of writing online isn't what the print media are competing against. They're competing against the best writing online. ( "Paul Graham":http://www.paulgraham.com/opensource.html )
+bq. Those in the print media who dismiss the writing online because of its low average quality are missing an important point: no one reads the average blog. In the old world of channels, it meant something to talk about average quality, because that's what you were getting whether you liked it or not. But now you can read any writer you want. So the average quality of writing online isn't what the print media are competing against. They're competing against the best writing online. ("Paul Graham":http://www.paulgraham.com/opensource.html)
 
-Kranten en nieuwsmagazines zien zichzelf nog te veel als een eiland los van de rest van de maatschappij, en klampen zich vast, zo hard ze kunnen, aan het broadcast-model: wij praten niet met de lezer, "wij zeggen de lezer wat interessant is zodat hij zijn kleine brein niet moet vermoeien":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ . Crowdsourcen? We hebben onze eigen rolodex, dankuzeer. Linken naar ander nieuws op het web? We schrijven het liever zelf. De discussie aangaan met lezers? Onze lezers zijn dom, kijk maar naar de commentaren op "hln.be":http://www.hln.be/ .
+Kranten en nieuwsmagazines zien zichzelf nog te veel als een eiland los van de rest van de maatschappij, en klampen zich vast, zo hard ze kunnen, aan het broadcast-model: wij praten niet met de lezer, "wij zeggen de lezer wat interessant is zodat hij zijn kleine brein niet moet vermoeien":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/. Crowdsourcen? We hebben onze eigen rolodex, dankuzeer. Linken naar ander nieuws op het web? We schrijven het liever zelf. De discussie aangaan met lezers? Onze lezers zijn dom, kijk maar naar de commentaren op "hln.be":http://www.hln.be/.
 
-[caption id="attachment_212" align="alignnone" width="500" caption="Hoe de gemiddelde krant kijkt naar het journalistieke landschap. (c) Lauren Rabaino"] " !http://stdout.be/wp-content/uploads/2010/05/wrong-approach.png! ":http://stdout.be/wp-content/uploads/2010/05/wrong-approach.png [/caption]
+!/images/2010-05-08-wrong-approach.png (Hoe de gemiddelde krant kijkt naar het journalistieke landschap. (c) Lauren Rabaino)!
 
 Op een gegeven moment zal die arrogante houding en dat eilanddenken de mainstream media zuur opbreken.
 
@@ -30,22 +29,22 @@ Je hoort nu al met de regelmaat van de klok dat alweer een onderzoek heeft uitge
 
 Journalisten moeten niet alleen wedijveren met bloggers, ze moeten ook beseffen dat ze op veel vlakken in het nadeel zijn tegenover experts die écht weten waarover ze spreken. Experts die niet uit een paar telefoontjes en e-mails plots jaren aan inzicht moeten proberen destilleren om zo een reportage rond te krijgen. "Wees maar bang van die experts.":http://www.currybet.net/cbet_blog/2010/01/with_professionals_like_this.php En wees niet te trots over de kwaliteit van de gemiddelde krant:
 
-bq. Occasionally - or you could even say often - blogs are a source of tedious repetition, infantilism, ranting and poo-chucking; but that's not to say that, in being so, they're any much worse than what you might read from certain columnists. ( "Anton Vowl":http://enemiesofreason.blogspot.com/2010/01/tide-is-coming-in.html )
+bq. Occasionally - or you could even say often - blogs are a source of tedious repetition, infantilism, ranting and poo-chucking; but that's not to say that, in being so, they're any much worse than what you might read from certain columnists. ("Anton Vowl":http://enemiesofreason.blogspot.com/2010/01/tide-is-coming-in.html)
 
 Bram Souffreau schreef een tijdje geleden op zijn blog dat de fascinatie met burgerjournalistiek in bepaalde kringen blijkbaar ten einde is:
 
-bq. De burgerjournalisten zijn de voorbije maanden naar de achtergrond weggedeemsterd. De hype is voorbij en de media leggen zich nu toe op Twitter en Facebook. Maar intussen blijven ze wel bestaan. Idem dito voor de 'dood verklaarde' weblogs. ( "Bram Souffreau":http://www.kapingamarangi.be/nucleus/item/2010/04/web-leidt-ons-naar-een-decentrale-maatschappij )
+bq. De burgerjournalisten zijn de voorbije maanden naar de achtergrond weggedeemsterd. De hype is voorbij en de media leggen zich nu toe op Twitter en Facebook. Maar intussen blijven ze wel bestaan. Idem dito voor de 'dood verklaarde' weblogs. ("Bram Souffreau":http://www.kapingamarangi.be/nucleus/item/2010/04/web-leidt-ons-naar-een-decentrale-maatschappij)
 
-Dat is waar en dat is niet waar. Het probleem is dat kranten in hun wil om ook een graantje mee te pikken, de focus hebben proberen verleggen naar 'user-generated content'. Inhoud die je gratis van lezers krijgt, en waar jij dan als krantenman winst op kan maken. Alsof lezers melkkoeien zijn waar je gratis content kan uitzuigen. Dat gaat samen met het idee dat je communities moet _bouwen_ , eerder dan als krant je verdomse plicht op te nemen om bestaande gemeenschappen te _versterken_ .
+Dat is waar en dat is niet waar. Het probleem is dat kranten in hun wil om ook een graantje mee te pikken, de focus hebben proberen verleggen naar 'user-generated content'. Inhoud die je gratis van lezers krijgt, en waar jij dan als krantenman winst op kan maken. Alsof lezers melkkoeien zijn waar je gratis content kan uitzuigen. Dat gaat samen met het idee dat je communities moet _bouwen_, eerder dan als krant je verdomse plicht op te nemen om bestaande gemeenschappen te _versterken_.
 
 Citizen journalism is niet dood, in tegendeel, ze krijgt net haar tweede adem. De toekomst van de journalistiek is er niet één waarin de lezer, als hij braaf is, ook een beetje inhoud mag leveren waar een ander dan geld mee kan verdienen. De toekomst is er één waarbij de media een ecosysteem wordt, met een heleboel evenwaardige partners:
 
-bq. there’s a problem with categorizing journalists into any form of hierarchy; you imply that there are journalists who are more valuable or credible than others. This is an entirely false assumption. ( "Lauren Rabaino":http://www.laurenmichell.com/2010/04/reinventing-the-definition-of-journalist/ )
+bq. there’s a problem with categorizing journalists into any form of hierarchy; you imply that there are journalists who are more valuable or credible than others. This is an entirely false assumption. ("Lauren Rabaino":http://www.laurenmichell.com/2010/04/reinventing-the-definition-of-journalist/)
 
-Journalistiek "wordt een gesprek":http://www.ireporter.org/2006/02/conversational_.html .
+Journalistiek "wordt een gesprek":http://www.ireporter.org/2006/02/conversational_.html.
 
-[caption id="attachment_211" align="alignnone" width="500" caption="Waar het journalistieke landschap nu stilaan naartoe evolueert. (c) Lauren Rabaino"] " !http://stdout.be/wp-content/uploads/2010/05/better-approach.png! ":http://stdout.be/wp-content/uploads/2010/05/better-approach.png [/caption]
+!/images/2010-05-08-better-approach.png (Waar het journalistieke landschap nu stilaan naartoe evolueert. (c) Lauren Rabaino)!
 
-Zoals Matt Thompson "zegt":http://www.newsless.org/2009/03/there-is-only-us/ : “The responsibility for gathering information and evaluating it has spread throughout the citizenry.”
+Zoals Matt Thompson "zegt":http://www.newsless.org/2009/03/there-is-only-us/: “The responsibility for gathering information and evaluating it has spread throughout the citizenry.”
 
-We zien nu het begin van een nieuw journalistiek landschap waar iedereen zijn steentje bijdraagt aan de conversatie en waar journalisten niet langer _broadcasters_ zullen zijn, maar _facilitators_ . Thompson zegt dat het nu tijd is om uit te dokteren hoe we dat landschap ten volle tot haar recht kunnen laten komen. Hij is overtuigd dat het ons zal lukken om journalistiek om te toveren tot een gesprek, en dat het resultaat de moeite waard zal zijn. Ik ook.
+We zien nu het begin van een nieuw journalistiek landschap waar iedereen zijn steentje bijdraagt aan de conversatie en waar journalisten niet langer _broadcasters_ zullen zijn, maar _facilitators_. Thompson zegt dat het nu tijd is om uit te dokteren hoe we dat landschap ten volle tot haar recht kunnen laten komen. Hij is overtuigd dat het ons zal lukken om journalistiek om te toveren tot een gesprek, en dat het resultaat de moeite waard zal zijn. Ik ook.

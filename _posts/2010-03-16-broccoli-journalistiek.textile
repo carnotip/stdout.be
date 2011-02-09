@@ -5,8 +5,7 @@ categories:
     - journalism
     - society
 title: Broccoli-journalistiek
-summary:
-    
+summary: Mijn laatste pennevrucht, te lezen op Apache.
 ---
 
 Schrijver en journalist Thomas Van Aalten werkt aan een boek crossmediale journalistiek, en hij vroeg onlangs aan de redactie van Apache of we niks kwijt wilden over de toekomst van de media. Ik heb dan maar een tekst bij elkaar geschreven over de rol die subsidies van de overheid (niet) kunnen spelen in dat verhaal. "Lees op Apache.":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ Heb nog een paar mooie teksten zitten die ik misschien al langer geleden op deze blog had moeten loslaten; hoe het ook zij, de eerste is voor later vandaag.

@@ -10,23 +10,24 @@ tags:
     - journalistiek
     - media
 title: There's nothing wrong with apps
-summary:
-    
+summary: See title.    
 ---
 
-I've been seeing some random chatter lately about the trouble with reusable apps in "Django":http://www.djangoproject.com/ , succinctly epitomized by this "remark from Luís Pedro Coelho":http://www.mutualinformation.org/2010/03/why-i-switched-to-pylons-after-using-django-for-six-months/ : "the app system is not the right system to break up functionality".
+I've been seeing some random chatter lately about the trouble with reusable apps in "Django":http://www.djangoproject.com/, succinctly epitomized by this "remark from Luís Pedro Coelho":http://www.mutualinformation.org/2010/03/why-i-switched-to-pylons-after-using-django-for-six-months/: "the app system is not the right system to break up functionality".
 
 I don't get that.
 
 Surely, there are a lot of Django apps on "GitHub":http://github.com/ that are plain crap.
 
-Handling static media in pluggable apps is still somewhat tricky, although there's "django-staticfiles":http://github.com/jezdez/django-staticfiles now. "Some more conventions for pluggable apps":http://ericholscher.com/projects/reusable-app-docs/ wouldn't hurt, which is something that's definitely on "people's":http://djangodose.com/blog/2009/10/reusable-application-panel/  "minds":http://blip.tv/file/3040424 .
+Handling static media in pluggable apps is still somewhat tricky, although there's "django-staticfiles":http://github.com/jezdez/django-staticfiles now. "Some more conventions for pluggable apps":http://ericholscher.com/projects/reusable-app-docs/ wouldn't hurt, which is something that's definitely on "people's":http://djangodose.com/blog/2009/10/reusable-application-panel/ "minds":http://blip.tv/file/3040424.
 
-And some developers just don't grasp how they should construct a piece of code in a way that makes it reusable. For example, some Django apps are little more than utility libraries, and they would fare much better as generic python modules or as WSGI middleware, perhaps with some optional Django helpers. ( "Surlex":http://github.com/codysoyland/surlex by "Cody Soyland":http://www.codysoyland.com/ is a great example of a python module that is decoupled from Django while still being very easy to integrate.)
+And some developers just don't grasp how they should construct a piece of code in a way that makes it reusable. For example, some Django apps are little more than utility libraries, and they would fare much better as generic python modules or as WSGI middleware, perhaps with some optional Django helpers. ("Surlex":http://github.com/codysoyland/surlex by "Cody Soyland":http://www.codysoyland.com/ is a great example of a python module that is decoupled from Django while still being very easy to integrate.)
 
 But that's not what Coelho meant when he said that "the app system is not the right system to break up functionality". He means that reusable apps are architecturally wrong. Not that the paradigm doesn't always work as smoothly as it should, but that it _can't_ work smoothly because it's a bad way to split up functionality. He calls it "django’s basic architectural flaw". I disagree.
 
-I disagree, and I think it's a messy discussion. I see four basic talking points that we should really disentangle.h3. First talking point: stumbling blocks
+I disagree, and I think it's a messy discussion. I see four basic talking points that we should really disentangle.
+
+h3. First talking point: stumbling blocks
 
 Are there any specific stumbling blocks that hinder the creation of pluggable apps? Well, yes, there are a few, like how to handle external apps that need their own static media like images or javascript. I mentioned a few others above. We haven't exactly nailed pluggable apps in Django, but these are shortcomings that we can fix.
 
@@ -40,7 +41,9 @@ And we have a few ways that aid in making great reusable apps today:
 * exposing functionality as decorators or as middleware that people can use as they please
 * the Django registration pattern and other patterns like class factories
 
-We need more of them, but app makers have a pretty big toolkit already.h3. Second talking point: plug 'n play
+We need more of them, but app makers have a pretty big toolkit already.
+
+h3. Second talking point: plug 'n play
 
 Should reusable Django apps try to be what modules are to Drupal, extensions are to Joomla or plugins are to Wordpress, i.e. something you download, install and configure without ever writing a single line of code?
 
@@ -54,7 +57,9 @@ A fellow named zap replies to Coelho that "Perhaps you shouldn’t try to use Dj
 
 The fact that Django encroaches a little on CMS territory is one of the things that make it great, but it's easy to get overly excited about the time gains that prefab apps can bring. Be prudent.
 
-Don't use Django like you'd use Drupal, by mixing-and-matching reusable apps. The best Django apps are those that try to stay a bit low-level. Apps like "sorl-thumbnail":http://code.google.com/p/sorl-thumbnail/ , "staticgenerator":http://superjared.com/projects/static-generator/ , "typogrify":http://code.google.com/p/typogrify/ and "south":http://south.aeracode.org/ .h3. Third talking point: how generic is generic enough
+Don't use Django like you'd use Drupal, by mixing-and-matching reusable apps. The best Django apps are those that try to stay a bit low-level. Apps like "sorl-thumbnail":http://code.google.com/p/sorl-thumbnail/ , "staticgenerator":http://superjared.com/projects/static-generator/, "typogrify":http://code.google.com/p/typogrify/ and "south":http://south.aeracode.org/.
+
+h3. Third talking point: how generic is generic enough
 
 Are we happy with apps that can be plugged into any existing Django installation, or do we expect something more? Do apps need to be really _reusable_ ? A truly reusable app has plenty of configurability, the ability to replace the provided templates, add in new functionality that complements provided features, and so on.
 
@@ -64,7 +69,9 @@ Armin Ronacher says:
 
 bq. If we try to make everything reusable with plugable template engines, orms, javascript frameworks, partial templates creating one page under a common layout we probably end up with a system of the same complexity JEE has.
 
-But, again, we should separate "apps don't work" from _this_ particular discussion.h3. Fourth talking point: software architecture
+But, again, we should separate "apps don't work" from _this_ particular discussion.
+
+h3. Fourth talking point: software architecture
 
 Yet another important topic is how we should organize our applications internally. "Model-template-view":http://docs.djangoproject.com/en/dev/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names provides the basic way you organize a project in Django. But one might wonder how different pieces of functionality (apps) within a larger project should relate to each other. In Django, because each part of each application is exposed to the entire system, it's easy to start programming to the implementation rather than to the interface.
 
