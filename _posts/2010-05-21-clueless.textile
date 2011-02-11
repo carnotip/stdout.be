@@ -1,18 +1,15 @@
 ---
 layout: post
-language: en
+language: nl
 categories:
     - journalism
 tags:
-    - nl
     - context
-    - Anton Vowl
 title: Clueless
-summary:
-    
+summary: Henk Blanken is een pipo.
 ---
 
-Man, 't is toch triest hoe _clueless_ sommige journalisten wel zijn. "Nijst":http://www.nijst.org stuurde me onlangs, waarschijnlijk in een sardonische bui, een link door naar "een stuk van Henk Blanken":http://www.henkblanken.nl/?p=1299 dat op de meest naïef mogelijke manier staatssteun verdedigt aan de media. (Overgenomen door "mediakritiek.be":http://www.mediakritiek.be/blog/2010/05/journalistiek_is_een_publiek_goed_en_staatssteun_is_onvermijdelijk.html )
+Man, 't is toch triest hoe _clueless_ sommige journalisten wel zijn. "Nijst":http://www.nijst.org stuurde me onlangs, waarschijnlijk in een sardonische bui, een link door naar "een stuk van Henk Blanken":http://www.henkblanken.nl/?p=1299 dat op de meest naïef mogelijke manier staatssteun verdedigt aan de media. (Overgenomen door "mediakritiek.be":http://www.mediakritiek.be/blog/2010/05/journalistiek_is_een_publiek_goed_en_staatssteun_is_onvermijdelijk.html)
 
 bq. De journalistiek is onmisbaar in een democratie. Dat vinden journalisten zelf uiteraard, maar de meeste politici, ook degenen die afgeven op de pers, denken er niet anders over. Ik vermoed dat ook het publiek in ruime meerderheid gelooft dat het land beter af is mét dan zonder journalisten. De pers, concludeer ik, is een “publiek goed” en moet, als het echt niet anders meer kan, ook uit publieke middelen worden gefinancierd.
 

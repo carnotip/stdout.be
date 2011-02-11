@@ -18,13 +18,15 @@ summary:
     
 ---
 
-[caption id="attachment_287" align="alignnone" width="520" caption="This is what Cedar Rapids looks like. Sorta."] " !http://stdout.be/wp-content/uploads/2010/06/cedar-rapids.jpg! ":http://stdout.be/wp-content/uploads/2010/06/cedar-rapids.jpg [/caption]
+!/images/2010-06-08-cedar-rapids.jpg(This is what Cedar Rapids looks like. Sorta.)!
 
-As I write this, I am 30,000 feet above Northern Canada and on my way to Cedar Rapids, Iowa, to talk to "Chuck Peters":http://chuckpeters.iowa.com/ and his team at The Gazette. So I thought it'd be fitting to use my time on the plane to take a second look at "Steve Buttry":http://stevebuttry.wordpress.com/ 's insightful "A blueprint for the Complete Community Connection":http://stevebuttry.wordpress.com/2009/04/27/a-blueprint-for-the-complete-community-connection/ , which most of you guys have probably heard about. Steve wrote the report for The Gazette, saying "This is a vision for transformation of our media company and of media companies in general."
+As I write this, I am 30,000 feet above Northern Canada and on my way to Cedar Rapids, Iowa, to talk to "Chuck Peters":http://chuckpeters.iowa.com/ and his team at The Gazette. So I thought it'd be fitting to use my time on the plane to take a second look at "Steve Buttry's":http://stevebuttry.wordpress.com/ insightful "A blueprint for the Complete Community Connection":http://stevebuttry.wordpress.com/2009/04/27/a-blueprint-for-the-complete-community-connection/, which most of you guys have probably heard about. Steve wrote the report for The Gazette, saying "This is a vision for transformation of our media company and of media companies in general."
 
 Newspapers should reach into the very heart of communities if they're to stay relevant — that's the one-sentence summary of Steve's thoughts. Newspapers should support and stimulate ongoing discussions. Local news media especially should be the glue that ties together all the different parts of a community. They should think beyond news stories, and offer services to enrichen the lives of those they serve.
 
-I "love it":/2010/conversational-journalism/ . But it's not going to be easy. I see three pitfalls we should be sure to avoid if we want to become the community hosts Steve wishes newspapers and their reporters to be.h3. 1. Beware of the kitchen sink
+I "love it":/2010/conversational-journalism/. But it's not going to be easy. I see three pitfalls we should be sure to avoid if we want to become the community hosts Steve wishes newspapers and their reporters to be.
+
+h3. 1. Beware of the kitchen sink
 
 Newspapers are in a unique position to contribute to their community: they have some political leverage, they have resources to do things no individual can hope to achieve, they have an overview of what's going on in their community like no one else, and they have an attentive audience. So it's easy to find opportunities. Ticketing services, online marketplaces, hosting for local schools, experience networks for business owners — these might all be things that we _can_ do and Steve urges us to consider them, but I'm not sure he has me convinced.
 
@@ -32,13 +34,17 @@ In certain ways, we really _should_ strive to become 'ambient' in the communitie
 
 Newspaper companies should strive to be lean and mean. They should strive for the flexibility to adapt to any challenge they may face. You can't do that if you take the kitchen sink approach and try to be everything to everyone.
 
-Have a few strong points where you can really make a difference for a community, rather than halfheartedly having your fingers in just about anything.h3. 2. Please don't talk about user-generated content
+Have a few strong points where you can really make a difference for a community, rather than halfheartedly having your fingers in just about anything.
+
+h3. 2. Please don't talk about user-generated content
 
 If you really care about a community, don't talk in terms of user-generated content. User-generated content means appropriating other people's work for your own profit. But that's not a real community connection. And
 
-Yes, user participation is important. It can take the form of crowdsourced news or larger projects, like what The Guardian did with "MP's expenses":http://mps-expenses.guardian.co.uk/ . It can take the form of contributions for readers. User reviews. _Whatever_ . But in the end it should be about empowering people and getting more people talking, "rather than getting them to do your job":http://www.howardowens.com/7338/vcs-chasing-fools-gold-funding-hyperlocal-projects-scale .
+Yes, user participation is important. It can take the form of crowdsourced news or larger projects, like what The Guardian did with "MP's expenses":http://mps-expenses.guardian.co.uk/. It can take the form of contributions for readers. User reviews. _Whatever_. But in the end it should be about empowering people and getting more people talking, "rather than getting them to do your job":http://www.howardowens.com/7338/vcs-chasing-fools-gold-funding-hyperlocal-projects-scale.
 
-There's obviously a thin line between user-generated content and a real community connection. But you'll know the difference, and your readers will too. If you don't respect them, they won't respect you. Good luck monetizing that.h3. 3. Become a connector, not a middle man
+There's obviously a thin line between user-generated content and a real community connection. But you'll know the difference, and your readers will too. If you don't respect them, they won't respect you. Good luck monetizing that.
+
+h3. 3. Become a connector, not a middle man
 
 There are two ways to help people get what they want: either you become a middle man, or you become a connector. It might be enticing to try and monetize the "glue" you offer in a direct way. And that might bring in some money initially. But the internet is all about disintermediating. It's about cutting out the middle man. Helping people to navigate the important parts of their life — housing, education, work, mobility, culture and play — is important, but it should add value, rather than skimming it off the top. eBay might turn a handsome profit, but that doesn't mean people like it. Newspapers can't afford to squander their cultural capital like that. There has to be a better way.
 

@@ -5,20 +5,19 @@ categories:
     - information architecture
     - personal
 tags:
-    - en
     - polyhierarchy
 title: Are information architects UX designers?
 summary:
     Information architects shouldn't just take information as a given. We should design how content is structured and how it relates to other content. We should take cues from software architects. They've been doing domain modeling for ages.
 ---
 
-What is it I do? Lately I've taken to calling myself an _information architect_ .
+What is it I do? Lately I've taken to calling myself an _information architect_.
 
 I help people create news websites that encourage exploration, tease out the deeper context behind every news story and have the rich structure and metadata needed for easy repurposing across platforms.
 
 That's my first stab at an elevator pitch, by the way.
 
-I considered _information designer_ , but nobody knows what the heck that means.
+I considered _information designer_, but nobody knows what the heck that means.
 
 I described myself as a journalist/coder for a while, but it's been a long time since I did any reporting myself. Plus, I'm not the guy who creates infographics or multimedia packages that tell an _individual_ story differently. Instead, I do infrastructure work to better present _each and every_ story. I want to make sure all the content on a news website works together to provide readers with clear pictures of broader issues. So journalist/coder doesn't quite fit.
 
@@ -32,7 +31,7 @@ Most publications (though not in the "Polar Bear":http://oreilly.com/catalog/978
 
 I work on taxonomies and all kinds of navigation. Enhancing findability and encouraging exploration is very big for me. That's classic IA if anything is.
 
-But what keeps me up at night? Thinking about how content on a news website can relate to other content, and to people, places, events and so on. Or, technically speaking: creating domain-specific ontologies that bring out the structure and interrelations in content.  And domain modeling  is traditionally a task either assigned to a software architect or, "in very specific circumstances":http://en.wikipedia.org/wiki/Ontology_engineering , to a library or information scientist.
+But what keeps me up at night? Thinking about how content on a news website can relate to other content, and to people, places, events and so on. Or, technically speaking: creating domain-specific ontologies that bring out the structure and interrelations in content.  And domain modeling  is traditionally a task either assigned to a software architect or, "in very specific circumstances":http://en.wikipedia.org/wiki/Ontology_engineering, to a library or information scientist.
 
 And the fact that many information architects take the structure of information as a given upsets me to no end. Because it essentially conflates information architecture and user experience design.
 

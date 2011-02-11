@@ -21,7 +21,7 @@ bq. Those in the print media who dismiss the writing online because of its low a
 
 Kranten en nieuwsmagazines zien zichzelf nog te veel als een eiland los van de rest van de maatschappij, en klampen zich vast, zo hard ze kunnen, aan het broadcast-model: wij praten niet met de lezer, "wij zeggen de lezer wat interessant is zodat hij zijn kleine brein niet moet vermoeien":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/. Crowdsourcen? We hebben onze eigen rolodex, dankuzeer. Linken naar ander nieuws op het web? We schrijven het liever zelf. De discussie aangaan met lezers? Onze lezers zijn dom, kijk maar naar de commentaren op "hln.be":http://www.hln.be/.
 
-!/images/2010-05-08-wrong-approach.png (Hoe de gemiddelde krant kijkt naar het journalistieke landschap. (c) Lauren Rabaino)!
+!/images/2010-05-08-wrong-approach.png (Hoe de gemiddelde krant kijkt naar het journalistieke landschap. © Lauren Rabaino)!
 
 Op een gegeven moment zal die arrogante houding en dat eilanddenken de mainstream media zuur opbreken.
 
@@ -43,7 +43,7 @@ bq. there’s a problem with categorizing journalists into any form of hierarchy
 
 Journalistiek "wordt een gesprek":http://www.ireporter.org/2006/02/conversational_.html.
 
-!/images/2010-05-08-better-approach.png (Waar het journalistieke landschap nu stilaan naartoe evolueert. (c) Lauren Rabaino)!
+!/images/2010-05-08-better-approach.png (Waar het journalistieke landschap nu stilaan naartoe evolueert. © Lauren Rabaino)!
 
 Zoals Matt Thompson "zegt":http://www.newsless.org/2009/03/there-is-only-us/: “The responsibility for gathering information and evaluating it has spread throughout the citizenry.”
 

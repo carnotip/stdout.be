@@ -6,25 +6,20 @@ categories:
     - society
 equiv: 2010-05-25-the-future-of-investigative-journalism
 tags:
-    - nl
-    - blogging
-    - open government
-    - authenticiteit
-    - Generatie M
-    - strategy
-    - nonprofits
+    - authenticity
+    - generation M
 title: De toekomst van de onderzoeksjournalistiek
-summary:
-    
+context: Dit is de vertaling van een stukje van mijnentwege dat eerder deze week op "Lost Remote":http://www.lostremote.com/ verscheen.
+summary: Onderzoeksjournalistiek vandaag de dag is iets anders dan Woodward en Bernstein, maar dat betekent niet dat ze verdwenen is.    
 ---
 
-_Dit is de vertaling van een_  " _stukje van mijnentwege_ ":http://www.lostremote.com/2010/05/25/guest-post-the-future-of-investigative-journalism/  _dat eerder deze week op_  " _Lost Remote_ ":http://www.lostremote.com/  _verscheen._ Er zijn twee soorten nieuwe media die je de laatste jaren ziet ontstaan. Er zijn de onderzoeksjournalisten zoals "ProPublica":http://www.propublica.org/ en het "Center for Investigative Reporting":http://www.centerforinvestigativereporting.org/ in de VS, of "Apache":http://www.apache.be/ bij ons. En dan zijn er websites zoals "EveryBlock":http://www.everyblock.com/ of "lawrence.com":http://www.lawrence.com/ die zich proberen binden aan het weefsel van een gemeenschap. En weinig daartussen. Vreemd.
+__ Er zijn twee soorten nieuwe media die je de laatste jaren ziet ontstaan. Er zijn de onderzoeksjournalisten zoals "ProPublica":http://www.propublica.org/ en het "Center for Investigative Reporting":http://www.centerforinvestigativereporting.org/ in de VS, of "Apache":http://www.apache.be/ bij ons. En dan zijn er websites zoals "EveryBlock":http://www.everyblock.com/ of "lawrence.com":http://www.lawrence.com/ die zich proberen binden aan het weefsel van een gemeenschap. En weinig daartussen. Vreemd.
 
-Nu ook niet dat er "Rain Man":http://en.wikipedia.org/wiki/Rain_Man -gewijs een ijzersterk patroon te ontwaren valt, maar toch. Je zou verwachten dat net communitysites het belang inzien van onderzoek. 't Is immers onderzoeksjournalistiek die gemeenschappen moet beschermen van boemannen en malfaisanten. (En als je dat al een opgeblazen missieverklaring vindt, dan moet je maar eens de gemiddelde onderzoeksjournalist over zijn werk horen. Dat terzijde.)
+Nu ook niet dat er "Rain Man-gewijs":http://en.wikipedia.org/wiki/Rain_Man een ijzersterk patroon te ontwaren valt, maar toch. Je zou verwachten dat net communitysites het belang inzien van onderzoek. 't Is immers onderzoeksjournalistiek die gemeenschappen moet beschermen van boemannen en malfaisanten. (En als je dat al een opgeblazen missieverklaring vindt, dan moet je maar eens de gemiddelde onderzoeksjournalist over zijn werk horen. Dat terzijde.)
 
-Maar ik denk dat ik weet hoe de vork aan de steel zit. De mensen met de grootste passie voor het heruitvinden van de stads- en wijkjournalistiek zijn jonge knapen uit een "nieuwe generatie":http://blogs.hbr.org/haque/2009/07/today_in_capitalism_20_1.html . Generatie M zegt men soms.
+Maar ik denk dat ik weet hoe de vork aan de steel zit. De mensen met de grootste passie voor het heruitvinden van de stads- en wijkjournalistiek zijn jonge knapen uit een "nieuwe generatie":http://blogs.hbr.org/haque/2009/07/today_in_capitalism_20_1.html. Generatie M zegt men soms.
 
-Mag ik even Generatie M verpersoonlijken? Ik wil "authenticiteit":http://www.reportr.net/2008/11/21/three-social-media-principles-for-journalists/ en menselijkheid. Ik wil dat anderen mij vertrouwen en zelf vertrouwen kunnen stellen in mensen. Ik wil mijn rol opnemen in de maatschappij, en "interageren":http://open311.org/ met een overheid die niet enkel transparant is maar echt "open":http://delicious.com/stdbrouw/gov2.0 .
+Mag ik even Generatie M verpersoonlijken? Ik wil "authenticiteit":http://www.reportr.net/2008/11/21/three-social-media-principles-for-journalists/ en menselijkheid. Ik wil dat anderen mij vertrouwen en zelf vertrouwen kunnen stellen in mensen. Ik wil mijn rol opnemen in de maatschappij, en "interageren":http://open311.org/ met een overheid die niet enkel transparant is maar echt "open":http://delicious.com/stdbrouw/gov2.0.
 
 Wat ik wil is een wereld waar je online elk aspect van het overheidsfunctioneren kan nakijken en bestuderen. Een wereld waar het niet alleen de overheid is die jou informeert, maar "jij die de overheid informeert":http://www.fixmystreet.com/ als er wat mis is.
 

@@ -5,12 +5,8 @@ categories:
     - journalism
     - business
 tags:
-    - en
     - context
     - RAD
-    - GitHub
-    - Cedar Rapids
-    - The Gazette
 title: The business plan *is* the plan
 summary:
     When you get a new project underway, start with a plan on how to get to profitability from day one. Anything else is bullshit.
@@ -22,6 +18,6 @@ It's not technology I want to talk about though. Luddites can do good journalism
 
 "Will you make this work for me?" betrays a way of thinking that embodies a deep dichotomy between _what something should be_ and _how do we turn this into something real_. And despite their vigor and enthusiasm, that split sets these journalists up for failure even before they get started.
 
-Beginning with the very first brainstorm sessions, thinking up a new media project (or any other project for that matter) should involve a back-and-forth between _what we want_ and _what is possible_ . Do we have a good idea that would cost an exuberant amount of money? Does it involve insurmountable technical challenges? Okay, let's go back to the drawing board and see whether we can't do 90% of what we want with half the money. Are there some technical opportunities out there that might inform how we conceive of our brain child? Let's not allow those opportunities to pass us by. If you ask these questions, little by little, you'll end up with something great. And just as important: it'll actually work.
+Beginning with the very first brainstorm sessions, thinking up a new media project (or any other project for that matter) should involve a back-and-forth between _what we want_ and _what is possible_. Do we have a good idea that would cost an exuberant amount of money? Does it involve insurmountable technical challenges? Okay, let's go back to the drawing board and see whether we can't do 90% of what we want with half the money. Are there some technical opportunities out there that might inform how we conceive of our brain child? Let's not allow those opportunities to pass us by. If you ask these questions, little by little, you'll end up with something great. And just as important: it'll actually work.
 
 Don't just start a project and say, "yeah, we intend to turn a profit within, um, five years". That's just an excuse not to think about the difficult business decisions you _should_ be thinking about. Not two years from now, but _at this very moment_. When you get a new project underway, start with a plan on how to get to profitability from day one. Anything else is bullshit.

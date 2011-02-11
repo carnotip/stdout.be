@@ -6,33 +6,29 @@ categories:
     - society
 equiv: 2010-05-18-journalistiek-is-een-gesprek
 tags:
-    - en
     - context
-    - Jay Rosen
-    - semantic web
     - blogging
-    - onderzoeksjournalistiek
     - storytelling
     - voice
     - investigative journalism
 title: Conversational journalism
-summary:
-    
+context: "Lauren Rabaino":http://www.laurenmichell.com/ asked for a translation to my earlier Dutch-language post_ "Journalistiek is een gesprek":/2010/journalistiek-is-een-gesprek/. Considering that I, eh, --stole-- borrowed her pictures to illustrate my thoughts, I thought I'd give her the courtesy, so here it is.
+summary: The curious history of citizen journalism
 ---
 
 h2. Or: why no-one talks about 'citizen journalism' anymore.
 
- _ "Lauren Rabaino":http://www.laurenmichell.com/ asked for a translation to my earlier Dutch-language post_  _ "Journalistiek is een gesprek":/2010/journalistiek-is-een-gesprek/ . C_  _onsidering that I, eh,stoleborrowed her pictures to illustrate my thoughts, I thought I'd give her the courtesy, so here it is._ Once upon a time, newspapers were forces to be reckoned with, says "Judy Sims":http://simsblog.typepad.com/simsblog/2009/11/pity-the-poor-publisher.html . A publisher could make or break politicians, bring corruption to light, defend the little man and, at the same time, turn a delicious profit. Slowly but surely, though, newspapers are losing their authority — a mere "34%, one study says, think newspapers are trustworthy and reliable":http://news.bbc.co.uk/2/hi/entertainment_and_arts/10121759.stm . 34%! Scary.
+Once upon a time, newspapers were forces to be reckoned with, says "Judy Sims":http://simsblog.typepad.com/simsblog/2009/11/pity-the-poor-publisher.html. A publisher could make or break politicians, bring corruption to light, defend the little man and, at the same time, turn a delicious profit. Slowly but surely, though, newspapers are losing their authority — a mere "34%, one study says, think newspapers are trustworthy and reliable":http://news.bbc.co.uk/2/hi/entertainment_and_arts/10121759.stm. 34%! Scary.
 
 Meanwhile, news startups and individual bloggers are changing how we think about news. There's still a sizeable amount of journalists who think they have nothing to fear from bloggers, that it's all just garbage. The thing is, though:
 
-bq. Those in the print media who dismiss the writing online because of its low average quality are missing an important point: no one reads the average blog. In the old world of channels, it meant something to talk about average quality, because that's what you were getting whether you liked it or not. But now you can read any writer you want. So the average quality of writing online isn't what the print media are competing against. They're competing against the best writing online. ( "Paul Graham":http://www.paulgraham.com/opensource.html )
+bq. Those in the print media who dismiss the writing online because of its low average quality are missing an important point: no one reads the average blog. In the old world of channels, it meant something to talk about average quality, because that's what you were getting whether you liked it or not. But now you can read any writer you want. So the average quality of writing online isn't what the print media are competing against. They're competing against the best writing online. ("Paul Graham":http://www.paulgraham.com/opensource.html)
 
 h3. We'll make sense of the world for you, you poor sod
 
 Newspapers and news magazines too often act as if they're on a perch, safely above the rest of society. They cling, desparately, to the broadcast model: we don't talk to our readers, we tell our readers "what's interesting so they won't have to rack their poor little brains":/2010/dont-reward-broccoli-journalism/ trying to make sense of the world by themselves. Crowdsourcing? We have our own rolodex, thank you. Linking to other news on the web? What we do ourselves, we do better. Engage in discussion with readers? Our readers are stupid, just look at the sheer amount of ghastly anonymous commentary on virtually any news website out there.
 
-[caption id="attachment_212" align="alignnone" width="500" caption="How most news execs perceive journalism. (c) Lauren Rabaino"] " !http://stdout.be/wp-content/uploads/2010/05/wrong-approach.png! ":http://stdout.be/wp-content/uploads/2010/05/wrong-approach.png [/caption]
+!/images/2010-05-19-wrong-approach.png(How most news execs perceive journalism. © Lauren Rabaino)!
 
 That hubris will come back to bite them. It's already happening.
 
@@ -42,7 +38,7 @@ That hubris will come back to bite them. It's already happening.
 
 And there's not just bloggers to think about. Journalists should realize that, for a lot of reporting, they're at a disadvantage to experts. People who really know what they're talking about, people who don't have to fake years of hard-won knowledge by distilling a story from a few phone calls and e-mails. So "don't be surprised if experts start doing your job, only better.":http://www.currybet.net/cbet_blog/2010/01/with_professionals_like_this.php And, let's be honest, it's not like newspapers are generally that great:
 
-bq. Occasionally - or you could even say often - blogs are a source of tedious repetition, infantilism, ranting and poo-chucking; but that's not to say that, in being so, they're any much worse than what you might read from certain columnists. ( "Anton Vowl":http://enemiesofreason.blogspot.com/2010/01/tide-is-coming-in.html )
+bq. Occasionally - or you could even say often - blogs are a source of tedious repetition, infantilism, ranting and poo-chucking; but that's not to say that, in being so, they're any much worse than what you might read from certain columnists. ("Anton Vowl":http://enemiesofreason.blogspot.com/2010/01/tide-is-coming-in.html)
 
 h3. What's up with citizen journalism?
 
@@ -52,12 +48,12 @@ Most of us don't get excited about the _term_ 'citizen journalism' anymore becau
 
 Citizen journalism isn't dead. Far from it. But the future of journalism isn't user-generated content. It's a future where the media becomes an ecosystem, with a whole bunch of equal partners, all of them enrichening the news experience:
 
-bq. there’s a problem with categorizing journalists into any form of hierarchy; you imply that there are journalists who are more valuable or credible than others. This is an entirely false assumption. ( "Lauren Rabaino":http://www.laurenmichell.com/2010/04/reinventing-the-definition-of-journalist/ )
+bq. there’s a problem with categorizing journalists into any form of hierarchy; you imply that there are journalists who are more valuable or credible than others. This is an entirely false assumption. ("Lauren Rabaino":http://www.laurenmichell.com/2010/04/reinventing-the-definition-of-journalist/)
 
-Journalism "becomes a conversation":http://www.ireporter.org/2006/02/conversational_.html .
+Journalism "becomes a conversation":http://www.ireporter.org/2006/02/conversational_.html.
 
-[caption id="attachment_211" align="alignnone" width="500" caption="Journalism as it works today, at least for those who get it. (c) Lauren Rabaino"] " !http://stdout.be/wp-content/uploads/2010/05/better-approach.png! ":http://stdout.be/wp-content/uploads/2010/05/better-approach.png [/caption]
+!/images/2010-05-19/better-approach.png(Journalism as it works today, at least for those who get it. © Lauren Rabaino)!
 
-As Matt Thompson "says":http://www.newsless.org/2009/03/there-is-only-us/ : “The responsibility for gathering information and evaluating it has spread throughout the citizenry.”
+As Matt Thompson "says":http://www.newsless.org/2009/03/there-is-only-us/: “The responsibility for gathering information and evaluating it has spread throughout the citizenry.”
 
-We're at the dawn of a new journalistic landscape where everybody adds to the conversation, and where journalists will no longer be exclusively _broadcasters_ , but _facilitators_ as well. Thompson says it's time for us to figure out how we'll make sure we reap the full benefits from that new landscape, and make sure it's an evolution that leaves people more informed and active citizens. He's convinced that we can transform journalism into a conversation, and that the result will be amazing. I think so too.
+We're at the dawn of a new journalistic landscape where everybody adds to the conversation, and where journalists will no longer be exclusively _broadcasters_, but _facilitators_ as well. Thompson says it's time for us to figure out how we'll make sure we reap the full benefits from that new landscape, and make sure it's an evolution that leaves people more informed and active citizens. He's convinced that we can transform journalism into a conversation, and that the result will be amazing. I think so too.

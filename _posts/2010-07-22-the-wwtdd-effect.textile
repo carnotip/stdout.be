@@ -1,0 +1,37 @@
+---
+layout: post
+language: en
+canonical: http://onlinejournalismblog.com/2010/07/22/the-wwtdd-effect/
+categories:
+    - journalism
+    - society
+tags:
+    - context
+    - Generation M
+title: The WWTDD effect
+summary: 
+---
+
+"Should we give readers what they want?":http://www.niemanlab.org/2010/07/what-the-audience-wants-isnt-always-junk-journalism/
+
+I'm reminded of my time at the student newspaper, a couple of years ago. In an attempt to get any sort of clue on what our readers wanted to read, and why students in some fields of study didn't care about the paper at all, we organized a survey. Y'know, one of the most boring, but also one of the most effective ways of getting quantitative insight into whatever it is you're doing.
+
+The survey itself was heresy at the paper.
+
+In the eighties, the attitude at our student newspaper can be summed up as "actually, we don't want you to read us, since you're probably too dumb anyway". Subsidies by the college administration can do that to people.
+
+By 2008, we'd grown out of that cocky attitude a little bit, but not entirely. In the end, so sayeth the wise sophomore, what constitutes good journalism depends on objective criteria, not on what readers think, isn't it?
+
+Okay, so, good journalism might sometimes be at odds with what people wish to read. Both tend to coincide, but not always. Readers aren't stupid, but they're only human after all.
+
+That's how it starts out. And before you know it, the newsroom is collecting snippets of inane reader comments and every morning starts off with a lament of how _these kids_ just don't appreciate good reporting.
+
+Many journalists don't factor in how readers respond to their writing when contemplating their self-worth. That's scary. Because in the end, if nobody reads what you do, that's probably a sign that it's not that good. And even if it is, any type of enterprise reporting — think investigations — depends on a sizable readership to have its desired effect.
+
+I'd like to see more serious reporters who, while holding themselves to the highest possible standards in reporting, take audience reach and interaction as one of the chief metrics in ascertaining their success. Great quality, no lowest common denominator, huge readership. Challenge yourself.
+
+I'd like to see more reporters tackle tough issues, yet in a way that attracts readers not dissimilarly from how "What Would Tyler Durden Do":http://www.wwtdd.com/ attracts even the most jaded liberal arts grads to celebrity news.
+
+Impossible, you say? Then how come half the world read "a detailed blogpost on antenna design?":http://www.antennasys.com/antennasys-blog/2010/6/24/apple-iphone-4-antennas.html How come people from around the world follow American politics on "Jon Stewart's The Daily Show":http://www.thedailyshow.com/, when they can't even seem to bother to follow their local elections? Why does Mike Masnick have "a successful blog":http://www.techdirt.com on something as dreary as intellectual property rights? Why do San Franciscans visit "The Bold Italic":ttp://thebolditalic.com/ _en masse_? Wasn't regional journalism supposed to be boring? Something you only do because you can't get a job at a real newspaper?
+
+Uhuh.

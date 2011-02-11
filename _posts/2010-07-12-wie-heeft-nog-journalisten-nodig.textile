@@ -1,14 +1,13 @@
 ---
 layout: post
-language: en
+language: nl
 categories:
     - journalism
     - society
 tags:
-    - nl
     - context
     - blogging
-    - onderzoeksjournalistiek
+    - investigative journalism
     - newsgathering
 title: Wie heeft nog journalisten nodig?
 summary:
@@ -17,21 +16,23 @@ summary:
 
 Een aantal weken geleden "schreef ik":/2010/journalistiek-is-een-gesprek/ dat we evolueren naar een medialandschap waar professionele journalisten maar één deelnemer zijn aan veel groter gesprek. Een gesprek waar burgers zelf, professoren, experts, open data-techneuten maar ook de overheid en private bedrijven een rol in zullen spelen.
 
-Dat is een halve droom en een halve voorspelling. *Een droom* , omdat het aantal bloggers hier in Vlaanderen toch maar een héél kleine bende is. Op super draaiende stadsblogs na ( "Gent":http://www.gentblogt.be/ , "Antwerpen":http://apen.be/ , "Brussel":http://www.brusselblogt.be/ , "Hasselt":http://www.hasseltlokaal.be/ , "Leuven":http://leveninleuven.be/ , "Kortrijk":http://www.kortrijkwatcher.be/ , "Mechelen":http://www.mechelenblogt.be/ enzovoort) horen we niet veel van _'t volk_ dat echt de journalistieke kant opgaat. Dus dat moeten we koesteren en aanmoedigen en ondersteunen. *Een voorspelling* , en zelfs niet eens een heel interessante, omdat je met je ogen toe kan zien dat het aantal mensen die berichten over vanalles en nog wat, aan het stijgen is.
+Dat is een halve droom en een halve voorspelling. *Een droom*, omdat het aantal bloggers hier in Vlaanderen toch maar een héél kleine bende is. Op super draaiende stadsblogs na ("Gent":http://www.gentblogt.be/, "Antwerpen":http://apen.be/, "Brussel":http://www.brusselblogt.be/, "Hasselt":http://www.hasseltlokaal.be/, "Leuven":http://leveninleuven.be/, "Kortrijk":http://www.kortrijkwatcher.be/, "Mechelen":http://www.mechelenblogt.be/ enzovoort) horen we niet veel van _'t volk_ dat echt de journalistieke kant opgaat. Dus dat moeten we koesteren en aanmoedigen en ondersteunen.
+
+*Een voorspelling* , en zelfs niet eens een heel interessante, omdat je met je ogen toe kan zien dat het aantal mensen die berichten over vanalles en nog wat, aan het stijgen is.
 
 Je ziet nu al "dat NGO's buitenland- en sociale berichtgeving overnemen":http://www.niemanlab.org/tag/ngos/ waar de traditionele media tekortschiet. Zelfs "De Wereld Morgen":http://www.dewereldmorgen.be/ kan je in die optiek bekijken.
 
-Een half jaar geleden kwam "Futurity":http://futurity.org/  "in het nieuws":http://www.niemanlab.org/2009/09/futurity-and-almost-journalism/ , als een samenwerking tussen universiteiten om meer mensen warm te krijgen voor en te informeren over wetenschap. In België hebben we "Ik heb een vraag":http://www.ikhebeenvraag.be/ . Geen journalistiek als je met journalistiek reportages bedoelt, maar wel een project met als doel om lezers te informeren, dus hetzelfde vaarwater.
+Een half jaar geleden kwam "Futurity":http://futurity.org/ "in het nieuws":http://www.niemanlab.org/2009/09/futurity-and-almost-journalism/ , als een samenwerking tussen universiteiten om meer mensen warm te krijgen voor en te informeren over wetenschap. In België hebben we "Ik heb een vraag":http://www.ikhebeenvraag.be/ . Geen journalistiek als je met journalistiek reportages bedoelt, maar wel een project met als doel om lezers te informeren, dus hetzelfde vaarwater.
 
-Wetenschap is, naast buitenlandberichtgeving, nog zoiets waar veel kranten tekort schieten. Geen enkele krant in Vlaanderen heeft een wetenschapskatern die naam waardig, punt. Terwijl uniefs aan de bron zitten. Tuurlijk,  misschien dat universiteiten en hogescholen zichzelf af en toe wel eens graag in de kijker zetten en hun verdiensten opkloppen, maar dat is nog altijd minder vervelend dan kranten die wetenschappelijk nieuws ten allen koste sexy proberen maken, en daarbij voortdurend "flaters begaan":http://www.badscience.net/2010/06/the-return-of-a-2bn-fishy-friend/ .
+Wetenschap is, naast buitenlandberichtgeving, nog zoiets waar veel kranten tekort schieten. Geen enkele krant in Vlaanderen heeft een wetenschapskatern die naam waardig, punt. Terwijl uniefs aan de bron zitten. Tuurlijk,  misschien dat universiteiten en hogescholen zichzelf af en toe wel eens graag in de kijker zetten en hun verdiensten opkloppen, maar dat is nog altijd minder vervelend dan kranten die wetenschappelijk nieuws ten allen koste sexy proberen maken, en daarbij voortdurend "flaters begaan":http://www.badscience.net/2010/06/the-return-of-a-2bn-fishy-friend/.
 
 En nu recentelijk hoor je decanen van "journalistieke opleidingen luidop nadenken":http://sustainablejournalism.org/aejmc-pre-conference-workshop/ of zijzelf en hun studenten misschien niet actiever moeten gaan bijdragen aan de berichtgeving over de lokale gemeenschappen rond hun campus.
 
-Meer mensen maken media, en ze maken media vanuit meer verschillende perspectieven. Perspectieven die _vested interests_ met zich meebrengen. Maar tegelijk ook perspectieven die genuanceerder en beter geïnformeerd zijn dan de snel in elkaar gebokste reportage van een "parachutejournalist":http://en.wikipedia.org/wiki/Parachute_journalism . De schooldirecteur of ambtenaar of medewerker van een NGO kan soms net door haar betrokkenheid betere, écht meeslepende verhalen brengen.
+Meer mensen maken media, en ze maken media vanuit meer verschillende perspectieven. Perspectieven die _vested interests_ met zich meebrengen. Maar tegelijk ook perspectieven die genuanceerder en beter geïnformeerd zijn dan de snel in elkaar gebokste reportage van een "parachutejournalist":http://en.wikipedia.org/wiki/Parachute_journalism. De schooldirecteur of ambtenaar of medewerker van een NGO kan soms net door haar betrokkenheid betere, écht meeslepende verhalen brengen.
 
-Mensen zijn stilaan gewoon dat ze kritisch moeten nadenken over wat ze lezen. Lezers weten dat ze in de gaten moeten houden wie wat schrijft en waarom. Dat is tricky, maar een hele hoop stemmen met een eigen mening vertellen ons misschien meer dan een krant die "ten allen koste haar stem verbergt":http://journalism.nyu.edu/pubzone/weblogs/pressthink/2010/06/14/ideology_press.html .
+Mensen zijn stilaan gewoon dat ze kritisch moeten nadenken over wat ze lezen. Lezers weten dat ze in de gaten moeten houden wie wat schrijft en waarom. Dat is tricky, maar een hele hoop stemmen met een eigen mening vertellen ons misschien meer dan een krant die "ten allen koste haar stem verbergt":http://journalism.nyu.edu/pubzone/weblogs/pressthink/2010/06/14/ideology_press.html.
 
-Stewart Kirkpatrick "zegt":http://www.pbs.org/idealab/2010/06/the-future-of-news-not-so-bleak-not-so-rosy152.html : "This is a great time to do journalism. It's just not a great time to earn your living as a journalist." Een aantal kranten en andere traditionele media zullen moeten opdoeken, of zullen inkrimpen. Uitgevers zullen hun aandacht moeten verleggen naar de dingen waar ze wel nog winst mee kunnen maken.
+Stewart Kirkpatrick "zegt":http://www.pbs.org/idealab/2010/06/the-future-of-news-not-so-bleak-not-so-rosy152.html: "This is a great time to do journalism. It's just not a great time to earn your living as a journalist." Een aantal kranten en andere traditionele media zullen moeten opdoeken, of zullen inkrimpen. Uitgevers zullen hun aandacht moeten verleggen naar de dingen waar ze wel nog winst mee kunnen maken.
 
 De jobs in de media die nu verdwijnen komen niet terug. Maar dat is ok. De goeie journalisten zullen wel leren leven met het nieuwe landschap. Er zich aan aanpassen. Dat we binnen tien jaar de prutsers en de middelmatige managers kwijt zijn, daar zal niemand om rouwen.
 
