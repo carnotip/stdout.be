@@ -1,20 +1,9 @@
-from xml.etree.ElementTree import ElementTree
-from urlparse import urlparse
-from flask import Flask
+from flask import Flask, render_template
 from flaskext.sqlalchemy import SQLAlchemy
+import data
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite://db.db'
 db = SQLAlchemy(app)
-
-def get_permalinks():
-    tree = ElementTree()
-    # /_site/sitemap.xml actually
-    root = tree.parse("../sitemap.xml")
-    links = []
-    for link in root.findall("*/{http://www.sitemaps.org/schemas/sitemap/0.9}loc"):
-        absolute_url = urlparse(link.text).path
-        links.append(absolute_url)
-    return links
 
 class Comment(db.Model):
     __tablename__ = "comments"
@@ -36,9 +25,14 @@ class Comment(db.Model):
         self.website = website
         self.content = content
 
+@app.route("/posts/")
+def posts():
+    info = data.get_post_info()
+    return render_template('dashboard.html', posts=info)
+
 @app.route("/posts/<permalink>/")
 def comments(permalink):
-    return str(get_permalinks())
+    return data.get_permalinks()
 
 if __name__ == "__main__":
     app.run(debug=True)

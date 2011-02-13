@@ -1,4 +1,6 @@
+*.pyc
 _import
 public
 .DS_Store
 .sass-cache
+_director/settings.yml

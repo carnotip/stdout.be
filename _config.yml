@@ -8,7 +8,7 @@ exclude:     ./README, ./LICENSE, ./_director, ./nginx.conf, ./__posts
 destination: ./public
 plugins:     ./_plugins
 
-permalink:   pretty
+permalink:   /:year/:month/:day/:title
 
 future:      true
 lsi:         false
