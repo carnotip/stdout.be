@@ -1,0 +1,23 @@
+<h2>
+    {% if comments|length == 1 %}
+        1 comment
+    {% else %}
+        {{ comments|length }} comments
+    {% endif %}
+</h2>
+
+<div>
+    {% for comment in comments %}
+    <article class="comment">
+        <header class="comment-about {% if comment.author == 'Stijn Debrouwere' %}by-author{% endif %}">
+            <time class="comment-meta">{{ comment.date.year }}-{{ comment.date.month }}-{{ comment.date.day }}</time>
+            <img src="{{ comment.gravatar_url(80) }}" />
+        </header>
+        <div class="comment-content">
+            <div class="comment-author">{% if comment.website %}<a href="{{ comment.website }}">{{ comment.author }}</a>{% else %}{{ comment.author }}{% endif %} <a href="#comment-{{comment.id}}" class="permalink">¶</a></div>
+            <p>Sympathiek, maar ik geloof dat je toch te veel eer geeft aan het huidige roster. Om WWTDD of YANP neer te pennen moet je wel degelijk een stuk vlotter ter taal zijn dan om een standaard-recensie te schrijven zoals jij ze ontleedt. Het gaat ook over gebrek aan talent, en niet enkel over een vastgeroest zitten in een overbodig genre.</p>
+            <p>Verder deel ik je gevoel. Maar telkens dat sentiment me overvalt, herlees ik nog eens deze of gene recensie en besef ik dat er toch waarde kan zitten in het overdragen van meer dan slechts een puntige mening. Want YANP is minstens even vluchtig als het leuk is, niet?</p>
+        </div>
+    </article>
+    {% endfor %}
+</div>

@@ -28,7 +28,7 @@ def get_backtweets():
     body = urllib2.urlopen(base).read()
     return simplejson.loads(body)
 
-@cache.cache('delicious_info', expire=3600)
+@cache.cache('delicious_info', expire=ONE_DAY)
 def get_delicious_info(url):
     url = hashlib.md5(url).hexdigest()
     base = "http://feeds.delicious.com/v2/json/urlinfo/" + url
@@ -41,6 +41,10 @@ def get_delicious_info(url):
         return json[0]
     else:
         return None
+
+def get_old_url(new_url):
+    parts = new_url.split("/")
+    return parts[1] + "/" + "/".join(parts[4:])
 
 def get_bookmark_count(urlinfo):
     if urlinfo:
@@ -65,8 +69,7 @@ def add_delicious_info(info):
         # old url structure
         parts = link.split("/")
         if int(parts[1]) < 2011:
-            old_link = parts[1] + "/" + "/".join(parts[4:])
-            old_url = "http://stdout.be/" + old_link
+            old_url = "http://stdout.be/" + get_old_url(link)
             info[link]["old_delicious_count"] = get_bookmark_count(get_delicious_info(old_url))
         else:
             info[link]["old_delicious_count"] = 0
@@ -85,9 +88,6 @@ def get_post_info():
     # ?
     # delicious
     info = add_delicious_info(info)
-
-    from pprint import pprint
-    pprint(info)
   
     # comments
     return info

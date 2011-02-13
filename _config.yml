@@ -4,7 +4,7 @@ server:      false
 server_port: 4000
 
 source:      .
-exclude:     ./README, ./LICENSE, ./_director, ./nginx.conf, ./__posts
+exclude:     ./README, ./LICENSE, ./_director, ./nginx.conf, ./redirects.conf, ./__posts
 destination: ./public
 plugins:     ./_plugins
 
