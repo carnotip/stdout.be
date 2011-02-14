@@ -12,8 +12,11 @@ tags:
     - voice
     - investigative journalism
 title: Conversational journalism
-context: "Lauren Rabaino":http://www.laurenmichell.com/ asked for a translation to my earlier Dutch-language post_ "Journalistiek is een gesprek":/2010/journalistiek-is-een-gesprek/. Considering that I, eh, --stole-- borrowed her pictures to illustrate my thoughts, I thought I'd give her the courtesy, so here it is.
-summary: The curious history of citizen journalism
+context:
+    Lauren Rabaino asked for a translation to my earlier Dutch-language post Journalistiek is een gesprek. Considering that I, eh, borrowed her pictures to illustrate my thoughts, I thought I'd give her the courtesy, so here it is.
+
+summary:
+    The curious history of citizen journalism
 ---
 
 h2. Or: why no-one talks about 'citizen journalism' anymore.

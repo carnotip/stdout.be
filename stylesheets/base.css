@@ -38,28 +38,28 @@ p#about-this {
   padding: 0;
   margin: 0; }
 
-div#header {
+header {
   margin-bottom: 20px; }
 
 ul#language li a:hover {
   background: #1d53c2;
   color: #ffff33; }
 
-div.nav {
+nav {
   font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
   font-size: auto;
   line-height: 1;
   margin: 0.35em 0;
   padding: 4px 0; }
-  div.nav ul {
+  nav ul {
     padding: 0;
     margin: 0;
     padding-left: 0;
     display: inline-block; }
-    div.nav ul li {
+    nav ul li {
       list-style-type: none;
       display: inline-block; }
-    div.nav ul#language {
+    nav ul#language {
       margin-right: 10px; }
 
 a.active, a.active:hover {
@@ -77,7 +77,7 @@ a.switch {
   background: white; }
 
 /* STRUCTURE */
-div.nav a, ul#categories a {
+nav a, ul#categories a {
   border-radius: 4px;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
@@ -90,14 +90,16 @@ ul.menu a {
     background: #ffffaa;
     color: black; }
 
-div.centered {
+.centered {
   width: 780px;
   margin: 0 auto; }
-div.inset {
+
+.inset {
   padding: 10px 0;
   margin: 20px 0;
   background: #eeeeee; }
-div.alt {
+
+.alt {
   background: #ffffdd; }
 
 hr.divider {
