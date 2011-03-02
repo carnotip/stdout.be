@@ -47,13 +47,13 @@ As an addendum to (2): it should be obvious what we should tag and how we should
 
 There's a very simple step we can take to make it obvious to reporters what kind of things they are supposed to be adding as keywords to their articles. Split up tags by type, each with their own input field. Some people call 'em vocabularies, others call them dictionaries, but you get the picture.
 
-[caption id="attachment_63" align="alignnone" width="520" caption="Drupal makes it easy to split up tags and categories into distinct vocabularies."] " !http://stdout.be/wp-content/uploads/2010/04/drupal-vocabularies.png! ":http://stdout.be/wp-content/uploads/2010/04/drupal-vocabularies.png [/caption]
+!/images/content/2010-04-07/drupal-vocabularies.png(Drupal makes it easy to split up tags and categories into distinct vocabularies.)!
 
 The New York Times has "dictionaries":http://open.blogs.nytimes.com/2008/10/21/announcing-the-timestags-api/ for subject descriptors, persons, geographic locations and organizations. That's pretty encompassing, but allow me to add events to that list.
 
 Themes or topics, persons, locations, organizations, events. If we keep these five vocabularies in mind, they'll serve as a constant reminder that we need to make sure that we keyword all the persons that are involved, that locations are valid keywords and that we should add them, and so on.
 
-[caption id="attachment_70" align="alignnone" width="520" caption="Let's replace tags with the things tags actually stand for: people, places, themes, events and organizations."] " !http://stdout.be/wp-content/uploads/2010/04/5-types-of-relationships.png! ":http://stdout.be/wp-content/uploads/2010/04/5-types-of-relationships.png [/caption]
+!/images/content/2010-04-07/5-types-of-relationships.png(Let's replace tags with the things tags actually stand for: people, places, themes, events and organizations.)!
 
 Vocabularies are a basic necessity for even trivial things like automatically compiling an index of all the people that a site has content on. You can't provide an index of people if your website makes cannot discern persons from themes from locations.
 
@@ -63,7 +63,7 @@ We'll handle subject descriptors — themes, topics, or whatever you want to cal
 
 It's only a little confusing to us humans because we can guess the meaning of the tags from the text that they accompany, but computers can’t. We’re really going to need computers to aid us in bringing context — say, for example, listing all the articles where Apple was lauded versus those where the company was criticized.
 
-[caption id="attachment_73" align="alignnone" width="520" caption="A few possible relationships between a story and a person."] " !http://stdout.be/wp-content/uploads/2010/04/relationship-to-person1.png! ":http://stdout.be/wp-content/uploads/2010/04/relationship-to-person1.png [/caption]
+!/images/content/2010-04-07/relationship-to-person1.png(A few possible relationships between a story and a person.)!
 
 With just a little more effort, it’s easy to specify real relationships. Let's not reinvent the wheel. We'll use use the "triplets":http://en.wikipedia.org/wiki/Resource_Description_Framework our "semantic web buddies":http://dig.csail.mit.edu/breadcrumbs/blog/4 are so fond of:
 
@@ -73,23 +73,27 @@ The semantic web movement focuses on making the web understandable for computers
 
 For example, the relationships for Clay Shirky's "The Collapse of Complex Business Models":http://www.shirky.com/weblog/2010/04/the-collapse-of-complex-business-models/ could look something like:
 
-bq. <analysis>is about<business models>(subcategory of<business>)<analysis>is about<society><analysis>contains an example using<ATT><analysis>criticizes<Rupert Murdoch>
+bq. <analysis>is about<business models>(subcategory of<business>)<analysis>is about<society><analysis>contains an example using<AT&amp;T><analysis>criticizes<Rupert Murdoch>
 
 Mkay, _pithy_ might be overstating things a bit, but it's a lot more insightful than what you get using plain tags.
 
-Relationships can also be used to make search queries more intelligent. Here's an example. I do "a search on Politico for Rush Limbaugh":http://find.politico.com/index.cfm?sort=date&reporters=&dt=all&key=rush+limbaugh . But, you see, I don't care about mentions of Rush Limbaugh, just give me the articles that cite or interview him. Impossible on any news site I know of, trivial to implement with the right relationship-based metadata.
+Relationships can also be used to make search queries more intelligent. Here's an example. I do "a search on Politico for Rush Limbaugh":http://find.politico.com/index.cfm?sort=date&reporters=&dt=all&key=rush+limbaugh. But, you see, I don't care about mentions of Rush Limbaugh, just give me the articles that cite or interview him. Impossible on any news site I know of, trivial to implement with the right relationship-based metadata.
 
 Relationships can also enrich topical pages and assure that they are more than just link dumps that leave the reader figuring out how exactly the linked content relates to the topic at hand.
 
-[caption id="attachment_64" align="alignnone" width="520" caption="Tag pages ought to be more than just a plain and boring list of links. Unharvested potential there."] " !http://stdout.be/wp-content/uploads/2010/04/linkdump.png! ":http://stdout.be/wp-content/uploads/2010/04/linkdump.png [/caption] *Step 3: entities, not labels* If we look at our vocabularies and ignore the topics/themes vocabulary for now, you'll notice that these divisions actually represent real things. Persons. Organizations. Events. Locations.
+!/images/content/2010-04-07/linkdump.png(Tag pages ought to be more than just a plain and boring list of links. Unharvested potential there.)!
+
+*Step 3: entities, not labels* If we look at our vocabularies and ignore the topics/themes vocabulary for now, you'll notice that these divisions actually represent real things. Persons. Organizations. Events. Locations.
 
 Persons have first and last names, a birth date, they work for or are otherwise associated with certain organizations. People live somewhere.
 
 Events happen at a certain place and at a certain time. They begin and they end. They might just be a point in time, or they can be planned happenings organized by a person, a group of persons or an organization. Events can recur weekly or monthly or yearly or randomly. Events can lead to other events.
 
-A location has an address or at least refers to a geographical point or area.|h4. Persons
+A location has an address or at least refers to a geographical point or area.|
 
- " !http://stdout.be/wp-content/uploads/2010/04/person.png! ":http://stdout.be/wp-content/uploads/2010/04/person.png 
+h4. Persons
+
+!/images/content/2010-04-07/person.png!
 
 * have a first and last name
 * can belong to certain organizations
@@ -97,19 +101,18 @@ A location has an address or at least refers to a geographical point or area.|h4
 * have a date of birth
 * may have a personal homepage or blog
 
-||h4. Organizations
+h4. Organizations
 
- " !http://stdout.be/wp-content/uploads/2010/04/organization.png! ":http://stdout.be/wp-content/uploads/2010/04/organization.png 
+!/images/content/2010-04-07/organization.png! 
 
 * are active in a certain industry, market or sphere
 * have members
 * can collaborate with other organizations
 * may have a physical presence in one or more locations
 
-||
-|h4. Events
+h4. Events
 
- " !http://stdout.be/wp-content/uploads/2010/04/event.png! ":http://stdout.be/wp-content/uploads/2010/04/event.png 
+!/images/content/2010-04-07/event.png!
 
 * have a start date and an end date
 * can recur at fixed or random intervals
@@ -117,24 +120,22 @@ A location has an address or at least refers to a geographical point or area.|h4
 * can lead to or cause other events
 * occur at a certain place, unless they're virtual
 
-||h4. Places
+h4. Places
 
- " !http://stdout.be/wp-content/uploads/2010/04/place.png! ":http://stdout.be/wp-content/uploads/2010/04/place.png 
+!/images/content/2010-04-07/place.png!
 
 * can be a specific point in space or an area
 * can often be pinpointed with an address
 * can have a name (or a bunch of names)
 
-||
-|h4. Themes
+h4. Themes
 
- " !http://stdout.be/wp-content/uploads/2010/04/topics.png! ":http://stdout.be/wp-content/uploads/2010/04/topics.png 
+!/images/content/2010-04-07/topics.png!
 
 * can contain subthemes or be part of larger themes
 * can overlap with other themes
 * can be used to situate stories, events, persons and organizations
 
-||
 Here's a cool idea: *let's actually treat persons and events and all these other vocabularies like real things instead of like labels* . Tags are a concept that we've inherited from the physical world: a tag is a label that you attach to something. And as "David Weinberger":http://www.everythingismiscellaneous.com/ notes: in the physical world a label has to be smaller than the thing that it labels. That's why we call it _meta_ data: data about data. But we don't need the arbitrary distinction between a label and the thing it labels on a website. Let's unlock the full potential of our relationships by making them relationships between things.
 
 That way, the tag page for an event can show a map of where it took place. You could automatically place recent events you've covered on a calender. The tag page for a person can contain a biography, a timeline of significant events that this person was involved in and that you've reported about and so much more. And all this information can be gathered without human intervention, based solely on previously entered relationships, which gives you a good bit of automation without sacrifing quality.
@@ -154,7 +155,7 @@ How best to exploit those cascades? I see two ways.
 # Automatic suggestions for readers: okay, but not great because they lack a human hand.
 # Automatic suggestions for editors, serving as a basis for the entry of relationships.
 
-[caption id="attachment_65" align="alignnone" width="520" caption="Suggested tags can improve the amount and consistency of our metadata."] " !http://stdout.be/wp-content/uploads/2010/04/delicious-suggestions.png! ":http://stdout.be/wp-content/uploads/2010/04/delicious-suggestions.png [/caption]
+!/images/content/2010/04/delicious-suggestions.png(Suggested tags can improve the amount and consistency of our metadata.)!
 
 If you tag an article with Barack Obama like we did above, a CMS can autosuggest a relationship to the Democratic Party, leaving it up to you to decide whether to add that relationship, but nonetheless providing a very clear suggestion.
 
@@ -170,9 +171,11 @@ Readers demand the same leniency that synonyms bring: they don't and shouldn't c
 
 Names that can mean more than one thing should point to wikipedia-style disambiguation pages (but, in contrast to wikipedia, these pages should be autogenerated, not manually constructed). And the system should be able to differentiate between Stanley Smith the soccer player, Stanley Smith the tennis player and Stanley Smith the eponymous shoe by Adidas. ( _Should be able to_ , not _must_ . A database of shoes would probably add little value to the vast majority of journalistic endeavors.)
 
-[caption id="attachment_66" align="alignnone" width="520" caption="A disambiguation page on Wikipedia. Stan Smith can mean a lot of things."] " !http://stdout.be/wp-content/uploads/2010/04/disambiguation.png! ":http://stdout.be/wp-content/uploads/2010/04/disambiguation.png [/caption]h2. In the really real world
+!/images/content/2010-04-07/disambiguation.png(A disambiguation page on Wikipedia. Stan Smith can mean a lot of things.)!
 
- *Now what?* I've presented a way of specifying rich relationships between articles and what these articles talk about. Relationships as I see them address the four important problems that tags have when used in a journalistic context. They provide a rich way of talking about your content. It's metadata that says more than just "this has something to do with that". Because you're specifying relationships to things, it's easier to remember what to link to and how to name those entities. And we can also specify relationships between articles, providing a better way of indicating previous reporting about a subject than the automated guesses we know as "related content" on most news websites.
+h2. In the really real world
+
+*Now what?* I've presented a way of specifying rich relationships between articles and what these articles talk about. Relationships as I see them address the four important problems that tags have when used in a journalistic context. They provide a rich way of talking about your content. It's metadata that says more than just "this has something to do with that". Because you're specifying relationships to things, it's easier to remember what to link to and how to name those entities. And we can also specify relationships between articles, providing a better way of indicating previous reporting about a subject than the automated guesses we know as "related content" on most news websites.
 
 That's great. But I'm a firm believer in the mantra that ideas are useless — it's the implementation and the nitty-gritty details that count. So we're not done yet. We need to make sure that this way of tagging content (if you can still call it that) really kicks ass. In practice, not just in theory. Here's the battle plan.h3. Step 1: make it easy
 
@@ -182,13 +185,13 @@ I mentioned autosuggestions/autotagging earlier. Names of persons can be spotted
 
 We should to take a very pragmatic approach to these tools. If you've tried them, you've seen that automated discovery tools like Open Calais just aren't all that good. They will get better, but they're not magical and they can't see inside a journalist's head. But what these automatic scans of your content do very well is give suggestions for relationships. As a reporter or an editor, you can then choose to flesh these out, use them as-is or ignore them. A bit like how suggestions work on Delicious, as shown above.
 
-[caption id="attachment_71" align="alignnone" width="520" caption="Autotagging is close to worthless on its own, but not if you use the input of e.g. OpenCalais and Placemaker as suggestions for relationships rather than as the final output."] " !http://stdout.be/wp-content/uploads/2010/04/tag-suggestions-workflow.png! ":http://stdout.be/wp-content/uploads/2010/04/tag-suggestions-workflow.png [/caption]
+!/images/content/2010-04-07/tag-suggestions-workflow.png(Autotagging is close to worthless on its own, but not if you use the input of e.g. OpenCalais and Placemaker as suggestions for relationships rather than as the final output.)!
 
 Those tools usually suggest related tags, or entities in our case. But we also have the relationships themselves to think about (a is an overview of x, b is a review of y, c contains an interview with z). To be useful, they have to be consistent too. We can't bundle together all the articles where the mayor of San Antonio is asked for his opinion if one reporter enters that data asthis article interviews the mayor, another asthis article contains a few soundbites from the mayorand yet another one codifies it asthis article quotes the mayor.
 
 We'd best stick to a few agreed-upon relationships for the majority of the cases. We should provide the means of adding new predicates, but gently guide reporters to a basic set of relationships.
 
-[caption id="attachment_67" align="alignnone" width="497" caption="A good UI for entering relationships should come with sensible defaults (first row), yet allow users to specify their own predicates (second row) if what they're trying to say is not on the list."] " !http://stdout.be/wp-content/uploads/2010/04/relationships-ui.png! ":http://stdout.be/wp-content/uploads/2010/04/relationships-ui.png [/caption]
+!/images/content/2010-04-07/relationships-ui.png(A good UI for entering relationships should come with sensible defaults, first row, yet allow users to specify their own predicates, second row, if what they're trying to say is not on the list.)!
 
 If we really do need the detailed relationships above (e.g. the difference between 'interviews' and 'contains soundbites'), it's not impossible. We'd just need a way of specifying which relationships are roughly equivalent. And the right mechanisms in place to make sure that every once in a while editors comb through relationships and tidy them up a bit.
 
@@ -206,7 +209,9 @@ It's pretty evident that you'll want to add references to persons where it says 
 
 Tags are vague as to how the content should relate to the tag, and to the importance that that relationship entails. Relationships aren't. You can enter a relationship from an article to an organization which specifies that an articlediscusses momentous events forbut just as well that an article justmentions in passingormentions as an examplea certain company. The question "is this important enough to tag" doesn't arise. One less thing to worry about.
 
-Real relationships make explicit what tags implicitly suggest. Because relationships are so explicit, they're easy to grasp and easy to enter correctly and comprehensively.h3. Step 3: make it worthwhile _now_ 
+Real relationships make explicit what tags implicitly suggest. Because relationships are so explicit, they're easy to grasp and easy to enter correctly and comprehensively.
+
+h3. Step 3: make it worthwhile _now_ 
 
 Introducing tagging into a newsroom, whether the traditional free tags or the relationship-infused ones I'm proposing, is a cultural issue. The challenge is getting authors and editors to see tagging as an enrichment of their content, rather than a nuisance that is being forced upon them from above.
 
@@ -224,11 +229,11 @@ Events can easily be bundled into elegantly styled timelines.
 
 Taking things one step further, if you provide topical pages for locations, persons and organizations "like the NYT does":http://topics.nytimes.com/top/news/international/countriesandterritories/afghanistan/index.html , a healthy dose of vanity will entice journalists to relate their articles to the right topics, persons and organizations. It's the only way they can get their work on those topic pages. Being such an easy way for journalists to increase the shelf life of their work, you'd think they'll make the effort.
 
-[caption id="attachment_68" align="alignnone" width="520" caption="Topic pages are a wonderful way to go beyond daily reporting. They can also be an enticement to reporters who are wondering why they should care about all this tagging and relationship nonsense."] " !http://stdout.be/wp-content/uploads/2010/04/topic-page-nyt-1024x656.png! ":http://stdout.be/wp-content/uploads/2010/04/topic-page-nyt.png [/caption]
+!/images/content/2010-04-07/topic-page-nyt-1024x656.png(Topic pages are a wonderful way to go beyond daily reporting. They can also be an enticement to reporters who are wondering why they should care about all this tagging and relationship nonsense.)!
 
 Beat reporters will need even less encouragement to make use of relationships. Relationships can serve as an internal tool to keep track of a beat. Reporters can keep an overview of their field and share that knowledge with fellow reporters. We're not there yet, but hopefully we can someday get to the point where a content management system stops being a mere tool to publish to the web, and becomes a digital notebook that aids journalists in their work.h2. In summation
 
- *Tags are labels without any context.* Tags are vague, and it's difficult to tag content consistently.
+*Tags are labels without any context.* Tags are vague, and it's difficult to tag content consistently.
 
 We need to re-engineer tags so that they'll allow us to represent the rich relationships between our content and the things that content talks about. If we do that, newspapers can infuse the news with necessary context that allows readers to see the broader picture. Quite literally, too: relationship-infused content can easily be enriched with maps and timelines, which goes way beyond what tags have to offer.
 

@@ -44,17 +44,19 @@ But a good search engine that blazes through enormous quantities of text is not 
 * If you search forBirminghamon a news website, you'd like to see all the news that has a link to the greater Birmingham area. Considering that this is an area, maybe the best way to present these results would be as a map and not as a list of results. More about that later.
 * If you search forRandy Newman about musicianshipyou'll want to see all the content where Newman talks about his own and other people's music, and what would be really kick-ass is if the search engine wouldn't return stories but instead would present you with just those parts of the matched documents that are relevant. And those fragments most likely won't even contain the wordmusicianship, even though they'll be _about_ musicianship.
 
-Some of these wishes are a bit too wild for current technology. But provided you have a solid information architecture in place (hint: "this":/2010/tags-dont-cut-it/ and "this":/2010/themes-and-topics/ and "this":/2010/navigation-headaches/ and "this":/2010/we-are-in-the-information-business/ ), creating a great search experience is well within the realm of possibility. We'll take a two-pronged approach: we'll try to improve search by _not searching_ , and we'll also try to make things better for those times when our readers really do want to or have to search to find what they need.h2. The Sadness of Search
+Some of these wishes are a bit too wild for current technology. But provided you have a solid information architecture in place (hint: "this":/2010/tags-dont-cut-it/ and "this":/2010/themes-and-topics/ and "this":/2010/navigation-headaches/ and "this":/2010/we-are-in-the-information-business/ ), creating a great search experience is well within the realm of possibility. We'll take a two-pronged approach: we'll try to improve search by _not searching_ , and we'll also try to make things better for those times when our readers really do want to or have to search to find what they need.
 
-Our readers often "don't know exactly what they're looking for":http://www.guardian.co.uk/technology/2007/apr/10/news.newmedia . Perhaps more importantly, people who land on on our site from Google don't know about all the great similar content they could find if only they'd stick with our site for just a bit longer. Which is why "most news websites still generate no more than a measly 15 pageviews per unique visitor":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/  _ "per month":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/ _ . We need to get readers to the content they would like to see as fast and as effortlessly as possible, keep them engaged for longer when they've found that content, and point them in the right direction when they ask for either context, related or similar content.
+h2. The Sadness of Search
 
-[caption id="attachment_172" align="alignnone" width="520" caption="(c) Peter Morville and Jeffery Callender"] " !http://stdout.be/wp-content/uploads/2010/04/joy-of-search-1024x366.png! ":http://stdout.be/wp-content/uploads/2010/04/joy-of-search.png [/caption]
+Our readers often "don't know exactly what they're looking for":http://www.guardian.co.uk/technology/2007/apr/10/news.newmedia . Perhaps more importantly, people who land on on our site from Google don't know about all the great similar content they could find if only they'd stick with our site for just a bit longer. Which is why "most news websites still generate no more than a measly 15 pageviews per unique visitor":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/ "per month":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/. We need to get readers to the content they would like to see as fast and as effortlessly as possible, keep them engaged for longer when they've found that content, and point them in the right direction when they ask for either context, related or similar content.
+
+!/images/content/2010-04-29/joy-of-search-1024x366.png(© Peter Morville and Jeffery Callender)!
 
 Getting people to the content they want to see, using the search functionality your average newspaper website has on offer, is not exactly what I'd describe as fast or effortless. Full-text search can be a daunting experience.
 
-bq. Poor search wastes time like a crooked street sign that sends us in the wrong direction. It erodes trust, derails learning, and confuses decisions. It makes us blame ourselves. [...] We feel sadness, shame, anger, and disgust. Sometimes, we soldier on, unhappy but resolute. Often we surrender. We simply fail to search. We live uninformed without seeing what we miss (Peter Morville and Jeffery Callender, "Search Patterns":http://www.searchpatterns.org/ , p. 19)
+bq. Poor search wastes time like a crooked street sign that sends us in the wrong direction. It erodes trust, derails learning, and confuses decisions. It makes us blame ourselves. [...] We feel sadness, shame, anger, and disgust. Sometimes, we soldier on, unhappy but resolute. Often we surrender. We simply fail to search. We live uninformed without seeing what we miss (Peter Morville and Jeffery Callender, "Search Patterns":http://www.searchpatterns.org/, p. 19)
 
-Full-text search is the web equivalent of searching for your keys. They could be anywhere. Your surroundings give no indication whatsoever of where they are to be found. Keys are small so it's like finding a needle in a haystack. Before long you'll be second-guessing yourself and kicking yourself in the head because you probably didn't search your jacket pockets thoroughly enough. Even though you've rummaged through them twice, earlier. _Ahhhrr_ .
+Full-text search is the web equivalent of searching for your keys. They could be anywhere. Your surroundings give no indication whatsoever of where they are to be found. Keys are small so it's like finding a needle in a haystack. Before long you'll be second-guessing yourself and kicking yourself in the head because you probably didn't search your jacket pockets thoroughly enough. Even though you've rummaged through them twice, earlier. _Ahhhrr_.
 
 As I mentioned, we can try to make full-text search as palatable as possible, but part of our strategy should be to make search superfluous in most scenarios where people hope to find more or other information on a certain topic. That means preemptive contextualization, blended search-and-navigation, and assorted methods that humanize the search experience.h2. Preemptive contextualization
 
@@ -66,10 +68,10 @@ Preemptive contextualization. Whew, now that's a mouthful. What it comes down to
 
 Most news websites don't even provide a quick link to the portfolio of the author of the piece you're reading?
 
-*  "MinnPost":http://www.minnpost.com/stories/2010/04/28/17712/a_big_tent_for_minnesota_republicans_--_or_a_pup_tent_theres_little_agreement_on_eve_of_state_convention doesn't,
-*  "The Voice of San Diego":http://www.voiceofsandiego.org/housing/article_49d926d6-527a-11df-9165-001cc4c03286.html doesn't,
-*  "The Los Angeles Times":http://www.latimes.com/news/custom/topofthetimes/topstories/la-me-california-faults-20100428,0,2888008.story doesn't, and
-*  "Le Monde":http://www.lemonde.fr/opinions/article/2010/04/28/l-affaire-de-nantes-et-le-politiquement-correct-par-brice-hortefeux_1343750_3232.html#ens_id=1245449 doesn't either.
+* "MinnPost":http://www.minnpost.com/stories/2010/04/28/17712/a_big_tent_for_minnesota_republicans_--_or_a_pup_tent_theres_little_agreement_on_eve_of_state_convention doesn't,
+* "The Voice of San Diego":http://www.voiceofsandiego.org/housing/article_49d926d6-527a-11df-9165-001cc4c03286.html doesn't,
+* "The Los Angeles Times":http://www.latimes.com/news/custom/topofthetimes/topstories/la-me-california-faults-20100428,0,2888008.story doesn't, and
+* "Le Monde":http://www.lemonde.fr/opinions/article/2010/04/28/l-affaire-de-nantes-et-le-politiquement-correct-par-brice-hortefeux_1343750_3232.html#ens_id=1245449 doesn't either.
 
  "The Texas Tribune":http://www.texastribune.org/stories/2010/apr/28/coming-out-retirement/ does. Seriously, do you really need to be a "Pulitzer-prize winning developer":http://www.hottypeconsulting.com/ or have the genius of the New York Times to realize people might want to check out more stories or opinion pieces by the same author after they've read a story they like? Do you really expect them to copy-paste the name of that author into a search box and pray for the best?
 
@@ -82,24 +84,26 @@ Primary navigation and secondary navigation should go together like toast and bu
 * analytics that give insight into how users click through your site
 * AB-testing to make sure any enhancements you make along the way actually work
 
-[caption id="attachment_108" align="alignnone" width="520" caption="The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?"] " !http://stdout.be/wp-content/uploads/2010/04/texas-tribune-alt-nav.png! ":http://stdout.be/wp-content/uploads/2010/04/texas-tribune-alt-nav.png [/caption]
+!/images/content/2010-04-29/texas-tribune-alt-nav.png(The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?)!
 
 Most improvements we can make with preemptive contextualization are not site-wide, however, but depend on the kind of page that prompted the (type of) question in the first place. We should evaluate and enhance each type of page separately, and think about frequently asked questions we need to suggest the answers to, even before readers have asked these questions. *The homepage* is becoming less important than it used to be, but it still gets a huge amount of traffic that we can't afford to mess with. Here are some common questions on the homepage:
 
 *  _Wow, I'm overwhelmed. What's on offer? Do you have a map?_ — We need some sort of a sitemap that acts as a gateway to our content and is broader than our primary navigation.
 *  _Hmm, do you happen to have any reporting about banking reform? I thought that was all over the news?_ — We need deep links to the topics that are currently on people's mind and that are being talked about.
 
-[caption id="attachment_176" align="alignnone" width="520" caption="The Spokesman-Review provides a nice example of navigation that allows people to explore what's on offer in a few different ways: by topic, by timing, by place or by medium. Ryan Pitts reports mixed reactions by readers. I hope they complement rather than replace their approach with more traditional navigation."] " !http://stdout.be/wp-content/uploads/2010/04/spokane-topical-navigation.png! ":http://stdout.be/wp-content/uploads/2010/04/spokane-topical-navigation.png [/caption] *Topic pages* (e.g. about a person) should be able to quickly display and filter associated content by
+!/images/content/2010/04/spokane-topical-navigation.png(The Spokesman-Review provides a nice example of navigation that allows people to explore what's on offer in a few different ways: by topic, by timing, by place or by medium. Ryan Pitts reports mixed reactions by readers. I hope they complement rather than replace their approach with more traditional navigation.)!
 
-*  _content type or medium:_ video, audio, text, data
-*  _genre_ : interviews with that person, opinion pieces _by_ or about _that_ person, the positive or negative stories about him or her.
-*  _related content_ : the organizations this person belongs to, events in which he or she has played a role
+*Topic pages* (e.g. about a person) should be able to quickly display and filter associated content by
+
+* _content type or medium:_ video, audio, text, data
+* _genre:_ interviews with that person, opinion pieces _by_ or about _that_ person, the positive or negative stories about him or her.
+* _related content:_ the organizations this person belongs to, events in which he or she has played a role
 
  *Story pages* are obviously the most important part of our website. We can answer _a lot_ of questions for our readers here:
 
-*  _Eh, I don't understand this!_ — We need links to terms on Wikipedia (e.g. using "Apture":http://www.apture.com/ ) or the ability to look things up in a dictionary (like the one they have over at the "New York Times":http://www.nytimes.com/ )
-*  _Interesting piece, can you tell me a bit more about the shady organization that is mentioned in this story?_ — We need quick links to topic pages about related persons, organizations, events and locations.
-*  _Mm-mm. I do love these long New Yorker-style features that seem to go on forever. More, please!_ — We need links to content in the same section or of the same genre or mood.
+* _Eh, I don't understand this!_ — We need links to terms on Wikipedia (e.g. using "Apture":http://www.apture.com/ ) or the ability to look things up in a dictionary (like the one they have over at the "New York Times":http://www.nytimes.com/ )
+* _Interesting piece, can you tell me a bit more about the shady organization that is mentioned in this story?_ — We need quick links to topic pages about related persons, organizations, events and locations.
+* _Mm-mm. I do love these long New Yorker-style features that seem to go on forever. More, please!_ — We need links to content in the same section or of the same genre or mood.
 
 Do mind that if you include related content, make sure it doesn't suck. I've had it up to here with "related content" boxes on news websites that are nothing more than automated searches for related content based on "significant keywords" in the content. It doesn't work. Everybody hates it, it's crap. If you really really must have it, use "Evri":http://www.evri.com/ , which is halfway bearable. But try to do things the right way.
 
@@ -107,21 +111,27 @@ Related content should be referred to either using tags or if you're really hip,
 
 And instead of naming it "related content", try these instead: "more in this section", "other opinion pieces from this author", "earlier reporting on this subject".
 
-[caption id="attachment_174" align="alignnone" width="374" caption="A bunch of links on a story page labelled"related content"or"similar content": the ultimate mystery food. Yuck."] " !http://stdout.be/wp-content/uploads/2010/04/related-content-mystery-food-e1272537192523.jpg! ":http://stdout.be/wp-content/uploads/2010/04/related-content-mystery-food-e1272537192523.jpg [/caption]h2. Blend search and navigation: faceted search
+!/images/content/2010-04-29/related-content-mystery-food.jpg(A bunch of links on a story page labelled "related content" or "similar content": the ultimate mystery food. Yuck.)!
+
+h2. Blend search and navigation: faceted search
 
 All of the suggestions above improve findability and reduce frustration by replacing search with navigation.
 
-But there's an entire gray area between search and nav as well, as Peter Morville points out in "Search Patterns":http://searchpatterns.org/ . After all, even something trivial like "browsing a list of items within a category":http://chronicle.augusta.com/news/government to see what you'd want to read is search behavior too. Search behavior doesn't always revolve around a big input box and a submit button.
+But there's an entire gray area between search and nav as well, as Peter Morville points out in "Search Patterns":http://searchpatterns.org/. After all, even something trivial like "browsing a list of items within a category":http://chronicle.augusta.com/news/government to see what you'd want to read is search behavior too. Search behavior doesn't always revolve around a big input box and a submit button.
 
 If we can't preempt search, maybe we can improve the experience by providing interfaces that are 50% search, 50% navigation. It's pretty much unexplored territory, though.
 
-Faceted search is probably the blended experience you're most familiar with. Enter a search query, and then refine the results using a dynamically generated menu.[caption id="attachment_107" align="alignnone" width="520" caption="One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine."] " !http://stdout.be/wp-content/uploads/2010/04/time-magazine-faceted-search.png! ":http://stdout.be/wp-content/uploads/2010/04/time-magazine-faceted-search.png [/caption]
+Faceted search is probably the blended experience you're most familiar with. Enter a search query, and then refine the results using a dynamically generated menu.
 
-But nothing's for free. Faceted search needs _facets_ : ways of splitting up search results into meaningful categories. Rich metadata and a well thought-out categorization scheme is a prequisite.h2. Humanizing search
+!/images/content/2010-04-29/time-magazine-faceted-search.png(One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine.)!
+
+But nothing's for free. Faceted search needs _facets_: ways of splitting up search results into meaningful categories. Rich metadata and a well thought-out categorization scheme is a prequisite.
+
+h2. Humanizing search
 
 Suppose you'd ask Steven Levy, "so, have you written anything about Google lately?" "Well, yes", he'd respond, "I've just written a cool piece about their search algorithm for "Wired":http://www.wired.com/ !" And the natural follow-up would be something like: "So, you're looking for stuff about Google, eh? Have you read "What Would Google Do":http://www.buzzmachine.com/what-would-google-do/ by Jeff Jarvis? That's a good place to get started." See how natural that feels? First and foremost, we want to know about matches to our exact query. But because most of the time we don't really know what we're doing or what to expect when we enter a search, a helping hand that senses what we might have meant and gives additional suggestions is exactly the ticket.
 
-If somebody would ask me, "I think you've written something about structured content and serendipity, isn't that so?", my answer would be "Ah, no, you're quite mistaken. You must've read my article _We're in the information business_ and clicked on the link to Adrian Holovaty's _A fundamental way newspaper sites need to change_ . Here ya go, "let me link you up":http://www.holovaty.com/writing/fundamental-change/ ."
+If somebody would ask me, "I think you've written something about structured content and serendipity, isn't that so?", my answer would be "Ah, no, you're quite mistaken. You must've read my article _We're in the information business_ and clicked on the link to Adrian Holovaty's _A fundamental way newspaper sites need to change_ . Here ya go, "let me link you up":http://www.holovaty.com/writing/fundamental-change/."
 
 Online search should work similarly to asking a question to a flesh-and-blood reporter. I don't mean to exalt answering engines like "AskJeeves":http://www.ask.com/ or "WolframAlpha":http://www.wolframalpha.com/ . I mean that search should incorporate some basic elements of what it's like to ask a human for a question, and for another human to give an answer:
 
@@ -133,21 +143,23 @@ Applying these abstract principles to online search might seem to require voodoo
 
 Maybe we can't preempt search entirely, but then we can at least cut it short and provide quick answers to common answers so readers don't have to scan the dreary lists of content returned by our search engine. They still can, if they're not happy with our preformulated answer or Editor's Choice, but most of the time our preselection will be all a user needs.
 
-[caption id="attachment_173" align="alignnone" width="520" caption="Microsoft calls these best bets the Editor's Choice, which is a pretty apt description of what they do."] " !http://stdout.be/wp-content/uploads/2010/04/microsoft-best-bets-faceted.png! ":http://stdout.be/wp-content/uploads/2010/04/microsoft-best-bets-faceted.png [/caption]
+!/images/content/2010-04-29/microsoft-best-bets-faceted.png(Microsoft calls these best bets the Editor's Choice, which is a pretty apt description of what they do.)!
 
 Best bets are easy to implement, as long as you have search analytics. If you do, it's only a matter of taking the ten or twenty or fifty most common queries, hand-picking the most relevant content from your website, and displaying those picks above the regular search results. You can even implement this on top of a Google site search engine, if your site doesn't have its own engine.
 
-We'd be foolish if we thought that best bets provide us with real "knowledge of intent and context", because we don't know the first thing about the users that are doing the searching. We don't know what their existing knowledge or "read-state":http://searchengineland.com/googles-news-experiments-and-read-state-issue-30242 is like, we don't know their mood, we don't know what keeps them up at night. But while we can never _really_ understand a search query, hand-crafted human responses to common search queries do go a long way towards solving search-related usability problems.h3. Broad framing
+We'd be foolish if we thought that best bets provide us with real "knowledge of intent and context", because we don't know the first thing about the users that are doing the searching. We don't know what their existing knowledge or "read-state":http://searchengineland.com/googles-news-experiments-and-read-state-issue-30242 is like, we don't know their mood, we don't know what keeps them up at night. But while we can never _really_ understand a search query, hand-crafted human responses to common search queries do go a long way towards solving search-related usability problems.
+
+h3. Broad framing
 
 Topic pages about persons, organizations, locations and events are great ways to answer general inquiries by readers. After all, if you have these kinds of pages, you probably spend hours and hours to get them just right and to keep them up to date, hoping that your readers will get something out of them.
 
 A lot of search behavior stems from an attempt at _learning_ . So another way of cutting search short is by trying to ascertain what a query is about and then, in addition to the full-text search, providing quick links to relevant topic pages. Words likefinancial meltdownas part of a query are a pretty good predictor that we're looking for information about economics, finance and the "global financial crisis":http://en.wikipedia.org/wiki/Financial_crisis_of_2007–2010 . Chances are these pages will be way more valuable to me than a bunch of links to articles that contain the exact wordsfinancial meltdown.
 
-Even if plain-Jane full-text search was all a reader came in for, the invitation to learn more about broader topics might be too enticing to pass up. Isn't that exactly the Wikipedia-style exploratory browsing (or "wilfing":http://www.facebook.com/group.php?gid=2360687588 ) we're "so jealous of":http://www.newsless.org/2009/12/googles-living-stories-first-thoughts/ ?
+Even if plain-Jane full-text search was all a reader came in for, the invitation to learn more about broader topics might be too enticing to pass up. Isn't that exactly the Wikipedia-style exploratory browsing (or "wilfing":http://www.facebook.com/group.php?gid=2360687588) we're "so jealous of?":http://www.newsless.org/2009/12/googles-living-stories-first-thoughts/
 
 The simplest way of doing quick links to related topics would be to simply boost the relevance of the 'topic' content type while configuring the search engine. That way these pages will end up at the top of a lot of search results. Most any search engine is configurable in this way.
 
-Another way to accomplish these related links to high-value topics pages, one that's a bit more refined, would be to programmatically aggregate the themes/topics of each search result ( "you do have that sort of metadata, don't you?":/2010/themes-and-topics/ ) and serve up the topic pages related to the themes that recur most among the results. One advantage over simply boosting the relevance of topic pages would be improved accuracy. But more importantly, this approach allows for more freedom in designing the experience, for example by putting these references to broader topics in a separate box to the right of the regular results, or by allowing you to display these topic pages by type (person, organization, location, event).
+Another way to accomplish these related links to high-value topics pages, one that's a bit more refined, would be to programmatically aggregate the themes/topics of each search result ("you do have that sort of metadata, don't you?":/2010/themes-and-topics/) and serve up the topic pages related to the themes that recur most among the results. One advantage over simply boosting the relevance of topic pages would be improved accuracy. But more importantly, this approach allows for more freedom in designing the experience, for example by putting these references to broader topics in a separate box to the right of the regular results, or by allowing you to display these topic pages by type (person, organization, location, event).
 
 Further improvements to the accuracy and usefulness of such 'broad framing' could probably be achieved by analyzing the semantic sphere (the "aboutness") of the query and to take it from there. Bringing "natural language analysis":http://en.wikipedia.org/wiki/Natural_language_processing into the picture would allow us to go beyond the precise words of the query and instead get a feel for its intent and meaning when suggesting related topics. A vague feel, yes — machines and language are still a tricky combo — but maybe it's stuff that we can use.
 
@@ -163,22 +175,32 @@ Our search engine should be smart enough to extract these entities and use them 
 
 Services like "OpenCalais":http://www.opencalais.com/ and "Yahoo! Placemaker":http://developer.yahoo.com/geo/placemaker/ make entity extraction easy on us developers, by doing all the heavy lifting so we don't have to.
 
-[caption id="attachment_170" align="alignnone" width="520" caption="When we're searching for news about a certain area, it makes sense to display the results on a map."] " !http://stdout.be/wp-content/uploads/2010/04/everyblock-search.png! ":http://stdout.be/wp-content/uploads/2010/04/everyblock-search.png [/caption]
+!/images/content/2010-04-29/everyblock-search.png(When we're searching for news about a certain area, it makes sense to display the results on a map.)!
 
-Do note, though, that the more heavily "tagged":/2010/tags-dont-cut-it/ and structured your content is, the more advantage you can take of entity extraction. You can't return a biography as the first result in a query, if that biography is not in any way differentiated from regular news stories. You can't do location-aware search if you don't store the relationships between news stories and locations. Enhancing search often means enhancing the content that provides the raw material for your search engine; you can't turn lead into gold.h3. Wisdom of the crowd
+Do note, though, that the more heavily "tagged":/2010/tags-dont-cut-it/ and structured your content is, the more advantage you can take of entity extraction. You can't return a biography as the first result in a query, if that biography is not in any way differentiated from regular news stories. You can't do location-aware search if you don't store the relationships between news stories and locations. Enhancing search often means enhancing the content that provides the raw material for your search engine; you can't turn lead into gold.
 
- "Flickr":http://www.flickr.com/ has a lot of photos, but finding exactly what you want to see can be hard. Most of the time, search is a back-and-forth experience that involves multiple rounds of refining and tweaking the query. What if we could use the research, the specific tweaks and refinements to the original query, and use that data to inform the search of another user? That's exactly what Flickr does. " !http://stdout.be/wp-content/uploads/2010/04/flickr-suggestions.png! ":http://stdout.be/wp-content/uploads/2010/04/flickr-suggestions.png If you'd search "Peter Morville's photostream":http://www.flickr.com/photos/morville/ formicrosoftyou won't find any results, but Flickr knows from the search behavior of its users that a query formicrosoftis often tweaked towindows, and when those users click through to photos in that second result set, Flickr knows that this second attempt was probably a success: they've found what they needed. This works very similarly to how human beings search for things:
+h3. Wisdom of the crowd
+
+"Flickr":http://www.flickr.com/ has a lot of photos, but finding exactly what you want to see can be hard. Most of the time, search is a back-and-forth experience that involves multiple rounds of refining and tweaking the query. What if we could use the research, the specific tweaks and refinements to the original query, and use that data to inform the search of another user? That's exactly what Flickr does. 
+ 
+!/images/content/2010-04-29/flickr-suggestions.png!
+
+If you'd search "Peter Morville's photostream":http://www.flickr.com/photos/morville/ formicrosoftyou won't find any results, but Flickr knows from the search behavior of its users that a query formicrosoftis often tweaked towindows, and when those users click through to photos in that second result set, Flickr knows that this second attempt was probably a success: they've found what they needed. This works very similarly to how human beings search for things:
 
 bq. Steven: I can't seem to find a good shop to buy these "Adidas Millenium Falcon":http://pid.adidas.com/catalogue/au/product/G17360/STAN-SMITH-80s---MILLENIUM-FALCON shoes. I've scoured three stores already with no luck.
 Jon: Yeah, but those shoe shops along Columbus Avenue are a bad bet for sneakers. Have you asked Ted? He went looking for those same ones last week, and I think he found some.
 
-So another neat little way of reducing frustration with search, although one that requires a significant engineering effort, is to tool your search engine to learn from the aggregated behavior of its users.h2. I want it all!
+So another neat little way of reducing frustration with search, although one that requires a significant engineering effort, is to tool your search engine to learn from the aggregated behavior of its users.
+
+h2. I want it all!
 
 Okay, so we've talked about some ways in which we can improve the user experience during search. What we haven't talked about is what our site should be searching. Again, this might seem to merit a simple answer: why, the full text of our content, of course! But we can do better than that.
 
-Imagine me surfing your news website. I'm interested to know more about a person or a location or an organization. Since I've decided that I want to search on one specific site, _yours_ , rather than via Google, you can safely assume I want to narrow my search and that I don't want to search the entire web. I want to know what your site has to say about whatever it is I'm searching for. _But what does that mean?_ h3. Not just stories and text
+Imagine me surfing your news website. I'm interested to know more about a person or a location or an organization. Since I've decided that I want to search on one specific site, _yours_ , rather than via Google, you can safely assume I want to narrow my search and that I don't want to search the entire web. I want to know what your site has to say about whatever it is I'm searching for. _But what does that mean?_ 
 
-Don't forget about all the content that is available on your own site, yet often doesn't get indexed. There's a "nascent movement":/2010/the-basic-unit-of-information/ towards journalists providing (wherever possible) their original research material, allowing readers to explore a subject as fleetingly or as deeply as they want. These Word and PDF files need to be searchable as well, yet often they aren't. There are open-source tools to return plain-text renditions of Word and PDF documents, and optical character recognition (OCR), while not there yet, is getting "better and better":http://code.google.com/p/ocropus/ . "DocumentCloud":http://www.documentcloud.org/ also allows people to easily annotate these kinds of source documents.
+h3. Not just stories and text
+
+Don't forget about all the content that is available on your own site, yet often doesn't get indexed. There's a "nascent movement":/2010/the-basic-unit-of-information/ towards journalists providing (wherever possible) their original research material, allowing readers to explore a subject as fleetingly or as deeply as they want. These Word and PDF files need to be searchable as well, yet often they aren't. There are open-source tools to return plain-text renditions of Word and PDF documents, and optical character recognition (OCR), while not there yet, is getting "better and better":http://code.google.com/p/ocropus/. "DocumentCloud":http://www.documentcloud.org/ also allows people to easily annotate these kinds of source documents.
 
 So a great search engine would know about all the cool stuff your site has to offer, not just about the news reports in your database. Here's a very incomplete list of things that should be searchable:
 
@@ -203,7 +225,7 @@ Users expect a search engine to search the site they're on, so we shouldn't stra
 There are two big tools that can help us index other parts of the web that are relevant to our own site.
 
 * Web crawlers. A crawler can visits the links in our own content and adds them to our index.
-* Search APIs. We can do clever things using the power of the "Google":http://code.google.com/apis/ajaxsearch/documentation/ , "Yahoo!":http://developer.yahoo.com/search/ and "Bing":http://www.bing.com/developers search APIs.
+* Search APIs. We can do clever things using the power of the "Google":http://code.google.com/apis/ajaxsearch/documentation/, "Yahoo!":http://developer.yahoo.com/search/ and "Bing":http://www.bing.com/developers search APIs.
 
 Searching a bigger part of the web than just your own website requires storage and processing power, as well as a good design to separate your own content from relevant content from elsewhere. Aside from that, it's hardly rocket science.
 

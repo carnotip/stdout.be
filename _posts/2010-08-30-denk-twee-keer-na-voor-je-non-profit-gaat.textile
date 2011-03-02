@@ -17,7 +17,7 @@ summary:
     
 ---
 
-Wie me al wat langer volgt weet dat ik nogal een "dubbel":/2010/dont-reward-broccoli-journalism/  "gevoel":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ heb tegenover non-profits in de journalistieke wereld. Ze zijn waarschijnlijk wel nodig. Maar 't voelt tegelijk een beetje aan als opgeven: _wij_  _zijn "een onontbeerlijk publieke goed":http://www.mediakritiek.be/blog/2010/05/journalistiek_is_een_publiek_goed_en_staatssteun_is_onvermijdelijk.html _  _, maar we hebben totaal geen commercieel inzicht, dus laat ons maar aanmodderen en geef ons daar geld voor!_  "37signals":http://37signals.com/svn/ zegt over de startupcultuur in de VS:
+Wie me al wat langer volgt weet dat ik nogal een "dubbel":/2010/dont-reward-broccoli-journalism/ "gevoel":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ heb tegenover non-profits in de journalistieke wereld. Ze zijn waarschijnlijk wel nodig. Maar 't voelt tegelijk een beetje aan als opgeven: _wij_  _zijn "een onontbeerlijk publieke goed":http://www.mediakritiek.be/blog/2010/05/journalistiek_is_een_publiek_goed_en_staatssteun_is_onvermijdelijk.html _  _, maar we hebben totaal geen commercieel inzicht, dus laat ons maar aanmodderen en geef ons daar geld voor!_  "37signals":http://37signals.com/svn/ zegt over de startupcultuur in de VS:
 
 bq. It's a place where expenses are somebody else's problem. It's a place where that pesky thing called revenue is never an issue. It's a place where you can spend other people's money until you figure out a way to make your own. It's a place where the laws of business physics don't apply. (Jason Fried&David Heinemeier Hansson - Rework, p. 56)
 
@@ -36,7 +36,9 @@ Al vanaf de eerste brainstormsessies over je project moet er een wisselwerking b
 * Kunnen we hetzelfde resultaat op een heel andere manier bereiken die kostenefficiënt is?
 * Voeren we een idee uit omdat we het _leuk_ vinden, of "omdat het iets opbrengt":http://www.yelvington.com/content/praise-quick-and-dirty-when-pursuit-excellence-enemy-success ?
 
- " !http://stdout.be/wp-content/uploads/2010/08/plannen.png! ":http://stdout.be/wp-content/uploads/2010/08/plannen.png De noodzaak om geld te verdienen is het beste middeltje om je geest te focussen op wat belangrijk is en er toe doet. "Zoals ze bij GitHub weten":http://37signals.blogs.com/products/2008/07/how-github-used.html :
+!/images/content/2010-08-30/plannen.png!
+
+De noodzaak om geld te verdienen is het beste middeltje om je geest te focussen op wat belangrijk is en er toe doet. "Zoals ze bij GitHub weten":http://37signals.blogs.com/products/2008/07/how-github-used.html:
 
 bq. Really, not accepting funding has been huge for us. Would you pay out of your own pocket for Feature X? No? Shelve it. If I'm not going to love a feature, I'm not going to spend my time (and therefor money) implementing it. Money is quite powerful, and so is its absence.
 

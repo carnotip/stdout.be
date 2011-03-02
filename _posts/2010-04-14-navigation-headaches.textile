@@ -37,17 +37,23 @@ But surely, my haphazardly cobbled-together scenario (hypothetical, to boot!) a 
 
 Bear with me for a moment, or scroll past these examples if they bore you.h4. Le Monde
 
- " !http://stdout.be/wp-content/uploads/2010/04/lemonde-nav.jpg! ":http://stdout.be/wp-content/uploads/2010/04/lemonde-nav.jpg  "Le Monde":http://www.lemonde.fr/ — ah, my old college professors always tried to lure us poor students into reading this one, although none of us ever did. (It's in French, nobody willingly reads French.)
+!/images/content/2010-04-14/lemonde-nav.jpg(Le Monde — ah, my old college professors always tried to lure us poor students into reading this one, although none of us ever did. It's in French, nobody willingly reads French.)!
 
-Sections include the latest in international news, the environment, economics, news from France and analyses. Translated into criteria, I can spot timing, location, subject, theme and genre. They don't really feel like sections, because they serve more as a soft introduction to what you can find on the page at hand, rather than as a way of dividing the paper into different parts. They also serve to indicate regular features.h4. The Observer
+Sections include the latest in international news, the environment, economics, news from France and analyses. Translated into criteria, I can spot timing, location, subject, theme and genre. They don't really feel like sections, because they serve more as a soft introduction to what you can find on the page at hand, rather than as a way of dividing the paper into different parts. They also serve to indicate regular features.
 
- " !http://stdout.be/wp-content/uploads/2010/04/observer-magazine-nav.jpg! ":http://stdout.be/wp-content/uploads/2010/04/observer-magazine-nav.jpg  " !http://stdout.be/wp-content/uploads/2010/04/theobserver-nav.jpg! ":http://stdout.be/wp-content/uploads/2010/04/theobserver-nav.jpg This is the international edition of "The Observer":http://observer.guardian.co.uk/ for April 11th. The Observer is a sunday broadsheet from the UK. Lovely typography.
+h4. The Observer
+
+!/images/content/2010-04-14/observer-magazine-nav.jpg(This is the international edition of The Observer for April 11th. The Observer is a sunday broadsheet from the UK. Lovely typography.)!
 
 When I opened up the paper, The Observer Magazine fell out. Pushing content into different publications is of course the most visually obvious way one can split up content, achieving its intent by sheer physical separation. Magazines coupled to newspapers often contain longer features with less news value and often with more of a lifestyle kind of vibe to them — so newspaper magazines are often separated by _mood_ from their host newspaper. And, if you allow me a bit of irreverence: they also uniquely harbor the genre of disguised marketing.
 
-The newspaper itself is a big one as well, even taxonomy-wise. We've got subject and mood (an 8-page election special), timing and genre (news), location (world, Europe), theme (religion, culture, arts), genre and mood (comment, features, reportage). All mixed together. Feels very natural, though.h4. De Morgen
+The newspaper itself is a big one as well, even taxonomy-wise. We've got subject and mood (an 8-page election special), timing and genre (news), location (world, Europe), theme (religion, culture, arts), genre and mood (comment, features, reportage). All mixed together. Feels very natural, though.
 
- " !http://stdout.be/wp-content/uploads/2010/04/demorgen-nav.jpg! ":http://stdout.be/wp-content/uploads/2010/04/demorgen-nav.jpg De Morgen is a Dutch-language newspaper here in Belgium. This weekday edition is divided into a common news-focused first part (mood, importance, timing), a section 'more and international news' (location and importance, or rather the lack of immediate importance), a sports section and one about culture and media (thematic).
+h4. De Morgen
+
+!/images/content/2010-04-14/demorgen-nav.jpg!
+
+De Morgen is a Dutch-language newspaper here in Belgium. This weekday edition is divided into a common news-focused first part (mood, importance, timing), a section 'more and international news' (location and importance, or rather the lack of immediate importance), a sports section and one about culture and media (thematic).
 
 This particular edition is taxonomically interesting for a lot of reasons. Because Lech Kaczynski, Poland's president, had just "died in an unfortunate plane crash":http://en.wikipedia.org/wiki/2010_Polish_Air_Force_Tu-154_crash , this particular piece of news is above the fold on the front page, even though there's a dedicated section for international news the editors could have fit it in. Considering the importance of this Polish tragedy, it's the obvious editorial choice to make, but it also constitutes, I believe, the only piece of international reporting in the frontmost section.
 
@@ -55,31 +61,53 @@ Another interesting aspect of the paper is that disparate sections (like media a
 
 Sections in De Morgen show little taxonomic reasoning, but they're quite sensible nonetheless. They show that there are a lot of factors we — consciously or unconsciously — take into consideration when deciding where in a newspaper to put something. This holds true online as well.
 
-On to a few magazines.h4. Wired
+On to a few magazines.
 
-h4.  " !http://stdout.be/wp-content/uploads/2010/04/wired-nav.jpg! ":http://stdout.be/wp-content/uploads/2010/04/wired-nav.jpg 
+h4. Wired
 
-Okay, bad example. At Wired they just put all their content into a bag, shake it, and see how it comes out.h4. New Scientist
+!/images/content/2010-04-14/wired-nav.jpg!
 
-h4.  " !http://stdout.be/wp-content/uploads/2010/04/newscientist-nav.jpg! ":http://stdout.be/wp-content/uploads/2010/04/newscientist-nav.jpg 
+Okay, bad example. At Wired they just put all their content into a bag, shake it, and see how it comes out.
+
+h4. New Scientist
+
+!/images/content/2010-04-14/newscientist-nav.jpg!
 
 Probably the best science mag for laymen. New Scientist divides its content by a combination of genre (news, opinion), mood (news versus features) and function (regulars).
 
 Finally, on to the websites, then.h4. guardian.co.uk
 
- " !http://stdout.be/wp-content/uploads/2010/04/guardian-nav.png! ":http://stdout.be/wp-content/uploads/2010/04/guardian-nav.png  "The Guardian":http://www.guardian.co.uk/ is one of the few newspapers out there that really appreciate what keywording can "do for them":http://www.currybet.net/cbet_blog/2008/07/topics_keywords_1.php . Their navigation consists — uniquely so — of broad categories that bundle together more specific topics like "technology":http://www.guardian.co.uk/technology , "education":http://www.guardian.co.uk/education , "music":http://www.guardian.co.uk/music , "food":http://www.guardian.co.uk/lifeandstyle/food-and-drink and so on. It's not perfect, but it's pretty _pure_ as these things go.h4. huffingtonpost.com
+!/images/content/2010-04-14/guardian-nav.png!
 
- " !http://stdout.be/wp-content/uploads/2010/04/huffpo-navigation.png! ":http://stdout.be/wp-content/uploads/2010/04/huffpo-navigation.png The "HuffPo":http://www.huffingtonpost.com/ combines broad themes like politics, with narrower subjects like ‘green‘, adding links to location-based sections (N.Y., L.A., Chicago, Denver), and finishing things off with video, which is a reference to a medium, and bloggers, which is a reference to a genre. The functional links to the left (Facebook, twitter) are pretty prevalent as well.
+The Guardian is one of the few newspapers out there that really appreciate what keywording can "do for them":http://www.currybet.net/cbet_blog/2008/07/topics_keywords_1.php. Their navigation consists — uniquely so — of broad categories that bundle together more specific topics like "technology":http://www.guardian.co.uk/technology, "education":http://www.guardian.co.uk/education, "music":http://www.guardian.co.uk/music, "food":http://www.guardian.co.uk/lifeandstyle/food-and-drink and so on. It's not perfect, but it's pretty _pure_ as these things go.
 
-Considering that the Huffington Post does quite a bit of "A/B-testing":http://www.niemanlab.org/2009/10/how-the-huffington-post-uses-real-time-testing-to-write-better-headlines/ , it wouldn't surprise me if they've tested different incarnations of this navigation and checked how users reacted to them, resulting in a messy but perhaps effective amalgam. We shouldn't prejudge these things.h3. chronicle.augusta.com
+h4. huffingtonpost.com
 
- " !http://stdout.be/wp-content/uploads/2010/04/augusta-chronicle-nav.png! ":http://stdout.be/wp-content/uploads/2010/04/augusta-chronicle-nav.png This newspaper is probably foreign to most readers, but "The Augusta Chronicle":http://chronicle.augusta.com/ is a nice and clean website for a local newspaper. Sports and business are thematic categories, but “Things to do” is as functional as it comes, and opinion is a genre.
+!/images/content/2010-04-14/huffpo-navigation.png!
+
+The "HuffPo":http://www.huffingtonpost.com/ combines broad themes like politics, with narrower subjects like ‘green‘, adding links to location-based sections (N.Y., L.A., Chicago, Denver), and finishing things off with video, which is a reference to a medium, and bloggers, which is a reference to a genre. The functional links to the left (Facebook, twitter) are pretty prevalent as well.
+
+Considering that the Huffington Post does quite a bit of "A/B-testing":http://www.niemanlab.org/2009/10/how-the-huffington-post-uses-real-time-testing-to-write-better-headlines/, it wouldn't surprise me if they've tested different incarnations of this navigation and checked how users reacted to them, resulting in a messy but perhaps effective amalgam. We shouldn't prejudge these things.
+
+h3. chronicle.augusta.com
+
+!/images/content/2010-04-14/augusta-chronicle-nav.png!
+
+This newspaper is probably foreign to most readers, but "The Augusta Chronicle":http://chronicle.augusta.com/ is a nice and clean website for a local newspaper. Sports and business are thematic categories, but “Things to do” is as functional as it comes, and opinion is a genre.
 
 These kind of menu structures makes me uncomfortable. On the one hand it seems like there's no structure there at all, on the other hand these are exactly the kind of high-value destinations that are useful to me as a reader. If I'm a regular reader of the Chronicle, I'll use the menu more like a bunch of shortcuts, not as the dividers in a catalog. It's called _navigation_ for a reason.h4. nytimes.com
 
- " !http://stdout.be/wp-content/uploads/2010/04/nytimes-nav.png! ":http://stdout.be/wp-content/uploads/2010/04/nytimes-nav.png The "NYT":http://www.nytimes.com cannot be absent from this bout of navigation staring. First up are a few location-based links, then mostly themes and subjects. Pretty consistent, although opinion (which is a genre) is randomly thrown somewhere in between. Also check out the links to video (medium), most popular (reader interaction) and times topics (presentation) on top.h4. lawrence.com
+!/images/content/2010-04-14/nytimes-nav.png!
 
- " !http://stdout.be/wp-content/uploads/2010/04/lawrence-nav.png! ":http://stdout.be/wp-content/uploads/2010/04/lawrence-nav.png  "Lawrence.com":http://www.lawrence.com is a very neat community-heavy site for the city of Lawrence, Kansas. Like many local ventures, they emphasize function: what can I do (events), what's happening (latest), what can I eat (food) and where can I relax (nightlife)? Local newspapers and websites want to mean something to their readers, so the functional approach seems like the way to go.h3. We need the hodge-podge
+The "NYT":http://www.nytimes.com cannot be absent from this bout of navigation staring. First up are a few location-based links, then mostly themes and subjects. Pretty consistent, although opinion (which is a genre) is randomly thrown somewhere in between. Also check out the links to video (medium), most popular (reader interaction) and times topics (presentation) on top.
+
+h4. lawrence.com
+
+!/images/content/2010-04-14/lawrence-nav.png!
+
+"Lawrence.com":http://www.lawrence.com is a very neat community-heavy site for the city of Lawrence, Kansas. Like many local ventures, they emphasize function: what can I do (events), what's happening (latest), what can I eat (food) and where can I relax (nightlife)? Local newspapers and websites want to mean something to their readers, so the functional approach seems like the way to go.
+
+h3. We need the hodge-podge
 
 Okay, enough pretty pictures for now. As should be obvious by now, yes, most newspapers and magazines, both off- and online, have sections that are a hodge-podge of different ways of organizing content, all thrown together and used alongside each other. Some are a bit more consistent than the others (lawrence.com is in large part functionally organized, guardian.co.uk on the other hand revolves around themes), but all of them try to serve their purpose as _navigation_ , as tour guides to a website, and taxonomy comes second.
 
@@ -87,7 +115,9 @@ They're not ideal. Readers need to be able to grasp in an instance what your mag
 
 Mixed-criteria navigation can be messy, but _messy is the way it has to be_ . It's tempting to put on a hero suit, storm the newsroom and tell the staff, "henceforth, our navigation will be thematic and thematic only." Except I really _do_ like the fact that most newspapers provide a quick link to their opinion pages — browsing by genre. And I plead guilty, sometimes I _want_ to switch off my brain and peruse the 'bizarre and strange' section of my local newspaper — browsing by mood.
 
-Purity is liable to make the navigation or sectioning in newspapers less useful, not more. And nine different navigational menus for our nine criteria — genre, theme, subject, timing, location, medium, mood, function, interaction — might well upset the delicate sensibilities of the graphical designer tasked with implementing such a scheme. (But I'd love to see someone give it a shot regardless, for experimentation's sake.)h3. Navigation is volatile
+Purity is liable to make the navigation or sectioning in newspapers less useful, not more. And nine different navigational menus for our nine criteria — genre, theme, subject, timing, location, medium, mood, function, interaction — might well upset the delicate sensibilities of the graphical designer tasked with implementing such a scheme. (But I'd love to see someone give it a shot regardless, for experimentation's sake.)
+
+h3. Navigation is volatile
 
 Pulling off a good mixed-criteria navigation is tough. When designing a website, it's also scary: once you've chosen a certain way of organizing content, you're stuck with it. We didn't use to have that problem. Sections in print require less forethought, because you can change them around every edition if you really must. Site sections, on the other hand, come with their own channel pages, their own archives and they serve as facets in our search engines. You're stuck with them.
 
@@ -95,7 +125,9 @@ Changing your primary navigation thus means adjusting the category of every sing
 
 Many newspapers have an environment section nowadays, but that's a relatively new thing — the environment didn't used to command our attention as much as it does at present. So most of these papers have their old stories about theenvironmentcatalogued under other headings likescience. And that's how these stories are still catalogued. Relabeling the entire science catalogue, or wherever these stories about the environment were filed, would take an inordinate amount of time. As time goes by and websites amass content, these inconsistencies will only get larger.
 
-We become stuck with our legacy. We shouldn't be.h3. Make primary navigation incidental to the stuff that matters
+We become stuck with our legacy. We shouldn't be.
+
+h3. Make primary navigation incidental to the stuff that matters
 
 The main lesson I want you to carry away from this blogpost: make primary navigation incidental to fundamental properties inherent to your content, rather than basing them on editorial whim. We're better off building our navigation algorithmically, using the basic elements of a story — its theme, its genre, its medium, the locations it talks about — as our building blocks.
 
@@ -123,27 +155,27 @@ Often, the rules that couple fundamental metadata about articles to a section wi
 
 But don't just think that you'll want to store fundamental metadata like themes and genres and so forth just because they can be useful in constructing a future-proof navigation. You'll find that a lot of other of these fundamental properties have their own uses and deserve to be part of your content management system on their own accord. We'll talk more about that in next week's post.
 
-[caption id="attachment_107" align="alignnone" width="520" caption="One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine."] " !http://stdout.be/wp-content/uploads/2010/04/time-magazine-faceted-search.png! ":http://stdout.be/wp-content/uploads/2010/04/time-magazine-faceted-search.png [/caption]
+!/images/content/2010-04-14/time-magazine-faceted-search.png(One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine.)!
 
 The primary channels that comprise a newswebsite are equal parts taxonomy, marketing and vision. The way we structure a news website isn't just a matter of creating a tidy little storehouse of news, it should be part of a larger content strategy, in line with our journalistic ambitions. Our menus should be able to change when our vision changes, our ways of organizing our content should be able to adapt to the future as readily as we do.h3. Don't stop at primary navigation: the more, the merrier
 
 There's one other point I'd like to address. Primary navigation on a website is of necessity a one-size-fits-all solution. It has to be everything to everybody. It has to show what your website is about from the first moment the page loads. But there are so many lovely ways of browsing content.
 
-* I very rarely search for books on "Amazon":http://www.amazon.com , I search for book lists that were made by other users, and use those to explore new stuff I might like to read.
+* I very rarely search for books on "Amazon":http://www.amazon.com, I search for book lists that were made by other users, and use those to explore new stuff I might like to read.
 * The New York Times' "Custom Times Feeds":http://prototype.nytimes.com/customFeeds/ allow me to follow just those topics I'm interested in.
-* On "Delicious":http://www.delicious.com , I often glance at the websites people in my network have bookmarked.
-* Some people aren't looking for anything in particular and love "a little":http://www.niemanlab.org/2010/03/what-would-it-take-to-build-a-true-serendipity-maker/  "randomness":http://en.wikipedia.org/wiki/Special:Random .
+* On "Delicious":http://www.delicious.com, I often glance at the websites people in my network have bookmarked.
+* Some people aren't looking for anything in particular and love "a little":http://www.niemanlab.org/2010/03/what-would-it-take-to-build-a-true-serendipity-maker/ "randomness":http://en.wikipedia.org/wiki/Special:Random.
 
-We might not have a lot of space above the fold. We need to treat the header of our website carefully. But apart from that, the web provides the perfect medium to make all of these alternative ways of navigating a site available to readers. These don't have to be everything to everyone, but can mean _a lot_ to _somepeople_  _some_ of the time, which is just as important.
+We might not have a lot of space above the fold. We need to treat the header of our website carefully. But apart from that, the web provides the perfect medium to make all of these alternative ways of navigating a site available to readers. These don't have to be everything to everyone, but can mean _a lot_ to _some_ people _some_ of the time, which is just as important.
 
 If your content has a lot of metadata associated with it — its genre, its mood, its length, the amount of comments, associated themes, medium — such information can serve a bigger purpose than just being part of the equation in generating a primary navigation. Metadata can serve as facets when searching, and it can serve to easily create all kinds of secondary navigation, allowing readers to explore your website just the way they want to.
 
-[caption id="attachment_92" align="alignnone" width="295" caption="Tag browsing is but one of the ways you can complement your primary navigation."] " !http://stdout.be/wp-content/uploads/2010/04/related-tags.png! ":http://stdout.be/wp-content/uploads/2010/04/related-tags.png [/caption]
+!/images/content/2010-04-14/related-tags.png(Tag browsing is but one of the ways you can complement your primary navigation.)!
 
-[caption id="attachment_108" align="alignnone" width="520" caption="The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?"] " !http://stdout.be/wp-content/uploads/2010/04/texas-tribune-alt-nav.png! ":http://stdout.be/wp-content/uploads/2010/04/texas-tribune-alt-nav.png [/caption]
+!/images/content/2010-04-14/texas-tribune-alt-nav.png(The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?)!
 
-[caption id="attachment_111" align="alignnone" width="500" caption="The BBC has experimented with topical pages in the past. Because they consisted mainly of elaborate search queries, the accuracy and relevancy of these pages was hamstrung. Shows the importance of good classification and metadata. The BBC has since scaled back their ambitions on this front; some form of it lives on in their search engine."] " !http://stdout.be/wp-content/uploads/2010/04/bbc_topics_homepage.jpg! ":http://stdout.be/wp-content/uploads/2010/04/bbc_topics_homepage.jpg [/caption]
+!/images/content/2010-04-14/bbc_topics_homepage.jpg(The BBC has experimented with topical pages in the past. Because they consisted mainly of elaborate search queries, the accuracy and relevancy of these pages was hamstrung. Shows the importance of good classification and metadata. The BBC has since scaled back their ambitions on this front; some form of it lives on in their search engine.)!
 
-[caption id="attachment_109" align="alignnone" width="520" caption="EveryBlock allows you to narrow down the news to the neighborhood and even down to the block level. Why doesn't any local newspaper do this?"] " !http://stdout.be/wp-content/uploads/2010/04/everyblock-alt-nav.png! ":http://stdout.be/wp-content/uploads/2010/04/everyblock-alt-nav.png [/caption]
+!/images/content/2010-04-14/everyblock-alt-nav.png(EveryBlock allows you to narrow down the news to the neighborhood and even down to the block level. Why doesn't any local newspaper do this?)!
 
 The metadata that will serve us so well in constructing a dynamic navigation, will happily serve to create complementary ways of browsing as well. Take that opportunity with both hands. Your readers will thank you for it.
