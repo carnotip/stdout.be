@@ -3,7 +3,7 @@ layout: quote
 language: en
 categories:
     - journalism
-    - society
+    - tech & society
 author: Doreen Marchionni
 canonical: http://blog.sasquatchmedia.com/post/632395661/jay-rosen-on-future-of-citizen-media-mesh
 ---

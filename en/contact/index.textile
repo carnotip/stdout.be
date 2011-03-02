@@ -2,6 +2,7 @@
 layout: page
 language: en
 equiv: /nl/contact/
+realm: contact
 ---
 
 I'm always available for a chat with colleagues, or to discuss <a href="/en/work/">work</a>. I happily do guest posts if you ask nicely. You can reach me at <span class="me">stijn</span>.

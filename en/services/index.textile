@@ -2,9 +2,12 @@
 layout: page
 language: en
 equiv: /nl/diensten/
+realm: services
 ---
 
-I work as software developer and information architect. To make sure I'm the best at what I do, I focus all my work on the publishing industry. 
+p(notice). I've recently joined <a href="http://www.camayak.com">Camayak</a> full-time, so my freelance activities are on hiatus. Thanks for understanding.
+
+I work as software developer and information architect. To make sure I'm the best at what I do, I focus all my work on the publishing industry.
 
 <dl>
     <dt>Consultancy</dt>
@@ -15,12 +18,4 @@ I work as software developer and information architect. To make sure I'm the bes
     <dd>Workshops: IA, future of journalism, news design — both desktop publishing and online.</dd>
 </dl>
 
-* my work *
-
 I've done guest posts at Lost Remote, the Online Journalism Blog and mediakritiek.be. One of my opinion pieces recently appeared in 'Handboek voor Crossmediale Journalistiek', a course book for journalism students at the University of Amsterdam.
-
-Je kan gastbijdrages van mij lezen op Lost Remote, de Online Journalism Blog en mediakritiek.be. Eén van mijn opiniestukjes verscheen onlangs in het 'Hb', een handboek voor studenten journalistiek aan de UvA.
-
-* talks *
-
-* previous clients *

@@ -4,6 +4,7 @@ type: post
 description:
   nl: Een blog over programmeren, informatie-architectuur en journalistiek
   en: A blog about programming, information architecture and journalism
+realm: blog
 ---
 
 <summary class="inset content">
@@ -40,13 +41,13 @@ description:
 <div class="inset">
     <div class="centered">
         <ul id="categories">
-            <li><a href="/coding/">coding</a></li>
-            <li><a href="/journalism/">journalism</a></li>
-            <li><a href="/ia/" class="active">information architecture</a></li>
-            <li><a href="/society/">tech & society</a></li>
-            <li><a href="/biz/">business & management</a></li>
-            <li><a href="/inspiration/">inspirational</a></li>
-            <li><a href="/personal/">personal</a></li>
+            <li><a {% if page.categories contains "coding" %}class="active" {% endif %}href="/coding/">coding</a></li>
+            <li><a {% if page.categories contains "journalism" %}class="active" {% endif %}href="/journalism/">journalism</a></li>
+            <li><a {% if page.categories contains "information architecture" %}class="active" {% endif %}href="/ia/">information architecture</a></li>
+            <li><a {% if page.categories contains "tech & society" %}class="active" {% endif %}href="/society/">tech & society</a></li>
+            <li><a {% if page.categories contains "business & management" %}class="active" {% endif %}href="/biz/">business & management</a></li>
+            <li><a {% if page.categories contains "inspirational" %}class="active" {% endif %}href="/inspiration/">inspirational</a></li>
+            <li><a {% if page.categories contains "personal" %}class="active" {% endif %}href="/personal/">personal</a></li>
         </ul>
     </div>
 </div>
@@ -54,15 +55,15 @@ description:
     <nav>
         <ul class="menu top inline">
         {% if page.language == 'en' %}
-            <li><a href="/en/" class="blog">→ blog</a></li>
-            <li><a href="/en/services" class="work">→ services</a></li>
-            <li><a href="/en/reviews/review" class="contact">→ get in touch</a></li>
-            <li><a href="/en/about-me" class="about-me">→ about me</a></li>
+            <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/en/" class="blog">→ blog</a></li>
+            <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/en/services/" class="work">→ services</a></li>
+            <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/en/contact/" class="contact">→ get in touch</a></li>
+            <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/en/about-me/" class="about-me">→ about me</a></li>
         {% else %}
-            <li><a href="/nl/" class="blog">→ blog</a></li>
-            <li><a href="/nl/werk" class="work">→ diensten</a></li>
-            <li><a href="/nl/contacteer-me" class="contact">→ contacteer me</a></li>
-            <li><a href="/nl/over-mij" class="about-me">→ over mij</a></li>
+            <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/nl/" class="blog">→ blog</a></li>
+            <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/nl/diensten/" class="work">→ diensten</a></li>
+            <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/nl/contacteer-me/" class="contact">→ contacteer me</a></li>
+            <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/nl/over-mij/" class="about-me">→ over mij</a></li>
         {% endif %}
         </ul>
     </nav>

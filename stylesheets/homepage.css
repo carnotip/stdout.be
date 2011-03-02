@@ -1,6 +1,8 @@
-ul#projects li {
-  list-style-type: none;
-  margin-bottom: 15px; }
+ul {
+  padding-left: 20px; }
+  ul#projects li {
+    list-style-type: circle;
+    margin: 8px 0; }
 
 div#writing ul {
   padding: 0; }
@@ -32,9 +34,11 @@ a.badge {
     background: #333333; }
   a.badge.guestpost {
     background: #3ca062; }
+  a.badge.talk {
+    background: #ca2c6f; }
   a.badge.print {
     background: #62a6ae; }
   a.badge.comment {
-    background: #999999; }
+    background: #7aa3f7; }
   a.badge.review {
     background: #99aa64; }

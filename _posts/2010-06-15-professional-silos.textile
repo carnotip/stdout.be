@@ -2,7 +2,7 @@
 layout: comment
 language: en
 categories:
-    - business
+    - business & management
 canonical: http://lealaabbott.com/wp/archives/156/comment-page-1#comment-138                     
 title: Professional Silos
 ---

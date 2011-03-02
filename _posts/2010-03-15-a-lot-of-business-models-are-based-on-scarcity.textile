@@ -2,7 +2,7 @@
 layout: quote
 language: en
 categories:
-    - society
+    - tech & society
     - business & management
 author: Jeremy Littau
 canonical: http://www.jlittau.net/?p=896

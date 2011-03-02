@@ -3,7 +3,7 @@ layout: post
 language: en
 categories:
     - journalism
-    - society
+    - tech & society
 equiv: 2010-05-18-journalistiek-is-een-gesprek
 tags:
     - context

@@ -92,6 +92,9 @@ nav a, ul#categories a
 ul.menu a
   border: 1px solid white
   
+  &.active
+    border-color: $gray
+  
   &:hover
     background: $lemon
     color: black
@@ -106,6 +109,8 @@ ul.menu a
   background: $silver
     
 .alt
+  margin: -20px 0 20px 0
+  padding: 1px 0
   background: $blond
 
 hr.divider
@@ -169,7 +174,7 @@ a
   
   &:hover
     color: $babyblue
-    border-color: $babyblue
+    border-color: $cornflower
 
 p a
   text-decoration: underline
@@ -178,3 +183,7 @@ p a
 
 span.me:after
   content: "@stdout.be"
+  
+p.notice
+  background: #eee
+  padding: 10px

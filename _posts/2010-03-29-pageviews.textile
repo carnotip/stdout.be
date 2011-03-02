@@ -2,7 +2,7 @@
 layout: quote
 language: en
 categories:
-    - society
+    - tech & society
 author: John Gruber
 canonical: http://daringfireball.net/linked/2010/03/29/pageviews
 ---

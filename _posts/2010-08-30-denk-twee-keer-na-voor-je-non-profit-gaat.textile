@@ -3,7 +3,7 @@ layout: post
 language: en
 categories:
     - journalism
-    - business
+    - business & management
 tags:
     - nl
     - succes

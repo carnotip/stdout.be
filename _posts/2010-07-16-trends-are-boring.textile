@@ -4,7 +4,7 @@ language: en
 categories:
     - journalism
     - coding
-    - society
+    - tech & society
     - inspirational
 tags:
     - en

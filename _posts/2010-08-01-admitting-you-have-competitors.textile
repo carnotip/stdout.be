@@ -2,7 +2,7 @@
 layout: quote
 language: en
 categories:
-    - business
+    - business & management
 author: Tristan Harris
 canonical: http://www.tristanharris.com/2010/06/we-dont-have-any-competitors/
 ---

@@ -1,0 +1,7 @@
+---
+layout: feed
+language: en
+title: stdout.be | thoughts about journalism and technology
+---
+
+{{ content }}

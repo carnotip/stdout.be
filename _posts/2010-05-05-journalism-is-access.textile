@@ -3,7 +3,7 @@ layout: comment
 language: en
 categories:
     - journalism
-    - society
+    - tech & society
 canonical: http://adamwestbrook.wordpress.com/2010/05/04/journalism-is/#comment-11725       
 title: Journalism is access     
 ---

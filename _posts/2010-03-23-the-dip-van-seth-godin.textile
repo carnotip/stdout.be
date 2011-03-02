@@ -13,7 +13,7 @@ tags:
     - falen
     - strategie
     - lifehacks
-    - Business
+    - business & management
 title: The Dip van Seth Godin
 summary:
     'The Dip' van Seth Godin staat vol van slecht advies, maar als je goed zoekt, kan je wel een paar stukjes wijsheid terugvinden.

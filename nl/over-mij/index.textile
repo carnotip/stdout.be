@@ -2,6 +2,7 @@
 layout: page
 language: nl
 equiv: /en/about-me/
+realm: about-me
 ---
 
 Tijdens mijn studententijd bracht ik een hele poos door bij Schamper, en sinds dien ben ik gefascineerd door de uitdagingen van de media en andere uitgevers. Workflow management. Snel publiceren op meerdere platformen. Automatisering van layouts. Metadata. Het digitaliseren van archieven. Behoorlijk nerdy, maar het boeit me.

@@ -4,7 +4,7 @@ language: en
 canonical: http://onlinejournalismblog.com/2010/07/22/the-wwtdd-effect/
 categories:
     - journalism
-    - society
+    - tech & society
 tags:
     - context
     - Generation M

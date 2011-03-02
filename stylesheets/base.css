@@ -86,6 +86,8 @@ nav a, ul#categories a {
 
 ul.menu a {
   border: 1px solid white; }
+  ul.menu a.active {
+    border-color: #999999; }
   ul.menu a:hover {
     background: #ffffaa;
     color: black; }
@@ -100,6 +102,8 @@ ul.menu a {
   background: #eeeeee; }
 
 .alt {
+  margin: -20px 0 20px 0;
+  padding: 1px 0;
   background: #ffffdd; }
 
 hr.divider {
@@ -168,7 +172,7 @@ a {
   text-decoration: none; }
   a:hover {
     color: #3e79f1;
-    border-color: #3e79f1; }
+    border-color: #7aa3f7; }
 
 p a {
   text-decoration: underline; }
@@ -176,3 +180,7 @@ p a {
 /* OTHER */
 span.me:after {
   content: "@stdout.be"; }
+
+p.notice {
+  background: #eeeeee;
+  padding: 10px; }

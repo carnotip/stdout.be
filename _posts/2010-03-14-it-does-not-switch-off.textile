@@ -2,7 +2,7 @@
 layout: quote
 language: en
 categories:
-    - society
+    - tech & society
 author: Brooke Magnanti
 canonical: http://belledejour-uk.blogspot.com/2010_03_01_archive.html#8457655376121928304
 ---

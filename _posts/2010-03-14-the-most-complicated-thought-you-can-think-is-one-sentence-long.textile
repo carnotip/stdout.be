@@ -2,7 +2,7 @@
 layout: quote
 language: en
 categories:
-    - society
+    - tech & society
 author: Joel Spolsky
 canonical: http://www.joelonsoftware.com/items/2010/03/14.html
 ---

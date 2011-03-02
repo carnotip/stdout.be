@@ -2,7 +2,7 @@
 layout: guest post
 categories:
     - journalism
-    - society
+    - tech & society
 title: The future of investigative journalism
 canonical: http://www.lostremote.com/2010/05/25/guest-post-the-future-of-investigative-journalism/
 ---

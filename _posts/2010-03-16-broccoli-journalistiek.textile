@@ -3,7 +3,7 @@ layout: post
 language: en
 categories:
     - journalism
-    - society
+    - tech & society
 title: Broccoli-journalistiek
 summary: Mijn laatste pennevrucht, te lezen op Apache.
 ---

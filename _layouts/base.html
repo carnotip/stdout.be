@@ -24,6 +24,9 @@
         <meta name="og:type" content="blog"/>
         <meta name="keywords" content="{{ page.categories }}"
         <link rel="foaf:primaryTopic foaf:maker" href="/en/about-me/" />
+        <link rel="alternate" type="application/atom+xml" title="English blogposts on stdout.be" href="en.atom" />
+        <link rel="alternate" type="application/atom+xml" title="Nederlandstalige blogposts op stdout.be" href="nl.atom" />
+        <link rel="alternate" type="application/atom+xml" title="Alle blogposts van stdout.be" href="all.atom" />
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
@@ -72,15 +75,15 @@
                     </ul>
                     <ul class="menu top inline">
                     {% if page.language == 'en' %}
-                        <li><a href="/en/" class="blog">→ blog</a></li>
-                        <li><a href="/en/services/" class="work">→ services</a></li>
-                        <li><a href="/en/reviews/" class="contact">→ get in touch</a></li>
-                        <li><a href="/en/about-me/" class="about-me">→ about me</a></li>
+                        <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/en/" class="blog">→ blog</a></li>
+                        <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/en/services/" class="work">→ services</a></li>
+                        <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/en/contact/" class="contact">→ get in touch</a></li>
+                        <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/en/about-me/" class="about-me">→ about me</a></li>
                     {% else %}
-                        <li><a href="/nl/" class="blog">→ blog</a></li>
-                        <li><a href="/nl/diensten/" class="work">→ diensten</a></li>
-                        <li><a href="/nl/contacteer-me/" class="contact">→ contacteer me</a></li>
-                        <li><a href="/nl/over-mij/" class="about-me">→ over mij</a></li>
+                        <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/nl/" class="blog">→ blog</a></li>
+                        <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/nl/diensten/" class="work">→ diensten</a></li>
+                        <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/nl/contacteer-me/" class="contact">→ contacteer me</a></li>
+                        <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/nl/over-mij/" class="about-me">→ over mij</a></li>
                     {% endif %}
                     </ul>
                 </nav>

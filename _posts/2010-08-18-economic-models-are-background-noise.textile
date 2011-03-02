@@ -3,7 +3,7 @@ layout: quote
 language: en
 categories:
     - journalism
-    - business
+    - business & management
 author: Paul Rissen
 canonical: http://www.r4isstatic.com/?p=90
 ---

@@ -1,5 +1,8 @@
+---
+language: en
+layout: comment
 canonical: http://www.joelonsoftware.com/articles/fog0000000017.html
-
-Joel Spolsky
+author: Joel Spolsky
+---
 
 When you release 1.0, you might want to actually keep it kind of quiet. Let the early adopters find it. If you market it and promote it too heavily, when people see what you've actually done, they will be underwhelmed. 
