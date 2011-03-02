@@ -3,11 +3,6 @@ layout: post
 language: en
 categories:
     - journalism
-tags:
-    - en
-    - context
-    - lightning talk
-    - comments
 title: Two cultures in media criticism
 summary:
     

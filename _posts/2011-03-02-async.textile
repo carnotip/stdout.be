@@ -4,4 +4,5 @@ layout: comment
 canonical: http://zef.me/3715/three-routes-to-spaghetti-free-javascript
 context: How to do asynchronous Javascript without ending up with spaghetti code?
 ---
+
 You tuck away async.js at the end like it's not a real option, but async.js combined with well-factored code for handling IO (e.g. for most CRUD apps something like a RESTService or Database class) hides away almost all complexities associated with async during day-to-day work. Not an option if you have all sorts of different asynchronous code going on in all different sorts of places, but for most web-apps that's luckily not the case.

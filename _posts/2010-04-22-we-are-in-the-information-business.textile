@@ -26,7 +26,9 @@ It's now three and a half years ago that Adrian Holovaty "told developers that w
 
 We've seen some exciting developments in the journalistic landscape. Lots of talk about new business models and mumbling about mashups and clouds and multimedia. But nobody really seems to have taken Adrian's advice to heart. So it shouldn't surprise us that most news websites still look more or less like a print product that has been transplanted to the web.
 
-Some of the startups that get everyone excited like "The Huffington Post":http://www.huffingtonpost.com/ , "Talking Points Memo":http://www.talkingpointsmemo.com/ or "The Voice of San Diego":http://www.voiceofsandiego.org/ _do_ provide excellent content, and they _do_ provide something that wasn't there before, but as much as as they're rethinking the newsroom, they're not reinventing the news website.h2. Rethink the basics
+Some of the startups that get everyone excited like "The Huffington Post":http://www.huffingtonpost.com/ , "Talking Points Memo":http://www.talkingpointsmemo.com/ or "The Voice of San Diego":http://www.voiceofsandiego.org/ _do_ provide excellent content, and they _do_ provide something that wasn't there before, but as much as as they're rethinking the newsroom, they're not reinventing the news website.
+
+h2. Rethink the basics
 
 There's a lot of excitement about infographics nowadays, and I "love those":http://infosthetics.com/  "myself":http://www.informationisbeautiful.net/. "People get all warm and fuzzy about news apps":http://hackshackers.com/2010/04/13/dont-mistake-your-cms-for-a-development-platform/#comment-44643984 and I do too. But ultimately, when thinking about the future of journalism on the web, they're distractions. Infographics and news apps feel like the best thing since sliced bread, because they allow us to do revolutionary new stuff, without rethinking any of the basics of online news production. Experimenting with infographics is low-risk and low-cost, so why wouldn't you?
 
@@ -125,7 +127,7 @@ Another example. I've seen quite a few print publications that catalogue their s
 
 Similarly, an illustration or photograph might look like just another part of a text, but it's more than that: in addition to the source file (the image itself), every photograph has an author, a copyright holder and perhaps a license, might contain one or more persons and was taken at a location. You can probably think of a few additional ones yourself.
 
-!/images/content/2010-04-22/photo-article.png(An image is more than just a source file, it has properties like a title, an author, a copyright holder and an associated copyright message. Most of these properties are part of the image itself, others are part of the link between a specific image and a specific story. For example the caption is something that'll probably change every time we use the same image, to clarify how it relates to the story at hand. Other information specific to each link might be whether or not the photo serves as the frontpage eye-catcher or as supplementary footage and whether to display it full-width or alongside the text.)!
+!/images/content/2010-04-22-photo-article.png(An image is more than just a source file, it has properties like a title, an author, a copyright holder and an associated copyright message. Most of these properties are part of the image itself, others are part of the link between a specific image and a specific story. For example the caption is something that'll probably change every time we use the same image, to clarify how it relates to the story at hand. Other information specific to each link might be whether or not the photo serves as the frontpage eye-catcher or as supplementary footage and whether to display it full-width or alongside the text.)!
 
 h3. Markup means something's wrong
 
@@ -137,9 +139,9 @@ Presentation is a designer's job, and it doesn't concern journalists or editors.
 
 We should be able to generate HTML or any other markup on the fly, based on how a text is structured. That means we need domain-specific ways of indicating, err, _marking up_ a text. We need to start creating our own little "Markdown-like":http://daringfireball.net/projects/markdown/ languages for journalism.
 
-!/images/content/2010-04-22/wysiwyg.png(WYSIWYG is all about getting your writing to look like you want it to)!
+!/images/content/2010-04-22-wysiwyg.png(WYSIWYG is all about getting your writing to look like you want it to)!
 
-!/images/content/2010-04-22/wysiwym.png(WYSIWYM is all about showing what your content actually is)!
+!/images/content/2010-04-22-wysiwym.png(WYSIWYM is all about showing what your content actually is)!
 
 h3. What is structure, anyway?
 

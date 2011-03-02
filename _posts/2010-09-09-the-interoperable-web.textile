@@ -28,8 +28,8 @@ We have a huge bunch of technologies at our disposal that help make the web inte
 
 Other interop technologies have nothing to do with the semantic web.
 
-*  "oEmbed":http://www.oembed.com/ is just an API spec. JSON, not RDF. But it has been instrumental in standardizing how we embed content on other pages.
-*  "Webhooks":http://www.webhooks.org/ suggest a dead simple notification and plugin system for web apps, so people can modify and extend those apps with just a little bit of coding.
+* "oEmbed":http://www.oembed.com/ is just an API spec. JSON, not RDF. But it has been instrumental in standardizing how we embed content on other pages.
+* "Webhooks":http://www.webhooks.org/ suggest a dead simple notification and plugin system for web apps, so people can modify and extend those apps with just a little bit of coding.
 * Pingbacks and trackbacks, though they're now outdated technologies.
 * New proposals, like "WebFinger":http://code.google.com/p/webfinger/ .
 * The Twitter API. Other services (like "wordpress.com":http://en.support.wordpress.com/twitter-api/ ) have adopted the same interface, so they can benefit from the twitter ecosystem and work seamlessly with existing twitter apps.
@@ -39,4 +39,4 @@ Other interop technologies have nothing to do with the semantic web.
 
 There are protocols in that list, common architectures, shared formats, conventions. And a good dose of it, like the Webhook concept, isn't technical at all, but rather advocacy for a best practice. A whole mish-mash that makes it easier for web developers to leverage other people's work. Ways in which we're making the web a little more interoperable. Not wholesale, but slowly and surely nonetheless.
 
-Interoperability is about making it easier for people to "build cool services that leverage all that's out there on the web":http://rasterweb.net/raster/2010/08/31/lanyrd/comment-page-1/#comment-12777 ; right now, not whenever we can get every web publisher to output semantic metadata. People use and will continue to use standards because it's just so darned handy. Because most services are only ever going to get the exposure they want if they make it easy for people to interact with their stuff. People won't adopt standards because they hope The Web Will Be One. We have interoperability right now. It's "messy":http://bigfractaltangle.com/archive/2006/01/02~09-22.jsp , not clean. But it works, and it'll work even better next year and the year after that.
+Interoperability is about making it easier for people to "build cool services that leverage all that's out there on the web":http://rasterweb.net/raster/2010/08/31/lanyrd/comment-page-1/#comment-12777; right now, not whenever we can get every web publisher to output semantic metadata. People use and will continue to use standards because it's just so darned handy. Because most services are only ever going to get the exposure they want if they make it easy for people to interact with their stuff. People won't adopt standards because they hope The Web Will Be One. We have interoperability right now. It's "messy":http://bigfractaltangle.com/archive/2006/01/02~09-22.jsp , not clean. But it works, and it'll work even better next year and the year after that.

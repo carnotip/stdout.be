@@ -1,17 +1,10 @@
 ---
 layout: post
-language: en
+language: nl
 categories:
     - journalism
-tags:
-    - nl
-    - metadata
-    - algorithms
-    - presentations
-    - interaction design
 title: Koning Middelmaat
-summary:
-    
+summary: Wat mankeert er aan syndicatie?
 ---
 
 Wat ik me dus al een tijdje afvraag: waarom produceren kranten zo'n bagger in hun wetenschapskatern? Waarom herschrijven ze stukken uit andere kranten, met nul meerwaarde? Waarom lees je overal dezelfde "baggerrecensies":/2010/wie-geeft-nog-een-moer-om-recensies/ .

@@ -3,15 +3,6 @@ layout: post
 language: en
 categories:
     - journalism
-tags:
-    - nl
-    - context
-    - government
-    - Steve Yelvington
-    - comments
-    - book reviews
-    - content strategy
-    - programming
 title: De wereld volgens Karl
 summary:
     Als oude rotten in het vak mopperen over de media, weet ik nooit wat te denken. Want ze hebben gelijk, er gebeurt minder onderzoek en er worden aan de lopende band persberichten overgenomen. Maar hun egotisme laat een wrange smaak na. Het heilige geloof dat ze als geoefende redacteurs perfect weten hoe de journalistiek van vandaag er moet uitzien. De sombere waarschuwing dat we maar beter oppassen, want dat een slecht werkende pers onafwendbaar leidt tot afbrokkeling van de democratie.

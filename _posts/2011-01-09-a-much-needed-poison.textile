@@ -10,11 +10,11 @@ tags:
     - information architecture for news websites
     - javascript
 title: A much-needed poison
-summary:
+summary: On the curious relationship between yak shaving, diversions and creating the next big thing.
     
 ---
 
-_Or: on the curious relationship between yak shaving, diversions and creating the next big thing._ For the longest time now, I've wanted to create a documentation tool that isn't crap. ( "Sphinx":http://sphinx.pocoo.org/ is nice, but bloated and with a very messy syntax. "Docco":http://jashkenas.github.com/docco/ is a lovely educational tool, but that's all it is.) Every software project I do reminds me of how utterly mediocre our doc tools are. For even longer, I've wanted to create an open-source wiki platform that doesn't make me want to barf. Every project I do in need of a wiki makes it so blatantly obvious how bad "MediaWiki":http://www.mediawiki.org/wiki/MediaWiki and its numerous clones are at facilitating knowledge transfer. But I can't justify the time investment in a wiki or a documentation generator, so I've never taken a stab at either, and probably never will.
+For the longest time now, I've wanted to create a documentation tool that isn't crap. ( "Sphinx":http://sphinx.pocoo.org/ is nice, but bloated and with a very messy syntax. "Docco":http://jashkenas.github.com/docco/ is a lovely educational tool, but that's all it is.) Every software project I do reminds me of how utterly mediocre our doc tools are. For even longer, I've wanted to create an open-source wiki platform that doesn't make me want to barf. Every project I do in need of a wiki makes it so blatantly obvious how bad "MediaWiki":http://www.mediawiki.org/wiki/MediaWiki and its numerous clones are at facilitating knowledge transfer. But I can't justify the time investment in a wiki or a documentation generator, so I've never taken a stab at either, and probably never will.
 
 I did create a low-level API for storing directed acyclic graphs in Django, though. And a "framework for Adobe ExtendScript":http://extendables.org/ , of all things. In both cases helping me do something I set out to do, but in both cases also delaying what I set out to do by days and weeks, respectively.
 

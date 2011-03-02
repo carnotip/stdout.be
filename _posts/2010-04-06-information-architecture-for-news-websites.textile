@@ -24,12 +24,12 @@ During the month of April, starting tomorrow, I'll be blogging about a small but
 
 Here's the menu:
 
-#  *April 7th* : _ "Tags Don't Cut It.":/2010/tags-dont-cut-it/ _ This one will be all about how we can infuse news with context and give it lasting value.
-#  *April 9th* : _ "Topics, themes and subjects.":/2010/themes-and-topics/ _ This is a follow-up to Tags Don't Cut It (which is why I'm publishing those two so closely together) with a specific focus on using topics as a way of bundling content together.
-#  *April 14th* : _ "Navigation Headaches.":/2010/navigation-headaches/ _ We're outgrowing sections as a way of organizing our content.
-#  * *April 21st* : _ "We're in the information business.":/2010/we-are-in-the-information-business/ _ We're slowly realizing that we can do better than to publish our content as big blobs of text.* 
-#  *April 26th* : _ "The Basic Unit of Information.":/2010/the-basic-unit-of-information/ _ Readers want to know the ingredients — facts, quotes and sources — that make up a news story, not just the finished narrative. An addendum to We're in the information business.
-#  *April 28th* : _ "Findability and exploration.":/2010/findability-and-exploration/ _ Search engines on news websites are notoriously bad at finding the stuff we're searching for, or suggesting the stuff we might like to explore. But we have the technology to kick it up a notch.
+#  *April 7th*: _ "Tags Don't Cut It.":/2010/tags-dont-cut-it/ _ This one will be all about how we can infuse news with context and give it lasting value.
+#  *April 9th*: _ "Topics, themes and subjects.":/2010/themes-and-topics/ _ This is a follow-up to Tags Don't Cut It (which is why I'm publishing those two so closely together) with a specific focus on using topics as a way of bundling content together.
+#  *April 14th*: _ "Navigation Headaches.":/2010/navigation-headaches/ _ We're outgrowing sections as a way of organizing our content.
+#  * *April 21st*: _ "We're in the information business.":/2010/we-are-in-the-information-business/ _ We're slowly realizing that we can do better than to publish our content as big blobs of text.* 
+#  *April 26th*: _ "The Basic Unit of Information.":/2010/the-basic-unit-of-information/ _ Readers want to know the ingredients — facts, quotes and sources — that make up a news story, not just the finished narrative. An addendum to We're in the information business.
+#  *April 28th*: _ "Findability and exploration.":/2010/findability-and-exploration/ _ Search engines on news websites are notoriously bad at finding the stuff we're searching for, or suggesting the stuff we might like to explore. But we have the technology to kick it up a notch.
 
 (I'll add the links to these posts as I publish them, so this introduction will serve as a table of contents.)
 

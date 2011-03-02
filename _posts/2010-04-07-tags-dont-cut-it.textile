@@ -47,13 +47,13 @@ As an addendum to (2): it should be obvious what we should tag and how we should
 
 There's a very simple step we can take to make it obvious to reporters what kind of things they are supposed to be adding as keywords to their articles. Split up tags by type, each with their own input field. Some people call 'em vocabularies, others call them dictionaries, but you get the picture.
 
-!/images/content/2010-04-07/drupal-vocabularies.png(Drupal makes it easy to split up tags and categories into distinct vocabularies.)!
+!/images/content/2010-04-07-drupal-vocabularies.png(Drupal makes it easy to split up tags and categories into distinct vocabularies.)!
 
 The New York Times has "dictionaries":http://open.blogs.nytimes.com/2008/10/21/announcing-the-timestags-api/ for subject descriptors, persons, geographic locations and organizations. That's pretty encompassing, but allow me to add events to that list.
 
 Themes or topics, persons, locations, organizations, events. If we keep these five vocabularies in mind, they'll serve as a constant reminder that we need to make sure that we keyword all the persons that are involved, that locations are valid keywords and that we should add them, and so on.
 
-!/images/content/2010-04-07/5-types-of-relationships.png(Let's replace tags with the things tags actually stand for: people, places, themes, events and organizations.)!
+!/images/content/2010-04-07-5-types-of-relationships.png(Let's replace tags with the things tags actually stand for: people, places, themes, events and organizations.)!
 
 Vocabularies are a basic necessity for even trivial things like automatically compiling an index of all the people that a site has content on. You can't provide an index of people if your website makes cannot discern persons from themes from locations.
 
@@ -63,7 +63,7 @@ We'll handle subject descriptors — themes, topics, or whatever you want to cal
 
 It's only a little confusing to us humans because we can guess the meaning of the tags from the text that they accompany, but computers can’t. We’re really going to need computers to aid us in bringing context — say, for example, listing all the articles where Apple was lauded versus those where the company was criticized.
 
-!/images/content/2010-04-07/relationship-to-person1.png(A few possible relationships between a story and a person.)!
+!/images/content/2010-04-07-relationship-to-person1.png(A few possible relationships between a story and a person.)!
 
 With just a little more effort, it’s easy to specify real relationships. Let's not reinvent the wheel. We'll use use the "triplets":http://en.wikipedia.org/wiki/Resource_Description_Framework our "semantic web buddies":http://dig.csail.mit.edu/breadcrumbs/blog/4 are so fond of:
 
@@ -81,7 +81,7 @@ Relationships can also be used to make search queries more intelligent. Here's a
 
 Relationships can also enrich topical pages and assure that they are more than just link dumps that leave the reader figuring out how exactly the linked content relates to the topic at hand.
 
-!/images/content/2010-04-07/linkdump.png(Tag pages ought to be more than just a plain and boring list of links. Unharvested potential there.)!
+!/images/content/2010-04-07-linkdump.png(Tag pages ought to be more than just a plain and boring list of links. Unharvested potential there.)!
 
 *Step 3: entities, not labels* If we look at our vocabularies and ignore the topics/themes vocabulary for now, you'll notice that these divisions actually represent real things. Persons. Organizations. Events. Locations.
 
@@ -93,7 +93,7 @@ A location has an address or at least refers to a geographical point or area.|
 
 h4. Persons
 
-!/images/content/2010-04-07/person.png!
+!/images/content/2010-04-07-person.png!
 
 * have a first and last name
 * can belong to certain organizations
@@ -103,7 +103,7 @@ h4. Persons
 
 h4. Organizations
 
-!/images/content/2010-04-07/organization.png! 
+!/images/content/2010-04-07-organization.png! 
 
 * are active in a certain industry, market or sphere
 * have members
@@ -112,7 +112,7 @@ h4. Organizations
 
 h4. Events
 
-!/images/content/2010-04-07/event.png!
+!/images/content/2010-04-07-event.png!
 
 * have a start date and an end date
 * can recur at fixed or random intervals
@@ -122,7 +122,7 @@ h4. Events
 
 h4. Places
 
-!/images/content/2010-04-07/place.png!
+!/images/content/2010-04-07-place.png!
 
 * can be a specific point in space or an area
 * can often be pinpointed with an address
@@ -130,7 +130,7 @@ h4. Places
 
 h4. Themes
 
-!/images/content/2010-04-07/topics.png!
+!/images/content/2010-04-07-topics.png!
 
 * can contain subthemes or be part of larger themes
 * can overlap with other themes
@@ -155,7 +155,7 @@ How best to exploit those cascades? I see two ways.
 # Automatic suggestions for readers: okay, but not great because they lack a human hand.
 # Automatic suggestions for editors, serving as a basis for the entry of relationships.
 
-!/images/content/2010/04/delicious-suggestions.png(Suggested tags can improve the amount and consistency of our metadata.)!
+!/images/content/2010/04-delicious-suggestions.png(Suggested tags can improve the amount and consistency of our metadata.)!
 
 If you tag an article with Barack Obama like we did above, a CMS can autosuggest a relationship to the Democratic Party, leaving it up to you to decide whether to add that relationship, but nonetheless providing a very clear suggestion.
 
@@ -171,7 +171,7 @@ Readers demand the same leniency that synonyms bring: they don't and shouldn't c
 
 Names that can mean more than one thing should point to wikipedia-style disambiguation pages (but, in contrast to wikipedia, these pages should be autogenerated, not manually constructed). And the system should be able to differentiate between Stanley Smith the soccer player, Stanley Smith the tennis player and Stanley Smith the eponymous shoe by Adidas. ( _Should be able to_ , not _must_ . A database of shoes would probably add little value to the vast majority of journalistic endeavors.)
 
-!/images/content/2010-04-07/disambiguation.png(A disambiguation page on Wikipedia. Stan Smith can mean a lot of things.)!
+!/images/content/2010-04-07-disambiguation.png(A disambiguation page on Wikipedia. Stan Smith can mean a lot of things.)!
 
 h2. In the really real world
 
@@ -185,13 +185,13 @@ I mentioned autosuggestions/autotagging earlier. Names of persons can be spotted
 
 We should to take a very pragmatic approach to these tools. If you've tried them, you've seen that automated discovery tools like Open Calais just aren't all that good. They will get better, but they're not magical and they can't see inside a journalist's head. But what these automatic scans of your content do very well is give suggestions for relationships. As a reporter or an editor, you can then choose to flesh these out, use them as-is or ignore them. A bit like how suggestions work on Delicious, as shown above.
 
-!/images/content/2010-04-07/tag-suggestions-workflow.png(Autotagging is close to worthless on its own, but not if you use the input of e.g. OpenCalais and Placemaker as suggestions for relationships rather than as the final output.)!
+!/images/content/2010-04-07-tag-suggestions-workflow.png(Autotagging is close to worthless on its own, but not if you use the input of e.g. OpenCalais and Placemaker as suggestions for relationships rather than as the final output.)!
 
 Those tools usually suggest related tags, or entities in our case. But we also have the relationships themselves to think about (a is an overview of x, b is a review of y, c contains an interview with z). To be useful, they have to be consistent too. We can't bundle together all the articles where the mayor of San Antonio is asked for his opinion if one reporter enters that data asthis article interviews the mayor, another asthis article contains a few soundbites from the mayorand yet another one codifies it asthis article quotes the mayor.
 
 We'd best stick to a few agreed-upon relationships for the majority of the cases. We should provide the means of adding new predicates, but gently guide reporters to a basic set of relationships.
 
-!/images/content/2010-04-07/relationships-ui.png(A good UI for entering relationships should come with sensible defaults, first row, yet allow users to specify their own predicates, second row, if what they're trying to say is not on the list.)!
+!/images/content/2010-04-07-relationships-ui.png(A good UI for entering relationships should come with sensible defaults, first row, yet allow users to specify their own predicates, second row, if what they're trying to say is not on the list.)!
 
 If we really do need the detailed relationships above (e.g. the difference between 'interviews' and 'contains soundbites'), it's not impossible. We'd just need a way of specifying which relationships are roughly equivalent. And the right mechanisms in place to make sure that every once in a while editors comb through relationships and tidy them up a bit.
 
@@ -229,7 +229,7 @@ Events can easily be bundled into elegantly styled timelines.
 
 Taking things one step further, if you provide topical pages for locations, persons and organizations "like the NYT does":http://topics.nytimes.com/top/news/international/countriesandterritories/afghanistan/index.html , a healthy dose of vanity will entice journalists to relate their articles to the right topics, persons and organizations. It's the only way they can get their work on those topic pages. Being such an easy way for journalists to increase the shelf life of their work, you'd think they'll make the effort.
 
-!/images/content/2010-04-07/topic-page-nyt-1024x656.png(Topic pages are a wonderful way to go beyond daily reporting. They can also be an enticement to reporters who are wondering why they should care about all this tagging and relationship nonsense.)!
+!/images/content/2010-04-07-topic-page-nyt-1024x656.png(Topic pages are a wonderful way to go beyond daily reporting. They can also be an enticement to reporters who are wondering why they should care about all this tagging and relationship nonsense.)!
 
 Beat reporters will need even less encouragement to make use of relationships. Relationships can serve as an internal tool to keep track of a beat. Reporters can keep an overview of their field and share that knowledge with fellow reporters. We're not there yet, but hopefully we can someday get to the point where a content management system stops being a mere tool to publish to the web, and becomes a digital notebook that aids journalists in their work.h2. In summation
 

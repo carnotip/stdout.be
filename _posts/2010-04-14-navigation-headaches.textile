@@ -37,13 +37,13 @@ But surely, my haphazardly cobbled-together scenario (hypothetical, to boot!) a 
 
 Bear with me for a moment, or scroll past these examples if they bore you.h4. Le Monde
 
-!/images/content/2010-04-14/lemonde-nav.jpg(Le Monde — ah, my old college professors always tried to lure us poor students into reading this one, although none of us ever did. It's in French, nobody willingly reads French.)!
+!/images/content/2010-04-14-lemonde-nav.jpg(Le Monde — ah, my old college professors always tried to lure us poor students into reading this one, although none of us ever did. It's in French, nobody willingly reads French.)!
 
 Sections include the latest in international news, the environment, economics, news from France and analyses. Translated into criteria, I can spot timing, location, subject, theme and genre. They don't really feel like sections, because they serve more as a soft introduction to what you can find on the page at hand, rather than as a way of dividing the paper into different parts. They also serve to indicate regular features.
 
 h4. The Observer
 
-!/images/content/2010-04-14/observer-magazine-nav.jpg(This is the international edition of The Observer for April 11th. The Observer is a sunday broadsheet from the UK. Lovely typography.)!
+!/images/content/2010-04-14-observer-magazine-nav.jpg(This is the international edition of The Observer for April 11th. The Observer is a sunday broadsheet from the UK. Lovely typography.)!
 
 When I opened up the paper, The Observer Magazine fell out. Pushing content into different publications is of course the most visually obvious way one can split up content, achieving its intent by sheer physical separation. Magazines coupled to newspapers often contain longer features with less news value and often with more of a lifestyle kind of vibe to them — so newspaper magazines are often separated by _mood_ from their host newspaper. And, if you allow me a bit of irreverence: they also uniquely harbor the genre of disguised marketing.
 
@@ -51,11 +51,11 @@ The newspaper itself is a big one as well, even taxonomy-wise. We've got subject
 
 h4. De Morgen
 
-!/images/content/2010-04-14/demorgen-nav.jpg!
+!/images/content/2010-04-14-demorgen-nav.jpg!
 
 De Morgen is a Dutch-language newspaper here in Belgium. This weekday edition is divided into a common news-focused first part (mood, importance, timing), a section 'more and international news' (location and importance, or rather the lack of immediate importance), a sports section and one about culture and media (thematic).
 
-This particular edition is taxonomically interesting for a lot of reasons. Because Lech Kaczynski, Poland's president, had just "died in an unfortunate plane crash":http://en.wikipedia.org/wiki/2010_Polish_Air_Force_Tu-154_crash , this particular piece of news is above the fold on the front page, even though there's a dedicated section for international news the editors could have fit it in. Considering the importance of this Polish tragedy, it's the obvious editorial choice to make, but it also constitutes, I believe, the only piece of international reporting in the frontmost section.
+This particular edition is taxonomically interesting for a lot of reasons. Because Lech Kaczynski, Poland's president, had just "died in an unfortunate plane crash":http://en.wikipedia.org/wiki/2010_Polish_Air_Force_Tu-154_crash, this particular piece of news is above the fold on the front page, even though there's a dedicated section for international news the editors could have fit it in. Considering the importance of this Polish tragedy, it's the obvious editorial choice to make, but it also constitutes, I believe, the only piece of international reporting in the frontmost section.
 
 Another interesting aspect of the paper is that disparate sections (like media and culture) are bundled together not for any deep philosophical reasons, but because taken apart they'd only consist of a few articles each. Giving media and culture their own little individual section would look silly.
 
@@ -65,25 +65,25 @@ On to a few magazines.
 
 h4. Wired
 
-!/images/content/2010-04-14/wired-nav.jpg!
+!/images/content/2010-04-14-wired-nav.jpg!
 
 Okay, bad example. At Wired they just put all their content into a bag, shake it, and see how it comes out.
 
 h4. New Scientist
 
-!/images/content/2010-04-14/newscientist-nav.jpg!
+!/images/content/2010-04-14-newscientist-nav.jpg!
 
 Probably the best science mag for laymen. New Scientist divides its content by a combination of genre (news, opinion), mood (news versus features) and function (regulars).
 
 Finally, on to the websites, then.h4. guardian.co.uk
 
-!/images/content/2010-04-14/guardian-nav.png!
+!/images/content/2010-04-14-guardian-nav.png!
 
 The Guardian is one of the few newspapers out there that really appreciate what keywording can "do for them":http://www.currybet.net/cbet_blog/2008/07/topics_keywords_1.php. Their navigation consists — uniquely so — of broad categories that bundle together more specific topics like "technology":http://www.guardian.co.uk/technology, "education":http://www.guardian.co.uk/education, "music":http://www.guardian.co.uk/music, "food":http://www.guardian.co.uk/lifeandstyle/food-and-drink and so on. It's not perfect, but it's pretty _pure_ as these things go.
 
 h4. huffingtonpost.com
 
-!/images/content/2010-04-14/huffpo-navigation.png!
+!/images/content/2010-04-14-huffpo-navigation.png!
 
 The "HuffPo":http://www.huffingtonpost.com/ combines broad themes like politics, with narrower subjects like ‘green‘, adding links to location-based sections (N.Y., L.A., Chicago, Denver), and finishing things off with video, which is a reference to a medium, and bloggers, which is a reference to a genre. The functional links to the left (Facebook, twitter) are pretty prevalent as well.
 
@@ -91,19 +91,19 @@ Considering that the Huffington Post does quite a bit of "A/B-testing":http://ww
 
 h3. chronicle.augusta.com
 
-!/images/content/2010-04-14/augusta-chronicle-nav.png!
+!/images/content/2010-04-14-augusta-chronicle-nav.png!
 
 This newspaper is probably foreign to most readers, but "The Augusta Chronicle":http://chronicle.augusta.com/ is a nice and clean website for a local newspaper. Sports and business are thematic categories, but “Things to do” is as functional as it comes, and opinion is a genre.
 
 These kind of menu structures makes me uncomfortable. On the one hand it seems like there's no structure there at all, on the other hand these are exactly the kind of high-value destinations that are useful to me as a reader. If I'm a regular reader of the Chronicle, I'll use the menu more like a bunch of shortcuts, not as the dividers in a catalog. It's called _navigation_ for a reason.h4. nytimes.com
 
-!/images/content/2010-04-14/nytimes-nav.png!
+!/images/content/2010-04-14-nytimes-nav.png!
 
 The "NYT":http://www.nytimes.com cannot be absent from this bout of navigation staring. First up are a few location-based links, then mostly themes and subjects. Pretty consistent, although opinion (which is a genre) is randomly thrown somewhere in between. Also check out the links to video (medium), most popular (reader interaction) and times topics (presentation) on top.
 
 h4. lawrence.com
 
-!/images/content/2010-04-14/lawrence-nav.png!
+!/images/content/2010-04-14-lawrence-nav.png!
 
 "Lawrence.com":http://www.lawrence.com is a very neat community-heavy site for the city of Lawrence, Kansas. Like many local ventures, they emphasize function: what can I do (events), what's happening (latest), what can I eat (food) and where can I relax (nightlife)? Local newspapers and websites want to mean something to their readers, so the functional approach seems like the way to go.
 
@@ -135,9 +135,9 @@ Once we've decided how we want our primary navigation to look like, we need a do
 
 Here are a couple of examples that show how varied primary navigation can be, and how the rules behind them could look like:
 
-*  *the music section* : everything withmusicas a theme
-*  *latest and greatest* : all recent content in the genrereviews, with a score above 75% and ten responses by readers, unless the review is less than a day old, in which case we'll show it regardless of the amount of comments
-*  *“All eyes on the 2010 elections”* : all video and photographs related to the event2010 elections(either themselves or through the stories where these videos and pictures are included)
+*  *the music section*: everything withmusicas a theme
+*  *latest and greatest*: all recent content in the genrereviews, with a score above 75% and ten responses by readers, unless the review is less than a day old, in which case we'll show it regardless of the amount of comments
+*  *“All eyes on the 2010 elections”*: all video and photographs related to the event2010 elections(either themselves or through the stories where these videos and pictures are included)
 *  *modern living* : everything taggedenvironmentandlifestyle
 *  *Child abuse in the Catholic church (special)* : every story related to the organizationCatcholic churchthat haschild abuseas a theme
 
@@ -145,7 +145,7 @@ Some of these sections, like the last one about child abuse in the Catholic chur
 
 The section in which we put a story should be based on the fundamental properties of those stories, rather than on the whim or intuition of an editor. We decide _once_ how we want to split up our content, and from that point on, a computer should be able to do it.
 
-Of course, we actually need those fundamental properties available to us for a computer to be able to take over the curation of our primary sections. That's bound to be a challenge for most newspapers, especially if they have existing content that lacks this structure and information, or a CMS that can't adapt to these challenges. All I can say is: it's worth it _now_ . And it will become more than just worth it, the longer you've been doing it.
+Of course, we actually need those fundamental properties available to us for a computer to be able to take over the curation of our primary sections. That's bound to be a challenge for most newspapers, especially if they have existing content that lacks this structure and information, or a CMS that can't adapt to these challenges. All I can say is: it's worth it _now_. And it will become more than just worth it, the longer you've been doing it.
 
 Editors shouldn't waste time deciding in which section to put an article — those sections are fleeting, they'll change anyway — but they _should_ take the time to codify the stuff that matters: its genre, its themes, the location or locations to which a piece is tied, its importance, perhaps its mood.
 
@@ -155,7 +155,7 @@ Often, the rules that couple fundamental metadata about articles to a section wi
 
 But don't just think that you'll want to store fundamental metadata like themes and genres and so forth just because they can be useful in constructing a future-proof navigation. You'll find that a lot of other of these fundamental properties have their own uses and deserve to be part of your content management system on their own accord. We'll talk more about that in next week's post.
 
-!/images/content/2010-04-14/time-magazine-faceted-search.png(One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine.)!
+!/images/content/2010-04-14-time-magazine-faceted-search.png(One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine.)!
 
 The primary channels that comprise a newswebsite are equal parts taxonomy, marketing and vision. The way we structure a news website isn't just a matter of creating a tidy little storehouse of news, it should be part of a larger content strategy, in line with our journalistic ambitions. Our menus should be able to change when our vision changes, our ways of organizing our content should be able to adapt to the future as readily as we do.h3. Don't stop at primary navigation: the more, the merrier
 
@@ -170,12 +170,12 @@ We might not have a lot of space above the fold. We need to treat the header of 
 
 If your content has a lot of metadata associated with it — its genre, its mood, its length, the amount of comments, associated themes, medium — such information can serve a bigger purpose than just being part of the equation in generating a primary navigation. Metadata can serve as facets when searching, and it can serve to easily create all kinds of secondary navigation, allowing readers to explore your website just the way they want to.
 
-!/images/content/2010-04-14/related-tags.png(Tag browsing is but one of the ways you can complement your primary navigation.)!
+!/images/content/2010-04-14-related-tags.png(Tag browsing is but one of the ways you can complement your primary navigation.)!
 
-!/images/content/2010-04-14/texas-tribune-alt-nav.png(The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?)!
+!/images/content/2010-04-14-texas-tribune-alt-nav.png(The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?)!
 
-!/images/content/2010-04-14/bbc_topics_homepage.jpg(The BBC has experimented with topical pages in the past. Because they consisted mainly of elaborate search queries, the accuracy and relevancy of these pages was hamstrung. Shows the importance of good classification and metadata. The BBC has since scaled back their ambitions on this front; some form of it lives on in their search engine.)!
+!/images/content/2010-04-14-bbc_topics_homepage.jpg(The BBC has experimented with topical pages in the past. Because they consisted mainly of elaborate search queries, the accuracy and relevancy of these pages was hamstrung. Shows the importance of good classification and metadata. The BBC has since scaled back their ambitions on this front; some form of it lives on in their search engine.)!
 
-!/images/content/2010-04-14/everyblock-alt-nav.png(EveryBlock allows you to narrow down the news to the neighborhood and even down to the block level. Why doesn't any local newspaper do this?)!
+!/images/content/2010-04-14-everyblock-alt-nav.png(EveryBlock allows you to narrow down the news to the neighborhood and even down to the block level. Why doesn't any local newspaper do this?)!
 
 The metadata that will serve us so well in constructing a dynamic navigation, will happily serve to create complementary ways of browsing as well. Take that opportunity with both hands. Your readers will thank you for it.

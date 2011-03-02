@@ -29,7 +29,7 @@ h3. Turning a disadvantage into an advantage
 
 *There are a few partial solutions*, though. Topics and themes are bundles and bundles are hard to get right, IA-wise. But topics and themes also have two interesting properties that we can exploit for some information architecture magic. One: topics can overlap. Two: topics can contain other, more specific topics.
 
-!/images/content/2010-04-09/tags-versus-sets.png(Well, maybe not entirely how reality works, but closer to it.)!
+!/images/content/2010-04-09-tags-versus-sets.png(Well, maybe not entirely how reality works, but closer to it.)!
 
 Because topics serve to cluster news stories together in sets, we can't just represent them as a flat structure, which tags would force us to do. Articles abouthigher educationare a subset of the articles abouteducation, to give but one example. Topics are better represented by a tree structure.
 
@@ -47,7 +47,7 @@ h3. Polyhierarchy
 
 But placing topics in a tree brings its own challenge. To which supercategory does the topic "Christian schools" belong — education or religion? Luckily it's a problem that is easily solved. Just allow a topic to have more than one parent category. That's not possible in the physical world where every item has to be in one bucket and one bucket only, but it's perfectly possible in the digital world. Information architects call it polyhierarchy, mathematicians and computer scientists call it "directed acyclic graphs":http://en.wikipedia.org/wiki/Directed_acyclic_graph .
 
-!/images/content/2010-04-09/dag.png(Topics are trees. Or directed acyclic graphs, to be exact.)!
+!/images/content/2010-04-09-dag.png(Topics are trees. Or directed acyclic graphs, to be exact.)!
 
 h3. In practice
 
@@ -62,7 +62,7 @@ Keeping in mind that most journalists still aren't as web-savvy as we would like
 
 We can keep the familiar tagging interface we know from Wordpress, Drupal and similar systems: an input field with comma-separated tags and an autocomplete widget that suggests existing tags. It keeps the learning curve low, since most people are familiar with this type of interface.
 
-!/images/content/2010-04-09/tagging-ui-wordpress.png(The basic tagging UI we're all familiar with. Tags are separated with comma's, and an autocomplete widget gently promotes the reuse of existing tags.)!
+!/images/content/2010-04-09-tagging-ui-wordpress.png(The basic tagging UI we're all familiar with. Tags are separated with comma's, and an autocomplete widget gently promotes the reuse of existing tags.)!
 
 Part two is a bit more involved. Editors get an interface that consists of two buckets: one with tags that are already part of the hierarchy, and one with tags that were recently added and as such aren't part of the hierarchy yet.
 
@@ -70,9 +70,9 @@ Such an interface should make it easy to get a good birds-eye overview of the ta
 
 Newly added tags stay invisible for readers, until we've had the chance to make them part of the hierarchy. (Remember: tags are only useful if they bundle together a reasonable number of articles; newly added tags never do.)
 
-!/images/content/2010-04-09/treebrowser.png(A very rudimentary tree browser for polyhierarchical tags/topics/themes.)!
+!/images/content/2010-04-09-treebrowser.png(A very rudimentary tree browser for polyhierarchical tags/topics/themes.)!
 
-!/images/content/2010-04-09/related-tags.png(Hierarchical tags make it easy to show related topics.)!
+!/images/content/2010-04-09-related-tags.png(Hierarchical tags make it easy to show related topics.)!
 
 And that's that.
 

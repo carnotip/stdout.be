@@ -5,15 +5,10 @@ categories:
     - journalism
     - business & management
 tags:
-    - nl
     - succes
-    - metadata
     - GitHub
-    - Anton Vowl
-    - Paul Graham
-    - Judy Sims
 title: Denk twee keer na voor je non-profit gaat
-summary:
+summary: Een non-profit mag geen excuus zijn om moeilijke discussies over hoe je geld kan verdienen, uit de weg te gaan.
     
 ---
 

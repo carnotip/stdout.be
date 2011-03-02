@@ -4,16 +4,8 @@ language: en
 categories:
     - journalism
     - information architecture
-tags:
-    - en
-    - context
-    - polyhierarchy
-    - loose coupling
-    - Hack de Overheid!
-    - behavior
 title: Sprinkles on top — live from the DDJ
-summary:
-    
+summary: Data journalism is about more than news apps and visualizations.
 ---
 
 _This is the (expanded) text to a short table setter I did for a roundtable discussion titled *New Formats for Presenting Information and Stories* , here in Amsterdam at_ "EJC's":http://www.ejc.net/ _Data-driven Journalism conference_. Let's start off with "a quote from Adrian Holovaty":http://mashable.com/2009/12/11/programmer-journalists/:

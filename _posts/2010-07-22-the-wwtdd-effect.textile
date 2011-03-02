@@ -9,7 +9,7 @@ tags:
     - context
     - Generation M
 title: The WWTDD effect
-summary: 
+summary: Should we give readers what they want?
 ---
 
 "Should we give readers what they want?":http://www.niemanlab.org/2010/07/what-the-audience-wants-isnt-always-junk-journalism/
