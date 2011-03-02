@@ -4,14 +4,9 @@ rating: bad
 language: en
 categories:
     - information architecture
-tags:
-    - en
-    - polyhierarchy
-    - i18n
 author: Donna Spencer
 title: A Practical Guide to Information Architecture
-summary:
-    
+summary: Donna's book is for beginners, so nobody expects it to be a veritable bible or a reference work, but a little bit more meat wouldn't hurt.    
 ---
 
 "Donna Spencer's book":http://practical-ia.com/ is a weird one.

@@ -57,7 +57,7 @@ A fellow named zap replies to Coelho that "Perhaps you shouldn’t try to use Dj
 
 The fact that Django encroaches a little on CMS territory is one of the things that make it great, but it's easy to get overly excited about the time gains that prefab apps can bring. Be prudent.
 
-Don't use Django like you'd use Drupal, by mixing-and-matching reusable apps. The best Django apps are those that try to stay a bit low-level. Apps like "sorl-thumbnail":http://code.google.com/p/sorl-thumbnail/ , "staticgenerator":http://superjared.com/projects/static-generator/, "typogrify":http://code.google.com/p/typogrify/ and "south":http://south.aeracode.org/.
+Don't use Django like you'd use Drupal, by mixing-and-matching reusable apps. The best Django apps are those that try to stay a bit low-level. Apps like "sorl-thumbnail":http://code.google.com/p/sorl-thumbnail/, "staticgenerator":http://superjared.com/projects/static-generator/, "typogrify":http://code.google.com/p/typogrify/ and "south":http://south.aeracode.org/.
 
 h3. Third talking point: how generic is generic enough
 

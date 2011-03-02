@@ -12,7 +12,7 @@ summary:
     We're all making the web a little more interoperable, one step at a time. And there's more to it than just publishing RDF. There are numerous ways in which we're making the web a better place that having nothing to do with the semantic web. Stop obsessing and learn to appreciate what's there.
 ---
 
-I've been thinking about the semantic web lately, thanks to a little push from "Paul Rissen":http://www.r4isstatic.com/ . Although people have at various times "assumed":http://jonathanstray.com/the-world-cannot-be-represented-in-machine-readable-form that I'm a semweb champion, I'm actually rather ambivalent about the whole thing. It's great. But it's pie-in-the-sky. It'll lead to lovely things. But "maybe not to the sort of applications academics expect":http://www.currybet.net/cbet_blog/2010/09/dconstruct-tom-coates-semantic-web-must-die.php .
+I've been thinking about the semantic web lately, thanks to a little push from "Paul Rissen":http://www.r4isstatic.com/. Although people have at various times "assumed":http://jonathanstray.com/the-world-cannot-be-represented-in-machine-readable-form that I'm a semweb champion, I'm actually rather ambivalent about the whole thing. It's great. But it's pie-in-the-sky. It'll lead to lovely things. But "maybe not to the sort of applications academics expect":http://www.currybet.net/cbet_blog/2010/09/dconstruct-tom-coates-semantic-web-must-die.php.
 
 One thing that fascinates me, is what happens when you look at the semantic web not as an entirely new way of connecting webpages, or the things those webpages represent, but rather as "some things that will make some things a bit easier". A part of the interoperable web. But just a small part.
 
@@ -24,7 +24,7 @@ We have a huge bunch of technologies at our disposal that help make the web inte
 
 * Google is using structured data to power their "Rich snippets":http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 
 * Facebook is encouraging people to annotate their pages with "Open Graph data":http://opengraphprotocol.org/ 
-*  "Common Tag":http://www.commontag.org makes it easy to link your content to stuff on Wikipedia.
+* "Common Tag":http://www.commontag.org makes it easy to link your content to stuff on Wikipedia.
 
 Other interop technologies have nothing to do with the semantic web.
 
@@ -39,4 +39,4 @@ Other interop technologies have nothing to do with the semantic web.
 
 There are protocols in that list, common architectures, shared formats, conventions. And a good dose of it, like the Webhook concept, isn't technical at all, but rather advocacy for a best practice. A whole mish-mash that makes it easier for web developers to leverage other people's work. Ways in which we're making the web a little more interoperable. Not wholesale, but slowly and surely nonetheless.
 
-Interoperability is about making it easier for people to "build cool services that leverage all that's out there on the web":http://rasterweb.net/raster/2010/08/31/lanyrd/comment-page-1/#comment-12777; right now, not whenever we can get every web publisher to output semantic metadata. People use and will continue to use standards because it's just so darned handy. Because most services are only ever going to get the exposure they want if they make it easy for people to interact with their stuff. People won't adopt standards because they hope The Web Will Be One. We have interoperability right now. It's "messy":http://bigfractaltangle.com/archive/2006/01/02~09-22.jsp , not clean. But it works, and it'll work even better next year and the year after that.
+Interoperability is about making it easier for people to "build cool services that leverage all that's out there on the web":http://rasterweb.net/raster/2010/08/31/lanyrd/comment-page-1/#comment-12777; right now, not whenever we can get every web publisher to output semantic metadata. People use and will continue to use standards because it's just so darned handy. Because most services are only ever going to get the exposure they want if they make it easy for people to interact with their stuff. People won't adopt standards because they hope The Web Will Be One. We have interoperability right now. It's "messy":http://bigfractaltangle.com/archive/2006/01/02~09-22.jsp, not clean. But it works, and it'll work even better next year and the year after that.

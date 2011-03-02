@@ -14,21 +14,23 @@ summary:
     If we re-imagine tags as rich connections that relate content to the persons, organizations, locations, events and themes they talk about, hopefully magic will happen.
 ---
 
-*Tagging is a success story.* Ten years ago, who would've thought that any regular Joe could and would be associating metadata with content. Out of their own free will, at that! Collections that would've just stayed a random pile of content in the past, like the bookmarks on "Delicious":http://delicious.com/ or the photos on "Flickr":http://www.flickr.com/ , are now being organized by the magic of folksonomies — a showcase for "the sheer power of the many":http://www.shirky.com/herecomeseverybody/ .
+*Tagging is a success story.* Ten years ago, who would've thought that any regular Joe could and would be associating metadata with content. Out of their own free will, at that! Collections that would've just stayed a random pile of content in the past, like the bookmarks on "Delicious":http://delicious.com/ or the photos on "Flickr":http://www.flickr.com/ , are now being organized by the magic of folksonomies — a showcase for "the sheer power of the many":http://www.shirky.com/herecomeseverybody/.
 
 Tags dovetail nicely with our almost random way of browsing the internet, for instance by being the engine behind great "topical pages for blogs":http://simonwillison.net/tags/w3c/ that provide a gateway to any and all similar content written in the past. It's metadata for the masses.
 
 And so the human species does what we've always done when we see something that we like and that seems to work: we copy it. We've now got labels in GMail and in our customer relationship management software, tags in iPhoto, hashtags in twitter and there is tagging going on just about anywhere else where we want some order in what would otherwise be a big blob of undifferentiated content. And the world is better for it.
 
-But because we've copied, thinking that if it's good enough for Flickr, it ought to work for us too, we've forgotten _what_ makes tags great, _how_ they can add value and _why_ they work when they work. We've forgotten that tags are just one way of bringing order to chaos.h2. Order to chaos
+But because we've copied, thinking that if it's good enough for Flickr, it ought to work for us too, we've forgotten _what_ makes tags great, _how_ they can add value and _why_ they work when they work. We've forgotten that tags are just one way of bringing order to chaos.
 
- *In the news industry, we desperately need to bring order to chaos.* Amy Gahran says that today's "journalists should move away from their exclusive focus on content production":http://www.pbs.org/idealab/2008/07/swimming-lessons-for-journalists005.html ‘toward providing layers of journalistic insight and context’. A piece of news just doesn't generate enough value on its day of birth to be worth the expense. Yet a day after publication, most content disappears in the depths of our websites, only to be found when a reader explicitly searches for it, if even then.
+h2. Order to chaos
+
+*In the news industry, we desperately need to bring order to chaos.* Amy Gahran says that today's "journalists should move away from their exclusive focus on content production":http://www.pbs.org/idealab/2008/07/swimming-lessons-for-journalists005.html ‘toward providing layers of journalistic insight and context’. A piece of news just doesn't generate enough value on its day of birth to be worth the expense. Yet a day after publication, most content disappears in the depths of our websites, only to be found when a reader explicitly searches for it, if even then.
 
 Each story could function as part of a web of knowledge around a certain topic, but it doesn't.
 
-So here's a well-intentioned idea you've heard before: journalists should start tagging. "Jay Rosen":http://twitter.com/jayrosen_nyu insists that “ "Getting disciplined and strategic about tagging":http://journalism.nyu.edu/pubzone/weblogs/pressthink/2010/03/07/what_i_plan_to.html may be one way professional journalism separates itself from the flood of cheap content online.” Tags can show how a news article relates to broader themes and topics. Just the ticket.
+So here's a well-intentioned idea you've heard before: journalists should start tagging. "Jay Rosen":http://twitter.com/jayrosen_nyu insists that "Getting disciplined and strategic about tagging":http://journalism.nyu.edu/pubzone/weblogs/pressthink/2010/03/07/what_i_plan_to.html "may be one way professional journalism separates itself from the flood of cheap content online." Tags can show how a news article relates to broader themes and topics. Just the ticket.
 
-But too often, tags don't live up to their promise. A "techie":http://www.reddit.com/user/john_onion at "The Onion":http://www.theonion.com/ mentions that a while after they started tagging stories at their satirical news website, they had ended up with 20 or so different versions of "Bush Administration", "George Bush", "George W. Bush", "Bush", "bush" and so on, leading him to "conclude that tags are evil":http://www.reddit.com/r/django/comments/bhvhz/the_onion_uses_django_and_why_it_matters_to_us/ :
+But too often, tags don't live up to their promise. A "techie":http://www.reddit.com/user/john_onion at "The Onion":http://www.theonion.com/ mentions that a while after they started tagging stories at their satirical news website, they had ended up with 20 or so different versions of "Bush Administration", "George Bush", "George W. Bush", "Bush", "bush" and so on, leading him to "conclude that tags are evil":http://www.reddit.com/r/django/comments/bhvhz/the_onion_uses_django_and_why_it_matters_to_us/:
 
 bq. The whole purpose of tags is to relate one piece of content to another, and if the relationship surface is spread out in such a way that we have 10 pieces of content tagged "bush administration" and 10 tagged "george bush" and the groups are orthogonal, even though they're obviously related by tag name, the data indicates that they are completely different, and the goal of relating things is dead and someone has to go and look at all 10000 tags and decide which ones are thematically the same and remove the duplicates.
 
@@ -36,14 +38,20 @@ Getting strategic about contextualizing our content and bundling it into meaning
 
 But we _do_ need something new. Tags are not the right way of disclosing the rich interconnections between news articles and not the right way of packing them together. Getting strategic about tagging means abandoning tagging and searching for something better.
 
-Tagging on Flickr and Delicious works because the masses make it work by their aggregated behavior. Tagging on your personal blog works because you only want to bunch content together that is somewhat related and don't really care about fancy-schmancy “relationships” between your content. Your readers don't, either. They just want to read some similar stuff. But it's different for news organizations.h2. We can do better
+Tagging on Flickr and Delicious works because the masses make it work by their aggregated behavior. Tagging on your personal blog works because you only want to bunch content together that is somewhat related and don't really care about fancy-schmancy “relationships” between your content. Your readers don't, either. They just want to read some similar stuff. But it's different for news organizations.
 
-Let's fix this *. What should we demand from a good categorization scheme?* 
+h2. We can do better
+
+Let's fix this. 
+
+*What should we demand from a good categorization scheme?* 
 
 # It should allow us to really _talk_ about our content. One thing that upsets me about tags is that you can't provide any more information above ‘this has something to do with that, but I can't tell you what exactly the relationship is and neither can I tell you what the thing _is_ that it relates to’.
 # It should be easy to tag our content consistently. I hate careless tagging on news websites. If you're not doing it right, don't bother doing it at all. Me and my fellow readers are better off just using a search engine to find what we're looking for.
 
-As an addendum to (2): it should be obvious what we should tag and how we should tag it. Tagging is confusing for me, because half of the time I don't know when something qualifies to be a tag or how I should tag. Is it relevant enough? Do we tag locations or just people and themes? Singular or plural form? _Ehhhh._  *Here are the steps we can take to make things better.We need a scheme that combines some of the lessons we can learn from information architects with the simplicity of tags.* h3. Step 1: vocabularies
+As an addendum to (2): it should be obvious what we should tag and how we should tag it. Tagging is confusing for me, because half of the time I don't know when something qualifies to be a tag or how I should tag. Is it relevant enough? Do we tag locations or just people and themes? Singular or plural form? _Ehhhh._ *Here are the steps we can take to make things better.We need a scheme that combines some of the lessons we can learn from information architects with the simplicity of tags.*
+
+h3. Step 1: vocabularies
 
 There's a very simple step we can take to make it obvious to reporters what kind of things they are supposed to be adding as keywords to their articles. Split up tags by type, each with their own input field. Some people call 'em vocabularies, others call them dictionaries, but you get the picture.
 
@@ -57,7 +65,9 @@ Themes or topics, persons, locations, organizations, events. If we keep these fi
 
 Vocabularies are a basic necessity for even trivial things like automatically compiling an index of all the people that a site has content on. You can't provide an index of people if your website makes cannot discern persons from themes from locations.
 
-We'll handle subject descriptors — themes, topics, or whatever you want to call them — in a follow-up post scheduled for later this week. Themes often tie in with site navigation, which is tricky. Themes also come with their own knotty problems because, unlike persons or events, they're not _thing_ ish, they're bundles. Don't worry, themes and topics will get their own treatment in a day or two. Let's first tackle the other vocabularies.h3. Step 2: abolish tags, state relationships
+We'll handle subject descriptors — themes, topics, or whatever you want to call them — in a follow-up post scheduled for later this week. Themes often tie in with site navigation, which is tricky. Themes also come with their own knotty problems because, unlike persons or events, they're not _thing_ ish, they're bundles. Don't worry, themes and topics will get their own treatment in a day or two. Let's first tackle the other vocabularies.
+
+h3. Step 2: abolish tags, state relationships
 
  "Tags are vague.":http://www.futureofcontext.com/?p=32 They're a very primitive way of spelling out how things relate to each other. A tag on a news article says “this article has something to do with this concept or thing”. But what exactly? A tag doesn't tell you whether an article is a critique of a person, an interview with a person or whether it just mentions that person in passing. A tag doesn't even tell you if the reference to Samuel Adams is about the person or about the "kind of beer":http://en.wikipedia.org/wiki/Samuel_Adams_(beer) (which is why we so desperately need vocabularies). A tag can't tell the difference between an event that merely took place at the local café and an event that the aforementioned pub actually organized.
 
@@ -67,13 +77,20 @@ It's only a little confusing to us humans because we can guess the meaning of th
 
 With just a little more effort, it’s easy to specify real relationships. Let's not reinvent the wheel. We'll use use the "triplets":http://en.wikipedia.org/wiki/Resource_Description_Framework our "semantic web buddies":http://dig.csail.mit.edu/breadcrumbs/blog/4 are so fond of:
 
-bq. <article>critiques<organization><article>contains an interview with<person><article>revolves around<event><article>follows up on<previous article><opinion piece>is a riposte vis-a-vis<other opinion piece>
+bq. <article>critiques<organization>
+<article>contains an interview with<person>
+<article>revolves around<event>
+<article>follows up on<previous article>
+<opinion piece>is a riposte vis-a-vis<other opinion piece>
 
 The semantic web movement focuses on making the web understandable for computers, but this kind of metadata is useful for human readers as well. If I'm just skimming through an article and can't be bothered to read it in its entirety, these relationships provide a pithy summary of what an article is about.
 
 For example, the relationships for Clay Shirky's "The Collapse of Complex Business Models":http://www.shirky.com/weblog/2010/04/the-collapse-of-complex-business-models/ could look something like:
 
-bq. <analysis>is about<business models>(subcategory of<business>)<analysis>is about<society><analysis>contains an example using<AT&amp;T><analysis>criticizes<Rupert Murdoch>
+bq. <analysis>is about<business models>(subcategory of<business>)
+<analysis>is about<society>
+<analysis>contains an example using<AT&T>
+<analysis>criticizes<Rupert Murdoch>
 
 Mkay, _pithy_ might be overstating things a bit, but it's a lot more insightful than what you get using plain tags.
 
@@ -83,13 +100,15 @@ Relationships can also enrich topical pages and assure that they are more than j
 
 !/images/content/2010-04-07-linkdump.png(Tag pages ought to be more than just a plain and boring list of links. Unharvested potential there.)!
 
-*Step 3: entities, not labels* If we look at our vocabularies and ignore the topics/themes vocabulary for now, you'll notice that these divisions actually represent real things. Persons. Organizations. Events. Locations.
+h3. Step 3: entities, not labels
+
+If we look at our vocabularies and ignore the topics/themes vocabulary for now, you'll notice that these divisions actually represent real things. Persons. Organizations. Events. Locations.
 
 Persons have first and last names, a birth date, they work for or are otherwise associated with certain organizations. People live somewhere.
 
 Events happen at a certain place and at a certain time. They begin and they end. They might just be a point in time, or they can be planned happenings organized by a person, a group of persons or an organization. Events can recur weekly or monthly or yearly or randomly. Events can lead to other events.
 
-A location has an address or at least refers to a geographical point or area.|
+A location has an address or at least refers to a geographical point or area.
 
 h4. Persons
 
@@ -136,13 +155,17 @@ h4. Themes
 * can overlap with other themes
 * can be used to situate stories, events, persons and organizations
 
-Here's a cool idea: *let's actually treat persons and events and all these other vocabularies like real things instead of like labels* . Tags are a concept that we've inherited from the physical world: a tag is a label that you attach to something. And as "David Weinberger":http://www.everythingismiscellaneous.com/ notes: in the physical world a label has to be smaller than the thing that it labels. That's why we call it _meta_ data: data about data. But we don't need the arbitrary distinction between a label and the thing it labels on a website. Let's unlock the full potential of our relationships by making them relationships between things.
+Here's a cool idea: *let's actually treat persons and events and all these other vocabularies like real things instead of like labels*. Tags are a concept that we've inherited from the physical world: a tag is a label that you attach to something. And as "David Weinberger":http://www.everythingismiscellaneous.com/ notes: 
+
+bq. in the physical world a label has to be smaller than the thing that it labels. That's why we call it _meta_ data: data about data. But we don't need the arbitrary distinction between a label and the thing it labels on a website. Let's unlock the full potential of our relationships by making them relationships between things.
 
 That way, the tag page for an event can show a map of where it took place. You could automatically place recent events you've covered on a calender. The tag page for a person can contain a biography, a timeline of significant events that this person was involved in and that you've reported about and so much more. And all this information can be gathered without human intervention, based solely on previously entered relationships, which gives you a good bit of automation without sacrifing quality.
 
 Tag pages are fine as far as they go, but we have the ability to transform those rudimentary link dumps into valuable landing pages and content hubs that collect all the content for a person, an organization or an event. Pages that tie together a whole bunch of information on your website. Those topical pages can become a nexus and an alternative way of exploring what your site has to offer.
 
-Lastly, when we're thinking about entities, let's not forget that news articles are a type of entity as well. We should be able to specify relationships to topics, be able to say that an article belongs to a series, and that an articles follows up on (or has another relationship to) a previous story.h3. Step 4: relationship cascades
+Lastly, when we're thinking about entities, let's not forget that news articles are a type of entity as well. We should be able to specify relationships to topics, be able to say that an article belongs to a series, and that an articles follows up on (or has another relationship to) a previous story.
+
+h3. Step 4: relationship cascades
 
 One of our requirements for a tagging system was that it should be easy to be consistent and that it should make sure that we don't forget to make the necessary connections. Relationship-augmented content can help with that. The trick: relationship cascades.
 
@@ -167,7 +190,7 @@ If we're serious about creating a web of relationships on our website, we'd do w
 
 Synonyms can be a help to editors because they don't need to know the preferred term for an organization or location that's already in the system. Editors should be able to enter any common name that describes the thing they're thinking about, period. The system should be able to point a relationship to New York City, regardless of whether an editor just entered "Big Apple", "NYC" or "New York City".
 
-Readers demand the same leniency that synonyms bring: they don't and shouldn't care about the ideosyncracies in how you name things when they're trying to find something. If somebody searches for _Jon Stewart_ , they should be able to find the topical page for our beloved The Daily Show anchor just as easily than they would with the search query _Jonathan Stuart Leibowitz_ .
+Readers demand the same leniency that synonyms bring: they don't and shouldn't care about the ideosyncracies in how you name things when they're trying to find something. If somebody searches for _Jon Stewart_ , they should be able to find the topical page for our beloved The Daily Show anchor just as easily than they would with the search query _Jonathan Stuart Leibowitz_.
 
 Names that can mean more than one thing should point to wikipedia-style disambiguation pages (but, in contrast to wikipedia, these pages should be autogenerated, not manually constructed). And the system should be able to differentiate between Stanley Smith the soccer player, Stanley Smith the tennis player and Stanley Smith the eponymous shoe by Adidas. ( _Should be able to_ , not _must_ . A database of shoes would probably add little value to the vast majority of journalistic endeavors.)
 
@@ -177,7 +200,9 @@ h2. In the really real world
 
 *Now what?* I've presented a way of specifying rich relationships between articles and what these articles talk about. Relationships as I see them address the four important problems that tags have when used in a journalistic context. They provide a rich way of talking about your content. It's metadata that says more than just "this has something to do with that". Because you're specifying relationships to things, it's easier to remember what to link to and how to name those entities. And we can also specify relationships between articles, providing a better way of indicating previous reporting about a subject than the automated guesses we know as "related content" on most news websites.
 
-That's great. But I'm a firm believer in the mantra that ideas are useless — it's the implementation and the nitty-gritty details that count. So we're not done yet. We need to make sure that this way of tagging content (if you can still call it that) really kicks ass. In practice, not just in theory. Here's the battle plan.h3. Step 1: make it easy
+That's great. But I'm a firm believer in the mantra that ideas are useless — it's the implementation and the nitty-gritty details that count. So we're not done yet. We need to make sure that this way of tagging content (if you can still call it that) really kicks ass. In practice, not just in theory. Here's the battle plan.
+
+h3. Step 1: make it easy
 
 The first question that comes up in any entrepreneur's mind when he sees the potential of contextualizing news and also sees the huge existing archives of content that are little more than plain text, is: can't we automate this? After all, many of the relationships that we'd like to add to an article are ready to harvest from the text.
 
@@ -187,7 +212,7 @@ We should to take a very pragmatic approach to these tools. If you've tried them
 
 !/images/content/2010-04-07-tag-suggestions-workflow.png(Autotagging is close to worthless on its own, but not if you use the input of e.g. OpenCalais and Placemaker as suggestions for relationships rather than as the final output.)!
 
-Those tools usually suggest related tags, or entities in our case. But we also have the relationships themselves to think about (a is an overview of x, b is a review of y, c contains an interview with z). To be useful, they have to be consistent too. We can't bundle together all the articles where the mayor of San Antonio is asked for his opinion if one reporter enters that data asthis article interviews the mayor, another asthis article contains a few soundbites from the mayorand yet another one codifies it asthis article quotes the mayor.
+Those tools usually suggest related tags, or entities in our case. But we also have the relationships themselves to think about (a is an overview of x, b is a review of y, c contains an interview with z). To be useful, they have to be consistent too. We can't bundle together all the articles where the mayor of San Antonio is asked for his opinion if one reporter enters that data as @this article interviews the mayor@, another as @this article contains a few soundbites from the mayor@ and yet another one codifies it as @this article quotes the mayor@.
 
 We'd best stick to a few agreed-upon relationships for the majority of the cases. We should provide the means of adding new predicates, but gently guide reporters to a basic set of relationships.
 
@@ -195,7 +220,9 @@ We'd best stick to a few agreed-upon relationships for the majority of the cases
 
 If we really do need the detailed relationships above (e.g. the difference between 'interviews' and 'contains soundbites'), it's not impossible. We'd just need a way of specifying which relationships are roughly equivalent. And the right mechanisms in place to make sure that every once in a while editors comb through relationships and tidy them up a bit.
 
-As with curating plain ol' tags, you'll have to weigh whether the added detail justifies the added work.h3. Step 2: make it maintainable
+As with curating plain ol' tags, you'll have to weigh whether the added detail justifies the added work.
+
+h3. Step 2: make it maintainable
 
 Which brings us to the second crucial issue we need to address if a relationships-based web of content is to be successfully implemented. It has to be maintainable.
 
@@ -207,7 +234,7 @@ A lament that I've often heard from journalists is that it's _hard_ to know what
 
 It's pretty evident that you'll want to add references to persons where it says "add related persons to this article".
 
-Tags are vague as to how the content should relate to the tag, and to the importance that that relationship entails. Relationships aren't. You can enter a relationship from an article to an organization which specifies that an articlediscusses momentous events forbut just as well that an article justmentions in passingormentions as an examplea certain company. The question "is this important enough to tag" doesn't arise. One less thing to worry about.
+Tags are vague as to how the content should relate to the tag, and to the importance that that relationship entails. Relationships aren't. You can enter a relationship from an article to an organization which specifies that an article @discusses momentous events for@ but just as well that an article just @mentions in passing@ or @mentions as an example@ a certain company. The question "is this important enough to tag" doesn't arise. One less thing to worry about.
 
 Real relationships make explicit what tags implicitly suggest. Because relationships are so explicit, they're easy to grasp and easy to enter correctly and comprehensively.
 

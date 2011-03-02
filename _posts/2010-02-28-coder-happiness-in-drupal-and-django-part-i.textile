@@ -26,9 +26,13 @@ bq. configuring and tailoring the platform to the needs of a news site is a huge
 
 The description of the work is accurate. But I disagree with his evaluation. There's nothing creative about configuring a Drupal site at all. It offers very little satisfaction. It requires a lot of experience but hardly any skill.
 
-Take, for example, how you access your database in Drupal. You use the Views module. It's incredibly flexible. It also means that instead of writing a simple line of Django ORM code like[gist id="317065"]and processing that in your view with
+Take, for example, how you access your database in Drupal. You use the Views module. It's incredibly flexible. It also means that instead of writing a simple line of Django ORM code like
 
-[gist id="317066"]
+<script src="https://gist.github.com/317065.js"> </script>
+
+and processing that in your view with
+
+<script src="https://gist.github.com/317066.js"> </script>
 
 you get to fill out a gigantic form that generates your view, after which you'll have to fill out a similarly large form in the Panels module to get that list displayed where you want it to. And if want to customize the html that Views produces (because, being geared towards end-users, Views is both a query builder and an html generator) you'll have to override a bunch of theme files as well.
 

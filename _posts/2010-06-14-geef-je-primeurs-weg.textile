@@ -4,7 +4,6 @@ language: nl
 categories:
     - journalism
     - personal
-tags:
 title: Geef je primeurs weg!
 summary: Journalistiek is waardevol om de informatie die je brengt. Of je die als eerste kan brengen doet er steeds minder toe.
 ---

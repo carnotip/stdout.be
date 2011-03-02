@@ -4,9 +4,6 @@ language: en
 categories:
     - journalism
     - business & management
-tags:
-    - context
-    - RAD
 title: The business plan *is* the plan
 summary:
     When you get a new project underway, start with a plan on how to get to profitability from day one. Anything else is bullshit.

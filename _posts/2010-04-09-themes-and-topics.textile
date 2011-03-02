@@ -11,8 +11,7 @@ tags:
     - software architecture
     - loose coupling
 title: Themes and topics
-summary:
-    
+summary: Tags, taxonomies, polyhierarchy and all that jazz. Crafting good categories for news content ain't easy.    
 ---
 
 Wednesday I suggested that we could solve a lot of problems with tagging if we start thinking in terms of _relationships to real things_ instead of seeing tags als mere labels. With tags as true entities it's easy to figure out what to tag (you tag persons, organizations, locations, events) and how to tag it. Relationships can be a part of the foundation for the kind of "contextualized journalism":http://www.futureofcontext.com/ that we hope to see more of in the future.

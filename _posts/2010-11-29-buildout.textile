@@ -3,13 +3,6 @@ layout: post
 language: en
 categories:
     - coding
-tags:
-    - en
-    - Django
-    - project management
-    - education
-    - research
-    - college
 title: Buildout
 summary:
     Instead of improving their code, the Zope and Plone communities have been improving the tool that manages their code. They've created a monster. It goes by the name of zc.buildout.

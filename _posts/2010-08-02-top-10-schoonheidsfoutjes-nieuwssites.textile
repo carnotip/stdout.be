@@ -8,7 +8,7 @@ canonical: http://maartencorten.wordpress.com/2010/08/01/top-10-‘schoonheidsfo
 title: Top 10 'schoonheidsfoutjes' nieuwssites
 ---
 
-“Waarom een artikel niet in meerdere kolommen wordt gepresenteerd, is mij een raadsel.” Omdat mensen online niet gewoon zijn om horizontaal te scrollen. Kolommen in een papieren medium zijn er louter omdat je met papier nu eenmaal niet anders kan, niet omdat het een makkelijker manier van lezen is. Web usability 101, weetjewel :-)
+"Waarom een artikel niet in meerdere kolommen wordt gepresenteerd, is mij een raadsel." Omdat mensen online niet gewoon zijn om horizontaal te scrollen. Kolommen in een papieren medium zijn er louter omdat je met papier nu eenmaal niet anders kan, niet omdat het een makkelijker manier van lezen is. Web usability 101, weetjewel :-)
 
 Waarom een horizontale scrollbalk een beter overzicht zou geven van een artikel dan een verticale begrijp ik ook niet meteen. Wat lastiger is, bij het inschatten van artikellengte, is dat er vaak onder een artikel nog een hele hoop commentaren of extra info staat, waardoor de scrollbalk niet zo sterk meer correleert met artikellengte. Sommige sites fixen dat door die informatie pas dynamisch in te laden eens je het einde van het artikel hebt bereikt, een beetje zoals je op Facebook eindeloos kan scrollen in je feed.
 

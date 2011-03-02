@@ -7,12 +7,9 @@ categories:
     - tech & society
     - inspirational
 tags:
-    - en
-    - Paul Nus
+    - curation
+    - natural language processing
     - machine learning
-    - leadership
-    - management
-    - ideas
 title: Curation is boring
 summary:
     Our methods of newsgathering have hardly changed in the last century. The web has given every single person with an internet connection the same research tools as reporters. Time to change that around again.

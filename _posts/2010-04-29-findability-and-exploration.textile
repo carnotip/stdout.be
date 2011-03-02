@@ -24,21 +24,21 @@ The majority of people visiting a news website don't care about the front page. 
 
 We need "ambient findability":http://findability.org/ . We need smart ways of guiding people towards the content they'd like to see — with categorization and search playing complementary goals. And we need smart ways to keep readers on our site, especially if they're just following a link from Google or Facebook, by prickling their sense of exploration.
 
-Pete Bell recently opined that "search is the enemy of information architecture":http://facets.endeca.com/2010/01/search-is-the-enemy-of-ia/ . That's too bad, because we're really going to need great search if we're to beat Wikipedia at its own game: providing readers with timely information about topics they care about.
+Pete Bell recently opined that "search is the enemy of information architecture":http://facets.endeca.com/2010/01/search-is-the-enemy-of-ia/. That's too bad, because we're really going to need great search if we're to beat Wikipedia at its own game: providing readers with timely information about topics they care about.
 
 First, we need to understand a bit more about search. What is search?h2. Full-text search is a last resort
 
 Rack your brain for a minute. You're searching for a document in a repository. That repository might be the web, it might be an intranet or it might be content from your local news outlet. You're using the search box we're all familiar with. I now ask you if you're looking for results that contain the words that make up your query. You give me a quizzical look and answer: why, that's the point! But you're wrong.
 
-When somebody enters the queryTony Blair, they're not looking for news articles that contain the wordsTony Blair, they're looking for news articles and assorted other information relating to Tony Blair. Tony Blair, the person, not _Tony Blair_ the string of letters. They'd be happy to see a biography for Blair, for instance. Or an opinion piece written by the former Prime Minister. Or maybe they're just searching for content about Labour from 1997 to 2007 when Blair was the PM.
+When somebody enters the query @Tony Blair@, they're not looking for news articles that contain the words @Tony Blair@, they're looking for news articles and assorted other information relating to Tony Blair. Tony Blair, the person, not _Tony Blair_ the string of letters. They'd be happy to see a biography for Blair, for instance. Or an opinion piece written by the former Prime Minister. Or maybe they're just searching for content about Labour from 1997 to 2007 when Blair was the PM.
 
-Let's make a small but important distinction. There's *relevance* , and there's *occurrence* . When you perform a search, you're looking for relevant content. A strong indicator of relevance is whether or not the words you're searching for occur in the result set, but that doesn't make relevance and occurrence the same thing.
+Let's make a small but important distinction. There's *relevance* , and there's *occurrence*. When you perform a search, you're looking for relevant content. A strong indicator of relevance is whether or not the words you're searching for occur in the result set, but that doesn't make relevance and occurrence the same thing.
 
-A good search engine goes beyond occurrence, by stemming and by being aware of synonyms. The latter means simply that a search forillnessshould also match documents aboutdiseaseunless you specifically tell the search engine you prefer to see only exact matches. Stemming means that a search fordisaster happened beforeshould also match documents that contain a sentence like "Disaster happens every so often, we've seen it before."Happensis not a part of that query, but it's what you were looking for.
+A good search engine goes beyond occurrence, by stemming and by being aware of synonyms. The latter means simply that a search for @illnesss@ hould also match documents about @disease@ unless you specifically tell the search engine you prefer to see only exact matches. Stemming means that a search for @disaster happened before@ should also match documents that contain a sentence like "Disaster happens every so often, we've seen it before." @Happens@ is not a part of that query, but it's what you were looking for.
 
 Google is "amazing":http://www.wired.com/magazine/2010/02/ff_google_algorithm/ at this sort of thing. Most search engines you'll see on news websites aren't. But they should be, because although Google is in a whole 'nother league, stemming and synonym-awareness is a solved problem: text indexers like "Lucene":http://lucene.apache.org/java/docs/ do it very well.
 
-But a good search engine that blazes through enormous quantities of text is not good enough. Remember, oftentimes you're not even searching for text, you're looking for _things_ .
+But a good search engine that blazes through enormous quantities of text is not good enough. Remember, oftentimes you're not even searching for text, you're looking for _things_.
 
 * If somebody searches for @economy@ they're probably looking for stories categorized or tagged under @economy@.
 * If you search for @Birmingham@ on a news website, you'd like to see all the news that has a link to the greater Birmingham area. Considering that this is an area, maybe the best way to present these results would be as a map and not as a list of results. More about that later.
@@ -88,8 +88,8 @@ Primary navigation and secondary navigation should go together like toast and bu
 
 Most improvements we can make with preemptive contextualization are not site-wide, however, but depend on the kind of page that prompted the (type of) question in the first place. We should evaluate and enhance each type of page separately, and think about frequently asked questions we need to suggest the answers to, even before readers have asked these questions. *The homepage* is becoming less important than it used to be, but it still gets a huge amount of traffic that we can't afford to mess with. Here are some common questions on the homepage:
 
-*  _Wow, I'm overwhelmed. What's on offer? Do you have a map?_ — We need some sort of a sitemap that acts as a gateway to our content and is broader than our primary navigation.
-*  _Hmm, do you happen to have any reporting about banking reform? I thought that was all over the news?_ — We need deep links to the topics that are currently on people's mind and that are being talked about.
+* _Wow, I'm overwhelmed. What's on offer? Do you have a map?_ — We need some sort of a sitemap that acts as a gateway to our content and is broader than our primary navigation.
+* _Hmm, do you happen to have any reporting about banking reform? I thought that was all over the news?_ — We need deep links to the topics that are currently on people's mind and that are being talked about.
 
 !/images/content/2010/04-spokane-topical-navigation.png(The Spokesman-Review provides a nice example of navigation that allows people to explore what's on offer in a few different ways: by topic, by timing, by place or by medium. Ryan Pitts reports mixed reactions by readers. I hope they complement rather than replace their approach with more traditional navigation.)!
 
@@ -99,15 +99,15 @@ Most improvements we can make with preemptive contextualization are not site-wid
 * _genre:_ interviews with that person, opinion pieces _by_ or about _that_ person, the positive or negative stories about him or her.
 * _related content:_ the organizations this person belongs to, events in which he or she has played a role
 
- *Story pages* are obviously the most important part of our website. We can answer _a lot_ of questions for our readers here:
+*Story pages* are obviously the most important part of our website. We can answer _a lot_ of questions for our readers here:
 
-* _Eh, I don't understand this!_ — We need links to terms on Wikipedia (e.g. using "Apture":http://www.apture.com/ ) or the ability to look things up in a dictionary (like the one they have over at the "New York Times":http://www.nytimes.com/ )
+* _Eh, I don't understand this!_ — We need links to terms on Wikipedia (e.g. using "Apture":http://www.apture.com/) or the ability to look things up in a dictionary (like the one they have over at the "New York Times":http://www.nytimes.com/)
 * _Interesting piece, can you tell me a bit more about the shady organization that is mentioned in this story?_ — We need quick links to topic pages about related persons, organizations, events and locations.
 * _Mm-mm. I do love these long New Yorker-style features that seem to go on forever. More, please!_ — We need links to content in the same section or of the same genre or mood.
 
-Do mind that if you include related content, make sure it doesn't suck. I've had it up to here with "related content" boxes on news websites that are nothing more than automated searches for related content based on "significant keywords" in the content. It doesn't work. Everybody hates it, it's crap. If you really really must have it, use "Evri":http://www.evri.com/ , which is halfway bearable. But try to do things the right way.
+Do mind that if you include related content, make sure it doesn't suck. I've had it up to here with "related content" boxes on news websites that are nothing more than automated searches for related content based on "significant keywords" in the content. It doesn't work. Everybody hates it, it's crap. If you really really must have it, use "Evri":http://www.evri.com/, which is halfway bearable. But try to do things the right way.
 
-Related content should be referred to either using tags or if you're really hip, using "relationships":/2010/tags-dont-cut-it/ . These lists, while they don't have to be entirely hand-crafted, should have a human touch. Explicitly linking back to previous reporting on a certain topic is still the only reliable way of indicating follow-up pieces and previous reporting.
+Related content should be referred to either using tags or if you're really hip, using "relationships":/2010/tags-dont-cut-it/. These lists, while they don't have to be entirely hand-crafted, should have a human touch. Explicitly linking back to previous reporting on a certain topic is still the only reliable way of indicating follow-up pieces and previous reporting.
 
 And instead of naming it "related content", try these instead: "more in this section", "other opinion pieces from this author", "earlier reporting on this subject".
 
@@ -129,17 +129,19 @@ But nothing's for free. Faceted search needs _facets_: ways of splitting up sear
 
 h2. Humanizing search
 
-Suppose you'd ask Steven Levy, "so, have you written anything about Google lately?" "Well, yes", he'd respond, "I've just written a cool piece about their search algorithm for "Wired":http://www.wired.com/ !" And the natural follow-up would be something like: "So, you're looking for stuff about Google, eh? Have you read "What Would Google Do":http://www.buzzmachine.com/what-would-google-do/ by Jeff Jarvis? That's a good place to get started." See how natural that feels? First and foremost, we want to know about matches to our exact query. But because most of the time we don't really know what we're doing or what to expect when we enter a search, a helping hand that senses what we might have meant and gives additional suggestions is exactly the ticket.
+Suppose you'd ask Steven Levy, "so, have you written anything about Google lately?" "Well, yes", he'd respond, "I've just written a cool piece about their search algorithm for "Wired":http://www.wired.com/!" And the natural follow-up would be something like: "So, you're looking for stuff about Google, eh? Have you read "What Would Google Do":http://www.buzzmachine.com/what-would-google-do/ by Jeff Jarvis? That's a good place to get started." See how natural that feels? First and foremost, we want to know about matches to our exact query. But because most of the time we don't really know what we're doing or what to expect when we enter a search, a helping hand that senses what we might have meant and gives additional suggestions is exactly the ticket.
 
 If somebody would ask me, "I think you've written something about structured content and serendipity, isn't that so?", my answer would be "Ah, no, you're quite mistaken. You must've read my article _We're in the information business_ and clicked on the link to Adrian Holovaty's _A fundamental way newspaper sites need to change_ . Here ya go, "let me link you up":http://www.holovaty.com/writing/fundamental-change/."
 
-Online search should work similarly to asking a question to a flesh-and-blood reporter. I don't mean to exalt answering engines like "AskJeeves":http://www.ask.com/ or "WolframAlpha":http://www.wolframalpha.com/ . I mean that search should incorporate some basic elements of what it's like to ask a human for a question, and for another human to give an answer:
+Online search should work similarly to asking a question to a flesh-and-blood reporter. I don't mean to exalt answering engines like "AskJeeves":http://www.ask.com/ or "WolframAlpha":http://www.wolframalpha.com/. I mean that search should incorporate some basic elements of what it's like to ask a human for a question, and for another human to give an answer:
 
-*  *Flexible scoping.* If you insist on an exact answer, you're going to get one (or none, if we don't know the answer), but otherwise we'll try our best to give an answer to a variation that we _can_ answer.
-*  *Broad scoping.* It's not because you ask me a question, that _I_ have to provide the answer off the top of my head or that the answer must be something I've personally said or written. If I know of a book, a magazine or an article that's a good match for your query, I'll point that out. Getting the answer is what counts, wherever we find it.
-*  *Knowledge of intent and context.* We get what we're getting at. We try to grasp the intent behind a question and return results that might be helpful even if they're not a direct answer to your question. We go beyond the precise question and, thank God, beyond the precise terms used in formulating that question.
+* *Flexible scoping.* If you insist on an exact answer, you're going to get one (or none, if we don't know the answer), but otherwise we'll try our best to give an answer to a variation that we _can_ answer.
+* *Broad scoping.* It's not because you ask me a question, that _I_ have to provide the answer off the top of my head or that the answer must be something I've personally said or written. If I know of a book, a magazine or an article that's a good match for your query, I'll point that out. Getting the answer is what counts, wherever we find it.
+* *Knowledge of intent and context.* We get what we're getting at. We try to grasp the intent behind a question and return results that might be helpful even if they're not a direct answer to your question. We go beyond the precise question and, thank God, beyond the precise terms used in formulating that question.
 
-Applying these abstract principles to online search might seem to require voodoo or sci-fi-style artificial intelligence, but actually, it doesn't. There are a few feasible ways in which we can humanize our search engines.h3. Best bets
+Applying these abstract principles to online search might seem to require voodoo or sci-fi-style artificial intelligence, but actually, it doesn't. There are a few feasible ways in which we can humanize our search engines.
+
+h3. Best bets
 
 Maybe we can't preempt search entirely, but then we can at least cut it short and provide quick answers to common answers so readers don't have to scan the dreary lists of content returned by our search engine. They still can, if they're not happy with our preformulated answer or Editor's Choice, but most of the time our preselection will be all a user needs.
 
@@ -153,7 +155,7 @@ h3. Broad framing
 
 Topic pages about persons, organizations, locations and events are great ways to answer general inquiries by readers. After all, if you have these kinds of pages, you probably spend hours and hours to get them just right and to keep them up to date, hoping that your readers will get something out of them.
 
-A lot of search behavior stems from an attempt at _learning_ . So another way of cutting search short is by trying to ascertain what a query is about and then, in addition to the full-text search, providing quick links to relevant topic pages. Words likefinancial meltdownas part of a query are a pretty good predictor that we're looking for information about economics, finance and the "global financial crisis":http://en.wikipedia.org/wiki/Financial_crisis_of_2007–2010 . Chances are these pages will be way more valuable to me than a bunch of links to articles that contain the exact wordsfinancial meltdown.
+A lot of search behavior stems from an attempt at _learning_ . So another way of cutting search short is by trying to ascertain what a query is about and then, in addition to the full-text search, providing quick links to relevant topic pages. Words like @financial meltdown@ as part of a query are a pretty good predictor that we're looking for information about economics, finance and the "global financial crisis":http://en.wikipedia.org/wiki/Financial_crisis_of_2007–2010. Chances are these pages will be way more valuable to me than a bunch of links to articles that contain the exact words @financial meltdown@.
 
 Even if plain-Jane full-text search was all a reader came in for, the invitation to learn more about broader topics might be too enticing to pass up. Isn't that exactly the Wikipedia-style exploratory browsing (or "wilfing":http://www.facebook.com/group.php?gid=2360687588) we're "so jealous of?":http://www.newsless.org/2009/12/googles-living-stories-first-thoughts/
 
@@ -185,7 +187,7 @@ h3. Wisdom of the crowd
  
 !/images/content/2010-04-29-flickr-suggestions.png!
 
-If you'd search "Peter Morville's photostream":http://www.flickr.com/photos/morville/ formicrosoftyou won't find any results, but Flickr knows from the search behavior of its users that a query formicrosoftis often tweaked towindows, and when those users click through to photos in that second result set, Flickr knows that this second attempt was probably a success: they've found what they needed. This works very similarly to how human beings search for things:
+If you'd search "Peter Morville's photostream":http://www.flickr.com/photos/morville/ for @microsoft@ you won't find any results, but Flickr knows from the search behavior of its users that a query for @microsoft@ is often tweaked to @windows@, and when those users click through to photos in that second result set, Flickr knows that this second attempt was probably a success: they've found what they needed. This works very similarly to how human beings search for things:
 
 bq. Steven: I can't seem to find a good shop to buy these "Adidas Millenium Falcon":http://pid.adidas.com/catalogue/au/product/G17360/STAN-SMITH-80s---MILLENIUM-FALCON shoes. I've scoured three stores already with no luck.
 Jon: Yeah, but those shoe shops along Columbus Avenue are a bad bet for sneakers. Have you asked Ted? He went looking for those same ones last week, and I think he found some.
@@ -231,7 +233,9 @@ Searching a bigger part of the web than just your own website requires storage a
 
 Humanizing search means a search engine should be able to give answers to the question "what's happening?" rather than just narrowly answering "what is on this site?". That said, it will take a lot of experimentation to find the right balance.h3. Side note: beware
 
-On a side note: beware of some of the newer tools in the reporter's toolbox. Apps like "Scribd":http://www.scribd.com/ and "CoverItLive":http://www.coveritlive.com/ store documents and text on their own servers, which makes them inaccessible to your own search engine, unless you go to the additional effort of integrating with their APIs. That is, if they actually _have_ an API you can integrate with. Keep your archives intact and complete. Think about search before deciding to use any of these services. The goal is to index _more_ content than you currently do, not less!h2. Searching is learning
+On a side note: beware of some of the newer tools in the reporter's toolbox. Apps like "Scribd":http://www.scribd.com/ and "CoverItLive":http://www.coveritlive.com/ store documents and text on their own servers, which makes them inaccessible to your own search engine, unless you go to the additional effort of integrating with their APIs. That is, if they actually _have_ an API you can integrate with. Keep your archives intact and complete. Think about search before deciding to use any of these services. The goal is to index _more_ content than you currently do, not less!
+
+h2. Searching is learning
 
 Search doesn't have to be awful, but it's never going to be exactly fun to skim through tens of hundreds of supposedly "relevant" results to our query, hoping to find the ones we're looking for. We can make things better by allowing readers to quickly narrow down their search using rich facets. We can support those readers who happen to be in an exploratory mood by adding smart secondary navigation by genre, topic, location and medium. We can answer questions readers might have about a certain piece of content before they even ask them, preempting search.
 

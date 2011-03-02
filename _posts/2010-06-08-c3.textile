@@ -5,14 +5,8 @@ categories:
     - journalism
     - personal
 tags:
-    - en
-    - NPR
-    - blogging
-    - onderzoeksjournalistiek
     - SourceMedia Group
     - innovation
-    - Tim McDougall
-    - Becky Lutgen Gardner
 title: C3
 summary:
     

@@ -55,7 +55,7 @@ h3. Image handling
 
 I decided to use the standard Image functionality instead of imagecache/CCK for two reasons. One: I adopted the attitude not to use a custom module when something very similar is available in core, because of concerns about upgradability. Less modules means less to worry about. Two: images as nodes easily allow commenting, ratings et cetera. Because our images are nodes, the aforementioned handling of authors applies to images too.
 
-(The frontpage contains a lot of photos. The beautiful "information.dk"http://www.information.dk website inspired us in this regard.)
+(The frontpage contains a lot of photos. The beautiful "information.dk":http://www.information.dk website inspired us in this regard.)
 
 h3. Comment display
 

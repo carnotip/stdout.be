@@ -20,30 +20,38 @@ Navigation is a funny thing. How does your average newspaper carve its content a
 
 Without knowing it, at this point we've constructed a navigation based on seven different criteria:
 
-#  *genre* : news, features, interviews, reviews, opinion pieces, satire, analysis, editorials
-#  *theme* : sport, culture, science, education, entertainment, politics, society
+#  *genre*: news, features, interviews, reviews, opinion pieces, satire, analysis, editorials
+#  *theme*: sport, culture, science, education, entertainment, politics, society
 #  *subject* (like a theme, but more narrow): environment, technology, higher education, media
-#  *timing* : breaking news, retrospectives, obituaries, history
-#  *location* : local, regional, national, international
-#  *medium* : written articles, audio, video, photography, infographics, interactive and multimedia journalism
-#  *mood* : news hot off the press, long and broad features, faits divers, thought-provoking reports, specials
+#  *timing*: breaking news, retrospectives, obituaries, history
+#  *location*: local, regional, national, international
+#  *medium*: written articles, audio, video, photography, infographics, interactive and multimedia journalism
+#  *mood*: news hot off the press, long and broad features, faits divers, thought-provoking reports, specials
 
 If we focus on websites, we can add in two more:
 
 #  *function, utility or presentation* : news, community calendar, in your neighborhood, search, classifieds (and stuff like "login" and "contact us" that is functional too, but has little to do with the news)
 #  *reader interaction* : most actively shared, most e-mailed, most viewed, most commented on (although this is not entirely exclusive to the web: magazines sometimes have similar "in the news" sections)
 
-But surely, my haphazardly cobbled-together scenario (hypothetical, to boot!) a few paragraphs upwards isn't realistic? That's not how you'd really split up a physical newspaper into sections! It's not how you'd furnish the navigation of an online newspaper! It isn't how these things actually look, is it?h3. A sampling
+But surely, my haphazardly cobbled-together scenario (hypothetical, to boot!) a few paragraphs upwards isn't realistic? That's not how you'd really split up a physical newspaper into sections! It's not how you'd furnish the navigation of an online newspaper! It isn't how these things actually look, is it?
 
-Bear with me for a moment, or scroll past these examples if they bore you.h4. Le Monde
+h3. A sampling
 
-!/images/content/2010-04-14-lemonde-nav.jpg(Le Monde — ah, my old college professors always tried to lure us poor students into reading this one, although none of us ever did. It's in French, nobody willingly reads French.)!
+Bear with me for a moment, or scroll past these examples if they bore you.
+
+h4. Le Monde
+
+!/images/content/2010-04-14-lemonde-nav.jpg!
+
+"Le Monde":http://www.lemonde.fr/ — ah, my old college professors always tried to lure us poor students into reading this one, although none of us ever did. (It's in French, nobody willingly reads French.)
 
 Sections include the latest in international news, the environment, economics, news from France and analyses. Translated into criteria, I can spot timing, location, subject, theme and genre. They don't really feel like sections, because they serve more as a soft introduction to what you can find on the page at hand, rather than as a way of dividing the paper into different parts. They also serve to indicate regular features.
 
 h4. The Observer
 
-!/images/content/2010-04-14-observer-magazine-nav.jpg(This is the international edition of The Observer for April 11th. The Observer is a sunday broadsheet from the UK. Lovely typography.)!
+!/images/content/2010-04-14-observer-magazine-nav.jpg!
+
+This is the international edition of The Observer for April 11th. The Observer is a sunday broadsheet from the UK. Lovely typography.
 
 When I opened up the paper, The Observer Magazine fell out. Pushing content into different publications is of course the most visually obvious way one can split up content, achieving its intent by sheer physical separation. Magazines coupled to newspapers often contain longer features with less news value and often with more of a lifestyle kind of vibe to them — so newspaper magazines are often separated by _mood_ from their host newspaper. And, if you allow me a bit of irreverence: they also uniquely harbor the genre of disguised marketing.
 
@@ -75,7 +83,9 @@ h4. New Scientist
 
 Probably the best science mag for laymen. New Scientist divides its content by a combination of genre (news, opinion), mood (news versus features) and function (regulars).
 
-Finally, on to the websites, then.h4. guardian.co.uk
+Finally, on to the websites, then.
+
+h4. guardian.co.uk
 
 !/images/content/2010-04-14-guardian-nav.png!
 
@@ -89,13 +99,15 @@ The "HuffPo":http://www.huffingtonpost.com/ combines broad themes like politics,
 
 Considering that the Huffington Post does quite a bit of "A/B-testing":http://www.niemanlab.org/2009/10/how-the-huffington-post-uses-real-time-testing-to-write-better-headlines/, it wouldn't surprise me if they've tested different incarnations of this navigation and checked how users reacted to them, resulting in a messy but perhaps effective amalgam. We shouldn't prejudge these things.
 
-h3. chronicle.augusta.com
+h4. chronicle.augusta.com
 
 !/images/content/2010-04-14-augusta-chronicle-nav.png!
 
 This newspaper is probably foreign to most readers, but "The Augusta Chronicle":http://chronicle.augusta.com/ is a nice and clean website for a local newspaper. Sports and business are thematic categories, but “Things to do” is as functional as it comes, and opinion is a genre.
 
-These kind of menu structures makes me uncomfortable. On the one hand it seems like there's no structure there at all, on the other hand these are exactly the kind of high-value destinations that are useful to me as a reader. If I'm a regular reader of the Chronicle, I'll use the menu more like a bunch of shortcuts, not as the dividers in a catalog. It's called _navigation_ for a reason.h4. nytimes.com
+These kind of menu structures makes me uncomfortable. On the one hand it seems like there's no structure there at all, on the other hand these are exactly the kind of high-value destinations that are useful to me as a reader. If I'm a regular reader of the Chronicle, I'll use the menu more like a bunch of shortcuts, not as the dividers in a catalog. It's called _navigation_ for a reason.
+
+h4. nytimes.com
 
 !/images/content/2010-04-14-nytimes-nav.png!
 
@@ -121,9 +133,9 @@ h3. Navigation is volatile
 
 Pulling off a good mixed-criteria navigation is tough. When designing a website, it's also scary: once you've chosen a certain way of organizing content, you're stuck with it. We didn't use to have that problem. Sections in print require less forethought, because you can change them around every edition if you really must. Site sections, on the other hand, come with their own channel pages, their own archives and they serve as facets in our search engines. You're stuck with them.
 
-Changing your primary navigation thus means adjusting the category of every single story ever written to suit the new scheme. Want to split up your existingculturesection intoperforming artsandbook club?Economicsintomoney,businessandfinance? Good luck.
+Changing your primary navigation thus means adjusting the category of every single story ever written to suit the new scheme. Want to split up your existing @culture@ section into @performing arts@ and @book club@?@Economics@ into @money@, @business@ and @finance@? Good luck.
 
-Many newspapers have an environment section nowadays, but that's a relatively new thing — the environment didn't used to command our attention as much as it does at present. So most of these papers have their old stories about theenvironmentcatalogued under other headings likescience. And that's how these stories are still catalogued. Relabeling the entire science catalogue, or wherever these stories about the environment were filed, would take an inordinate amount of time. As time goes by and websites amass content, these inconsistencies will only get larger.
+Many newspapers have an environment section nowadays, but that's a relatively new thing — the environment didn't used to command our attention as much as it does at present. So most of these papers have their old stories about the @environment@ catalogued under other headings like @science@. And that's how these stories are still catalogued. Relabeling the entire science catalogue, or wherever these stories about the environment were filed, would take an inordinate amount of time. As time goes by and websites amass content, these inconsistencies will only get larger.
 
 We become stuck with our legacy. We shouldn't be.
 
@@ -135,11 +147,11 @@ Once we've decided how we want our primary navigation to look like, we need a do
 
 Here are a couple of examples that show how varied primary navigation can be, and how the rules behind them could look like:
 
-*  *the music section*: everything withmusicas a theme
-*  *latest and greatest*: all recent content in the genrereviews, with a score above 75% and ten responses by readers, unless the review is less than a day old, in which case we'll show it regardless of the amount of comments
-*  *“All eyes on the 2010 elections”*: all video and photographs related to the event2010 elections(either themselves or through the stories where these videos and pictures are included)
-*  *modern living* : everything taggedenvironmentandlifestyle
-*  *Child abuse in the Catholic church (special)* : every story related to the organizationCatcholic churchthat haschild abuseas a theme
+* *the music section*: everything with @music@ as a theme
+* *latest and greatest*: all recent content in the genre @reviews@, with a score above 75% and ten responses by readers, unless the review is less than a day old, in which case we'll show it regardless of the amount of comments
+* *“All eyes on the 2010 elections”*: all video and photographs related to the event @2010 elections@ (either themselves or through the stories where these videos and pictures are included)
+* *modern living* : everything tagged @environment@ and @lifestyle@
+* *Child abuse in the Catholic church (special)* : every story related to the organization @Catcholic church@ that has @child abuse@ as a theme
 
 Some of these sections, like the last one about child abuse in the Catholic church, are fleeting. They may need to become part of the primary navigation (or be otherwise put in the spotlight) at the moment they're hot topics, and silently disappear or be repurposed as topical pages when the dust settles down. If we want to be on top of the news, we need to be able to assemble this kind of ad-hoc navigation quickly and effortlessly, not by asking an editor to skim through the entire archive, hand-picking stories that might be relevant for these special dossiers.
 

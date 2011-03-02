@@ -6,7 +6,7 @@ categories:
 title: Generic views suck
 context: This is the companion text to a lightning talk I gave just a few hours ago at "DjangoCon Europe":http://www.djangocon.eu/ in Berlin. Slides can be found on "Slideshare":http://www.slideshare.net/stdbrouw/why-generic-views-and-flatpages-suck.
 summary:
-    
+    Two Django warts: generic views and the flatpages app. Don't use 'em.
 ---
 
 There's a lot to like about Django. It's Python. It has a large, fun community. It's elegant. It simplifies web development, but *Django never simplifies things to the point where it would kick you in the back later on* : not _too_ much magic, no cumbersome integration with a javascript framework (hello Rails!) and a lot of documentation.

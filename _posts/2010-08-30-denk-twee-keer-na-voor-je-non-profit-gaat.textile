@@ -12,7 +12,9 @@ summary: Een non-profit mag geen excuus zijn om moeilijke discussies over hoe je
     
 ---
 
-Wie me al wat langer volgt weet dat ik nogal een "dubbel":/2010/dont-reward-broccoli-journalism/ "gevoel":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ heb tegenover non-profits in de journalistieke wereld. Ze zijn waarschijnlijk wel nodig. Maar 't voelt tegelijk een beetje aan als opgeven: _wij_  _zijn "een onontbeerlijk publieke goed":http://www.mediakritiek.be/blog/2010/05/journalistiek_is_een_publiek_goed_en_staatssteun_is_onvermijdelijk.html _  _, maar we hebben totaal geen commercieel inzicht, dus laat ons maar aanmodderen en geef ons daar geld voor!_  "37signals":http://37signals.com/svn/ zegt over de startupcultuur in de VS:
+Wie me al wat langer volgt weet dat ik nogal een "dubbel":/2010/dont-reward-broccoli-journalism/ "gevoel":http://www.apache.be/2010/03/overheidssteun-en-broccoli-journalistiek/ heb tegenover non-profits in de journalistieke wereld. Ze zijn waarschijnlijk wel nodig. Maar 't voelt tegelijk een beetje aan als opgeven: wij zijn "een onontbeerlijk publiek goed":http://www.mediakritiek.be/blog/2010/05/journalistiek_is_een_publiek_goed_en_staatssteun_is_onvermijdelijk.html, maar we hebben totaal geen commercieel inzicht, dus laat ons maar aanmodderen en geef ons daar geld voor!
+
+"37signals":http://37signals.com/svn/ zegt over de startupcultuur in de VS:
 
 bq. It's a place where expenses are somebody else's problem. It's a place where that pesky thing called revenue is never an issue. It's a place where you can spend other people's money until you figure out a way to make your own. It's a place where the laws of business physics don't apply. (Jason Fried&David Heinemeier Hansson - Rework, p. 56)
 
@@ -22,7 +24,7 @@ Vraag de gemiddelde journalist om een nieuw journalistiek project te starten, en
 
 bq. I fear a good many journalistic entrepreneurs are doomed to fail because they are not objectively confronting the steep odds they face – or putting nearly enough thought and effort into giving themselves a fighting chance to succeed. [...] Instead of trying to build a business, they are trying to give themselves the job they always wanted.
 
-Je moet vanaf dag één denken aan hoe je geld wil verdienen, omdat dat ook je eindproduct en je strategie zal beïnvloeden. Het "project":/2010/the-business-plan-is-the-plan/  * "IS":/2010/the-business-plan-is-the-plan/ *  "het businessplan":/2010/the-business-plan-is-the-plan/ .
+Je moet vanaf dag één denken aan hoe je geld wil verdienen, omdat dat ook je eindproduct en je strategie zal beïnvloeden. Het "project":/2010/the-business-plan-is-the-plan/ "IS":/2010/the-business-plan-is-the-plan/  "het businessplan":/2010/the-business-plan-is-the-plan/.
 
 Al vanaf de eerste brainstormsessies over je project moet er een wisselwerking bestaan tussen "wat willen we" en "wat rendeert er".
 
@@ -37,7 +39,7 @@ De noodzaak om geld te verdienen is het beste middeltje om je geest te focussen 
 
 bq. Really, not accepting funding has been huge for us. Would you pay out of your own pocket for Feature X? No? Shelve it. If I'm not going to love a feature, I'm not going to spend my time (and therefor money) implementing it. Money is quite powerful, and so is its absence.
 
-Seth Godin zegt aan mensen die een zaak willen opstarten dat ze "niet tegen windmolens moeten vechten":http://sethgodin.typepad.com/seths_blog/2010/05/don-quijote-didnt-ship.html :
+Seth Godin zegt aan mensen die een zaak willen opstarten dat ze "niet tegen windmolens moeten vechten":http://sethgodin.typepad.com/seths_blog/2010/05/don-quijote-didnt-ship.html:
 
 bq. My best advice: win little battles. Get in the habit of winning, of shipping, of having customers that can't live without you. Once you've demonstrated you know how to do the art, then go after the windmills.
 

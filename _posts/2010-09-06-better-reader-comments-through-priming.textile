@@ -3,12 +3,6 @@ layout: post
 language: en
 categories:
     - journalism
-tags:
-    - en
-    - blogging
-    - Roularta
-    - Knack
-    - Karl van den Broeck
 title: Better reader comments through priming
 summary:
     

@@ -44,9 +44,9 @@ bq. DocumentCloud is an index of primary source documents and a tool for annotat
 
 But source documents are only part of the demand.
 
-bq. By starting with each source, quote, factual statement, picture, graphic, audio clip or video clip as an isolated element, or “tweet”, properly tagged with automatic tagging engines, those elements can be packaged or searched directly, allowing the most transparent view of local information. ( "Chuck Peters":http://chuckpeters.iowa.com/2008/12/information-in-the-first-instance/ )
+bq. By starting with each source, quote, factual statement, picture, graphic, audio clip or video clip as an isolated element, or “tweet”, properly tagged with automatic tagging engines, those elements can be packaged or searched directly, allowing the most transparent view of local information. ("Chuck Peters":http://chuckpeters.iowa.com/2008/12/information-in-the-first-instance/)
 
- "Jeff Jarvis":http://www.buzzmachine.com/2008/12/02/a-complete-ecology-of-news/ , at the end of '08:
+ "Jeff Jarvis":http://www.buzzmachine.com/2008/12/02/a-complete-ecology-of-news/, at the end of '08:
 
 bq. Think about news as its constituent components, not in the bizarro news world we live in, think about news in the actual world. The components are: sources, facts, ideas, opinions, readers.
 

@@ -6,9 +6,12 @@ categories:
     - information architecture
 title: Sprinkles on top — live from the DDJ
 summary: Data journalism is about more than news apps and visualizations.
+location: Amsterdam
+context: 
+    This is the (expanded) text to a short table setter I did for a roundtable discussion titled *New Formats for Presenting Information and Stories*, here in Amsterdam at EJC's _Data-driven Journalism conference_. 
 ---
 
-_This is the (expanded) text to a short table setter I did for a roundtable discussion titled *New Formats for Presenting Information and Stories* , here in Amsterdam at_ "EJC's":http://www.ejc.net/ _Data-driven Journalism conference_. Let's start off with "a quote from Adrian Holovaty":http://mashable.com/2009/12/11/programmer-journalists/:
+Let's start off with "a quote from Adrian Holovaty":http://mashable.com/2009/12/11/programmer-journalists/:
 
 bq. I’ve only met a handful of people who became journalists because they like information. And I think that helps explain why there have been some major cultural issues in the journalism world in the age of the Internet
 
@@ -22,7 +25,7 @@ At this point, you're probably wondering: why bother? Solid question. Allow me t
 
 The news industry is facing any number of challenges. There are three, in particular, that I think are important.
 
-#  "We're stuck in the perpetual now":http://www.r4isstatic.com/?p=90. Each day we churn out new stories, and it's getting really hard for people to keep on top of that information flow, and to really learn something about the larger issues that are at hand.
+# "We're stuck in the perpetual now":http://www.r4isstatic.com/?p=90. Each day we churn out new stories, and it's getting really hard for people to keep on top of that information flow, and to really learn something about the larger issues that are at hand.
 # We're slowly realizing that there's more to journalism that storytelling. It's about informing communities, in whichever way we can.
 # We're not making the amount of money we used to. Advertising revenues aren't what they used to. Maybe we're trying to sell our readers a product they no longer want, "as Robert Pickard insists":http://themediabusiness.blogspot.com/2010/04/search-for-alternative-media-business.html. And news has become a commodity. It's difficult to profit from commodities.
 

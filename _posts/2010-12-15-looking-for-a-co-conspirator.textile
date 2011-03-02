@@ -4,11 +4,6 @@ language: en
 categories:
     - information architecture
     - coding
-tags:
-    - en
-    - loose coupling
-    - Amy Gahran
-    - The Gazette
 title: Looking for a co-conspirator
 summary:
     

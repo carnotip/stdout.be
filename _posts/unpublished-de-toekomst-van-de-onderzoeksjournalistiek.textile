@@ -13,7 +13,7 @@ context: Dit is de vertaling van een stukje van mijnentwege dat eerder deze week
 summary: Onderzoeksjournalistiek vandaag de dag is iets anders dan Woodward en Bernstein, maar dat betekent niet dat ze verdwenen is.    
 ---
 
-__ Er zijn twee soorten nieuwe media die je de laatste jaren ziet ontstaan. Er zijn de onderzoeksjournalisten zoals "ProPublica":http://www.propublica.org/ en het "Center for Investigative Reporting":http://www.centerforinvestigativereporting.org/ in de VS, of "Apache":http://www.apache.be/ bij ons. En dan zijn er websites zoals "EveryBlock":http://www.everyblock.com/ of "lawrence.com":http://www.lawrence.com/ die zich proberen binden aan het weefsel van een gemeenschap. En weinig daartussen. Vreemd.
+Er zijn twee soorten nieuwe media die je de laatste jaren ziet ontstaan. Er zijn de onderzoeksjournalisten zoals "ProPublica":http://www.propublica.org/ en het "Center for Investigative Reporting":http://www.centerforinvestigativereporting.org/ in de VS, of "Apache":http://www.apache.be/ bij ons. En dan zijn er websites zoals "EveryBlock":http://www.everyblock.com/ of "lawrence.com":http://www.lawrence.com/ die zich proberen binden aan het weefsel van een gemeenschap. En weinig daartussen. Vreemd.
 
 Nu ook niet dat er "Rain Man-gewijs":http://en.wikipedia.org/wiki/Rain_Man een ijzersterk patroon te ontwaren valt, maar toch. Je zou verwachten dat net communitysites het belang inzien van onderzoek. 't Is immers onderzoeksjournalistiek die gemeenschappen moet beschermen van boemannen en malfaisanten. (En als je dat al een opgeblazen missieverklaring vindt, dan moet je maar eens de gemiddelde onderzoeksjournalist over zijn werk horen. Dat terzijde.)
 

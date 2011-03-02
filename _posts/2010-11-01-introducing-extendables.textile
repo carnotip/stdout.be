@@ -3,11 +3,6 @@ layout: post
 language: en
 categories:
     - coding
-tags:
-    - en
-    - community
-    - zope
-    - plone
 title: Introducing Extendables
 summary:
     Introducing Extendables, a framework for coding in Adobe ExtendScript.

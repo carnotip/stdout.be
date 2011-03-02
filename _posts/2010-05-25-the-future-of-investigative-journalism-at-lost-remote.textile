@@ -1,0 +1,19 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+    - tech & society
+tags:
+    - en
+    - context
+    - blogging
+    - conference
+    - lightning talk
+title: The future of investigative journalism
+summary: I've just written a guest post for Lost Remote
+---
+
+Investigative reporting is one of the core parts of what it means to be a journalist. It's why so many reporters think about themselves as providing a public good. But investigative journalism is growing to mean more than just narrative pieces: it's about news apps, public databases, libraries full of otherwise hard-to-find government documents and it's about Politifact-esque truthmeters.
+
+I've just written "a post for Lost Remote":http://www.lostremote.com/2010/05/25/guest-post-the-future-of-investigative-journalism/ arguing — well, observing might be a better word — that investigative reporting is slowly but surely becoming an _ethos_ rather than an actual journalistic genre. Feel free to head over there and share your thoughts. Thanks!

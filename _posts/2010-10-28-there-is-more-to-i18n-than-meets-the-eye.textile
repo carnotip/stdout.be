@@ -11,8 +11,7 @@ tags:
     - adobe
     - coding
 title: There's more to i18n than meets the eye
-summary:
-    
+summary: i18n is about more than just enabling a module or plugin in Drupal or Sharepoint. Think it through.
 ---
 
 I'm in Bristol this week, attending "Plone Conf 2010":http://www.ploneconf2010.org/ . Not quite convinced that the Plone CMS can compete with "the Wordpress/Django double whammy":http://birdhouse.org/blog/2009/11/11/drupal-or-django/ , but I'm picking up some useful nuggets nonetheless.
@@ -24,7 +23,9 @@ Most CMSes follow one of two strategies:
 # different languages imply different audiences, so i18n support is achieved simply by creating subsites with their own information architecture.
 # people may speak different languages, but they're here for the same thing, so i18n is achieved by having one version of each content item for each language.
 
-But there are all kinds of options and considerations in between those extremes.h3. How much to translate?
+But there are all kinds of options and considerations in between those extremes.
+
+h3. How much to translate?
 
 Some content only requires a couple of fields to be translated into multiple languages. For a short user bio, you don't want translations of the user's name, e-mail address or phone number. Just translating the short biographical stub itself is what matters. Well, it's the only thing you _can_ translate, really.
 
@@ -52,6 +53,6 @@ Because keeping translations up to date is hard. If there's a base language and 
 
 And not just that. For sensitive or important messages that have a newer version in another language, users need to be made aware that they might be looking at outdated content, and be given the choice to read what is guaranteed to be the latest version, provided they understand the language that latest version was formulated in.
 
-And, heck, now I've just touched on translation, but in addition you also need a solid way to do localization of the interface ( "http://www.transifex.net/":http://www.transifex.net/ might help there). A way to deal with either internationalized URIs or "transliteration":http://en.wikipedia.org/wiki/Transliteration of those URIs into ASCII-compatible ones. "Handle user accounts":http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/ . Know how to route feedback or inquiries from visitors to people within your organization that speak the language of the visitor. Language detection and redirection that's not annoying. And so on and so on.
+And, heck, now I've just touched on translation, but in addition you also need a solid way to do localization of the interface ("http://www.transifex.net/":http://www.transifex.net/ might help there). A way to deal with either internationalized URIs or "transliteration":http://en.wikipedia.org/wiki/Transliteration of those URIs into ASCII-compatible ones. "Handle user accounts":http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/. Know how to route feedback or inquiries from visitors to people within your organization that speak the language of the visitor. Language detection and redirection that's not annoying. And so on and so on.
 
 Being aware of the pitfalls and of all the choices you'll have to make in putting together a multilingual site is half the battle. Internationalization doesn't have to be hard, but it sure as hell is more than enabling a module in a CMS and calling it a day. Think on it a bit.

@@ -1,20 +1,28 @@
 ---
-layout: post
-language: en
+layout: guestpost
 categories:
     - journalism
     - tech & society
-tags:
-    - en
-    - context
-    - blogging
-    - conference
-    - lightning talk
 title: The future of investigative journalism
-summary:
-    
+canonical: http://www.lostremote.com/2010/05/25/guest-post-the-future-of-investigative-journalism/
 ---
 
-Investigative reporting is one of the core parts of what it means to be a journalist. It's why so many reporters think about themselves as providing a public good. But investigative journalism is growing to mean more than just narrative pieces: it's about news apps, public databases, libraries full of otherwise hard-to-find government documents and it's about Politifact-esque truthmeters.
+There are two kinds of new media startups that are popping up here and there. You’ve got the investigators like "ProPublica":http://www.propublica.org/ or the "Center for Investigative Reporting":http://www.centerforinvestigativereporting.org/ who try their very best to unearth corruption, scandal and other wrongdoing. And you’ve got the community guys, doing stuff like "EveryBlock":http://www.everyblock.com/ or "lawrence.com":http://www.lawrence.com/, and their primary goal is to really strengthen communities.
 
-I've just written "a post for Lost Remote":http://www.lostremote.com/2010/05/25/guest-post-the-future-of-investigative-journalism/ arguing — well, observing might be a better word — that investigative reporting is slowly but surely becoming an _ethos_ rather than an actual journalistic genre. Feel free to head over there and share your thoughts. Thanks!
+Most news ventures seem to go all-out on either investigative journalism or on community support. Which got me thinking: how is it that digital news outlets striving for a real "community connection":http://stevebuttry.wordpress.com/2009/04/27/a-blueprint-for-the-complete-community-connection/ talk so little about the investigative journalism that is supposed to safeguard these very communities from ill-meaning people of power?
+
+I think "Generation M":http://blogs.hbr.org/haque/2009/07/today_in_capitalism_20_1.html has something to do with it, because that’s the generation that is investing most heavily in these hyperlocal and community-driven sites.
+
+I’m Generation M. I love the new community-driven approach to journalism. I want "authenticity and humanity":http://www.reportr.net/2008/11/21/three-social-media-principles-for-journalists/. I want others to trust me, and I want to be able to trust others. I want to take my responsibility as a citizen, and I want to "interact":http://open311.org/ with a government that is not only transparent but that’s also "open":http://delicious.com/stdbrouw/gov2.0.
+
+Generation M has a dream about the future, and in that dream every aspect of what makes a city tick will be visible and available for study by anyone, anywhere. Data about air quality. The latest government reports and minutes. "Complaints by fellow citizens.":http://www.fixmystreet.com/ And, thanks to journalists, we will have the tools to make sense of that big pile of information without having to be a statistician or computer wizard.
+
+It’s a world where you hardly ever have to investigate anything because everything is so close to sunlight, yet where "investigation by reporters and citizens":http://www.knightdigitalmediacenter.org/leadership_blog/20100518_robert_niles_the_news_publisher_as_community_organizer/ alike is ubiquitous. People in power will always find ways to elude attention and to serve themselves even in the most transparent of societies. But we’ll make it damn hard for them to do so.
+
+An investigative reporter earns money with misery. I want to make money by making things better. And a smattering of investigate reporting here and there just does not accomplish a better society. Newspapers just don’t have that kind of impact anymore, and investigations get lost among a torrent of inconsequential news. Or people get angry, but find no meaningful way in which to channel that anger for good.
+
+One sharp knife no longer fits the bill. We need a whole set of kitchen tools if we’re to create a society that’s about _us, the citizens_. We need "apps that map crime":http://outsideindc.com/stumblesafely. "We need public databases.":http://www.texastribune.org/library/data/ We need "truthmeters":http://www.politifact.com/. We need places where people can bundle complaints about their neighborhood. These are exactly the kinds of things that local outfits _do_ provide, to  and sometimes  traditional investigative pieces. It’s time to redefine investigative journalism to account for this changing environment where ambient information and community support "substitute for":http://www.cjr.org/the_news_frontier/robot_journalism_and_the_futur.php?page=2 the watchful, but easily tired, eye of the lone reporter.
+
+Investigative reporters are often called watchdogs. That’s not really accurate, if you think about it. We still live in societies where most of the time, transgressions only come to light after the fact. We should set our aims higher. The 21st century gives us the technological means to do so, and the spirit of a new generation to make it happen.
+
+If the news startups of today are any indication, the line between informational, conversational and investigative journalism will become ever blurrier. In ten years or so, investigative journalism will no longer be a genre of writing. It’ll be an ethos. It’ll be nowhere, but it’ll be everywhere.

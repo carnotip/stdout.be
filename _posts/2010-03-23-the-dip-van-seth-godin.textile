@@ -21,7 +21,9 @@ summary:
 
 Je zou het niet denken, maar ik ben eigenlijk een liefhebber van allerlei "inspirational":http://www.e-myth.com/ "writing":http://www.fourhourworkweek.com/: zelfhulpboeken die niet gênant genoeg zijn om zelfhulpboeken te noemen. Vaak geven zo'n boeken een aantal algemene adviezen die je dan naar naar eigen smaak kan interpreteren. De waarde zit hem vaak meer in het feit dat je even stilstaat bij je leven, je zaak of je werk, dan in het boek zelf. Want dat had je evengoed zelf kunnen schrijven. Maar dat geeft niet.
 
-Dit weekend het kleine boekje 'The Dip' van "Seth Godin":http://sethgodin.typepad.com/ uitgelezen en eigenlijk een beetje teleurgesteld. 'The Dip' gaat over die momenten in je leven dat je beter met iets zou stoppen maar de moed niet hebt om het op te geven, en die andere momenten dat je beter zou volhouden maar het je ontbreekt aan motivatie. Er zijn weinig dingen die een mens ongelukkiger maken dan het gevoel dat je vastzit in een hopeloze situatie en geen uitweg ziet, dus Godin schrijft alleszins over een belangrijk onderwerp. Maar de adviezen die je meekrijgt zijn nogal dubieus.h3. Goed zijn in alles is niks waard
+Dit weekend het kleine boekje 'The Dip' van "Seth Godin":http://sethgodin.typepad.com/ uitgelezen en eigenlijk een beetje teleurgesteld. 'The Dip' gaat over die momenten in je leven dat je beter met iets zou stoppen maar de moed niet hebt om het op te geven, en die andere momenten dat je beter zou volhouden maar het je ontbreekt aan motivatie. Er zijn weinig dingen die een mens ongelukkiger maken dan het gevoel dat je vastzit in een hopeloze situatie en geen uitweg ziet, dus Godin schrijft alleszins over een belangrijk onderwerp. Maar de adviezen die je meekrijgt zijn nogal dubieus.
+
+h3. Goed zijn in alles is niks waard
 
 Volgens Godin moet je specialiseren tot je niet verder kan specialiseren.
 
@@ -43,7 +45,9 @@ Maar het kan héél zinnig zijn, om, als je een oplossing zoekt voor een moeilij
 
 h3. Je kan niet concurreren met grote bedrijven
 
-Het is nogal wiedes dat je niet de volgende Microsoft Word moet proberen maken. Maar in bepaalde industrieën — zoals bij softwaremakers — kan je met een héél klein budget heel veel bereiken, terwijl de _incumbents_ lijden onder een remmende voorsprong. Om zo'n bedrijven weg te concurreren moet je natuurlijk geen frontale aanval inzetten, want die verlies je. Je mag natuurlijk ook niet proberen concurreren zoals Adam Smith concurrentie zag: door exact hetzelfde product te leveren aan een lagere prijs. Maar wie kan innoveren hoeft geen schrik te hebben om zich in dezelfde markt te positioneren als een grote speler. "37signals":http://37signals.com/ lanceerde haar project- en klantenbeheer in een overgesatureerde markt met bovendien een aantal grote spelers (denk Microsoft met "MS Project":http://office.microsoft.com/project , denk "Salesforce":http://www.salesforce.com/) en dat heeft hen alleszins geen windeieren gelegd.h3. Mensen denken niet na over de lange termijn
+Het is nogal wiedes dat je niet de volgende Microsoft Word moet proberen maken. Maar in bepaalde industrieën — zoals bij softwaremakers — kan je met een héél klein budget heel veel bereiken, terwijl de _incumbents_ lijden onder een remmende voorsprong. Om zo'n bedrijven weg te concurreren moet je natuurlijk geen frontale aanval inzetten, want die verlies je. Je mag natuurlijk ook niet proberen concurreren zoals Adam Smith concurrentie zag: door exact hetzelfde product te leveren aan een lagere prijs. Maar wie kan innoveren hoeft geen schrik te hebben om zich in dezelfde markt te positioneren als een grote speler. "37signals":http://37signals.com/ lanceerde haar project- en klantenbeheer in een overgesatureerde markt met bovendien een aantal grote spelers (denk Microsoft met "MS Project":http://office.microsoft.com/project , denk "Salesforce":http://www.salesforce.com/) en dat heeft hen alleszins geen windeieren gelegd.
+
+h3. Mensen denken niet na over de lange termijn
 
 Volgens Godin geven mensen te snel op. Mensen denken volgens Godin niet na over de voordelen die hen op lange termijn toekomen als ze van een project een success kunnen maken.
 
