@@ -5,7 +5,7 @@ from flask import Flask, render_template, request
 from flaskext.sqlalchemy import SQLAlchemy
 import data
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///../comments.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///../../comments.db'
 db = SQLAlchemy(app)
 
 class Comment(db.Model):
@@ -28,6 +28,12 @@ class Comment(db.Model):
         self.content = content
         self.website = website
         self.date = date
+
+    @property
+    def content_html(self):
+        parts = self.content.split("\n\n")
+        parts = ["<p>" + part + "</p>" for part in parts]
+        return "\n\n".join(parts)
         
     def gravatar_url(self, size=80):
         url = "http://www.gravatar.com/avatar/" + hashlib.md5(self.email).hexdigest() + "?"
@@ -45,16 +51,21 @@ def posts():
 @app.route("/comments/", methods=['GET'])
 def comments():
     permalink = request.args.get('permalink')
-    old_permalink = data.get_old_url(permalink)
-    matches = Comment.query.filter(Comment.post.in_([old_permalink, permalink])).all()
+    matches = Comment.query.filter_by(post=permalink).all()
     return render_template('comments.html', comments=matches)
 
 @app.route("/comments/", methods=['POST'])
 def post_comment():
-    permalink = request.args.get('permalink')
-    comment = Comment('/2010/05/05/something/', 'Stijn D.', 'stijn-at-stdout.be', 'Hello world.')
-    db.session.add(comment)
-    db.session.commit()
+    data = {
+        "post": request.args.get('permalink'),
+        "author": request.args.get('author'),
+        "email": request.args.get('email'), 
+        "content": request.args.get('content'), 
+        "website": request.args.get('website'), 
+        }
+    #comment = Comment(**data)
+    #db.session.add(comment)
+    #db.session.commit()
     return 'OK'
 
 if __name__ == "__main__":
