@@ -21,11 +21,11 @@ bq. One attribute that I think may be important is the capacity to keep the deta
 
 And *Django makes it easy to be a great programmer, because it gives you this very simple project structure.*  
 
-!/images/2010-05-25-structure.png! 
+!/images/content/2010-05-25-structure.png! 
 
 The Django docs explain that generic views make a few simple, monotonous tasks more painless. You shouldn't need any boilerplate code in your views to create what are indeed _generic_ list and detail pages — there's nothing really happening in the view anyway except fetching a few objects and pushing them to a template. True enough: in any application and website I've built thus far, I've encountered a few list/detail combos. Lists of users and their individual profiles. A photo gallery with an overview but also a page for each photo. And so on.
 
-!/images/2010-05-25-structure-too-much.png!
+!/images/content/2010-05-25-structure-too-much.png!
 
 However, the trouble with generic views is that, in order to save on a bit of boilerplate, they completely mess up the Django's simple mental model. *Code suddenly lives in a whole different place not just depending on which purpose it serves, but  also depending on how simple or complex it is.* That's certainly a... quaint way of organizing code. The code for mixing stuff together can now live in both @urls.py@ _or_ @views.py@. Flatpages is just as annoying, and for entirely the same reason: stuff gets routed around using @urls.py@, or, _oh, yeah_ , with this dodgy @FlatpageFallbackMiddleware@ that magically transforms a 404 into something else entirely. "Messing up other middleware in the process.":http://code.djangoproject.com/ticket/5022
 

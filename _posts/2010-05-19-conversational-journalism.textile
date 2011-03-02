@@ -31,7 +31,7 @@ h3. We'll make sense of the world for you, you poor sod
 
 Newspapers and news magazines too often act as if they're on a perch, safely above the rest of society. They cling, desparately, to the broadcast model: we don't talk to our readers, we tell our readers "what's interesting so they won't have to rack their poor little brains":/2010/dont-reward-broccoli-journalism/ trying to make sense of the world by themselves. Crowdsourcing? We have our own rolodex, thank you. Linking to other news on the web? What we do ourselves, we do better. Engage in discussion with readers? Our readers are stupid, just look at the sheer amount of ghastly anonymous commentary on virtually any news website out there.
 
-!/images/2010-05-19-wrong-approach.png(How most news execs perceive journalism. © Lauren Rabaino)!
+!/images/content/2010-05-19-wrong-approach.png(How most news execs perceive journalism. © Lauren Rabaino)!
 
 That hubris will come back to bite them. It's already happening.
 
@@ -55,7 +55,7 @@ bq. there’s a problem with categorizing journalists into any form of hierarchy
 
 Journalism "becomes a conversation":http://www.ireporter.org/2006/02/conversational_.html.
 
-!/images/2010-05-19-better-approach.png(Journalism as it works today, at least for those who get it. © Lauren Rabaino)!
+!/images/content/2010-05-19-better-approach.png(Journalism as it works today, at least for those who get it. © Lauren Rabaino)!
 
 As Matt Thompson "says":http://www.newsless.org/2009/03/there-is-only-us/: “The responsibility for gathering information and evaluating it has spread throughout the citizenry.”
 

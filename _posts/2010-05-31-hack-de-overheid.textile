@@ -13,7 +13,7 @@ summary: Een sfeerverslag van Hack de Overheid in Amsterdam.
 
 Twee dagen geleden vond in Amsterdam "Hack de Overheid!":http://www.hackdeoverheid.nl/ ten einde, een "barcamp":http://en.wikipedia.org/wiki/BarCamp waar iedereen zijn zeg kon doen over de toekomst van open data en open government, in Nederland en daarbuiten. Het moet nog wat bezinken, maar: wat een dagje! Gekeken naar een inspirerende presentatie van "Richard Pope":http://rewiredstate.org/ en een andere van "Henk van Ess":http://twitter.com/henkvaness, gepraat met mensen van het "Nederlandse Ministerie van Binnenlandse Zaken":http://www.bzk.nl/ en met journalisten, en geluisterd naar projectvoorstellen van coders.
 
-!/images/2010-05-31-hack-de-overheid.jpg(De trouwzaal in Het Sieraad — de main conference room; © Ton Zijlstra)!
+!/images/content/2010-05-31-hack-de-overheid.jpg(De trouwzaal in Het Sieraad — de main conference room; © Ton Zijlstra)!
 
 h3. Open data
 
@@ -41,7 +41,7 @@ h3. Geen gezeik
 
 Studenten, mensen van de rijksoverheid, iemand van het ICTU, mensen van privébedrijven die regelmatig samenwerken met de overheid zoals Siemens, onderzoekers... een heel boeltje. En ze luisterden naar elkaar, zonder hiërarchische bullshit. En met verbazend veel enthousiasme bij de ambtenaren, die zonder probleem hun zaterdag opofferden voor Hack De Overheid.
 
-!/images/2010-05-31-hack-de-overheid-2.jpg(© Ton Zijlstra)!
+!/images/content/2010-05-31-hack-de-overheid-2.jpg(© Ton Zijlstra)!
 
 Na een paar inleidende presentaties kreeg iedereen post-its in z'n hand geduwd, met de mededeling: " *schrijf hier eens op waar jij over wil praten* , wat jou interesseert". De regel wat immers: als je niet meedoet, dan hoor je hier niet thuis. Geen passieve toekijkers. En uiteindelijk hebben we twee grote borden volgekleefd met een ad-hoc agenda op basis van al onze talking points.
 
