@@ -11,7 +11,7 @@ tags:
     - cms
 title: The Semantic Web, again
 summary:
-    
+    Dan Conover's thoughts on the future of journalism, and the role structured and relational data will play in that future, are chock-full of good stuff. But sometimes a dash of pragmatism and realism wouldn't hurt.
 ---
 
 Dan Conover's been pretty prolific lately in updating his early thoughts about "journalism and metadata":http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html in two big blogposts ("one":http://xark.typepad.com/my_weblog/2010/12/the-semantic-economy.html, "two":http://xark.typepad.com/my_weblog/2011/01/standards-based-journalism-in-a-semantic-economy.html).
