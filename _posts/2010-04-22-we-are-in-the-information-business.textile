@@ -34,7 +34,9 @@ There's a lot of excitement about infographics nowadays, and I "love those":http
 
 But we're forgetting the most important point at issue: what should a news website look like in 2010 and beyond? The fundamentals of website design and information architecture somehow lack appeal as a topic for debate among journos. To make things worse, it's difficult or impossible to talk management into a strategic rethink of all your web assets. So even though we know damn well that we need to think on a deeper level about how online news should work, we push those nagging doubts to the back of our brains, and commission another cool infographic that will surely make the rounds on Twitter, or a news app that'll be used all over the web as an example of the bright future of journalism.
 
-Let's not kid ourselves. A new way of doing journalism requires new technology to support and foster that innovation. That technology should reach right into the core of our journalistic endeavors, not just touch the periphery like yet another infographic or mashup.h2. Why would we want structure?
+Let's not kid ourselves. A new way of doing journalism requires new technology to support and foster that innovation. That technology should reach right into the core of our journalistic endeavors, not just touch the periphery like yet another infographic or mashup.
+
+h2. Why would we want structure?
 
 According to "Adrian Holovaty":http://www.holovaty.com/, newspapers should be in the information business, and think further than the written word. Structured information is what will fuel innovation in journalism. I couldn't agree more.
 
@@ -52,7 +54,9 @@ Don't even think about providing a _track my errors_ feature like Slate ('This h
 
 If you codify the questions of an interview simply as bolded text, you'll only ever be able to display them as bolded text, regardless of what your designers would wish for.
 
-Structured content also leads to effortless repurposing. Displaying content in a way that's tailored to each specific platform — mobile, e-reader, mail, print, web — is just a matter of taking the structure that's there, and designing the experience any way you want. When I worked at "the local student newspaper":http://schamper.ugent.be during my college days, "getting content into InDesign":http://drupal.org/node/229368 to layout our biweekly newsmag was a simple matter of just importing a little XML file, straight from our website. That's how easy repurposing can be if you make the effort to decouple information from presentation.h2. How did we end up here?
+Structured content also leads to effortless repurposing. Displaying content in a way that's tailored to each specific platform — mobile, e-reader, mail, print, web — is just a matter of taking the structure that's there, and designing the experience any way you want. When I worked at "the local student newspaper":http://schamper.ugent.be during my college days, "getting content into InDesign":http://drupal.org/node/229368 to layout our biweekly newsmag was a simple matter of just importing a little XML file, straight from our website. That's how easy repurposing can be if you make the effort to decouple information from presentation.
+
+h2. How did we end up here?
 
 Something we who grew up with the web tend to forget, is that newspapers have been thinking about how to structure their digital newsrooms and their content since the dawn of affordable personal computers. Most so-called enterprise solutions for newsrooms are still desktop applications that "may allow quick publishing to the web":http://www.woodwing.com/en/enterprise-publishing-system/web-publishing, but aren't _of the web_.
 
@@ -87,7 +91,9 @@ bq. The goal of any CMS should be to gather enough information to present the co
 
 But it's not just about being display-agnostic, it's about being agnostic about use as well. The first day a story is published, the narrative will undoubtedly be the most important aspect of the coverage, but later on a story can get a second life in a database, become part of a mashup or be displayed as an entry on a topic page. And for those purposes, we don't care about narrative, we crave information.
 
-How to get started, though? Daniel's advice to "gather enough information" is rather vague as a guideline. Here's what you do: model the problem domain.h3. Model the problem domain
+How to get started, though? Daniel's advice to "gather enough information" is rather vague as a guideline. Here's what you do: model the problem domain.
+
+h3. Model the problem domain
 
 Software engineers solve problems in numerous different industries and for organizations from all parts of society. Each of those niches has its own way of talking about things and faces its own problems. Software architects learned early on that writing software isn't just about writing algorithms and routines, it's about grasping the problems somebody is facing, and helping them solve those problems. Unraveling those problems can only be done by thinking about what engineers call the "problem domain":http://en.wikipedia.org/wiki/Problem_domain, and by abstracting that domain into a "domain model":http://en.wikipedia.org/wiki/Domain_model. Let's borrow that terminology.
 
@@ -125,7 +131,7 @@ Here's a quick checklist to make sure you've really got the domain model down, a
 * Each story consists of a narrative and a bunch of assets or "resources":http://blog.programmableweb.com/2009/10/21/content-modularity-more-than-just-data-normalization/: photographs, infoboxes, rating cards. What are yours? These are entities too.
 * Do your entities have any plain text properties that are actually more than just plain text? Specifying a license on a photograph by adding it to the caption isn't wise; the photo should refer to a license entity instead.
 
-Another example. I've seen quite a few print publications that catalogue their stories online under an issue number. But is a story part of the _issue number_ ? Not really, it's part of an issue. And an issue is more than just a number: it has a date of publication, a cover image, a chief editor, it might revolve around a special theme, it has a circulation, it has one or more cover stories. Don't think too soon that something is just a number or merely a line of text.
+Another example. I've seen quite a few print publications that catalogue their stories online under an issue number. But is a story part of the _issue number_? Not really, it's part of an issue. And an issue is more than just a number: it has a date of publication, a cover image, a chief editor, it might revolve around a special theme, it has a circulation, it has one or more cover stories. Don't think too soon that something is just a number or merely a line of text.
 
 Similarly, an illustration or photograph might look like just another part of a text, but it's more than that: in addition to the source file (the image itself), every photograph has an author, a copyright holder and perhaps a license, might contain one or more persons and was taken at a location. You can probably think of a few additional ones yourself.
 
@@ -161,7 +167,7 @@ Jonathan Stray recently "expressed the worry":http://jonathanstray.com/the-world
 
 Try to really get a feel for the complexity of the endeavor. Realize that relationships aren't necessarily objective or neutral:
 
-bq. Is Taiwan a country? Is a tomato a vegetable? Where's the line between terrorist and freedom fighter? Do we really care about the subtle distinctions between Syrah, Merlot and Pinot Noir? Aren't they all just red wines? It depends who you ask. Very few domains are exempt from this complexity ( "Peter Morville":http://semanticstudios.com/about/ , Ambient Findability, p. 134)
+bq. Is Taiwan a country? Is a tomato a vegetable? Where's the line between terrorist and freedom fighter? Do we really care about the subtle distinctions between Syrah, Merlot and Pinot Noir? Aren't they all just red wines? It depends who you ask. Very few domains are exempt from this complexity ("Peter Morville":http://semanticstudios.com/about/, Ambient Findability, p. 134)
 
 Entities can present a challenge as well. Take authorship. Most content management systems get this entirely wrong. Most of them don't support multiple authors. They don't differentiate between authors and editors. They don't handle guest authors and if you need pseudonyms to accompany a piece of satire, you're out of luck. Indicating who wrote what looks trivial but it isn't.
 
@@ -187,7 +193,7 @@ Put more generally:
 
 bq. The proposal of Django is "organize your thoughts conceptually, and I will present them" - as opposed to "put your documents in my system and I will display them" (which seems to me what the CMS approach is). ("Rob Nelson":http://www.holovaty.com/writing/fundamental-change/#comments)
 
-Frameworks seem particularly suited to the challenges the news industry is facing right now. We need experimentation now more than ever, we need the freedom to build a website that matches our vision, we need to do things that have never been done before. That's not "what Wordpress was made for":http://groups.google.com/group/wp-hackers/browse_thread/thread/c56f50dd781617a7# .
+Frameworks seem particularly suited to the challenges the news industry is facing right now. We need experimentation now more than ever, we need the freedom to build a website that matches our vision, we need to do things that have never been done before. That's not "what Wordpress was made for":http://groups.google.com/group/wp-hackers/browse_thread/thread/c56f50dd781617a7#.
 
 If you're not using a framework or don't want to, don't let that stop you from structuring your content, though. Wordpress and similar blogging platforms can get you some of the way using custom fields. Drupal additionally makes it fairly doable to specify relationships between your content. It might not be exactly what you want, but a little structure can go a long way.
 

@@ -5,7 +5,7 @@ type: comment
 
 <h2>Comment from elsewhere</h2>
 
-<p class="source"><strong>source: </strong> <a href="{{ page.canonical }}">{{ page.canonical }}</a></p>
+<p class="source"><strong>source: </strong> <a href="{{ page.canonical }}">{{ page.canonical | truncate 60 }}</a></p>
 
 <p class="context">{{ page.context }}</p>
 

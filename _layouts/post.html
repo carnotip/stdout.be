@@ -19,7 +19,11 @@ realm: blog
             </p>
             <h1>{{ page.title }}</h1>
             {% if page.summary %}
-            <p><strong>Summary</strong> {{ page.summary }}</p>
+                {% if page.language == 'nl' %}
+                <p><strong>Kort</strong> {{ page.summary }}</p>
+                {% else %}
+                <p><strong>Summary</strong> {{ page.summary }}</p>
+                {% endif %}
             {% endif %}
         </div>
         {% if page.next %}
@@ -35,10 +39,10 @@ realm: blog
         {% if page.type == 'post' and page.canonical %}
             {% if page.language == 'nl' %}
             <p class="notice">Dit is een gastbijdrage.
-        Ik schreef ze oorspronkelijk voor <a href="{{ page.canonical }}">{{ page.canonical }}</a></p>            
+        Ik schreef ze oorspronkelijk voor <a href="{{ page.canonical }}">{{ page.canonical | truncate 40 }}</a></p>            
             {% else %}
             <p class="notice">This is a crosspost.
-        It originally appeared at <a href="{{ page.canonical }}">{{ page.canonical }}</a></p>
+        It originally appeared at <a href="{{ page.canonical }}">{{ page.canonical | truncate 40 }}</a></p>
             {% endif %}
         {% endif %}
     </div>

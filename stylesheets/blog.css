@@ -19,6 +19,10 @@ summary, summary.inset {
     color: #999999;
     margin-right: 10px; }
 
+article#post div.quote, article#post div.quote p {
+  font-size: 1.15em;
+  font-style: italic; }
+
 article#post p.source {
   font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
   font-size: 12pt;

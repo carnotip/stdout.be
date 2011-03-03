@@ -14,7 +14,7 @@ summary:
     
 ---
 
-Dan Conover's been pretty prolific lately in updating his early thoughts about "journalism and metadata":http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html in two big blogposts ( "one":http://xark.typepad.com/my_weblog/2010/12/the-semantic-economy.html , "two":http://xark.typepad.com/my_weblog/2011/01/standards-based-journalism-in-a-semantic-economy.html ).
+Dan Conover's been pretty prolific lately in updating his early thoughts about "journalism and metadata":http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html in two big blogposts ("one":http://xark.typepad.com/my_weblog/2010/12/the-semantic-economy.html, "two":http://xark.typepad.com/my_weblog/2011/01/standards-based-journalism-in-a-semantic-economy.html).
 
 Lots of inspiring material in there.
 
@@ -32,7 +32,7 @@ A collection of sentences or or single bits of information, stripped from their 
 
 And does Dan truly believe that "if we give people user-friendly tools that provide authoritative access to facts, then over time we will isolate the less credible voices in society to rhetorical ghettos of their own construction." That's not how people work. That's not how language works. That's not how facts work.
 
-What can we do, then, if we want to move beyond big blobs of text and if we want to get more value out of journalists' hard labor; what to do if we want to provide readers something truly _of the web_ ?
+What can we do, then, if we want to move beyond big blobs of text and if we want to get more value out of journalists' hard labor; what to do if we want to provide readers something truly _of the web_?
 
 Well, there's actually a lot that could be done: more emphasis on structured news formats, tailored to video, reviews, blogposts, profiles, recipes and all those other types of content we're currently all still treating as a generic story, even though they're not. A clear separation between content and presentation. Rock-solid metadata (like taxonomies) at the story-level — not dissecting every little particle in every story you've ever written.
 

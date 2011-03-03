@@ -14,7 +14,7 @@ summary:
     CoffeeScript is a great language, but more than that, it's an invitation to think and dream about our ideal developer experience. And then to make that dream into a reality.
 ---
 
-Yesterday, "Jeremy Ashkenas":http://ashkenas.com/ gave all of us a little Christmas present and "released CoffeeScript 1.0":http://news.ycombinator.com/item?id=2037801 , precisely one year after its first release, 0.1.
+Yesterday, "Jeremy Ashkenas":http://ashkenas.com/ gave all of us a little Christmas present and "released CoffeeScript 1.0":http://news.ycombinator.com/item?id=2037801, precisely one year after its first release, 0.1.
 
 CoffeeScript is a language inspired on Python and Ruby, which compiles into Javascript. Yes, Javascript.
 

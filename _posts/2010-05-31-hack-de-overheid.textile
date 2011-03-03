@@ -17,7 +17,7 @@ Twee dagen geleden vond in Amsterdam "Hack de Overheid!":http://www.hackdeoverhe
 
 h3. Open data
 
- _Het is essentieel dat de samenleving eigenaarschap heeft van haar overheid_ , zo lees je in het eindrapport van de Vlaamse Commissie Efficiënte en Effectieve overheid. Alleen: hier in Vlaanderen verstoppen ze dat ergens in een rapport, daar in Nederland zijn ze d'r echt mee bezig.
+_Het is essentieel dat de samenleving eigenaarschap heeft van haar overheid_ , zo lees je in het eindrapport van de Vlaamse Commissie Efficiënte en Effectieve overheid. Alleen: hier in Vlaanderen verstoppen ze dat ergens in een rapport, daar in Nederland zijn ze d'r echt mee bezig.
 
 Gespreksonderwerp bij uitstek was *data, data, data*. Om nog even terug te grijpen naar ons eigen Vlaanderen voor ik verder vertel over HDO: wij lezen in een beleidsnota overheidscommunicatie van 2 december 2009:
 

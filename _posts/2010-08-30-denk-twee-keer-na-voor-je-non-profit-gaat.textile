@@ -33,7 +33,7 @@ Al vanaf de eerste brainstormsessies over je project moet er een wisselwerking b
 * Kunnen we hetzelfde resultaat op een heel andere manier bereiken die kostenefficiënt is?
 * Voeren we een idee uit omdat we het _leuk_ vinden, of "omdat het iets opbrengt":http://www.yelvington.com/content/praise-quick-and-dirty-when-pursuit-excellence-enemy-success ?
 
-!/images/content/2010-08-30/plannen.png!
+!/images/content/2010-08-30-plannen.png!
 
 De noodzaak om geld te verdienen is het beste middeltje om je geest te focussen op wat belangrijk is en er toe doet. "Zoals ze bij GitHub weten":http://37signals.blogs.com/products/2008/07/how-github-used.html:
 

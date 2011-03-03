@@ -14,9 +14,9 @@ summary: Introducing django-revisions, a versioning app for Django that doesn't 
 
 Get 'em while they're hot: 0.3 releases for both "django-revisions":https://github.com/stdbrouw/django-revisions and "django-locking":https://github.com/stdbrouw/django-locking. I've been wanting to clean up django-revisions for ages, but the fact that we'll be using it for "Camayak":http://www.camayak.com/ gave me the push to do so.
 
-I've always found it a bit surprising that there's no good way to do content revisions in Django, especially considering that so many newsrooms use it. Sure, there's apps. Outdated apps, like django-modelhistory, django-history, django-history-tables and django-versioning are inactive. Others depend on wacky schemes like storing all your content in a Git repository. Since when is Git a database?
+I've always found it a bit surprising that there's no good way to do content revisions in Django, especially considering that so many newsrooms use it. Sure, there's apps. Outdated apps, like @django-modelhistory@, @django-history@, @django-history-tables@ and @django-versioning@ are inactive. Others depend on wacky schemes like storing all your content in a Git repository. Since when is Git a database?
 
-The existing app that comes closest is "django-reversion":https://github.com/etianen/django-reversion. But it has a fatal flaw. django-reversion stores old revisions as serialized data, rendering old revisions almost impossible to query. Serialized data also makes for "nasty model schema migrations":http://jeffcroft.com/links/2008/oct/11/django-reversion/.
+The existing app that comes closest is "django-reversion":https://github.com/etianen/django-reversion. But it has a fatal flaw. @django-reversion@ stores old revisions as serialized data, rendering old revisions almost impossible to query. Serialized data also makes for "nasty model schema migrations":http://jeffcroft.com/links/2008/oct/11/django-reversion/.
 
 Hence my go at revisions in Django, using the simple bundle_id/version_id separation we know and love from, well, just about any CMS out there, like Wordpress and Drupal. It requires just a single extra field on your model tables, and "custom Django managers":http://docs.djangoproject.com/en/dev/topics/db/managers/ take care of the rest. Because sometimes those PHP devs _do_ come up with a good idea.
 

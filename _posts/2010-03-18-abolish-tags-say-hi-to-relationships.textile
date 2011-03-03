@@ -10,7 +10,7 @@ title: Abolish tags, say hi to relationships
 
 We’d all love it if more news websites simply started tagging their content. But when you think about it, tagging is a very primitive way of saying how things relate to each other. It says “this article has something to do with this concept or thing”. They don’t tell you exactly these things relate. They also don’t tell you whether the the thing the article relates to is a topic, a person, an organization, an event or a location. That’s okay for humans because we can guess, but computers can’t, and we’re really going to need computers to aid us in bringing context — even to do trivial things like provide an index of all the people that a site has content on.
 
-With just a little more effort on behalf of the writer, it’s easy to specify real relationships in "familiar triplets:":http://en.wikipedia.org/wiki/Resource_Description_Framework critiques <person>, contains an interview with <band>, revolves around <topic>.
+With just a little more effort on behalf of the writer, it’s easy to specify real relationships in "familiar triplets:":http://en.wikipedia.org/wiki/Resource_Description_Framework critiques <person>, contains an interview with &lt;band&gt;, revolves around &lt;topic&gt;.
 
 This information could be used to make search queries more intelligent, and to make sure topic pages are more than just link dumps that leave the reader figuring out how exactly the linked content relates to the topic at hand.
 

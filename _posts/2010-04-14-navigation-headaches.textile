@@ -169,7 +169,9 @@ But don't just think that you'll want to store fundamental metadata like themes 
 
 !/images/content/2010-04-14-time-magazine-faceted-search.png(One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine.)!
 
-The primary channels that comprise a newswebsite are equal parts taxonomy, marketing and vision. The way we structure a news website isn't just a matter of creating a tidy little storehouse of news, it should be part of a larger content strategy, in line with our journalistic ambitions. Our menus should be able to change when our vision changes, our ways of organizing our content should be able to adapt to the future as readily as we do.h3. Don't stop at primary navigation: the more, the merrier
+The primary channels that comprise a newswebsite are equal parts taxonomy, marketing and vision. The way we structure a news website isn't just a matter of creating a tidy little storehouse of news, it should be part of a larger content strategy, in line with our journalistic ambitions. Our menus should be able to change when our vision changes, our ways of organizing our content should be able to adapt to the future as readily as we do.
+
+h3. Don't stop at primary navigation: the more, the merrier
 
 There's one other point I'd like to address. Primary navigation on a website is of necessity a one-size-fits-all solution. It has to be everything to everybody. It has to show what your website is about from the first moment the page loads. But there are so many lovely ways of browsing content.
 
@@ -182,7 +184,7 @@ We might not have a lot of space above the fold. We need to treat the header of 
 
 If your content has a lot of metadata associated with it — its genre, its mood, its length, the amount of comments, associated themes, medium — such information can serve a bigger purpose than just being part of the equation in generating a primary navigation. Metadata can serve as facets when searching, and it can serve to easily create all kinds of secondary navigation, allowing readers to explore your website just the way they want to.
 
-!/images/content/2010-04-14-related-tags.png(Tag browsing is but one of the ways you can complement your primary navigation.)!
+!/images/content/2010-04-09-related-tags.png(Tag browsing is but one of the ways you can complement your primary navigation.)!
 
 !/images/content/2010-04-14-texas-tribune-alt-nav.png(The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?)!
 

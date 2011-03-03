@@ -174,7 +174,7 @@ a {
     color: #3e79f1;
     border-color: #7aa3f7; }
 
-p a {
+p a, article a {
   text-decoration: underline; }
 
 /* OTHER */

@@ -7,10 +7,10 @@ realm: about-me
 
 Ever since my college years at the "student newspaper":http://schamper.ugent.be/, I've been captivated by the publishing industry and its challenges. Workflows. Cross-platform publishing and web-to-print. Layout automation. Metadata management. Digitizing paper archives. Nerd stuff, but it fascinates me to no end.
 
-I started out as a script kiddie when I was twelve or thirteen, hacking away many a late night at crummy PHP scripts. After graduating from college, I finally took the time to learn how to code properly, and picked up Python. Ended up as a freelancer mostly by accident.
+I started out as a script kiddie when I was twelve or thirteen, hacking away many a late night at crummy PHP scripts. After graduating from college, I took the time to learn how to code properly, and picked up Python. Ended up as a freelancer mostly by accident.
 
 I have a masters degree in philosophy. Most philosophy happens to be unscientific bullshit, but waiving that, it's a riveting field of study. I love John Dewey.
 
-I used to live in beautiful Ghent (a city in Belgium) though I've recently moved to London to work full-time on "camayak":http://www.camayak.com/.
+I used to live in beautiful Ghent (Belgium) but I've recently moved to London to work full-time on "camayak":http://www.camayak.com/.
 
 If you're wondering how to pronounce my name, it's probably because you can't. That's okay, I don't mind.

@@ -20,7 +20,7 @@ I did create a low-level API for storing directed acyclic graphs in Django, thou
 
 To "quote liberally":http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html from Seth Godin's blog:
 
-bq. "Yak Shaving":http://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html is the last step of a series of steps that occurs when you find something you need to do. "I want to wax the car today."
+<blockquote>"Yak Shaving":http://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html is the last step of a series of steps that occurs when you find something you need to do. "I want to wax the car today."
 
 "Oops, the hose is still broken from the winter. I'll need to buy a new one at Home Depot."
 
@@ -32,7 +32,7 @@ bq. "Yak Shaving":http://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2
 
 "And we haven't returned it because some of the stuffing fell out and we need to get some yak hair to restuff it."
 
-And the next thing you know, you're at the zoo, shaving a yak, all so you can wax your car.
+And the next thing you know, you're at the zoo, shaving a yak, all so you can wax your car.</blockquote>
 
 Yak shaving is doing things only vaguely related to your original problem, in the hopes of improving the way you do things in general, and not being conscious of the fact that you're no longer pursuing your original goal.
 
@@ -42,7 +42,7 @@ But it would make a ton of sense to stray from your immediate goal to set up a s
 
 The guys at "LiveJournal":http://www.livejournal.com/ thought their stuff should go a little bit faster, and they ended up building an in-memory "caching system":http://memcached.org/.
 
-David Heinemeier Hansson was tasked with creating a simple project management app, but wanted to use Ruby. And Ruby didn't really have a readily available database abstraction. Or a router to call code from URLs. Or a nice templating system. So David ended up creating "Ruby on Rails":http://rubyonrails.org/ . And in doing so not just shaved the yak, but an entire herd.
+David Heinemeier Hansson was tasked with creating a simple project management app, but wanted to use Ruby. And Ruby didn't really have a readily available database abstraction. Or a router to call code from URLs. Or a nice templating system. So David ended up creating "Ruby on Rails":http://rubyonrails.org/. And in doing so not just shaved the yak, but an entire herd.
 
 Well, you say, but those aren't really yak shaving expeditions, because these guys kept on being perfectly productive while working on their wild schemes. And at some point they reflected on their digression and decided to continue — not the mindless plumbing we associate with yak shaving. And, sure, their detours actually made them more productive in the end. Doesn't mean they didn't go off on a tangent, doesn't mean they didn't spend a ton of time working on things they didn't really need to complete the project.
 

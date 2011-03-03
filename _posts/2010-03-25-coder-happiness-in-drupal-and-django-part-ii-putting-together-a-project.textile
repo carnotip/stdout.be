@@ -18,7 +18,9 @@ summary:
 
 I'd promised earlier to follow up my post on coder happiness in "Drupal":http://www.drupal.org and "Django":http://www.djangoproject.com . I'll take a look at how coordinating a project in both systems feels like.
 
-But before we get down to it: how does running a project in any framework or system feel like, for that matter?h3. Software is easy, the domain is hard
+But before we get down to it: how does running a project in any framework or system feel like, for that matter?
+
+h3. Software is easy, the domain is hard
 
 If you've been coding for a while, you know that finetuning a website often takes up more time than implementing the basic functionality does. As "Salvatore Sanfilippo":http://antirez.com (of "Redis":http://code.google.com/p/redis/ fame) "laments":http://antirez.com/post/what-we-lost.html : if you take away scaling issues, what's going on under the hood of even very kick-ass websites like Reddit, is boring. 90 percent of web development still bottles down to "create-read-update-delete":http://en.wikipedia.org/wiki/Create,_read,_update_and_delete . As Salvatore mentions himself, "web applications are much more an art involving the ability to design nice user interfaces and about picking the right features".
 

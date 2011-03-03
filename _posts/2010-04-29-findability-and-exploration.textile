@@ -165,7 +165,9 @@ Another way to accomplish these related links to high-value topics pages, one th
 
 Further improvements to the accuracy and usefulness of such 'broad framing' could probably be achieved by analyzing the semantic sphere (the "aboutness") of the query and to take it from there. Bringing "natural language analysis":http://en.wikipedia.org/wiki/Natural_language_processing into the picture would allow us to go beyond the precise words of the query and instead get a feel for its intent and meaning when suggesting related topics. A vague feel, yes — machines and language are still a tricky combo — but maybe it's stuff that we can use.
 
-Even basic versions of this pattern have the potential to enrichen the search experience for a sizable amount of search queries, i.e. all queries that are exploratory and don't have a precise intent.h3. Entity extraction
+Even basic versions of this pattern have the potential to enrichen the search experience for a sizable amount of search queries, i.e. all queries that are exploratory and don't have a precise intent.
+
+h3. Entity extraction
 
 I mentioned before that we hardly ever really search for text: we search for information about Steve Jobs, news nearby our home town, all content that has something to do with climate change and so on.
 
@@ -231,7 +233,9 @@ There are two big tools that can help us index other parts of the web that are r
 
 Searching a bigger part of the web than just your own website requires storage and processing power, as well as a good design to separate your own content from relevant content from elsewhere. Aside from that, it's hardly rocket science.
 
-Humanizing search means a search engine should be able to give answers to the question "what's happening?" rather than just narrowly answering "what is on this site?". That said, it will take a lot of experimentation to find the right balance.h3. Side note: beware
+Humanizing search means a search engine should be able to give answers to the question "what's happening?" rather than just narrowly answering "what is on this site?". That said, it will take a lot of experimentation to find the right balance.
+
+h3. Side note: beware
 
 On a side note: beware of some of the newer tools in the reporter's toolbox. Apps like "Scribd":http://www.scribd.com/ and "CoverItLive":http://www.coveritlive.com/ store documents and text on their own servers, which makes them inaccessible to your own search engine, unless you go to the additional effort of integrating with their APIs. That is, if they actually _have_ an API you can integrate with. Keep your archives intact and complete. Think about search before deciding to use any of these services. The goal is to index _more_ content than you currently do, not less!
 

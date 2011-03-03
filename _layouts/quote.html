@@ -6,12 +6,14 @@ type: comment
 <h2>Overheard</h2>
 
 {% if page.canonical %}
-<p class="source"><strong>source: </strong> <a href="{{ page.canonical }}">{{ page.canonical }}</a></p>
+<p class="source"><strong>source: </strong> <a href="{{ page.canonical }}">{{ page.canonical | truncate 60 }}</a></p>
 {% endif %}
 
 <p class="context">{{ page.context }}</p>
 
+<div class="quote" cite="{{ page.canonical }}">
 {{ content }}
+</div>
 
 {% if page.author %}
 <p class="author">{{ page.author }}</p>

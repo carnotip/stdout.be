@@ -16,7 +16,9 @@ summary: Tags, taxonomies, polyhierarchy and all that jazz. Crafting good catego
 
 Wednesday I suggested that we could solve a lot of problems with tagging if we start thinking in terms of _relationships to real things_ instead of seeing tags als mere labels. With tags as true entities it's easy to figure out what to tag (you tag persons, organizations, locations, events) and how to tag it. Relationships can be a part of the foundation for the kind of "contextualized journalism":http://www.futureofcontext.com/ that we hope to see more of in the future.
 
-However, while talking about the future of metadata, I carefully sidestepped a thorny issue. Tags aren't always used to refer to persons or locations. Even more often, tags are used to categorize content by a broader theme or by subject. Themes or topics aren't real things, they're bundles of things. Bundles of things upset the carefully crafted scheme I set out earlier. Today I'll talk about *polyhierarchy* as a way of getting topics and themes into the fold.h3. Taming topics
+However, while talking about the future of metadata, I carefully sidestepped a thorny issue. Tags aren't always used to refer to persons or locations. Even more often, tags are used to categorize content by a broader theme or by subject. Themes or topics aren't real things, they're bundles of things. Bundles of things upset the carefully crafted scheme I set out earlier. Today I'll talk about *polyhierarchy* as a way of getting topics and themes into the fold.
+
+h3. Taming topics
 
 One requirement of a good categorization scheme in particular is a bit more difficult to fulfill for topics than it is for, say, organizations or locations. Namely that it should be easy to tag our content consistently. If you're specifying a relationship to John Smith, it's beyond obvious that you want the relationship to point _to that person_ . But if you've just written an article about strife in Bosnia, how would you tag that? Bosnian muslims, religious strife, geopolitical conflicts, war, conflict, politics? Or maybe all of the above?
 
@@ -34,7 +36,9 @@ Because topics serve to cluster news stories together in sets, we can't just rep
 
 Tree structures make it really easy to be comprehensive in your tagging efforts. Provided you have well-cared for tag hierarchies in place, tagging a piece of content with the themegenetically modified cropswill, by association, also mean that it will be tagged with its parent categoriescrop science,engineering,agriculture,environmentand so on.
 
-I like schemes that are _forgiving of forgetfulness_ . Hierarchies are forgiving if anything is: associated tags can very often make up for oversights in tagging. It just doesn't matter if an editor writing a piece on Monsanto forgets to tag his article withenvironment, because he's probably tagged it withgenetically modified organisms,agricultureor one of a host of other related tags, which all haveenvironmentas a parent term.h3. Curation is for computers
+I like schemes that are _forgiving of forgetfulness_ . Hierarchies are forgiving if anything is: associated tags can very often make up for oversights in tagging. It just doesn't matter if an editor writing a piece on Monsanto forgets to tag his article withenvironment, because he's probably tagged it withgenetically modified organisms,agricultureor one of a host of other related tags, which all haveenvironmentas a parent term.
+
+h3. Curation is for computers
 
 Whereas regular tags leave one wondering if a tag might be too specific to really be useful, hierarchies can help by taking the decision out of our hands. Be as specific as you like. A little algorithm can easily count if a certain tag has surpassed a critical treshold (it links together, say, at least five stories) and if it hasn't, display the parent tag to your readers instead. Filtering on the way out is easier than filtering on the way in.
 

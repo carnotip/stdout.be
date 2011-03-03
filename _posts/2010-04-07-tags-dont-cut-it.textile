@@ -69,7 +69,7 @@ We'll handle subject descriptors — themes, topics, or whatever you want to cal
 
 h3. Step 2: abolish tags, state relationships
 
- "Tags are vague.":http://www.futureofcontext.com/?p=32 They're a very primitive way of spelling out how things relate to each other. A tag on a news article says “this article has something to do with this concept or thing”. But what exactly? A tag doesn't tell you whether an article is a critique of a person, an interview with a person or whether it just mentions that person in passing. A tag doesn't even tell you if the reference to Samuel Adams is about the person or about the "kind of beer":http://en.wikipedia.org/wiki/Samuel_Adams_(beer) (which is why we so desperately need vocabularies). A tag can't tell the difference between an event that merely took place at the local café and an event that the aforementioned pub actually organized.
+"Tags are vague.":http://www.futureofcontext.com/?p=32 They're a very primitive way of spelling out how things relate to each other. A tag on a news article says “this article has something to do with this concept or thing”. But what exactly? A tag doesn't tell you whether an article is a critique of a person, an interview with a person or whether it just mentions that person in passing. A tag doesn't even tell you if the reference to Samuel Adams is about the person or about the "kind of beer":http://en.wikipedia.org/wiki/Samuel_Adams_(beer) (which is why we so desperately need vocabularies). A tag can't tell the difference between an event that merely took place at the local café and an event that the aforementioned pub actually organized.
 
 It's only a little confusing to us humans because we can guess the meaning of the tags from the text that they accompany, but computers can’t. We’re really going to need computers to aid us in bringing context — say, for example, listing all the articles where Apple was lauded versus those where the company was criticized.
 
@@ -77,20 +77,20 @@ It's only a little confusing to us humans because we can guess the meaning of th
 
 With just a little more effort, it’s easy to specify real relationships. Let's not reinvent the wheel. We'll use use the "triplets":http://en.wikipedia.org/wiki/Resource_Description_Framework our "semantic web buddies":http://dig.csail.mit.edu/breadcrumbs/blog/4 are so fond of:
 
-bq. <article>critiques<organization>
-<article>contains an interview with<person>
-<article>revolves around<event>
-<article>follows up on<previous article>
-<opinion piece>is a riposte vis-a-vis<other opinion piece>
+bq. &lt;article&gt; critiques &lt;organization&gt;
+&lt;article&gt; contains an interview with &lt;person&gt;
+&lt;article&gt; revolves around &lt;event&gt;
+&lt;article&gt; follows up on &lt;previous article&gt;
+&lt;opinion piece&gt; is a riposte vis-a-vis &lt;other opinion piece&gt;
 
 The semantic web movement focuses on making the web understandable for computers, but this kind of metadata is useful for human readers as well. If I'm just skimming through an article and can't be bothered to read it in its entirety, these relationships provide a pithy summary of what an article is about.
 
 For example, the relationships for Clay Shirky's "The Collapse of Complex Business Models":http://www.shirky.com/weblog/2010/04/the-collapse-of-complex-business-models/ could look something like:
 
-bq. <analysis>is about<business models>(subcategory of<business>)
-<analysis>is about<society>
-<analysis>contains an example using<AT&T>
-<analysis>criticizes<Rupert Murdoch>
+bq. &lt;analysis&gt; is about &lt;business models&gt; (subcategory of &lt;business&gt;)
+&lt;analysis&gt; is about &lt;society&gt;
+&lt;analysis&gt; contains an example using &lt;AT&T&gt;
+&lt;analysis&gt; criticizes &lt;Rupert Murdoch&gt;
 
 Mkay, _pithy_ might be overstating things a bit, but it's a lot more insightful than what you get using plain tags.
 
@@ -178,7 +178,7 @@ How best to exploit those cascades? I see two ways.
 # Automatic suggestions for readers: okay, but not great because they lack a human hand.
 # Automatic suggestions for editors, serving as a basis for the entry of relationships.
 
-!/images/content/2010/04-delicious-suggestions.png(Suggested tags can improve the amount and consistency of our metadata.)!
+!/images/content/2010-04-07-delicious-suggestions.png(Suggested tags can improve the amount and consistency of our metadata.)!
 
 If you tag an article with Barack Obama like we did above, a CMS can autosuggest a relationship to the Democratic Party, leaving it up to you to decide whether to add that relationship, but nonetheless providing a very clear suggestion.
 
@@ -192,7 +192,7 @@ Synonyms can be a help to editors because they don't need to know the preferred 
 
 Readers demand the same leniency that synonyms bring: they don't and shouldn't care about the ideosyncracies in how you name things when they're trying to find something. If somebody searches for _Jon Stewart_ , they should be able to find the topical page for our beloved The Daily Show anchor just as easily than they would with the search query _Jonathan Stuart Leibowitz_.
 
-Names that can mean more than one thing should point to wikipedia-style disambiguation pages (but, in contrast to wikipedia, these pages should be autogenerated, not manually constructed). And the system should be able to differentiate between Stanley Smith the soccer player, Stanley Smith the tennis player and Stanley Smith the eponymous shoe by Adidas. ( _Should be able to_ , not _must_ . A database of shoes would probably add little value to the vast majority of journalistic endeavors.)
+Names that can mean more than one thing should point to wikipedia-style disambiguation pages (but, in contrast to wikipedia, these pages should be autogenerated, not manually constructed). And the system should be able to differentiate between Stanley Smith the soccer player, Stanley Smith the tennis player and Stanley Smith the eponymous shoe by Adidas. (_Should be able to_, not _must_. A database of shoes would probably add little value to the vast majority of journalistic endeavors.)
 
 !/images/content/2010-04-07-disambiguation.png(A disambiguation page on Wikipedia. Stan Smith can mean a lot of things.)!
 
@@ -256,7 +256,7 @@ Events can easily be bundled into elegantly styled timelines.
 
 Taking things one step further, if you provide topical pages for locations, persons and organizations "like the NYT does":http://topics.nytimes.com/top/news/international/countriesandterritories/afghanistan/index.html , a healthy dose of vanity will entice journalists to relate their articles to the right topics, persons and organizations. It's the only way they can get their work on those topic pages. Being such an easy way for journalists to increase the shelf life of their work, you'd think they'll make the effort.
 
-!/images/content/2010-04-07-topic-page-nyt-1024x656.png(Topic pages are a wonderful way to go beyond daily reporting. They can also be an enticement to reporters who are wondering why they should care about all this tagging and relationship nonsense.)!
+!/images/content/2010-04-07-topic-page-nyt.png(Topic pages are a wonderful way to go beyond daily reporting. They can also be an enticement to reporters who are wondering why they should care about all this tagging and relationship nonsense.)!
 
 Beat reporters will need even less encouragement to make use of relationships. Relationships can serve as an internal tool to keep track of a beat. Reporters can keep an overview of their field and share that knowledge with fellow reporters. We're not there yet, but hopefully we can someday get to the point where a content management system stops being a mere tool to publish to the web, and becomes a digital notebook that aids journalists in their work.h2. In summation
 

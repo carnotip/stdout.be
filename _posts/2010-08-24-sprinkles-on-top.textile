@@ -19,7 +19,9 @@ Taking information seriously means we don't treat stories as big blobs of text, 
 
 Taking information seriously means we don't stuff stories into an undifferentiated archive, but "categorize":/2010/themes-and-topics/ those stories according to what they're about.
 
-Taking information seriously means that we don't see a story as an island, but rather "annotate it with all kinds of metadata":/2010/tags-dont-cut-it/ about persons, organizations, places, events, previous reporting, sources and data that are related to each story.h3. Three challenges for the news industry
+Taking information seriously means that we don't see a story as an island, but rather "annotate it with all kinds of metadata":/2010/tags-dont-cut-it/ about persons, organizations, places, events, previous reporting, sources and data that are related to each story.
+
+h3. Three challenges for the news industry
 
 At this point, you're probably wondering: why bother? Solid question. Allow me to take a step back.
 
@@ -48,7 +50,9 @@ And structure can help.
 * Structure, by decoupling content from its presentation, makes it easy to publish to the web, in a print magazine and on the iPhone simultaneously, in a way that's tailored to each platform. Create once, publish everywhere.
 * Structure, because it splits up content into its constituent atoms, also makes it possible to recombine, say, different recipes into a searchable database, or to split up our political reporting by region, and to show that on a map.
 
-Summed up, structured information saves money and helps us find new ways of informing our readers.h3. If that's so great, how come you ain't rich?
+Summed up, structured information saves money and helps us find new ways of informing our readers.
+
+h3. If that's so great, how come you ain't rich?
 
 So, if structuring, categorizing and annotating information is so great, why is nobody really doing it?
 

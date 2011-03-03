@@ -5,7 +5,6 @@ categories:
     - journalism
     - inormation architecture
 tags:
-    - nl
     - Newsless
     - Jay Rosen
     - Geert Buelens
@@ -14,7 +13,6 @@ tags:
     - algorithmic authority
     - Freebase
     - RDF
-    - bespreking
 title: Context!
 summary: Context brengen op nieuwswebsites is geen kwestie van technologie, je moet het gewoon doen.    
 ---
@@ -23,7 +21,7 @@ De laatste tijd heel wat gelezen over hoe nieuwsorganisaties dringend afmoeten v
 
 De laatste maanden blijft de conversatie maar aangroeien. Gisteren was er "een panel op South by Southwest (SXSW)":http://panelpicker.sxsw.com/ideas/view/3861 in het mooie Austin getiteld 'Future of Context: Getting the Bigger Picture Online'. De eerste samenvatting van het gesprek kan je al lezen bij Elise Hu  maar op de terugkijk van de grote gasten — Jay Rosen, Tristan Harris, Staci Kramer en Matt Thompson — moeten we nog even wachten.
 
-En dezelfde opmerkingen als die van Yelvington blijven komen. Gisteren vond er in het mooie Austin op South by Southwest (SXSW) zelfs een heus panel plaats, getiteld 'Future of Context: Getting the Bigger Picture Online'. De eerste samenvatting staat al online op de blog van "Elise Hu":http://elisehu.wordpress.com/2010/03/15/contextualizing-context/ . Maar we hoeven niet te wachten op de retrospectieven van panelisten zoals Jay Rosen en Matt Thompson ( "newsless.org":http://www.newsless.org/ ). "Eén van de meer lyrische omschrijvingen":http://www.nieman.harvard.edu/reportsitem.aspx?id=101886 van het 'contextprobleem' kon je in september 2009 al lezen en komt van de organisator van het panel, Matt Thompson zelf:
+En dezelfde opmerkingen als die van Yelvington blijven komen. Gisteren vond er in het mooie Austin op South by Southwest (SXSW) zelfs een heus panel plaats, getiteld 'Future of Context: Getting the Bigger Picture Online'. De eerste samenvatting staat al online op de blog van "Elise Hu":http://elisehu.wordpress.com/2010/03/15/contextualizing-context/. Maar we hoeven niet te wachten op de retrospectieven van panelisten zoals Jay Rosen en Matt Thompson ("newsless.org":http://www.newsless.org/). "Eén van de meer lyrische omschrijvingen":http://www.nieman.harvard.edu/reportsitem.aspx?id=101886 van het 'contextprobleem' kon je in september 2009 al lezen en komt van de organisator van het panel, Matt Thompson zelf:
 
 bq. For the longest time, whenever I read the news, I’ve often felt the depressing sensation of lacking the background I need to understand the stories that seem truly important. Day after day would bring front pages with headlines trumpeting new developments out of city hall, and day after day I’d fruitlessly comb through the stories for an explanation of their relevance, history or import. Nut grafs seemed to provide only enough information for me to realize the story was out of my depth.
 

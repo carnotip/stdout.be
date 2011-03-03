@@ -33,7 +33,9 @@ Ben Hammersley did "a little series":http://www.dangerousprecedent.com/2009/12/e
 
 bq. So why do everything you can to keep metadata intact? Because it’s from this information that new products can be automatically created, at a scale and rapidity that would be impossible otherwise. With every piece of metadata that you don’t throw away, you gain a factor more potential ways of slicing through your content and delivering it as a separate product, simply as a result of a database lookup.
 
-Martin Moore noted a few months ago that "On a news organization’s list of priorities, publishing articles as ‘linked data’ probably comes slightly above remembering to turn the computer monitors off in the evening and slightly below getting a new coffee machine." and "he outlines ten tangible benefits":http://mediastandardstrust.blogspot.com/2010/03/why-news-organizations-should-try.html to publishing in linked, structured data.h3. The Basic Unit of Information
+Martin Moore noted a few months ago that "On a news organization’s list of priorities, publishing articles as ‘linked data’ probably comes slightly above remembering to turn the computer monitors off in the evening and slightly below getting a new coffee machine." and "he outlines ten tangible benefits":http://mediastandardstrust.blogspot.com/2010/03/why-news-organizations-should-try.html to publishing in linked, structured data.
+
+h3. The Basic Unit of Information
 
 Talk about "the basic unit of information", that is, how to structure and present news content, is actually four discussions rolled into one.
 

@@ -8,7 +8,7 @@ summary:
     Introducing Extendables, a framework for coding in Adobe ExtendScript.
 ---
 
-I'm happy to be able to introduce Extendables, a little framework I've built for scripting "Adobe Creative Suite":http://www.adobe.com/products/ apps through Javascript, or, more specifically, "ExtendScript":http://www.adobe.com/devnet/scripting.html . Check it out at "http://extendables.org":http://extendables.org .
+I'm happy to be able to introduce Extendables, a little framework I've built for scripting "Adobe Creative Suite":http://www.adobe.com/products/ apps through Javascript, or, more specifically, "ExtendScript":http://www.adobe.com/devnet/scripting.html. Check it out at "http://extendables.org":http://extendables.org.
 
 ExtendScript is great to automate the heck out of image manipulations or print layouts, or to add entirely new features to, say, InDesign or AfterEffects. It's great, but it also has a lot of rough edges and a couple of missing parts. Extendables is some much-needed polish.
 
