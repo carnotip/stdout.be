@@ -1,6 +1,6 @@
 ---
 layout: post
-language: en
+language: nl
 categories:
     - journalism
 title: De wereld volgens Karl
