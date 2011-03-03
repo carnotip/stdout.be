@@ -1,3 +1,6 @@
+article, nav, header {
+  display: block; }
+
 html {
   margin: 0;
   padding: 0; }
