@@ -35,7 +35,9 @@ Ten tweede. Een gemakkelijke manier om buzzwords te onderscheiden van betekenisv
 
 Hetzelfde met Google Maps: kaarten bestaan al sinds mensheugnis, zeg liever wat je ermee zou kunnen doen, en laat dat zich alsjeblieft niet beperken tot het aanduiden van een locatie die aan bod komt in een artikel. En over polls wil ik niet eens beginnen.
 
-Enfin, ik plaag maar wat, uiteindelijk gaat het mij niet om Bart Van Belle, gelijk welke online-journalist had die opmerking kunnen maken. Belangrijker voor mij is een dieperliggende attitude die blijkt uit een uitspraak als "als we straks met informatici over een nieuwe site moeten praten, weten we wat we willen".h3. Weg met de dienst informatica
+Enfin, ik plaag maar wat, uiteindelijk gaat het mij niet om Bart Van Belle, gelijk welke online-journalist had die opmerking kunnen maken. Belangrijker voor mij is een dieperliggende attitude die blijkt uit een uitspraak als "als we straks met informatici over een nieuwe site moeten praten, weten we wat we willen".
+
+h3. Weg met de dienst informatica
 
 Eigenlijk kan je het Van Belle niet verwijten dat hij gewoon maar een oplijsting maakt van een aantal technologieën die leuke potentiële toepassingen hebben op nieuwswebsites. (Je kan het anderzijds Geert Zagers of het fonds wel kwalijk nemen dat ze wél iemand uit de advertisingwereld aan bod laten, maar geen enkele techie.) Van Belle is zelf geen programmeur, dus veel meer dan de waaier aan technologische mogelijkheden overschouwen en daar een selectie uit maken, kan hij niet. Dat is zijn job ook niet.
 

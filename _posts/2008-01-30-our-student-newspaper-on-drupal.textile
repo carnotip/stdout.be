@@ -21,7 +21,7 @@ Two things impressed me immediately. One was the exceptional handling of taxonom
 
 Data migration wasn't really an issue. We didn't have a very big archive, and we'd used few Textpattern-specific features, so writing a few SQL select-and-insert statements was a breeze. However, it did get very messy because of charset problems. The formatting in Textpattern was UTF8, but the database and tables were in latin1, so the data was actually stored as latin1 but could only be read if it was interpreted as UTF8. Textpattern did this correctly, but the SQL exports didn't. This took hours and hours to fix. In the end, I managed to get everything into "real" UTF8 by first converting all special entities to HTML entities and then converting those to UTF8. I had forgotten all about this episode, and remembering it still aggravates me.
 
-We did continue to use the Textile markup language that comes bundled with Textpattern but also exists as a module for Drupal, simply because it's (together with Markdown) the best thing out there. We also imported the PDFs of our print edition, and they are searchable thanks to the search_attachments module.
+We did continue to use the Textile markup language that comes bundled with Textpattern but also exists as a module for Drupal, simply because it's (together with Markdown) the best thing out there. We also imported the PDFs of our print edition, and they are searchable thanks to the @search_attachments@ module.
 
 h2. Content Management
 

@@ -29,13 +29,18 @@ realm: blog
 </summary>
 
 <article id="post" class="centered content">
-    <div>
-        {% if page.layout == 'post' and page.canonical %}
-        <h3>Guest post</h3>
-        <p class="source"><a href="{{ page.canonical }}">
-        {% endif %}
-    
+    <div>    
         {{ content }}
+        
+        {% if page.type == 'post' and page.canonical %}
+            {% if page.language == 'nl' %}
+            <p class="notice">Dit is een gastbijdrage.
+        Ik schreef ze oorspronkelijk voor <a href="{{ page.canonical }}">{{ page.canonical }}</a></p>            
+            {% else %}
+            <p class="notice">This is a crosspost.
+        It originally appeared at <a href="{{ page.canonical }}">{{ page.canonical }}</a></p>
+            {% endif %}
+        {% endif %}
     </div>
 </article>
 

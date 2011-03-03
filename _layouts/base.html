@@ -28,8 +28,8 @@
         <link rel="alternate" type="application/atom+xml" title="Nederlandstalige blogposts op stdout.be" href="nl.atom" />
         <link rel="alternate" type="application/atom+xml" title="Alle blogposts van stdout.be" href="all.atom" />
         <link rel="icon" href="/favicon.ico" type="image/png">
-        {% if page.layout == 'post' and page.canonical %}
-        <link rel="canonical">{{ page.canonical }}</link>
+        {% if page.type == 'post' and page.canonical %}
+        <link rel="canonical" href="{{ page.canonical }}" />
         {% endif %}
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
