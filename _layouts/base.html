@@ -12,6 +12,7 @@
         <meta http-equiv="Content-Language" content="nl-BE" />
         <meta name="dc:language" content="nl-BE" />
         {% endif %}
+        <meta charset="utf-8" />
         <meta name="author" content="Stijn Debrouwere" />
         <meta name="dc:creator" content="Stijn Debrouwere" />
         <meta name="dc:publisher" content="Stijn Debrouwere" />
@@ -79,15 +80,15 @@
                     </ul>
                     <ul class="menu top inline">
                     {% if page.language == 'en' %}
-                        <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/en/" class="blog">&rarr; blog</a></li>
-                        <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/en/services/" class="work">&rarr; services</a></li>
-                        <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/en/contact/" class="contact">&rarr; get in touch</a></li>
-                        <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/en/about-me/" class="about-me">&rarr; about me</a></li>
+                        <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/en/" class="blog">→ blog</a></li>
+                        <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/en/services/" class="work">→ services</a></li>
+                        <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/en/contact/" class="contact">→ get in touch</a></li>
+                        <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/en/about-me/" class="about-me">→ about me</a></li>
                     {% else %}
-                        <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/nl/" class="blog">&rarr; blog</a></li>
-                        <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/nl/diensten/" class="work">&rarr; diensten</a></li>
-                        <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/nl/contact/" class="contact">&rarr; contacteer me</a></li>
-                        <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/nl/over-mij/" class="about-me">&rarr; over mij</a></li>
+                        <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/nl/" class="blog">→ blog</a></li>
+                        <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/nl/diensten/" class="work">→ diensten</a></li>
+                        <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/nl/contact/" class="contact">→ contacteer me</a></li>
+                        <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/nl/over-mij/" class="about-me">→ over mij</a></li>
                     {% endif %}
                     </ul>
                 </nav>
