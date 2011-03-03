@@ -191,9 +191,9 @@ Frameworks seem particularly suited to the challenges the news industry is facin
 
 If you're not using a framework or don't want to, don't let that stop you from structuring your content, though. Wordpress and similar blogging platforms can get you some of the way using custom fields. Drupal additionally makes it fairly doable to specify relationships between your content. It might not be exactly what you want, but a little structure can go a long way.
 
-!/images/content/2010-04-22/wp-custom-fields.png(Custom fields in Wordpress aren't particularly versatile, but they still make it possible to add a bit of structure to your content)!
+!/images/content/2010-04-22-wp-custom-fields.png(Custom fields in Wordpress aren't particularly versatile, but they still make it possible to add a bit of structure to your content)!
 
-!/images/content/2010-04-22/drupal-cck.png(Custom fields, using the Content Construction Kit in Drupal. More versatile than Wordpress, but still difficult to specify more involved connections between entities. Nodereferences in CCK allow for references like "this photograph belongs to this article" but they don't allow you to enrichen that reference any further. For example, it would be tricky to specify not only that Ringo belongs to the Beatles, but also that he joined in 1962 and that he was the drummer in the band.)! 
+!/images/content/2010-04-22-drupal-cck.png(Custom fields, using the Content Construction Kit in Drupal. More versatile than Wordpress, but still difficult to specify more involved connections between entities. Nodereferences in CCK allow for references like "this photograph belongs to this article" but they don't allow you to enrichen that reference any further. For example, it would be tricky to specify not only that Ringo belongs to the Beatles, but also that he joined in 1962 and that he was the drummer in the band.)! 
 
 h2. Peace of mind is like a piece of heaven
 

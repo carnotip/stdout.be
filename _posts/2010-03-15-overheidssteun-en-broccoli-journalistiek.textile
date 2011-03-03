@@ -1,5 +1,5 @@
 ---
-layout: guest post
+layout: post
 categories:
     - journalism
     - tech & society

@@ -18,7 +18,9 @@ realm: blog
                 <a href="" class="category">information architecture</a>
             </p>
             <h1>{{ page.title }}</h1>
+            {% if page.summary %}
             <p><strong>Summary</strong> {{ page.summary }}</p>
+            {% endif %}
         </div>
         {% if page.next %}
         <div class="next"><a href="{{ page.next.url }}" title="Next page: {{ page.next.title }}">→</a></div>
@@ -28,6 +30,11 @@ realm: blog
 
 <article id="post" class="centered content">
     <div>
+        {% if page.layout == 'post' and page.canonical %}
+        <h3>Guest post</h3>
+        <p class="source"><a href="{{ page.canonical }}">
+        {% endif %}
+    
         {{ content }}
     </div>
 </article>

@@ -133,7 +133,7 @@ h3. Navigation is volatile
 
 Pulling off a good mixed-criteria navigation is tough. When designing a website, it's also scary: once you've chosen a certain way of organizing content, you're stuck with it. We didn't use to have that problem. Sections in print require less forethought, because you can change them around every edition if you really must. Site sections, on the other hand, come with their own channel pages, their own archives and they serve as facets in our search engines. You're stuck with them.
 
-Changing your primary navigation thus means adjusting the category of every single story ever written to suit the new scheme. Want to split up your existing @culture@ section into @performing arts@ and @book club@?@Economics@ into @money@, @business@ and @finance@? Good luck.
+Changing your primary navigation thus means adjusting the category of every single story ever written to suit the new scheme. Want to split up your existing @culture@ section into @performing arts@ and @book club@? @Economics@ into @money@, @business@ and @finance@? Good luck.
 
 Many newspapers have an environment section nowadays, but that's a relatively new thing — the environment didn't used to command our attention as much as it does at present. So most of these papers have their old stories about the @environment@ catalogued under other headings like @science@. And that's how these stories are still catalogued. Relabeling the entire science catalogue, or wherever these stories about the environment were filed, would take an inordinate amount of time. As time goes by and websites amass content, these inconsistencies will only get larger.
 

@@ -1,10 +1,14 @@
 ---
 layout: base
 type: review
-description: Reviews of every IA book under the sun
+description:
+  en: Reviews of every IA book under the sun
+  nl: Besprekingen van boeken over informatie-architectuur
 ---
 
 {% comment %}
+hReview
+
 summary
 type product
 item amazon.url
@@ -17,6 +21,9 @@ license rel-license
 
 <div class="centered">
     <div class="content">
+        {% if page.previous %}
+        <p class="prev small"><a href="{{ page.previous.url }}" title="Previous page: {{ page.previous.title }}">←</a></p>
+        {% endif %}
         <p class="section">Book review</p>
         <h1>{{ page.author }}<br />{{ page.title }}</h1>
         <div id="review">
@@ -24,6 +31,9 @@ license rel-license
         </div>
     </div>
     <div id="infocard">
+        {% if page.next %}
+        <p class="next small"><a href="{{ page.next.url }}" title="Next page: {{ page.next.title }}">→</a></p>
+        {% endif %}
         <p class="section">Summary</p>
         <p id="score" class="{{ page.rating }}">
         {% case page.rating %}
@@ -46,15 +56,15 @@ license rel-license
         <hr class="divider" />
         <ul class="menu top inline">
         {% if page.language == 'en' %}
-            <li><a href="/en/" class="blog">→ blog</a></li>
-            <li><a href="/en/services" class="work">→ services</a></li>
-            <li><a href="/en/reviews/review" class="contact">→ get in touch</a></li>
-            <li><a href="/en/about-me" class="about-me">→ about me</a></li>
+            <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/en/" class="blog">→ blog</a></li>
+            <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/en/services/" class="work">→ services</a></li>
+            <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/en/contact/" class="contact">→ get in touch</a></li>
+            <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/en/about-me/" class="about-me">→ about me</a></li>
         {% else %}
-            <li><a href="/nl/" class="blog">→ blog</a></li>
-            <li><a href="/nl/werk" class="work">→ diensten</a></li>
-            <li><a href="/nl/contacteer-me" class="contact">→ contacteer me</a></li>
-            <li><a href="/nl/over-mij" class="about-me">→ over mij</a></li>
+            <li><a {% if page.realm == 'blog' %}class="active"{% endif %}href="/nl/" class="blog">→ blog</a></li>
+            <li><a {% if page.realm == 'services' %}class="active"{% endif %}href="/nl/diensten/" class="work">→ diensten</a></li>
+            <li><a {% if page.realm == 'contact' %}class="active"{% endif %}href="/nl/contacteer-me/" class="contact">→ contacteer me</a></li>
+            <li><a {% if page.realm == 'about-me' %}class="active"{% endif %}href="/nl/over-mij/" class="about-me">→ over mij</a></li>
         {% endif %}
         </ul>
     </nav>

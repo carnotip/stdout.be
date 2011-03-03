@@ -3,8 +3,16 @@ layout: post
 type: comment
 ---
 
-<p><strong>source: </strong> <a href="{{ page.canonical }}"</a>{{ page.canonical }}</a></p>
+<h3>Overheard</h3>
 
-<p><em>{{ page.context }}</em></p>
+{% if page.canonical %}
+<p class="source"><strong>source: </strong> <a href="{{ page.canonical }}">{{ page.canonical }}</a></p>
+{% endif %}
+
+<p class="context">{{ page.context }}</p>
 
 {{ content }}
+
+{% if page.author %}
+<p class="author">{{ page.author }}</p>
+{% endif %}

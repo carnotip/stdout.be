@@ -36,7 +36,7 @@ and processing that in your view with
 
 you get to fill out a gigantic form that generates your view, after which you'll have to fill out a similarly large form in the Panels module to get that list displayed where you want it to. And if want to customize the html that Views produces (because, being geared towards end-users, Views is both a query builder and an html generator) you'll have to override a bunch of theme files as well.
 
-!/images/content/2010-02-28/Screen-shot-2010-02-13-at-16.33.35.png(Could you give me the latest comments?"—"Sure, just fill in this small form, file it in triplicate, and we'll get back to you.")!
+!/images/content/2010-02-28-Screen-shot-2010-02-13-at-16.33.35.png(Could you give me the latest comments?"—"Sure, just fill in this small form, file it in triplicate, and we'll get back to you.")!
 
 h3. Easier for them is harder for me
 

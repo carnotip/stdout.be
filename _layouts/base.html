@@ -27,6 +27,10 @@
         <link rel="alternate" type="application/atom+xml" title="English blogposts on stdout.be" href="en.atom" />
         <link rel="alternate" type="application/atom+xml" title="Nederlandstalige blogposts op stdout.be" href="nl.atom" />
         <link rel="alternate" type="application/atom+xml" title="Alle blogposts van stdout.be" href="all.atom" />
+        <link rel="icon" href="/favicon.ico" type="image/png">
+        {% if page.layout == 'post' and page.canonical %}
+        <link rel="canonical">{{ page.canonical }}</link>
+        {% endif %}
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
@@ -95,7 +99,6 @@
                     <p id="about-this">{{ page.description.nl }}</p>                    
                     {% endif %}
                 {% endif %}
-            </nav>
         </div>
         {{ content }}
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>

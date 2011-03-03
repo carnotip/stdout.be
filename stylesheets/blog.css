@@ -19,6 +19,18 @@ summary, summary.inset {
     color: #999999;
     margin-right: 10px; }
 
+article#post p.source {
+  font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+  font-size: 12pt;
+  line-height: 1;
+  margin: 0.35em 0;
+  line-height: 1.3; }
+article#post p.context {
+  color: #999999;
+  font-style: italic; }
+article#post p.author {
+  font-weight: bold; }
+
 div#prevnext {
   position: relative;
   width: 960px;

@@ -16,6 +16,29 @@ body.review h1 {
 body.review div#review p {
   font-size: 16px; }
 
+p.prev.small, p.next.small {
+  font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+  font-size: auto;
+  line-height: 1;
+  margin: 0.35em 0;
+  display: inline-block; }
+  p.prev.small a, p.next.small a {
+    width: 20px;
+    background: #eeeeee;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none; }
+
+p.prev.small {
+  float: left;
+  position: relative;
+  left: -45px; }
+
+p.next.small {
+  float: right;
+  position: relative;
+  right: -45px; }
+
 div#infocard {
   display: inline-block;
   vertical-align: top;

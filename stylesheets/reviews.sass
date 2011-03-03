@@ -19,6 +19,27 @@ body.review
   div#review p
     font-size: 16px
 
+p.prev.small, p.next.small
+  @include netto
+  display: inline-block
+  
+  a
+    width: 20px
+    background: $silver
+    display: inline-block
+    padding: 10px
+    text-decoration: none
+  
+p.prev.small
+  float: left
+  position: relative
+  left: -45px
+
+p.next.small
+  float: right
+  position: relative
+  right: -45px
+
 div#infocard
   display: inline-block
   vertical-align: top

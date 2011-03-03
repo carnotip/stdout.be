@@ -178,6 +178,11 @@ p a {
   text-decoration: underline; }
 
 /* OTHER */
+article img {
+  max-width: 540px;
+  padding: 5px;
+  background: #eeeeee; }
+
 span.me:after {
   content: "@stdout.be"; }
 
