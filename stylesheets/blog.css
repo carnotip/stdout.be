@@ -49,12 +49,15 @@ div#prevnext {
     line-height: 1;
     margin: 0.35em 0;
     position: absolute;
+    left: 0;
     top: 50%;
     height: 64px;
     margin-top: -32px;
     color: #aaaaaa;
     display: inline-block;
     width: 90px; }
+  div#prevnext div.next {
+    left: 895px; }
   div#prevnext div.prev a, div#prevnext div.next a {
     padding: 5px;
     text-decoration: none; }
