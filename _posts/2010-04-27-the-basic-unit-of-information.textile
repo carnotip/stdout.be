@@ -18,12 +18,12 @@ summary:
     A meandering little post about (1) three different types of structured information, (2) the "basic unit of information" meme that wants to put the filing cabinet and brains of every journalist on the web and (3) how information architecture for news websites doesn't just pose design and technical challenges, but requires us to think about the fundamentals of the journalistic enterprise and its future.
 ---
 
-Let it be known that "structured information":http://stdout.be/2010/we-are-in-the-information-business/ is "really":http://www.holovaty.com/writing/fundamental-change/  "cool":http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html . Not because it's flashy or because it sounds good, but because it allows newspapers and their wired journalists — "information designers?":http://www.pbs.org/idealab/2010/04/programmer-journalist-hacker-journalist-our-identity-crisis107.html — to make really cool stuff.
+Let it be known that "structured information":http://stdout.be/2010/we-are-in-the-information-business/ is "really":http://www.holovaty.com/writing/fundamental-change/ "cool":http://xark.typepad.com/my_weblog/2009/05/the-lack-of-vision-thing-well-heres-a-vision-for-you.html. Not because it's flashy or because it sounds good, but because it allows newspapers and their wired journalists — "information designers?":http://www.pbs.org/idealab/2010/04/programmer-journalist-hacker-journalist-our-identity-crisis107.html — to make really cool stuff.
 
 In the context of a news story, structured information comes in a few different flavors:
 
 # elements that are already a part of the story, albeit too often in an unstructured way (subtitles, questions and answers in an interview, infoboxes, images).
-# additional metadata that adds some information that isn't always obvious from the text itself ( "mood and sentiment":http://www.paulnus.com/content/mobile-first-strategy-no , links to earlier reporting on this topic, genre).
+# additional metadata that adds some information that isn't always obvious from the text itself ("mood and sentiment":http://www.paulnus.com/content/mobile-first-strategy-no, links to earlier reporting on this topic, genre).
 # information that can't be grasped from the text — I'm especially thinking of information that relates to the writing and the investigative process behind most news stories: sources, documents, facts, audio recordings of interviews.
 
 Think of these three kinds of structured information like specific wavelengths on the color spectrum: they're anchors in a continuum, not discrete categories. "Explicitly linking up a story with relevant persons and organizations":/2010/tags-dont-cut-it/ is somewhere between (1) and (2) — most of it is somewhere in the text, but not all of it, and it takes effort to summarize the persons, organizations, events and what-not an article talks about.
@@ -32,7 +32,7 @@ Think of these three kinds of structured information like specific wavelengths o
 
 In late 2008 or early 2009, a very precious strand of thought regarding structured content blossomed. The topic must have been in the air, for as early as 2006 someone nicknamed Rogerr had remarked that "The structured information you refer to amounts basically to reporter's notes." in response to Adrian Holovaty's landmark "A fundamental change":http://www.holovaty.com/writing/fundamental-change/ post about shifting from a story-centric to an information-centric worldview.
 
-This strand of thought began its life as a call to journalists. Whenever possible, they should release their primary sources and documents, allowing readers to delve deeper into certain issues themselves when they so please. Take this comment by "Dave Winer":http://www.scripting.com/2008/11/24.html :
+This strand of thought began its life as a call to journalists. Whenever possible, they should release their primary sources and documents, allowing readers to delve deeper into certain issues themselves when they so please. Take this comment by "Dave Winer":http://www.scripting.com/2008/11/24.html:
 
 bq. [Reporters and editors are] being very selective about what sources, facts, ideas and opinions we [can] have.
 
@@ -46,7 +46,7 @@ But source documents are only part of the demand.
 
 bq. By starting with each source, quote, factual statement, picture, graphic, audio clip or video clip as an isolated element, or “tweet”, properly tagged with automatic tagging engines, those elements can be packaged or searched directly, allowing the most transparent view of local information. ("Chuck Peters":http://chuckpeters.iowa.com/2008/12/information-in-the-first-instance/)
 
- "Jeff Jarvis":http://www.buzzmachine.com/2008/12/02/a-complete-ecology-of-news/, at the end of '08:
+"Jeff Jarvis":http://www.buzzmachine.com/2008/12/02/a-complete-ecology-of-news/, at the end of '08:
 
 bq. Think about news as its constituent components, not in the bizarro news world we live in, think about news in the actual world. The components are: sources, facts, ideas, opinions, readers.
 

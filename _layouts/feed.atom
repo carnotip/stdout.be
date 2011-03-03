@@ -14,7 +14,7 @@
  {% for post in site.posts %}
     {% if post.language == page.language or page.language == 'all' %}
      <entry>
-       <title>{{ post.title }}</title>
+       <title>{{ post.title }}{% if post.layout != 'post' %} ({{ post.layout }}){% endif %}</title>
        <link href="http://stdout.be{{ post.url }}" />
        <updated>{{ post.date | date_to_xmlschema }}</updated>
        <id>http://stdout.be{{ post.id }}</id>
