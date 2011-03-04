@@ -40,7 +40,7 @@ class Comment(db.Model):
         url += urllib.urlencode({'d': 'identicon', 's': size})
         return url
 
-@app.route("/posts/")
+#@app.route("/posts/")
 def posts():
     info = data.get_post_info()
     # 1. group comments by permalink and do an aggregate
@@ -54,7 +54,7 @@ def comments():
     matches = Comment.query.filter_by(post=permalink).all()
     return render_template('comments.html', comments=matches)
 
-@app.route("/comments/", methods=['POST'])
+#@app.route("/comments/", methods=['POST'])
 def post_comment():
     data = {
         "post": request.args.get('permalink'),
@@ -69,4 +69,4 @@ def post_comment():
     return 'OK'
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
