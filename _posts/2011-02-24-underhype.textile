@@ -1,6 +1,6 @@
 ---
 language: en
-layout: comment
+layout: quote
 canonical: http://www.joelonsoftware.com/articles/fog0000000017.html
 author: Joel Spolsky
 ---

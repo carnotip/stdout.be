@@ -12,7 +12,7 @@ I'm happy to be able to introduce Extendables, a little framework I've built for
 
 ExtendScript is great to automate the heck out of image manipulations or print layouts, or to add entirely new features to, say, InDesign or AfterEffects. It's great, but it also has a lot of rough edges and a couple of missing parts. Extendables is some much-needed polish.
 
-ExtendScript doesn't have an easy way to connect to web apps, unless you happen to enjoy socket programming. Extendables, though, has "a pretty good http library":http://extendables.org/docs/packages/http/doc/readme.html . There's unit testing. There's logging. There's a library for UI development. And in general, Extendables cuts down on a lot of verbosity and boilerplate code, by adding a sizable amount of new methods to arrays, strings and objects.
+ExtendScript doesn't have an easy way to connect to web apps, unless you happen to enjoy socket programming. Extendables, though, has "a pretty good http library":http://extendables.org/docs/packages/http/doc/readme.html. There's unit testing. There's logging. There's a library for UI development. And in general, Extendables cuts down on a lot of verbosity and boilerplate code, by adding a sizable amount of new methods to arrays, strings and objects.
 
 Extendables takes some cues from Ruby and Python, with some "CommonJS":http://www.commonjs.org/ and a "jQuery":http://jquery.com/ feel thrown in. The first public release is 0.3a, which means it's still experimental and a lot could still change. That said, I'm quite excited about how it works and what it does already.
 
