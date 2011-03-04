@@ -8,8 +8,8 @@
 
 <div>
     {% for comment in comments %}
-    <article class="comment">
-        <header class="comment-about {% if comment.author == 'Stijn Debrouwere' %}by-author{% endif %}">
+    <article class="comment {% if comment.author == 'Stijn Debrouwere' %}by-author{% endif %}">
+        <header class="comment-about">
             <time class="comment-meta">{{ comment.date.year }}-{{ comment.date.month }}-{{ comment.date.day }}</time>
             <img src="{{ comment.gravatar_url(80) }}" />
         </header>
