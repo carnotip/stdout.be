@@ -1,0 +1,18 @@
+---
+language: en
+layout: comment
+categories:
+    - journalism
+canonical: http://www.niemanlab.org/2011/03/matt-waite-to-build-a-digital-future-for-news-developers-have-to-be-able-to-hack-at-the-core-of-the-old-ways/#comment-162480116
+context: Matt Waite is disappointed because experimentation in newsrooms is limited to everything that's far, far away from the CMS and the core product. I am too, but it's not vendors' fault.
+---
+
+bq. The amount of customization, the amount of experimentation, the amount of journalism that would have to go on to make that work is impossible for a vendor selling a product to do.
+
+To some extent, yes, though a CMS with enough extension points (a plugin system, an API, webhooks, whatever) could fit into a broader news product like the one you describe, Matt.
+
+The reason such flexibility to mesh a CMS with more app-like functionality isn't happening, and the reason all news (and regular) CMSes are still based around that big ol' blob of text has more to do with the fact that vendors are basing their product on the feedback they get from executives at news organizations than with technical impossibility.
+
+News execs, as a rule, don't care about structured information, database applications and new story forms. They might smell some money in new story forms and new ways to engage an audience somewhere down the line, but not enough and not soon enough to put serious money into any such system. So what's the incentive for vendors to build anything like that?
+
+It needs to get worse before it'll get better, I think.
