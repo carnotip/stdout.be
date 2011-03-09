@@ -258,7 +258,9 @@ Taking things one step further, if you provide topical pages for locations, pers
 
 !/images/content/2010-04-07-topic-page-nyt.png(Topic pages are a wonderful way to go beyond daily reporting. They can also be an enticement to reporters who are wondering why they should care about all this tagging and relationship nonsense.)!
 
-Beat reporters will need even less encouragement to make use of relationships. Relationships can serve as an internal tool to keep track of a beat. Reporters can keep an overview of their field and share that knowledge with fellow reporters. We're not there yet, but hopefully we can someday get to the point where a content management system stops being a mere tool to publish to the web, and becomes a digital notebook that aids journalists in their work.h2. In summation
+Beat reporters will need even less encouragement to make use of relationships. Relationships can serve as an internal tool to keep track of a beat. Reporters can keep an overview of their field and share that knowledge with fellow reporters. We're not there yet, but hopefully we can someday get to the point where a content management system stops being a mere tool to publish to the web, and becomes a digital notebook that aids journalists in their work.
+
+h2. In summation
 
 *Tags are labels without any context.* Tags are vague, and it's difficult to tag content consistently.
 
