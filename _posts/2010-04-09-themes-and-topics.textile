@@ -20,7 +20,7 @@ However, while talking about the future of metadata, I carefully sidestepped a t
 
 h3. Taming topics
 
-One requirement of a good categorization scheme in particular is a bit more difficult to fulfill for topics than it is for, say, organizations or locations. Namely that it should be easy to tag our content consistently. If you're specifying a relationship to John Smith, it's beyond obvious that you want the relationship to point _to that person_ . But if you've just written an article about strife in Bosnia, how would you tag that? Bosnian muslims, religious strife, geopolitical conflicts, war, conflict, politics? Or maybe all of the above?
+One requirement of a good categorization scheme in particular is a bit more difficult to fulfill for topics than it is for, say, organizations or locations. Namely that it should be easy to tag our content consistently. If you're specifying a relationship to John Smith, it's beyond obvious that you want the relationship to point _to that person_. But if you've just written an article about strife in Bosnia, how would you tag that? Bosnian muslims, religious strife, geopolitical conflicts, war, conflict, politics? Or maybe all of the above?
 
 How broad or how narrow should a bundle be? How would we indicate that one bundle (religious strife) belongs to another bundle (conflicts)? Do we want to indicate that at all, or is it okay to just tag your article with both @religious strife@ and @conflict@ and be done with it?
 
@@ -36,7 +36,7 @@ Because topics serve to cluster news stories together in sets, we can't just rep
 
 Tree structures make it really easy to be comprehensive in your tagging efforts. Provided you have well-cared for tag hierarchies in place, tagging a piece of content with the themegenetically modified cropswill, by association, also mean that it will be tagged with its parent categoriescrop science,engineering,agriculture,environmentand so on.
 
-I like schemes that are _forgiving of forgetfulness_ . Hierarchies are forgiving if anything is: associated tags can very often make up for oversights in tagging. It just doesn't matter if an editor writing a piece on Monsanto forgets to tag his article withenvironment, because he's probably tagged it withgenetically modified organisms,agricultureor one of a host of other related tags, which all haveenvironmentas a parent term.
+I like schemes that are _forgiving of forgetfulness_. Hierarchies are forgiving if anything is: associated tags can very often make up for oversights in tagging. It just doesn't matter if an editor writing a piece on Monsanto forgets to tag his article withenvironment, because he's probably tagged it withgenetically modified organisms,agricultureor one of a host of other related tags, which all haveenvironmentas a parent term.
 
 h3. Curation is for computers
 
@@ -48,7 +48,7 @@ Ordering topics in hierarchies might not look as easy as the appealing tag-based
 
 h3. Polyhierarchy
 
-But placing topics in a tree brings its own challenge. To which supercategory does the topic "Christian schools" belong — education or religion? Luckily it's a problem that is easily solved. Just allow a topic to have more than one parent category. That's not possible in the physical world where every item has to be in one bucket and one bucket only, but it's perfectly possible in the digital world. Information architects call it polyhierarchy, mathematicians and computer scientists call it "directed acyclic graphs":http://en.wikipedia.org/wiki/Directed_acyclic_graph .
+But placing topics in a tree brings its own challenge. To which supercategory does the topic "Christian schools" belong — education or religion? Luckily it's a problem that is easily solved. Just allow a topic to have more than one parent category. That's not possible in the physical world where every item has to be in one bucket and one bucket only, but it's perfectly possible in the digital world. Information architects call it polyhierarchy, mathematicians and computer scientists call it "directed acyclic graphs":http://en.wikipedia.org/wiki/Directed_acyclic_graph.
 
 !/images/content/2010-04-09-dag.png(Topics are trees. Or directed acyclic graphs, to be exact.)!
 

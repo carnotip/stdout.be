@@ -50,7 +50,7 @@ h2. The Sadness of Search
 
 Our readers often "don't know exactly what they're looking for":http://www.guardian.co.uk/technology/2007/apr/10/news.newmedia . Perhaps more importantly, people who land on on our site from Google don't know about all the great similar content they could find if only they'd stick with our site for just a bit longer. Which is why "most news websites still generate no more than a measly 15 pageviews per unique visitor":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/ "per month":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/. We need to get readers to the content they would like to see as fast and as effortlessly as possible, keep them engaged for longer when they've found that content, and point them in the right direction when they ask for either context, related or similar content.
 
-!/images/content/2010-04-29-joy-of-search-1024x366.png(© Peter Morville and Jeffery Callender)!
+!/images/content/2010-04-29-joy-of-search.png(© Peter Morville and Jeffery Callender)!
 
 Getting people to the content they want to see, using the search functionality your average newspaper website has on offer, is not exactly what I'd describe as fast or effortless. Full-text search can be a daunting experience.
 
@@ -58,7 +58,9 @@ bq. Poor search wastes time like a crooked street sign that sends us in the wron
 
 Full-text search is the web equivalent of searching for your keys. They could be anywhere. Your surroundings give no indication whatsoever of where they are to be found. Keys are small so it's like finding a needle in a haystack. Before long you'll be second-guessing yourself and kicking yourself in the head because you probably didn't search your jacket pockets thoroughly enough. Even though you've rummaged through them twice, earlier. _Ahhhrr_.
 
-As I mentioned, we can try to make full-text search as palatable as possible, but part of our strategy should be to make search superfluous in most scenarios where people hope to find more or other information on a certain topic. That means preemptive contextualization, blended search-and-navigation, and assorted methods that humanize the search experience.h2. Preemptive contextualization
+As I mentioned, we can try to make full-text search as palatable as possible, but part of our strategy should be to make search superfluous in most scenarios where people hope to find more or other information on a certain topic. That means preemptive contextualization, blended search-and-navigation, and assorted methods that humanize the search experience.
+
+h2. Preemptive contextualization
 
 Preemptive contextualization. Whew, now that's a mouthful. What it comes down to is that *search is often very predictable* : people search for the same kinds of things, and have the same kinds of questions. Predictable means avoidable. Don't make people use a search engine to get answers to questions like:
 
@@ -84,14 +86,14 @@ Primary navigation and secondary navigation should go together like toast and bu
 * analytics that give insight into how users click through your site
 * AB-testing to make sure any enhancements you make along the way actually work
 
-!/images/content/2010-04-29-texas-tribune-alt-nav.png(The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?)!
+!/images/content/2010-04-14-texas-tribune-alt-nav.png(The Texas Trib complements its primary navigation with the ability to browse content by author or by topic. How neat would it be if we could also browse by mood or by genre?)!
 
 Most improvements we can make with preemptive contextualization are not site-wide, however, but depend on the kind of page that prompted the (type of) question in the first place. We should evaluate and enhance each type of page separately, and think about frequently asked questions we need to suggest the answers to, even before readers have asked these questions. *The homepage* is becoming less important than it used to be, but it still gets a huge amount of traffic that we can't afford to mess with. Here are some common questions on the homepage:
 
 * _Wow, I'm overwhelmed. What's on offer? Do you have a map?_ — We need some sort of a sitemap that acts as a gateway to our content and is broader than our primary navigation.
 * _Hmm, do you happen to have any reporting about banking reform? I thought that was all over the news?_ — We need deep links to the topics that are currently on people's mind and that are being talked about.
 
-!/images/content/2010/04-spokane-topical-navigation.png(The Spokesman-Review provides a nice example of navigation that allows people to explore what's on offer in a few different ways: by topic, by timing, by place or by medium. Ryan Pitts reports mixed reactions by readers. I hope they complement rather than replace their approach with more traditional navigation.)!
+!/images/content/2010-04-29-spokane-topical-navigation.png(The Spokesman-Review provides a nice example of navigation that allows people to explore what's on offer in a few different ways: by topic, by timing, by place or by medium. Ryan Pitts reports mixed reactions by readers. I hope they complement rather than replace their approach with more traditional navigation.)!
 
 *Topic pages* (e.g. about a person) should be able to quickly display and filter associated content by
 
