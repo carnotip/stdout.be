@@ -125,7 +125,7 @@ If we can't preempt search, maybe we can improve the experience by providing int
 
 Faceted search is probably the blended experience you're most familiar with. Enter a search query, and then refine the results using a dynamically generated menu.
 
-!/images/content/2010-04-29-time-magazine-faceted-search.png(One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine.)!
+!/images/content/2010-04-14-time-magazine-faceted-search.png(One of the benefits of storing not just the text but also the properties of a story, like its genre and theme, is that they provide all you need for a faceted search engine.)!
 
 But nothing's for free. Faceted search needs _facets_: ways of splitting up search results into meaningful categories. Rich metadata and a well thought-out categorization scheme is a prequisite.
 
