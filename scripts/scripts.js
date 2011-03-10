@@ -76,7 +76,7 @@ $(document).ready(function () {
     // hide honeypot (avoids spam submissions)
     $("form .suikerklontje").hide();
     // ajaxy comment posting
-    $("form").submit(post_comment)
+    $("form").submit(post_comment);
     
     // hide all permalinks
     $("a.permalink").hide();

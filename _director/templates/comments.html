@@ -12,4 +12,21 @@
     {% endfor %}
 </div>
 
-<>
+<form method="POST" action="/comments/">
+    <input type="hidden" name="post" value="{{ permalink }}" />
+    <input type="text" name="suikerklontje" />
+    
+    <label for="author">name</label>
+    <input type="text" name="author" />
+    <br />
+    <label for="email">e-mail <em>(won't be published)</em></label>
+    <input type="text" name="email" />
+    <br />
+    <label for="website">website</label>
+    <input type="text" name="website" />
+    <br />
+    <label for="content">your thoughts</label>
+    <textarea name="content"></textarea>
+    
+    <input type="submit" name="submit" value="Submit comment" />
+</form>

@@ -36,14 +36,14 @@ class Comment(db.Model):
         
         return False
 
-    def __init__(self, post, author, email, content, website=None, date=datetime.now(), honeypot=''):    
+    def __init__(self, post, author, email, content, website=None, date=datetime.now(), suikerklontje='', **kwargs):    
         self.post = post
         self.author = author
         self.email = email
         self.content = content
         self.website = website
         self.date = date
-        self.honeypot = honeypot
+        self.honeypot = suikerklontje
 
     @property
     def content_html(self):
@@ -68,20 +68,18 @@ def posts():
 def comments():
     permalink = request.args.get('permalink')
     matches = Comment.query.filter_by(post=permalink).all()
-    return render_template('comments.html', comments=matches)
+    return render_template('comments.html', comments=matches, permalink=permalink)
 
-#@app.route("/comments/", methods=['POST'])
+@app.route("/comments/", methods=['POST'])
 def post_comment():
-    data = {
-        "post": request.args.get('permalink'), 
-        "author": request.args.get('author'), 
-        "email": request.args.get('email'), 
-        "content": request.args.get('content'), 
-        "website": request.args.get('website'), 
-        "honeypot": request.args.get('suikerklontje'),
-        }
-    
+    # transforms a multidict into a regular dict
+    data = {}
+    for key in request.form:
+        data[key] = request.form[key]
+
     comment = Comment(**data)
+    
+    print comment.__dict__
     
     if comment.is_valid:
         db.session.add(comment)
@@ -91,4 +89,4 @@ def post_comment():
         return '', 400
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
