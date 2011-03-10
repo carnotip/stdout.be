@@ -1,0 +1,34 @@
+---
+layout: post
+language: nl
+title: Expertise
+categories:
+    - journalism
+summary: Wat is de waarde van een journalist?
+---
+
+Is het eerste woord waaraan je denkt, als je denkt aan een journalist, het woord "expert"?
+
+bq. Pol Deltour, nationaal secretaris van de Vlaamse Vereniging van Journalisten (VVJ), vindt dat de media moeten opletten met stukken die de lezers insturen. "Regionaal kan dit, maar als je op hoger niveau gaat rapporteren zal het waarschijnlijk toch wat meer expertise vragen", vindt Deltour. "Het belangrijkste is dat de rol van de burger beperkt blijft tot die van informant. Voor het echte journalistieke werk moet er toch steeds een journalist aan het roer staan. Of een redactie die sterk controleert." ("Apache":http://www.apache.be/nvdr/2011/03/08/belang-van-limburg-pikt-format-van-internetgazet/)
+
+Als ik denk aan journalisten, dan denk ik aan mensen die waardevol zijn net omdat ze een manusje-van-alles zijn. Goede schrijfstijl, kritisch vermogen, een waardevol adresboek, iemand met kennis van zo'n beetje vanalles. Soms gespecialiseerd in buitenland, onderwijs of economie, maar zelfs onder die groep zie je journalisten voortdurend op zoek gaan naar de volgende uitdaging of naar een fris onderwerp om hun tanden in te bijten. En dan moet je al chance hebben, want je mogen specialiseren in pakweg economie of theater is een voorrecht, geen evidentie.
+
+Dus, laat ons eerlijk zijn, welke expertise heeft de gemiddelde journalist? Kunnen schrijven? Kunnen bellen? Zoektermen kunnen intikken in Google?
+
+"All we do is ask questions and type and occasionally turn a phrase." "in de woorden van Katherine Boo":http://www.uvm.edu/~tstreete/MediaCultureUVM/jschool_critique.html.
+
+Een veel betere manier om de boel te bekijken is "journalism = access":http://adamwestbrook.wordpress.com/2010/05/04/journalism-is/. Een journalist is geen expert, maar is waardevol omdat een perskaart deuren opent. Een journalist heeft toegang tot deskundigen, informanten en politici, en genoeg kennis van zake om nonsens van rede te onderscheiden. Hopelijk ook genoeg tijd, al valt dat vaak tegen.
+
+Een adresboek is een journalist z'n machtigste wapen.
+
+Het belang van toegang tot dingen waar andere mensen géén toegang toe hebben, toont meteen aan dat er ruimte is in de media voor meer dan enkel professionele journalisten. Journalisten zijn niet de enige met toegang tot personen en informatie. Niet de enige met een perspectief dat de moeite waard is.
+
+Er is ruimte voor "wetenschappers, zakenlui en het middenveld":http://stdout.be/2010/07/12/wie-heeft-nog-journalisten-nodig/ zèlf om ons te informeren.
+
+Ruimte voor burgers om ons een kijk te geven op een gemeenschap die een "parachutejournalist":http://en.wikipedia.org/wiki/Parachute_journalism nooit kan evenaren.
+
+En ruimte voor techneuten om "via data":http://www.hackdeoverheid.nl/ dingen te tonen die het gros van journalisten, wiskundig nooit de grootste lichten geweest, in angstzweet zou doen uitbreken.
+
+5% van alle journalisten kan een carrière maken als expert. Als jij niet tot die vijf procent behoort, denk je beter eens na over wat je wél uniek en waardevol maakt. Liefst voor je zonder job zit.
+
+Pol Deltour is nu ook niet zo machtig dat hij de toekomst kan tegenhouden.

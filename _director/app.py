@@ -21,7 +21,19 @@ class Comment(db.Model):
     # to say "x time ago" or adapt the time to the user's timezone
     date = db.Column(db.DateTime)
 
-    def __init__(self, post, author, email, content, website=None, date=datetime.now()):
+    # todo
+    def check_if_spam(self):
+        return False
+
+    @property
+    def is_valid(self):
+        if self.post and self.author and self.email and self.content and self.date:
+            if not self.check_if_spam():
+                return True
+        
+        return False
+
+    def __init__(self, post, author, email, content, website=None, date=datetime.now()):    
         self.post = post
         self.author = author
         self.email = email
@@ -57,16 +69,21 @@ def comments():
 #@app.route("/comments/", methods=['POST'])
 def post_comment():
     data = {
-        "post": request.args.get('permalink'),
-        "author": request.args.get('author'),
+        "post": request.args.get('permalink'), 
+        "author": request.args.get('author'), 
         "email": request.args.get('email'), 
         "content": request.args.get('content'), 
         "website": request.args.get('website'), 
         }
-    #comment = Comment(**data)
-    #db.session.add(comment)
-    #db.session.commit()
-    return 'OK'
+    
+    comment = Comment(**data)
+    
+    if comment.is_valid:
+        db.session.add(comment)
+        db.session.commit()
+        return '', 201
+    else:
+        return '', 400
 
 if __name__ == "__main__":
     app.run(debug=False)

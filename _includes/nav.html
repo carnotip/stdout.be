@@ -1,0 +1,13 @@
+<ul class="menu top inline">
+{% if page.language == 'en' %}
+    <li><a {% if page.realm == 'blog' %}class="active" {% endif %}href="/en/" class="blog">→ blog</a></li>
+    <li><a {% if page.realm == 'services' %}class="active" {% endif %}href="/en/services/" class="work">→ services</a></li>
+    <li><a {% if page.realm == 'contact' %}class="active" {% endif %}href="/en/contact/" class="contact">→ get in touch</a></li>
+    <li><a {% if page.realm == 'about-me' %}class="active" {% endif %}href="/en/about-me/" class="about-me">→ about me</a></li>
+{% else %}
+    <li><a {% if page.realm == 'blog' %}class="active" {% endif %}href="/nl/" class="blog">→ blog</a></li>
+    <li><a {% if page.realm == 'services' %}class="active" {% endif %}href="/nl/diensten/" class="work">→ diensten</a></li>
+    <li><a {% if page.realm == 'contact' %}class="active" {% endif %}href="/nl/contact/" class="contact">→ contacteer me</a></li>
+    <li><a {% if page.realm == 'about-me' %}class="active" {% endif %}href="/nl/over-mij/" class="about-me">→ over mij</a></li>
+{% endif %}
+</ul>
