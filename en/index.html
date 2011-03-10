@@ -12,29 +12,7 @@ realm: blog
 <div id="writing" class="inset content">
     <div class="centered">
         <h2>Latest writing <a href="" class="switch" style="display: none;">↔ most popular</a></h2>
-        <div class="filter tk-ff-netto-web" style="border: 1px solid #ccc; display: inline-block; margin-bottom: 15px; padding: 5px 0 5px 10px;">
-            <input type="checkbox" checked="checked" id="show-post" /> <label for="show-post">blogposts</label>
-            <input type="checkbox" checked="checked" id="show-guestpost" /> <label for="show-guestpost">guest posts</label>
-            <input type="checkbox" checked="checked" id="show-review" /> <label for="show-review">reviews</label>
-            <input type="checkbox" checked="checked" id="show-print" /> <label for="show-print">print</label>
-            <input type="checkbox" id="show-talk" /> <label for="show-talk">talks</label>
-            <input type="checkbox" id="show-comment" /> <label for="show-comment">comments</label>
-            <input type="checkbox" id="show-quote" checked="checked" id="show-quote" /> <label for="show-quote">quotes</label>
-            <span style="display: inline-block; padding: 5px 10px; margin: -5px 0 -5px 10px; background: #bbb;"><input type="checkbox" checked="checked" class="toggle" /></span>
-        </div>
-        <table>
-            {% for post in site.posts %}
-                {% if post.layout == 'post' and post.canonical %}
-                    {% assign type = 'guestpost' %}
-                {% else %}
-                    {% assign type = post.layout %}
-                {% endif %}
-                <tr>
-                    <td><a href="" class="badge {{ type }}" title="Show every {{ type }}">{{ type }}</a></td>
-                    <td><a href="{{ post.url }}#summary">{{ post.title }}</a></td>
-                </tr>
-            {% endfor %}
-        </table>
+        {% include latest.html %}
     </div>
 </div>
 

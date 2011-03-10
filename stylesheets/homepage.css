@@ -42,3 +42,5 @@ a.badge {
     background: #7aa3f7; }
   a.badge.review {
     background: #99aa64; }
+  a.badge.quote {
+    background: #d3b24f; }

@@ -4,7 +4,7 @@ language: nl
 title: Expertise
 categories:
     - journalism
-summary: Wat is de waarde van een journalist?
+summary: Wat maakt een journalist zo waardevol?
 ---
 
 Is het eerste woord waaraan je denkt, als je denkt aan een journalist, het woord "expert"?
@@ -23,12 +23,12 @@ Een adresboek is een journalist z'n machtigste wapen.
 
 Het belang van toegang tot dingen waar andere mensen géén toegang toe hebben, toont meteen aan dat er ruimte is in de media voor meer dan enkel professionele journalisten. Journalisten zijn niet de enige met toegang tot personen en informatie. Niet de enige met een perspectief dat de moeite waard is.
 
-Er is ruimte voor "wetenschappers, zakenlui en het middenveld":http://stdout.be/2010/07/12/wie-heeft-nog-journalisten-nodig/ zèlf om ons te informeren.
+Er is ruimte voor wetenschappers, zakenlui en het middenveld om "zelf aan journalistiek te doen":http://stdout.be/2010/07/12/wie-heeft-nog-journalisten-nodig/.
 
 Ruimte voor burgers om ons een kijk te geven op een gemeenschap die een "parachutejournalist":http://en.wikipedia.org/wiki/Parachute_journalism nooit kan evenaren.
 
 En ruimte voor techneuten om "via data":http://www.hackdeoverheid.nl/ dingen te tonen die het gros van journalisten, wiskundig nooit de grootste lichten geweest, in angstzweet zou doen uitbreken.
 
-5% van alle journalisten kan een carrière maken als expert. Als jij niet tot die vijf procent behoort, denk je beter eens na over wat je wél uniek en waardevol maakt. Liefst voor je zonder job zit.
+5% van alle journalisten kan een carrière maken als expert. Als jij niet tot die vijf procent behoort, denk je beter eens na over wat je wél uniek en waardevol maakt, en hoe je past in een wereld waar iedereen en zijn kat aan berichtgeving kan doen. Liefst voor je zonder job zit.
 
 Pol Deltour is nu ook niet zo machtig dat hij de toekomst kan tegenhouden.

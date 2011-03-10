@@ -36,23 +36,8 @@ function redraw_latest_writing (checked) {
         return false;
 }
 
-$(document).ready(function () {
-    hide_comments();
-    
-    $("div.comment").hover(function () {
-        $(this).find("a.permalink").show();
-    }, function () {
-        $(this).find("a.permalink").hide();        
-    });
-
-    var toggle = $("div.filter input.toggle");
-    var checkboxes = $("div.filter input:enabled").not("input.toggle");
-
-    redraw_latest_writing(checkboxes);
-
-    toggle.click(toggle_all);
-    
-    checkboxes.add(toggle).click(function () {
+function filter_toggle (checkboxes, toggle) {
+    return function(){
         // filter rows
         redraw_latest_writing(checkboxes);
         
@@ -67,5 +52,27 @@ $(document).ready(function () {
         } else {
             toggle.attr("checked", false)
         }
+    }
+}
+
+$(document).ready(function () {
+    hide_comments();
+    
+    // hide all permalinks
+    $("a.permalink").hide();
+    
+    // show a permalink when hovering over a comment
+    $("div.comment").hover(function () {
+        $(this).find("a.permalink").show();
+    }, function () {
+        $(this).find("a.permalink").hide();        
     });
+
+    // manage / instantiate the toggling mechanism
+    var toggle = $("div.filter input.toggle");
+    var checkboxes = $("div.filter input:enabled").not("input.toggle");
+    
+    redraw_latest_writing(checkboxes);
+    toggle.click(toggle_all);    
+    checkboxes.add(toggle).click(filter_toggle(checkboxes, toggle));
 });
