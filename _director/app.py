@@ -21,9 +21,12 @@ class Comment(db.Model):
     # to say "x time ago" or adapt the time to the user's timezone
     date = db.Column(db.DateTime)
 
-    # todo
+    # we may want to implement a more sophisticated spam deterrent in the future
     def check_if_spam(self):
-        return False
+        if self.honeypot:
+            return True
+        else:
+            return False
 
     @property
     def is_valid(self):
@@ -33,13 +36,14 @@ class Comment(db.Model):
         
         return False
 
-    def __init__(self, post, author, email, content, website=None, date=datetime.now()):    
+    def __init__(self, post, author, email, content, website=None, date=datetime.now(), honeypot=''):    
         self.post = post
         self.author = author
         self.email = email
         self.content = content
         self.website = website
         self.date = date
+        self.honeypot = honeypot
 
     @property
     def content_html(self):
@@ -74,6 +78,7 @@ def post_comment():
         "email": request.args.get('email'), 
         "content": request.args.get('content'), 
         "website": request.args.get('website'), 
+        "honeypot": request.args.get('suikerklontje'),
         }
     
     comment = Comment(**data)
@@ -81,7 +86,7 @@ def post_comment():
     if comment.is_valid:
         db.session.add(comment)
         db.session.commit()
-        return '', 201
+        return render_template('comment.html', comment=comment), 201
     else:
         return '', 400
 

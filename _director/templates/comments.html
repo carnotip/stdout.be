@@ -6,18 +6,9 @@
     {% endif %}
 </h2>
 
-<div>
+<div class="list">
     {% for comment in comments %}
-    <article class="comment {% if comment.author == 'Stijn Debrouwere' %}by-author{% endif %}">
-        <header class="comment-about">
-            <time class="comment-meta">{{ comment.date.year }}-{{ comment.date.month }}-{{ comment.date.day }}</time>
-            <img src="{{ comment.gravatar_url(80) }}" />
-        </header>
-        <div class="comment-content">
-            <div class="comment-author">{% if comment.website %}<a href="{{ comment.website }}">{{ comment.author }}</a>{% else %}{{ comment.author }}{% endif %} <a href="#comment-{{comment.id}}" class="permalink">¶</a></div>
-            {{ comment.content_html|safe }}
-        </div>
-    </article>
+    {% include "comment.html" %}
     {% endfor %}
 </div>
 

@@ -55,8 +55,28 @@ function filter_toggle (checkboxes, toggle) {
     }
 }
 
+function post_comment () {
+    // avoids people posting something twice
+    $('form input').disable()
+    // ajax post
+    $.post("/director/comments/", $(this).serialize(), function(response, status){
+        if (status == 201) {
+            $("#comments div.list").append(response).hide().fadeIn();
+            $("form").remove();
+        } else {
+            $("form").addClass("invalid");
+        }
+    });
+    return false;
+}
+
 $(document).ready(function () {
+    // hide comments, and only show them when a reader has reached the bottom of the blog post
     hide_comments();
+    // hide honeypot (avoids spam submissions)
+    $("form .suikerklontje").hide();
+    // ajaxy comment posting
+    $("form").submit(post_comment)
     
     // hide all permalinks
     $("a.permalink").hide();
