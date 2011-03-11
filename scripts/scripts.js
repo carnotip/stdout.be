@@ -61,7 +61,7 @@ function post_comment () {
     $('form input, form textarea').attr('disabled', 'disabled');
     // ajax post
     $.post("/director/comments/", data, function(response, status){
-        if (status == '201') {
+        if (status == 'success') {
             $("#comments div.list").append(response).hide().fadeIn();
             $("form").remove();
         } else {
