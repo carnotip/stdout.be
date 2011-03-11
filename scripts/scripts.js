@@ -60,14 +60,13 @@ function post_comment () {
     // avoids people posting something twice
     $('form input, form textarea').attr('disabled', 'disabled');
     // ajax post
-    $.post("/director/comments/", data, function(response, status){
-        if (status == 'success') {
+    $.post("/director/comments/", data)
+        .success(function(response){
             $("#comments div.list").append(response).hide().fadeIn();
             $("form").remove();
-        } else {
+        }).error(function(response){
             $("form").addClass("invalid");
-        }
-    });
+        });
     return false;
 }
 
