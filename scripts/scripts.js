@@ -58,7 +58,7 @@ function filter_toggle (checkboxes, toggle) {
 function post_comment () {
     var data = $(this).serialize();
     // avoids people posting something twice
-    $('form input, form textarea').attr('disabled', 'disabled');
+    $('form input, form textarea').attr('disabled', true);
     // ajax post
     $.post("/director/comments/", data)
         .success(function(response){
@@ -66,6 +66,7 @@ function post_comment () {
             $("form").remove();
         }).error(function(response){
             $("form").addClass("invalid");
+            $('form input, form textarea').attr('disabled', false);
         });
     return false;
 }
