@@ -56,11 +56,12 @@ function filter_toggle (checkboxes, toggle) {
 }
 
 function post_comment () {
+    var data = $(this).serialize();
     // avoids people posting something twice
     $('form input, form textarea').attr('disabled', 'disabled');
     // ajax post
-    $.post("/director/comments/", $(this).serialize(), function(response, status){
-        if (status == 201) {
+    $.post("/director/comments/", data, function(response, status){
+        if (status == '201') {
             $("#comments div.list").append(response).hide().fadeIn();
             $("form").remove();
         } else {

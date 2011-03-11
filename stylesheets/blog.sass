@@ -149,8 +149,12 @@ div#comments
         background: lighten($slate, 30%)
         outline: none
 
-    &.invalid input[type='text'], textarea
-      border: 2px solid #c33
+    &.invalid
+      input[type='text'], textarea
+        border: 2px solid #c33
+        
+        &:focus
+          border: 2px solid #c33
 
 article#post
   div
