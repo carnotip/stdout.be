@@ -113,6 +113,42 @@ div#comments
     &.comment-author
       color: $cerise
 
+  form
+    em
+      padding-left: 5px
+      color: #aaa  
+
+    input[name='suikerklontje']
+      display: none
+    
+    input[type='submit']
+      margin-left: 125px
+    
+    label
+      @include netto(12pt)
+      display: inline-block
+      text-align: right
+      width: 110px
+      padding: 4px 10px 4px 0
+      vertical-align: top
+
+      span
+        border-bottom: 1px solid $silver
+
+    input[type='text'], textarea
+      color: #222
+      border: 2px solid #ddd
+      padding: 4px
+      font-size: 1em
+      font-family: Monaco, fixed
+      width: 445px
+      margin: 2px 0 4px 0
+
+      &:focus
+        border-color: $slate
+        background: lighten($slate, 30%)
+        outline: none
+
 article#post
   div
     width: 550px

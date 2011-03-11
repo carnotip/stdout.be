@@ -1,5 +1,7 @@
 <h2>
-    {% if comments|length == 1 %}
+    {% if comments|length == 0 %}
+        be the first to comment    
+    {% elif comments|length == 1 %}
         1 comment
     {% else %}
         {{ comments|length }} comments
@@ -16,17 +18,17 @@
     <input type="hidden" name="post" value="{{ permalink }}" />
     <input type="text" name="suikerklontje" />
     
-    <label for="author">name</label>
+    <label for="author"><span>name</span></label>
     <input type="text" name="author" />
     <br />
-    <label for="email">e-mail <em>(won't be published)</em></label>
-    <input type="text" name="email" />
+    <label for="email"><span>e-mail</span></label>
+    <input type="text" name="email" /> <em>(won't be published)</em>
     <br />
-    <label for="website">website</label>
+    <label for="website"><span>website</span></label>
     <input type="text" name="website" />
     <br />
-    <label for="content">your thoughts</label>
+    <label for="content"><span>your thoughts</span></label>
     <textarea name="content"></textarea>
-    
+    <br />        
     <input type="submit" name="submit" value="Submit comment" />
 </form>

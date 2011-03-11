@@ -106,6 +106,37 @@ div#comments {
     border-left: 1px dotted #ca2c6f; }
   div#comments .by-author div.comment-author {
     color: #ca2c6f; }
+  div#comments form em {
+    padding-left: 5px;
+    color: #aaaaaa; }
+  div#comments form input[name='suikerklontje'] {
+    display: none; }
+  div#comments form input[type='submit'] {
+    margin-left: 125px; }
+  div#comments form label {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: 12pt;
+    line-height: 1;
+    margin: 0.35em 0;
+    display: inline-block;
+    text-align: right;
+    width: 110px;
+    padding: 4px 10px 4px 0;
+    vertical-align: top; }
+    div#comments form label span {
+      border-bottom: 1px solid #eeeeee; }
+  div#comments form input[type='text'], div#comments form textarea {
+    color: #222222;
+    border: 2px solid #dddddd;
+    padding: 4px;
+    font-size: 1em;
+    font-family: Monaco, fixed;
+    width: 445px;
+    margin: 2px 0 4px 0; }
+    div#comments form input[type='text']:focus, div#comments form textarea:focus {
+      border-color: #a0b0c0;
+      background: #fcfcfd;
+      outline: none; }
 
 article#post div {
   width: 550px;
