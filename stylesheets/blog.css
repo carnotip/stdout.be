@@ -137,8 +137,10 @@ div#comments {
       border-color: #a0b0c0;
       background: #fcfcfd;
       outline: none; }
-  div#comments form.invalid input[type='text'], div#comments form textarea {
+  div#comments form.invalid input[type='text'], div#comments form.invalid textarea {
     border: 2px solid #cc3333; }
+    div#comments form.invalid input[type='text']:focus, div#comments form.invalid textarea:focus {
+      border: 2px solid #cc3333; }
 
 article#post div {
   width: 550px;
