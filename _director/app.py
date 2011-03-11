@@ -79,8 +79,6 @@ def post_comment():
 
     comment = Comment(**data)
     
-    print comment.__dict__
-    
     if comment.is_valid:
         db.session.add(comment)
         db.session.commit()
