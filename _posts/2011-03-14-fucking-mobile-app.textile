@@ -4,6 +4,7 @@ language: en
 title: A sad anachronism
 canonical: http://techcrunch.com/2011/03/13/the-city-by-the-meh-thoughts-on-falling-out-of-love-with-the-valley/
 context: Why are so many of the most successful consumer startups also so unimaginably vapid?
+author: Paul Carr
 categories:
     - tech & society
 ---
