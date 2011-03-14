@@ -1,0 +1,11 @@
+---
+layout: quote
+language: en
+title: A sad anachronism
+canonical: http://techcrunch.com/2011/03/13/the-city-by-the-meh-thoughts-on-falling-out-of-love-with-the-valley/
+context: Why are so many of the most successful consumer startups also so unimaginably vapid?
+categories:
+    - tech & society
+---
+
+For all those reasons, I’m not sure SXSW would have the same draw for me today. It seems like a sad anachronism: a gathering for those who care less about world-changing products and services, and more about the latest fucking location fucking based fucking mobile fucking app.
