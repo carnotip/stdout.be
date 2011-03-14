@@ -1,0 +1,21 @@
+---
+layout: post
+language: en
+categories:
+    - coding
+title: A sudden realization about NoSQL
+summary:
+    Maybe there's something to this NoSQL tomfoolery after all.
+---
+
+Nosql. Never been a big fan. Postgres works just fine for me. I'm not developing the next Facebook so I don't need to use the kind of database Facebook uses. I store model data, not "data structures":http://redis.io/. Relational data, not documents.
+
+But yesterday it hit me. Coders have been on a quest for years on end to abstract SQL away, because we want to be able to use the same frame of mind for querying data that we use for manipulating and filtering data in code. It's what object-relational mappers are all about. Who still willingly writes raw SQL?
+
+One of the big reasons SQL databases took off, I'd guess, is because they promised a general, uniform language for asking questions of data. And you can learn that language even if you're not a comp sci grad. Oracle still makes a lot of money on that dream, selling all kinds of reporting tools that, in principle, allow any enterprising person to do useful analysis on your business' data.
+
+But in most apps nowadays, nobody ever accesses the database without going through the application. And most of us would much rather fetch clean, straight-up data and do more processing in code than use SQL to munge, concatenate, split or aggregate data. Why learn learn two ways of slicing and dicing data if you don't have to?
+
+And that's what redeems NoSQL, in my eyes. For those of us not working at Facebook or Amazon, it's not about being better than a SQL database, or even faster or more reliable. It's about a thousand different ways of creating _a coder's database_. No impedance mismatch. No object-relational mapping.
+
+It's fascinating to see how low ORMs are on the list of priorities of _every_ server-side javascript framework, one of the busiest and liveliest new ecosystems and one that doesn't yet know the word "legacy". Why? Well, because why bother; getting started with "MongoDB":http://www.mongodb.org/ is only two lines of code away.
