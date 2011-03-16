@@ -15,7 +15,7 @@ realm: blog
         <div class="content">
             <p class="meta">
                 <time>{{ page.date | date: "%Y/%m/%d" }}</time> in
-                {% for category in page.categories %}<a class="category">{{ category }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}
+                {% for category in page.categories %}<a class="category">{{ category }}</a>{% unless forloop.last %}, {% unless %}{% endfor %}
             </p>
             <h1>{{ page.title }}</h1>
             {% if page.summary %}
