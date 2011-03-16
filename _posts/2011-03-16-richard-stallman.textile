@@ -1,0 +1,34 @@
+---
+layout: post
+language: nl
+categories:
+    - coding
+    - tech & society
+title: Wat open-source was, wat open-source is
+---
+
+bq. If you could write documentation, create a REST or email interface, and build some servers you could put your cool back-end up for people to buy without actually having to give them the software. [Now] the Long Beards could have their revenge. ("Zed Shaw":http://sheddingbikes.com/posts/1286998492.html)
+
+Wat deed een mens tien, vijftien jaar geleden met een stuk zelfgebouwde software? Verkopen? Wel, misschien. Als je zin had om na te denken over distributie, klantenwerving, support, bescherming tegen piraterij en installatie op de laatste drie versies van Windows. Dan, als je geld had om een team te betalen dat al die activiteiten zou ondersteunen, kon je misschien wat geld verdienen aan je noeste arbeid.
+
+Vandaag de dag: "schuim het internet af":https://github.com/search?type=Everything&language=&q=location%3Abelgium naar een partner, koop serverruimte bij "Amazon":http://aws.amazon.com/ec2/, zet een betalingssysteem op met Chargify of Recurly, "scharrel ergens een designer op":http://sortfolio.com/ voor de website die je product moet promoten, en je bent vertrokken. En niet alleen voor eindproducten, je kan net zo goed een dienst verkopen aan je medeprogrammeurs, pakweg "gezichtsherkenning":http://www.face.com" of zo.
+
+Richard Stallman, de goeroe van de vrije software, "wordt daar verdrietig van":http://www.guardian.co.uk/technology/2008/sep/29/cloud.computing.richard.stallman. Cloud computing betekent dat programmeurs niet langer hun software moeten vrijgeven, zelfs niet als die software verderbouwt op andere vrije software. Dat klinkt misschien raar, gezien de vaakgebruikte GPL-licensie eist dat je elk derivaat van een open-source product met diezelfde licensie vrijgeeft. Maar er is een achterpoortje: als alles op jouw servers draait en je dus geen software distribueert, doe je wat je wil. Met als gevolg dat elke schimmige software-ingenieur geld kan verdienen door te teren op andermans werk.
+
+Een lagere instapdrempel om software te verkopen. Minder verplichtingen om derivaat werk te open-sourcen. Zoveel redenen zijn er plots niet meer om een stuk software kosteloos beschikbaar te stellen aan de massa. Waarom zou je? 
+
+Maar dat hoeft allemaal zo slecht niet te zijn.
+
+Bepaalde dingen die men vroeger open-source gemaakt zou hebben, worden nu betalende cloud services. Maar de keerzijde van die munt is dat programmeurs bewuster kiezen voor open-source. Ik toch. Niet omdat ik vrees mijn code niet te kunnen beschermen moest ik ze proberen verkopen. Niet omdat ik geen gigantisch softwarebedrijf wil oprichten. Niet omdat het moeilijk is om andere mensen op de hoogte te brengen van je werk. Daar zijn tegenwoordig oplossingen voor. Maar open-source omdat het voor sommige stukken software nu eenmaal meer steek houdt dan alles voor jezelf te houden.
+
+Dus, goddank, niet langer naar software en softwarebibliotheken zoeken tussen ellendige lijsten vol dode projecten, ooit opgestart uit goede wil maar een paar maanden later alweer in de steek gelaten. Want open-source, in veel gevallen, is geen diep-filosofische smachting daar vrijheid meer. Geen wanhoopspoging om ervoor te zorgen dat je werk geen stof staat te vergaren. Het is een strategie.
+
+Open-source betekent: potentiële hulp van collega's, veel mensen die je code uitproberen en op problemen stoten, credibiliteit die je je volgende job kan bezorgen. Open-source betekent: moeilijke of saaie problemen samen aanpakken.
+
+"Dries Buytaert":http://buytaert.net/ had dus niet honderd procent gelijk toen hij zei, ik ben nu even vergeten waar, dat coders die vijftien jaar geleden aan de Linux-kernel gesleuteld zouden hebben, vandaag meewerken aan een project als Drupal. Ja, er zijn meer mensen die code schrijven die dichter bij de eindgebruiker staat, omdat er gewoon steeds meer programmeurs zijn tout court. Maar tussen de populairste open-source projecten van de laatste jaren zit een heleboel _low-level stuff_: web frameworks, nieuwe programmeertalen zoals "CoffeeScript":http://jashkenas.github.com/coffee-script/, "package managers":http://mxcl.github.com/homebrew/, tools om deployments te automatiseren zoals "Capistrano":https://github.com/capistrano/capistrano en "Chef":http://wiki.opscode.com, testing frameworks, "message queues":http://www.zeromq.org/, nosql-databases en, werkelijk, zo kan je een eind doorgaan.
+
+Open-source is niet dood, maar draait tegenwoordig iets minder om eindproducten en iets meer om bouwblokken. Omdat mensen inzien dat dat het soort software is waarbij breed gebruik, veel ogen en veel developers steek houden. Omdat, bijvoorbeeld, een stukje code om makkelijk te kunnen werken met verschillende tijdszones nu niet bepaald het soort software is waar je als bedrijf echt je competitief voordeel uithaalt of uit wil halen.
+
+En voor de rest betaal ik graag.
+
+Enfin, gelukkige verjaardag, Richard Stallman.
