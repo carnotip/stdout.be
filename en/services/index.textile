@@ -5,7 +5,7 @@ equiv: /nl/diensten/
 realm: services
 ---
 
-p(notice). I've recently joined <a href="http://www.camayak.com">Camayak</a> full-time, so my freelance activities are on hiatus. Thanks for understanding.
+p(notice). I'm currently looking for a new gig, preferably full-time. However, I'm still taking on the odd freelance job, so you can contact me for either.
 
 I work as software developer and information architect. To make sure I'm the best at what I do, I focus all my work on the publishing industry.
 

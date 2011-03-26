@@ -5,7 +5,7 @@ equiv: /en/services/
 realm: services
 ---
 
-p(notice). Ik ben sinds kort als mede-oprichter actief in <a href="http://www.camayak.com">Camayak</a>. Momenteel aanvaard ik dus geen freelance-opdrachten. Dank voor het begrip.
+p(notice). Ik ben momenteel op zoek naar vast werk, maar doe hier en daar ook nog wat freelance-opdrachten. Je kan me dus voor beide contacteren.
 
 Ik werk als softwareontwikkelaar en informatie-architect. Om over voor te zorgen dat ik een kei ben in wat ik doe, werk ik alleen met klanten binnen de mediawereld.
 
@@ -20,4 +20,4 @@ Ik werk als softwareontwikkelaar en informatie-architect. Om over voor te zorgen
 
 h3. mijn werk
 
-Je kan gastbijdrages van mij lezen op Lost Remote, de Online Journalism Blog en mediakritiek.be. Eén van mijn opiniestukjes verscheen onlangs in het 'Hb', een handboek voor studenten journalistiek aan de UvA.
+Je kan gastbijdrages van mij lezen op Lost Remote, de Online Journalism Blog en mediakritiek.be. Eén van mijn opiniestukjes verscheen onlangs in het 'Handboek Crossmediale Journalistiek', een handboek voor studenten journalistiek aan de UvA.
