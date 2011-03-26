@@ -1,5 +1,7 @@
 ---
 layout: quote
+categories:
+    - journalism
 canonical: http://www.mediabistro.com/fishbowlla/voice-of-san-diego-unveils-most-awkward-fundraising-campaign-ever_b25204
 title: Where do you get your money?
 author: Scott Lewis
