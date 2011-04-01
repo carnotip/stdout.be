@@ -1,0 +1,9 @@
+---
+language: en
+layout: quote
+author: Andrew Walkingshaw
+canonical: http://paidcontent.org/article/419-what-comes-after-newspapers-forget-form-its-about-content/
+title: If I care enough about your content
+---
+
+If I care enough about your content, you can give it to me on stone tablets in cuneiform and I’ll find a way to use it. If I care a bit, I’ll go where it’s the right combination of easy, affordable and reliable. (But: if you want me to pay, I’d better be making money or having fun somehow.) If I don’t care at all, there is nothing you can do, not even really nice swipe effects, which will make me care.

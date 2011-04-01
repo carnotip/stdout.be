@@ -125,7 +125,7 @@ Okay, enough pretty pictures for now. As should be obvious by now, yes, most new
 
 They're not ideal. Readers need to be able to grasp in an instance what your magazine or newspaper site has to offer, but also how to get to the content they like. These are conflicting aims. But most newspapers try their best to find a golden mean.
 
-Mixed-criteria navigation can be messy, but _messy is the way it has to be_ . It's tempting to put on a hero suit, storm the newsroom and tell the staff, "henceforth, our navigation will be thematic and thematic only." Except I really _do_ like the fact that most newspapers provide a quick link to their opinion pages — browsing by genre. And I plead guilty, sometimes I _want_ to switch off my brain and peruse the 'bizarre and strange' section of my local newspaper — browsing by mood.
+Mixed-criteria navigation can be messy, but _messy is the way it has to be_. It's tempting to put on a hero suit, storm the newsroom and tell the staff, "henceforth, our navigation will be thematic and thematic only." Except I really _do_ like the fact that most newspapers provide a quick link to their opinion pages — browsing by genre. And I plead guilty, sometimes I _want_ to switch off my brain and peruse the 'bizarre and strange' section of my local newspaper — browsing by mood.
 
 Purity is liable to make the navigation or sectioning in newspapers less useful, not more. And nine different navigational menus for our nine criteria — genre, theme, subject, timing, location, medium, mood, function, interaction — might well upset the delicate sensibilities of the graphical designer tasked with implementing such a scheme. (But I'd love to see someone give it a shot regardless, for experimentation's sake.)
 

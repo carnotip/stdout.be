@@ -1,4 +1,5 @@
 ---
+language: en
 layout: quote
 categories:
     - journalism
