@@ -2,6 +2,8 @@
 language: en
 layout: quote
 author: Andrew Walkingshaw
+categories:
+    - journalism
 canonical: http://paidcontent.org/article/419-what-comes-after-newspapers-forget-form-its-about-content/
 title: If I care enough about your content
 ---
