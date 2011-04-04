@@ -1,0 +1,12 @@
+---
+language: en
+categories:
+    - tech & society
+layout: quote
+author: Seth Godin
+canonical: http://sethgodin.typepad.com/seths_blog/2011/03/compared-to-perfect-the-irrelevance-of-price-for-content.html
+---
+
+In just about all the decisions we make, we consider the price. [...] When it comes to content, though, we rarely compare the experience with other content at a similar price. We compare it to perfect.
+
+People walking out of the afternoon bargain matinee at the movies don't cut the film any slack because it was half price. Critics piling on to a music video on YouTube never mention the fact that HEY IT WAS FREE. There is no thrift store for content.
