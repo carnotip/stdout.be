@@ -56,7 +56,7 @@ h3. If that's so great, how come you ain't rich?
 
 So, if structuring, categorizing and annotating information is so great, why is nobody really doing it?
 
-Well, we are, to some extent! "The Guardian":http://www.guardian.co.uk/ , the "New York Times":http://www.nytimes.com/ and the "Texas Tribune":http://www.texastribune.org/ (courtesy of "Hot Type Consulting":http://www.hottypeconsulting.com/ ) are doing a whole lot more than just publishing stories as big blobs of text, and it shows.
+Well, we are, to some extent! "The Guardian":http://www.guardian.co.uk/ , the "New York Times":http://www.nytimes.com/ and the "Texas Tribune":http://www.texastribune.org/ (courtesy of "Hot Type Consulting":http://www.hottypeconsulting.com/) are doing a whole lot more than just publishing stories as big blobs of text, and it shows.
 
 But why don't we, when we don't? I can think of two reasons.
 

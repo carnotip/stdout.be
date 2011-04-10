@@ -1,0 +1,12 @@
+---
+layout: quote
+language: en
+categories:
+    - coding
+    - journalism
+author: Jemery Zilar
+canonical: http://silencematters.com/2011/04/10/the-heart-of-content-management/
+title: Nobody likes their CMS
+---
+
+As soon as the tools we use to publish our sites start to equal the class, skill and nuance we the writers are expected to put into "the content" on our sites, then we can start to truly consider ourselves publishers in the digital age. Until then, digital will always be second to print.
