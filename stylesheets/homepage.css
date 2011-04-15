@@ -8,15 +8,32 @@ div#writing ul {
   padding: 0; }
 div#writing li {
   list-style-type: none; }
-div#writing td:first-child {
-  text-align: right; }
-div#writing table {
+
+div.filter {
+  font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+  font-size: auto;
+  line-height: 1;
+  margin: 0.35em 0;
+  border: 1px solid #cccccc;
+  display: inline-block;
+  margin-bottom: 15px;
+  padding: 5px 0 5px 10px; }
+
+span.togglebox {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: -5px 0 -5px 10px;
+  background: #bbbbbb; }
+
+table.archive {
   font-size: 13pt; }
-div#writing td {
-  padding-bottom: 10px; }
-div#writing table td:last-child a {
-  text-decoration: none;
-  border-bottom: 1px dotted; }
+  table.archive td:first-child {
+    text-align: right; }
+  table.archive td {
+    padding-bottom: 10px; }
+  table.archive td:last-child a {
+    text-decoration: none;
+    border-bottom: 1px dotted; }
 
 a.badge {
   border-radius: 4px;

@@ -1,0 +1,22 @@
+<h3>All posts in {{ page.category }}</h3>
+
+{% for post in site.posts %}
+    {% if post.categories contains page.category %}
+        {% capture current %}{{ post.date | date: '%m' }}{% endcapture %}
+        {% if previous != current %}
+        </table>
+        <table class="archive">
+        <h3>{{ post.date | date: "%B %Y" }}</h3>
+        {% endif %}
+        {% if post.layout == 'post' and post.canonical %}
+            {% assign type = 'guestpost' %}
+        {% else %}
+            {% assign type = post.layout %}
+        {% endif %}
+            <tr>
+                <td style="width: 90px;"><a href="" class="badge {{ type }}" title="Show every {{ type }}">{{ type }}</a></td>
+                <td><a href="{{ post.url }}/#summary">{{ post.title }}</a></td>
+            </tr>
+        {% assign previous = current %}
+    {% endif %}
+{% endfor %}

@@ -1,4 +1,4 @@
-<div class="filter tk-ff-netto-web" style="border: 1px solid #ccc; display: inline-block; margin-bottom: 15px; padding: 5px 0 5px 10px;">
+<div class="filter">
     <input type="checkbox" checked="checked" id="show-post" /> <label for="show-post">blogposts</label>
     <input type="checkbox" checked="checked" id="show-guestpost" /> <label for="show-guestpost">guest posts</label>
     <input type="checkbox" checked="checked" id="show-review" /> <label for="show-review">reviews</label>
@@ -6,9 +6,9 @@
     <input type="checkbox" checked="checked" id="show-talk" /> <label for="show-talk">talks</label>
     <input type="checkbox" id="show-comment" /> <label for="show-comment">comments</label>
     <input type="checkbox" id="show-quote" id="show-quote" /> <label for="show-quote">quotes</label>
-    <span style="display: inline-block; padding: 5px 10px; margin: -5px 0 -5px 10px; background: #bbb;"><input type="checkbox" checked="checked" class="toggle" /></span>
+    <span class="togglebox"><input type="checkbox" checked="checked" class="toggle" /></span>
 </div>
-<table>
+<table id="latest-writing" class="archive">
     {% for post in site.posts %}
         {% if post.layout == 'post' and post.canonical %}
             {% assign type = 'guestpost' %}

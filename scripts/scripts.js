@@ -31,7 +31,7 @@ function filter_rows (checked) {
 }
 
 function redraw_latest_writing (checked) {
-        $("tr").hide();
+        $("table#latest-writing tr").hide();
         filter_rows(checked).slice(0, 7).show();
         return false;
 }
