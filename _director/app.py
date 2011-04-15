@@ -95,7 +95,7 @@ def posts():
 def comments():
     permalink = request.args.get('permalink')
     matches = Comment.query.filter_by(post=permalink).all()
-    raw_date = "-".join(permalink.split('-')[:3])
+    raw_date = "-".join(permalink.lstrip('/').split('-')[:3])
     date = datetime.strptime(raw_date, '%Y-%m-%d')
     post_is_recent = datetime.now() - date < timedelta(days=10)
     post_is_lively = len([match for match in matches if match.is_recent])
@@ -140,4 +140,4 @@ def delete_comment(id):
     return redirect('/director/comments/moderation/')
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
