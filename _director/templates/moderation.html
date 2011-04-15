@@ -7,7 +7,7 @@
             <td>{{ comment.email }}</td>
             <td>{{ comment.website }}</td>
             <td>
-                <form method="POST" action="/comments/{{ comment.id }}/">
+                <form method="POST" action="/director/comments/{{ comment.id }}/">
                     <input type="hidden" name="_method" value="DELETE" />
                     <input type="submit" name="delete" value="delete" />
                 </form>
