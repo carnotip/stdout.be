@@ -13,7 +13,7 @@ I work as software developer and information architect. To make sure I'm the bes
     <dt>Consultancy</dt>
     <dd>Create efficient publication workflows.  consult about workflows, metadata, asset management for publications</dd>
     <dt>Coding</dt>
-    <dd>competent <a href="http://www.djangoproject.com">Djangonaut</a> and <a href="http://">ExtendScripter</a> — can make prototypes or work together with your team. Also available if want to integrate the <a href="">Pubtalk</a> toolkit into your workflows.</dd>
+    <dd>competent <a href="http://www.djangoproject.com">Djangonaut</a>, pretty good at (server-side) Javascript and well-versed in Adobe ExtendScript — can make prototypes or work together with your team.</dd>
     <dt>Workshops and presentations</dt>
     <dd>Workshops: IA, future of journalism, news design — both desktop publishing and online.</dd>
 </dl>

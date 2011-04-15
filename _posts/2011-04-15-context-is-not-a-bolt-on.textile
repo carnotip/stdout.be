@@ -40,7 +40,7 @@ bq. Currently we present it as “more information”. The consumer doesn’t ne
 
 There's something we have to realize about context: *it's really not just about the information you provide, but also about how you provide it.*
 
-A decent number of newspapers have webpages about important topics they cover. Not all, but at least some newspapers are doing an effort to bring more analysis and take some hints from news magazines. Reporters are experimenting with telling the bigger picture through databases and visualizations. But what no newspapers, online or offline, seems to have perfected is how this broad, topical information stream should mesh with the daily news that's presented on our front page.
+A decent number of newspapers have webpages about important topics they cover. Not all, but at least some newspapers are doing an effort to bring more analysis and take some hints from news magazines. Reporters are experimenting with telling the bigger picture through databases and visualizations. But what no newspaper, online or offline, seems to have perfected is how this broad, topical information stream should mesh with the daily news that's presented on our front page.
 
 If somebody clicks on a story and is dazzled by an array of unfamiliar names and places and events, how do we turn that experience around?
 
