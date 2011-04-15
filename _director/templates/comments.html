@@ -1,6 +1,8 @@
 <h2>
     {% if comments|length == 0 %}
-        be the first to comment    
+        {% if allows_comments %}
+        be the first to comment 
+        {% endif %}   
     {% elif comments|length == 1 %}
         1 comment
     {% else %}
