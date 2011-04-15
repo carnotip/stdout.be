@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+    <head>
+        <title>stdout.be dashboard</title>
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+        <style>
+        html {
+            background: #eee;
+            padding: 0;
+        }
+        
+        body {
+            margin: 0 auto;
+            width: 740px;
+            padding: 30px;
+            background: white;
+            -moz-box-shadow: 0 0 80px #888;
+            -webkit-box-shadow: 0 0 80px #888;
+            box-shadow: 0 0 80px #888;
+            font-family: monaco, helvetica, arial, sans-serif;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: "ff-netto-web-1","ff-netto-web-2", sans-serif;
+            line-height: 1;
+            margin: 0 0 20px 0;
+        }
+        
+        a {
+            color: #1d53c2;
+            border-color: #1d53c2;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            color: #3e79f1;
+            border-color: #3e79f1;
+        }
+        
+        tr.comment {
+            font-size: 0.8em;
+            color: #999;
+        }
+        
+        tr.comment a {
+            color: #91a2c3;
+        }
+        
+        td {
+            padding: 5px 15px 5px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        table.comment-data {
+            width: 100%;
+        }
+        
+        table.comment-data td {
+            font-size: 0.8em;
+            width: 200px;
+        }
+        
+        table.comment-data td:last-child {
+            width: 40px;
+        }
+        
+        article {
+            margin: 10px 0 30px 0;
+        }
+        </style>
+        <script type="text/javascript" src="http://use.typekit.com/uwo6abd.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body>
+        {% block body %}
+        {% endblock %}
+    </body>
+</html>

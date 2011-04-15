@@ -14,6 +14,7 @@
     {% endfor %}
 </div>
 
+{% if allows_comments %}
 <form method="POST" action="/director/comments/">
     <input type="hidden" name="post" value="{{ permalink }}" />
     <input type="text" name="suikerklontje" />
@@ -32,3 +33,4 @@
     <br />        
     <input type="submit" name="submit" value="Submit comment" />
 </form>
+{% endif %}

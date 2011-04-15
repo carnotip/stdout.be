@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block body %}
+    {% for comment in comments %}
+    <table class="comment-data">
+        <tr>
+            <td>{{ comment.author }}</td>
+            <td>{{ comment.email }}</td>
+            <td>{{ comment.website }}</td>
+            <td>
+                <form method="POST" action="/comments/{{ comment.id }}/">
+                    <input type="hidden" name="_method" value="DELETE" />
+                    <input type="submit" name="delete" value="delete" />
+                </form>
+            </td>
+        </tr>
+    </table>
+    
+    <article>
+    {{ comment.content_html|striptags|truncate(100) }}
+    </article>
+    {% endfor %}
+{% endblock %}
