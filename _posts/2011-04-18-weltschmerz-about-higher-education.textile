@@ -2,8 +2,7 @@
 language: en
 layout: comment
 canonical: http://news.ycombinator.com/item?id=2460499
-context:
-    Venture capitalist Peter Thiel recently opined that higher education is a bubble: an overpriced good, and that bright students can often think up better things to invest their time and money in. I concur. Robin Cangie now responds, saying that higher education has come to be considered a commodity rather than a social good, and is suffering for it. I disagree.
+context: "Venture capitalist Peter Thiel recently opined that higher education is a bubble: an overpriced good, and that bright students can often think up better things to invest their time and money in. I concur. Robin Cangie now responds, saying that higher education has come to be considered a commodity rather than a social good, and is suffering for it. I disagree."
 title: Weltschmerz about higher education
 ---
 
