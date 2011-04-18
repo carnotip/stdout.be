@@ -1,0 +1,15 @@
+---
+language: en
+layout: comment
+canonical: http://news.ycombinator.com/item?id=2460499
+context: Venture capitalist Peter Thiel recently opined that higher education is a bubble: an overpriced good, and that bright students can often think up better things to invest their time and money in. I concur. Robin Cangie now responds, saying that higher education has come to be considered a commodity rather than a social good, and is suffering for it. I disagree.
+title: Weltschmerz about higher education
+---
+
+I appreciated "Peter Thiel's thoughts from a while back":http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/ because he talked a little bit about the economics behind higher education, and why in _some_ cases it doesn't make sense for _some_ bright young kids to go to college. Couldn't agree more.
+
+"This post":http://robinoula.com/institutions/peter-thiel-is-wrong-about-higher-education-its-a-lot-worse-than-a-bubble/ from Robin Cangie, on the other hand, smells more like baseless weltschmerz. It's the kind of stuff I used to hear all day long while I was getting my education in the liberal arts, from both students and professors: universities aren't what they used to be, we should get all the stupid people out, universities have become slave to the industry, it's gotten so easy to pass I could do this in my sleep... after which those same students proceed to get barely passing degrees "because why would I bother going for more in an environment like this" and so on and so on.
+
+I like a bit of random pessimism and carping as much as the next guy, but I kind of thought most people were smart enough to realize that the whole "universities have lost their soul" thing was just a fun shtick rather than the actual state of things. Apparently not.
+
+Higher education is having a tough time adapting to new realities, but "my history major sucks and everybody around me is stupid, thus universities hold no value" is an awful way to frame the problem.
