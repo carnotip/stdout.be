@@ -125,6 +125,8 @@ div#comments {
     vertical-align: top; }
     div#comments form label span {
       border-bottom: 1px solid #eeeeee; }
+  div#comments form textarea {
+    height: 210px; }
   div#comments form input[type='text'], div#comments form textarea {
     color: #222222;
     border: 2px solid #dddddd;
