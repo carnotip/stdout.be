@@ -52,7 +52,7 @@ class Comment(db.Model):
 
     @property
     def content_html(self):
-        parts = self.content.split("\n\n")
+        parts = self.content.replace("\r", "").split("\n\n")
         parts = ["<p>" + part + "</p>" for part in parts]
         return "\n\n".join(parts)
         
