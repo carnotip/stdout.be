@@ -1,0 +1,36 @@
+---
+layout: post
+language: nl
+categories:
+    - journalism
+title: Ter nalezing
+summary: Journalistiek wantrouwen is een mooie deugd, maar wantrouw af en toe ook jezelf.
+---
+
+Unisono: "Ben je gek? Geef nooit een informant je stuk ter nalezing!"
+
+Bij "Schamper":http://www.schamper.ugent.be, op het studentenblad, kwam het geregeld voor dat we een politicus, prof, student of artiest na een interview een vroege versie van ons stuk doormailden. Niet altijd, maar soms zijn er delicate kwesties die je liefst eens laat nalezen. Natuurlijk laat je nooit een ander voor jou beslissen wat wél in je stuk hoort en wat niet. En men moet ook niet komen wenen als men niet akkoord gaat met een pittige quote die rechtstreeks van het opnamebandje komt. Maar een gratis feitencheck sla ik nu ook niet af.
+
+Nu blijkt dat een faux-pas te zijn. Volgens mijn hierboven geciteerde discussiepartners en een aloude journalistieke wet, mag je een informatiebron _nooit_ inzage geven in een nog ongepubliceerd stuk. 't Eerste wat je leert op een redactie of in een opleiding journalistiek. Hoogstens laat je een paar excerpten nalezen, als je écht twijfelt aan jezelf.
+
+Journalistieke wet ten spijt, ik zou véél willen veranderen aan mijn oude reportages maar dàt nu niet. Ik begrijp wel waarom je je kopij niet ter nalezing moet voorleggen aan gelijk wie, maar het alternatief lijkt me even erg. Je verfoeit immers dat betrokkenen je werk nakijken omdat dat je objectiviteit in het gedrang zou kunnen brengen. En die stelling gaat er op haar beurt van uit dat je als journalist altijd in een antagonistische relatie staat met iedereen waar je mee praat. Niet enkel wat gezond wantrouwen, nee, best meteen je berichtgeving hermetisch afsluiten van alle omgevingsinvloeden. Alle invloeden. Dus niet enkel van charlatans en manipulatieve politici, wantrouw meteen maar _iedereen_ waarmee je praat en geef ze geen kans om je werk te _second-guessen_.
+
+Om een gelijkaardige reden zal een journalist altijd een telefonisch interview kiezen boven eentje via e-mail: je mag mensen de tijd niet geven om hun woorden te wikken en wegen, want _gut reactions_ en Freudiaanse versprekingen tonen de ware aard van het beestje.
+
+Het ironische gevolg van dat schrijven in een vacuum is dat je berichtgeving bewijsbaar neutraal of evenwichtig is, maar daarom nog niet nauwkeurig, laat staan waarheidsgetrouw. Je ruilt het ene voor het andere.
+
+Je stelt jezelf zwak op als je je stuk ter nalezing voorlegt aan een persoon die je net interviewde. Je zegt "Veel kans dat hier fouten inzitten, help me." Maar dat is net de clou, het is net wat je siert als reporter. Twijfel is de kern van goede wetenschap, en een wetenschappelijke houding is de kern van goede journalistiek.
+
+Niet èlke bron moet je aanpakken als een gehaaide politicus. Als journalist interview je vaak mensen die méér over een onderwerp afweten dan jij. De meeste journalisten zijn "geen experts, maar generalisten":http://stdout.be/2011/03/11/expertise/. Je bronnen die een onderwerp elke dag in- en uitademen hebben waarschijnlijk zinnige dingen te zeggen over hetgeen je schrijft, bovenop de vragen die je hen expliciet stelt. Ze doen dat met plezier, heb ik ondervonden.
+
+Het kwam niet onregelmatig voor dat een redacteur een obscure afkorting voor één of andere universitaire raad verkeerd had verstaan, of een subtiel punt van een prof toch niet echt 100 procent had begrepen.
+
+Zonder een kleine opmerking van Marc Van Montagu had ik waarschijnlijk een paar jaar geleden "een artikel geschreven":http://www.schamper.ugent.be/451/killerinsecten-kapitalisten-biotechnologie over gouden wortels, niet "golden rice":http://en.wikipedia.org/wiki/Golden_rice. En ik denk niet dat ik mijn artikel over de "A1-cultuur in academia":http://www.schamper.ugent.be/457/a1-cultuur ooit had durven publiceren zonder het eerst te laten lezen aan een heleboel proffen.
+
+Niet alleen studentenbladen maken fouten. Toen Scott Maier en Philip Meyer twee jaar geleden een audit ondernamen van 22 kranten, "vonden ze fouten":http://www.nieman.harvard.edu/reportsitem.aspx?id=101903 in meer dan de helft van de onderzochte artikels. Soms louter een verkeerd gespelde naam. Soms grove feitelijke fouten.
+
+Wetende dat kranten zo vaak blunderen, moet ons toch eens doen nadenken over hoe wijs het is om experts en informanten bij ongeschreven verbod weg te houden van stukken tot na publicatie.
+
+We kunnen ons die nonchalance niet veroorloven.
+
+Als je een stuk schrijft moet niemand anders conclusies maken voor jou of de toon van je artikel bepalen. Maar journalisten zijn bijdehands genoeg om praatjes te zien voor wat ze zijn, en volwassen genoeg om goedbedoeld advies en manipulatie van elkaar te onderscheiden. "Dus check vaker wat dingen na":http://stevebuttry.wordpress.com/2011/01/04/my-version-of-craig-silvermans-accuracy-checklist/ en laat zo nodig je stuk nalezen door de mensen waarover je schrijft en waarmee je babbelde. Iedereen kan al eens wat hulp gebruiken.
