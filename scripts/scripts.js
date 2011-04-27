@@ -81,7 +81,7 @@ $(document).ready(function () {
     $("a.permalink").hide();
     
     // show a permalink when hovering over a comment
-    $("div.comment").hover(function () {
+    $("article.comment").hover(function () {
         $(this).find("a.permalink").show();
     }, function () {
         $(this).find("a.permalink").hide();        
