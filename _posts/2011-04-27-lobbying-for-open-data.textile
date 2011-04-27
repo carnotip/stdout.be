@@ -1,0 +1,80 @@
+---
+layout: post
+language: en
+title: Lobbying for open data
+categories:
+    - tech & society
+summary: There are lots of institutional and technical barriers that prevent ubiquitous open data. Here's five.
+---
+
+Got back from "a get-together here in Ghent":http://www.gentm.be/ about open data a few hours ago. "Bart Rosseau":http://twitter.com/#!/BartRosseau outlined a number of reasons why data seems so easy to open up, but hardly ever is. It reminded me of a "Hack de Overheid":http://www.hackdeoverheid.nl/ brainstorm session I led about a year ago titled "How to lobby governments to open up their data?" I'd almost forgotten about that session, but I actually dug up some pretty detailed notes. I unfortunately didn't take names for all attendees, but, Because late is better than never, for your edification: "why open data is so hard".
+
+h3. (1) There's no incentive
+
+Civil servants often have no incentive whatsoever to make their data more freely available, or to start thinking about metadata and digitization. 
+
+More data makes for more accountability. More ways their superiors and the general public can keep tabs on them. And while most civil servants appreciate the general sentiment that transparency is A Good Thing, they're not about to open up themselves to a flood of scrutiny unless they've got the unwavering support of their superiors and some kind of incentive to make things happen.
+
+Open data is used by app developers and curious citizens, but also by journalists looking for signs of wrongdoing. It's their job, after all. While most of the open data projects I've seen are all about making cities more liveable, we must go wherever the data leads us, and that can sometimes mean biting the hand that feeds us.
+
+For some agencies, open data and "FOI":http://en.wikipedia.org/wiki/Freedom_of_information_legislation requests are like two sides of the same — very unwelcome — coin, even though journalists are only a minority in the open data crowd. "Henk van Ess":http://twitter.com/#!/henkvaness says he wouldn't be surprised if departments with more-than-adequate IT support actually go the extra mile to make their data _harder_ to understand, for example by printing it out on a stack of paper rather than making it available through the web. 
+
+Our goals sometimes unavoidably diverge from those of our governments, even though they shouldn't. We can't solve the root of that conflict, but as open data aficionados we can emphasize how open data can save departments time and money, lead to good publicity and help civil cervants better do their jobs. At the same time, we should lobby for more stringent Freedom of Information laws so we don't always have to plead for data, but can just _take_ it.
+
+Within governments, open data proponents should allow their department to take things one step at a time. First get the department to start thinking more about data and what it can mean for them in terms of "business intelligence":http://en.wikipedia.org/wiki/Business_intelligence. Then open up some datasets to other departments as well. Then maybe tell the public that you have datasets available on request (leaving the department with a choice about who they grant access). After going through all those steps, you've created a different environment and one in which more people will feel inclined to open things up entirely.
+
+h3. (2) Nobody gets excited about data
+
+Since open data is still so new, you can't blame public servants for not instantly seeing the benefits. We need to get these guys and girls excited about open government and the incredible things that it can accomplish for citizens and neighborhoods.
+
+Thus, whenever we request a specific dataset, we should try our very best to make a good impression and entice the decision makers through prototypes and sketches. "Okay, if we had this data about X in JSON with these annotations, we could make something like..."
+
+Even better, though, as Annemarie van Campen and Martin Borman from "verseoverheid.nl":http://www.verseoverheid.nl/ noted, is when you can get a foot in the door with a working, simple service built on top of existing data. You'll usually have to "scrape":http://scraperwiki.com/ it or even collect a minimal dataset by hand, so it's hard work, but a "tangible demo":http://www.mattwaite.com/posts/2009/apr/27/key-lesson-i-learned-building-politifact-demos-not/ makes for to-the-point discussions. These things _will_ get people inside of the government talking and eager to help out. Few people care about open data, but most people know a good thing when they see it.
+
+Governments themselves can easily ignite discussions and get both their staff and their citizens thinking about open data through challenges and prizes, like  "Apps for Democracy":http://www.appsfordemocracy.org/ and "NYC BigApps":http://nycbigapps.com/.
+
+It will also be crucial to bring the believers within government together, so they'll feel less like lonely renegades, but also in order to make them more visible to their colleagues across departments and across municipalities. Nobody can explain the benefits of open data to a public servant better than one of his peers. So we need to make sure these conversations are happening, and that the excitement spreads from these beacons. Existing social networks like "Ambtenaar 2.0":http://www.ambtenaar20.nl/ in the Netherlands and "Govloop":http://www.govloop.com/ in the States definitely help.
+
+h3. (3) Messy data abound
+
+While bigger cities commonly have data guys in many different places, with titles like "GIS expert" or "business analyst", just as often often you'll find civil servants collecting and registering a cornucopia of data not for any practical purpose but because it's mandated by law. However, because these records are usually kept with human audits in mind, not with the purpose of making them easy to use in statistical software or by computers, they're often messy and not easily processed.
+
+Data doesn't mean to _them_ what it means to _us_. Why keep a data set clean if you're not actually using it for anything anyway? We love JSON, would get giddy about RDF and take a CSV without a second thought, but officials usually don't know that that's the sort of data which is easier to work with and build on.
+
+Just as important, few government agencies are using free and open licenses like "Creative Commons":http://creativecommons.org/, or have legal departments that are unfamiliar with opening up datasets and put undue restrictions on data use. Yet without liberal licenses on both content and data, open data can't work.
+
+Organizations lobbying for open governments and open data should provide solid documentation about formats, licensing, how to keep data up to date and how to produce and publish clean data. It's easier for governments to indulge our requests if we take the guesswork out of it.
+
+We also need to convince governments that data is not either "usable" or otherwise "too messy to use". What's important for us when we tinker with data is that we _know_ the quality of the data: how it was gathered, whether there are there potential errors in the data, when it was gathered and when it'll be out-of-date? But we want to decide for ourselves how good the data actually has to be to be usable. It differs a lot depending on exactly how we intend to use the data.
+
+As a side note, though, while we should accept that the data streams we get  won't always be as clean as we'd like, pushing for cleaner data _is_ important. Not just because it's more convenient for us, but because, as Henk pointed out during the brainstorm: the messy, incomplete data government departments are scared of giving to us is going to be exactly the same data they will use to inform their superiors and the data those superiors in turn will use to inform politicians. Better data means better policy-making (we hope!)
+
+h3. (4) Data isn't always where we think it is
+
+In some countries, among which Belgium, country-wide cartographic data is licensed from commercial firms like TeleAtlas. Data that seems local may be the province or county's prerogative. Public transport firms manage their own route data. Don't think that data will always be kept where you intuitively figure it should be. And before you complain about how closed your local government is, ask yourself whether they even have any say in opening up the datasets you're looking for.
+
+Data also isn't where we think it is in another way. One participant to our brainstorm lamented that "The people you usually get on the phone are entirely clueless, but maneuver your way to the IT guy, and if you're a little bit lucky they'll happily provide you with whatever data you want in whatever format you want."
+
+Getting your hands on data sometimes means bypassing the usual channels and getting your hands on unlisted phone numbers and email addresses. Not uncommonly, agencies and departments only become uncomfortable about sharing data if you give them too much time to fret about it.
+
+h3. (5) Open is the opposite of in control
+
+If you open up data to the world and make sure everybody has the rights to use it for whatever kind of project they want, _some_ people are going to do stupid things.
+
+Data, especially if it wasn't explicitly gathered with the intent to use it in compiling statistics, can be sketchy or incomplete, making it easy for people to draw wrong conclusions if they're not careful.
+
+For publishers of data, the thought of opening up datasets that are begging for misinterpretation is not a very happy one. Conversely, users can't be unhappy about what they don't know exists.
+
+For governments, open is never the default, and it's not uncommon to see departments err on the side of secrecy, not out of ill will, but out of caution.
+
+While open data is all about removing barriers, the open data movement shouldn't necessarily be opposed to the idea of data that's covered by an end-user license agreement, as long as that EULA only limits shenanigans, not legitimate use.
+
+Privacy concerns also routinely crop up in discussions about open data. Civil servants need more information about all the applicable regulations and the tools to easily and reliably anonimize potentially sensitive data. Perhaps we can lend a hand, compiling regulations and their implications for data release in a community-maintained wiki. It'd be a good place to start for a government agency thinking about opening up data, but also for us when we request data and are sent home with a vague, unmotivated reference to privacy concerns.
+
+h3. Summed up
+
+If you're working for the government and care about open data, you should evangelize and connect the digital natives and believers in open data within your organization. Excite both developers and civil servants with Apps for Democracy events, which showcase the power of what open data can accomplish in as little as a few hours or days of coding.
+
+If you're a citizen, journalist or working at a company that would benefit from open data, you need to put continued pressure on governments to be more open about what they do, and do it better. But you also need a short-term strategy: a toolbelt of negotiation techniques that allow you to get your hands on as of yet undisclosed data. The key is getting in touch with the right people (more often an IT guy than somebody from public relations) and getting them excited with what you can do for them. Have a demo you can show? Excellent. And if you think you'll be doing this often, keep a contact database and map out who's responsible for which datasets. If you need data from more than one city or if a similar app exists for another country or city than yours, "play cities out against each other":http://blip.tv/file/904436/.
+
+The lobbying is still very much up to you, but it definitely doesn't hurt to have a general idea of the forces at play and the different reasons that make opening up data as slow a process as it is. _Confer supra._
