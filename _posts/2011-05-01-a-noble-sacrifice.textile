@@ -1,0 +1,39 @@
+---
+language: en
+layout: post
+categories: 
+    - tech & society
+    - business
+title: A noble sacrifice
+summary: You sacrifice a lot to work on a startup, and chances are you'll be an asshole to friends and family. If starting a company is what you're meant to do in life, don't let anyone hold you back, but a relentless work ethic does not make somebody a better man, and it sure as hell doesn't make people happier.
+---
+
+As a knife was plunged into his chest, Chris let out a groan of agony and collapsed to the ground. Hot tears formed on his eyes. It would take a few more excruciating seconds before the adrenaline would kick in and subdue the pain. They had slowly cut out his left eye, but after seeing torture wouldn't quite do the trick, had resorted to brute violence. One of the assailants reached for a little gas burner. In his mind, Leo could already feel the burning flesh.
+
+...
+
+Okay, so I'm not a novelist. What I'm wondering is how many of you wriggled in your chair while reading this. Did anyone feel the need to suddenly rub their left eye? Maybe some of you did, but I'm pretty sure most didn't. Empathy makes it possible for humans to feel what others are feeling. Yet, it seems our mirror neurons don't always kick in like they're supposed to. It takes a pretty good writer to get readers to wince when they read about physical pain. It takes an excellent writer to get readers to identify with emotions. Heck, even in film, where the visuals are supposed to draw us in, watching a tragic drama unfold for a full two hours hardly ever really makes us feel miserable. Instead, we'll walk out of the theatre and nod to each other "yeah, pretty good movie, very enjoyable".
+
+And so, when "Chris Dixon":http://cdixon.org/about.html "tells us":http://cdixon.org/2011/04/26/there-are-two-kinds-of-people-in-the-world/ that running a startup "means lying awake at night worrying about running out of cash and having a constant knot in your stomach during the day fearing you'll disappoint the few people who believed in you and validate your smug doubters." somehow most of us don't think _no bloody way I'm ever getting involved with a startup_. When we read "Founders at Work":http://www.foundersatwork.com/ and plough through all the misfortunes described there, we feel quite the opposite: "hell yeah, where do I sign up":http://rc3.org/2011/04/27/have-you-started-your-own-company/.
+
+When "Daniel Bachhuber":http://danielbachhuber.com/ and I were talking about startup culture a while back, he observed that somehow, everything you ever read about startups, even accounts of bad, nerve-racking, gut-wrenching moments come out looking like wonderful experiences you just can't afford to miss.
+
+Satish Mummareddy "talks":http://www.thoughtsonconsumerweb.com/chris-dixon-i-love-you-man-but-you-are-wrong/ about how he pretty much had to ignore his family and wife for more than five years to make his startup work.
+
+bq. I skipped both my brother's and my sister's weddings in India.
+I visited my dad who had a stroke once in 5 years as I was working non-stop.
+I did long distance for 5 of the 8 years I dated/married to my wife.
+I travelled non stop for 2 of the 3 years we lived in the same apt.
+I went without a pay check for months at a stretch to keep the company going when times got tough and I hustled to get the company back on track.
+
+Keep on reading for a couple more sentences, though, and it starts sounding like such a damned fair and reasonable trade-off. You take some crap, but you're building something beautiful. Something bigger than you.
+
+And the thing is: memories fade. It's why we all tell our little brothers and sisters that high school is a wonderful experience, and why college freshmen hazing rituals are as popular as they've ever been. Misery is just a feeling that's easily forgotten, but a successful company, a degree or a tight-knit group of friends, that's something tangible.
+
+It's not that we're kidding ourselves. Sure, we do that too, when we've invested so much time or money in a project that we cannot but say that we "learned a valuable lesson", punching through layers of cognitive dissonance as the words leave our mouth. But after a while, you talk or type about these awful experiences you've gone through, because... well... you think they're actually kind of cool. And your readers' mirror neurons will be sleeping, so they'll think it's kind of cool too. They may even be inspired, and want to be like you.
+
+Entrepreneurs don't have to romanticize what they're doing even the slightest bit. We do it for them, because that's how we're wired. And maybe the human race is lucky that so many people feel willing to give up everything to risk it for a project or a job they really, really love. To have lawyers and soldiers and politicians and doctors who sign up for 80-hour work weeks or dangerous work without a second thought, even though they've been warned time and again by their elder colleagues that it's not a glamorous life.
+
+There is truth in the adage that you start a company because you _need_ to, because not because you _want_ to. I'm pretty sure I'll end up at a startup again myself, later in life, maybe even founding one, despite what my best judgment tells me, because it will feel like the "natural":http://www.quora.com/Xianhang-Zhang/Disregard-ideas-acquire-assets thing to do. And, heck, doing your own thing is fun and energizing. And not every startup is an emotional rollercoaster.
+
+But sometimes, entrepreneurial war stories do leave me with a bitter aftertaste. Like we're expected to think that starting a new company is a noble thing to do, and that an entrepreneur's amazing "work ethic somehow makes him a better man":http://www.marxists.org/archive/lafargue/1883/lazy/. As Lucretia Pruitt wrote in response to Chris Dixon: "Entrepreneur in your book seems to be the guy that makes a sucky spouse, parent and friend - but hey, he's visionary!"
