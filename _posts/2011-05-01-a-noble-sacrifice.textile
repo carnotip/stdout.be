@@ -3,7 +3,7 @@ language: en
 layout: post
 categories: 
     - tech & society
-    - business
+    - business & management
 title: A noble sacrifice
 summary: You sacrifice a lot to work on a startup, and chances are you'll be an asshole to friends and family. If starting a company is what you're meant to do in life, don't let anyone hold you back, but a relentless work ethic does not make somebody a better man, and it sure as hell doesn't make people happier.
 ---
