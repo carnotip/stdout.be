@@ -1,0 +1,13 @@
+---
+layout: quote
+language: en
+categories:
+    - journalism
+author: umccullough
+canonical: http://www.poynter.org/latest-news/romenesko/131378/advice-for-grads-from-yale-journalism-initiative-director/
+title: A jab at J-schools
+context:
+    Responding to Rick Reilly's advice to journalism students at the University of Colorado, where he said: "What you know how to do now is a skill that 99.9 percent of the people don’t have."
+---
+
+What he really meant to say is: "is a skill that 99.9 percent of people didn't pay tuition to have."
