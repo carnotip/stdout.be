@@ -4,7 +4,7 @@ layout: post
 title: Het Hawthorne-effect
 categories:
     - personal
-    - inspiration
+    - inspirational
 summary: Gewoon eens iets anders doen is misschien wel het beste placebo aller tijden.    
 ---
 
