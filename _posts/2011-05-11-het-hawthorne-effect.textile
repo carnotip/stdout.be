@@ -1,0 +1,33 @@
+---
+language: nl
+layout: post
+title: Het Hawthorne-effect
+categories:
+    - personal
+    - inspiration
+summary: Gewoon eens iets anders doen is misschien wel de beste placebo aller tijden.    
+---
+
+!/images/content/2011-05-11-frankfurterkueche.jpg(Een Frankfurter Küche)!
+
+De vroege twintigste eeuw was de tijd van het "Taylorisme":http://en.wikipedia.org/wiki/Efficiency_Movement en de geboorte van wetenschappelijk management: een systematische zoektocht naar efficiëntie in alle aspecten van het leven, maar in het bijzonder in de industrie.
+
+Eén voorbeeld dat nog altijd een glimlach op mijn gezicht tovert als ik erover lees, zijn de Bauhaus-esque Frankfurtkeukens. Die keukens werden in 1926 ontworpen door — geloof me, mijn Wikipedia-skills zijn ongeëvenaard — de Oostenrijkse Margarete Schütte-Lihotzky voor Römerstadt, sociale woningen in aanbouw in het zuidwesten van Frankfurt. De huisvrouwen voor wie de keukens meticuleus geoptimaliseerd waren, begrepen er niks van en liepen te sukkelen en te vloeken in veel-te-kleine keukens die helemaal niet efficiënt bleken.
+
+Een andere leuke is de uitvinding van muzak in de jaren 30 door een Amerikaanse generaal-majoor. Muzak was oorspronkelijk bedoeld als een generisch systeem om muziek door elektrische bedrading te sturen: een voorloper van babyfoons die je in het stopcontact steekt of die dikke Powerline _wall warts_ die je kan gebruiken waar draadloos internet niet door het beton geraakt. Maar nadat slimme ingenieurs uiteindelijk toch radio betrouwbaar en betaalbaar wisten te maken en bijgevolg muziek door een draad een technologie van het verleden werd, switchte Muzak Holdings LLC van strategie. Geen vervanger voor radio, maar een soort van muziek speciaal zo gecomponeerd om ons te kalmeren in een nauwe lift, meer te doen kopen in warenhuizen en productiever te maken op het werk. Lelijke muziek maar daarom niet minder uitgekiend. Miljoenen arbeiders in de jaren 40, 50 en 60 kregen onaflatend die bagger in hun oren gedraaid, in een wanhopige wens van managers om het werkvolk productiever te maken.
+
+Maar al die hypothesen over efficiënt werken, alle wilde plannen en ruwe schetsen van nieuwe werkvloerindelingen, moesten ook ergens getest worden. Elton Mayo, één zo'n productiviteitsonderzoeker die toen actief was bij de Harvard Business School, vond in Western Electric Co. een gewillige partner, en leidde van 1924 tot 1932 experimenten in de Hawthorne Works, een fabriek in Cicero, Illinois.
+
+In de Hawthorne Works werd een kleine groep werknemers dan eens meer pauze gegeven, vervolgens minder. Langere pauzes, dan kortere. Gewone of kortere werkdagen. De ene week werkten ze het schemer, de andere week badend in het licht. Werktafels werden verplaatst, en dan weer teruggezet.
+
+De clou, al heeft het lang genoeg geduurd voor onderzoekers dat doorhadden, was dat quasi élke verandering die men invoerde de productiviteit verhoogde. Werknemers presteerden beter bij kortere werkdagen, maar wanneer de oude uurregeling terug werd ingevoerd, presteerden ze _nog_ beter. (Cliffhanger!) Eventjes. En dan niet meer. Vandaar het Hawthorne-effect: een kortstondige productiviteitspiek ten gevolge van, wel, om het even wat, eigenlijk.
+
+Met al het lawaai op het internet over "Getting Things Done":http://www.davidco.com/, "lifehacking":http://en.wikipedia.org/wiki/Life_hack en de "quantified self-beweging":http://quantifiedself.com/ vind ik het Hawthorne-effect best eens de moeite om bij stil te staan.
+
+Toen ik nog freelancete heb ik ook vanalles uitgeprobeerd om wat meer vat te krijgen op mijn werkdag en mijn leven. Ik heb een tijd een bureau geïnstalleerd bij mijn grootmoeder in Mariakerke, om niet thuis te moeten werken. Todo-lijstjes beginnen opstellen in de stijl van David Allen; ik gebruik nog steeds "Things":http://culturedcode.com/things/. Belachelijk vroeg opstaan, en daarna het omgekeerde: nooit een wekker zetten. Meer sporten, om de geest fris te houden. Zo veel mogelijk beloftes maken aan mensen  zodat je een externe motivator hebt om je bezig te houden, en toen dat ondraaglijk werd exact het omgekeerde: _underpromise and overdeliver_. De "Pomodoro-techniek":http://www.pomodorotechnique.com/ is de nieuwste rage: je dag opdelen in schijven van een half uur, en jezelf na elk half uur verplichten om een andere taak aan te vatten. Dat vond ik al te belachelijk, dus toen ben ik gestopt.
+
+Al die truukjes en veranderingen van levensstijl hielpen. Voor een paar weken. Een paar maanden in zeldzame gevallen. Daarna merk je dat je weer bent veranderd in je goeie ouwe zelf. Sommige tips blijven bij — bijvoorbeeld dat je nooit je agenda mag gebruiken als todo-lijst, tenzij je jezelf in een depressie wil werken — en al die kleine tips samen zijn best nuttig, maar ik ken niemand wiens leven na het lezen van Getting Things Done, hèt seminale werk, plots op wieltjes loopt. Wat ooit hielp, kan na een tijd "een vloek worden":http://quantifiedself.com/2010/04/why-i-stopped-tracking/. Meestal doet het gewoon niks meer.
+
+Iets om over na te denken als je jezelf van Facebook kiepert in de hoop procrastinatie in de kiem te smoren. Iets om over na te denken alvorens je die blogpost schrijft waarin je de zeven deugden van werken in een Starbucks omschrijft.
+
+Niet elke manier van werken is even efficiënt. Maar het is verdomd moeilijk om te weten te komen hoe je dan wél sneller en met minder frustratie alles gedaan krijgt. Kan je het Hawthorne-effect systematisch misbruiken om jezelf productief te houden? Elke maand een nieuw project, een nieuwe omgeving, een nieuwe bezigheid? Mijn geheime saus vandaag de dag is eenvoudigweg deze: "minder werken":http://money.cnn.com/2006/03/16/news/economy/annie/fortune_annie0317/index.htm, vaker nee zeggen en nooit multitasken. Sneller ben ik er niet op geworden, mijn boekenkast vol productiviteitslectuur ten spijt. Wel minder gejaagd. Dat geldt ook voor iets.
