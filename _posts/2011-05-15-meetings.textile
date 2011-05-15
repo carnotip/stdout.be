@@ -1,0 +1,11 @@
+---
+layout: quote
+title: Meetings
+canonical: http://danielbachhuber.com/2011/05/14/status-46/
+categories:
+    - business & management
+author: Daniel Bachhuber
+context: Individual video surveillance and biometric scanners find their way to testing centers.
+---
+
+If students were taught effective collaboration in school, we'd reduce the number of meetings in the working world by 85% (or thereabouts). Instead, we invent new ways to ensure isolation during tests.
