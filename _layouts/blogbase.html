@@ -1,0 +1,63 @@
+---
+layout: base
+description:
+  nl: Een blog over programmeren, informatie-architectuur en journalistiek
+  en: A blog about programming, information architecture and journalism
+realm: blog
+---
+
+<summary id="summary" class="inset content">
+    <div id="prevnext">
+        {% if page.previous %}
+        <div class="prev"><a href="{{ page.previous.url }}" title="Previous page: {{ page.previous.title }}">←</a></div>
+        {% endif %}
+        <div class="content">
+            <p class="meta">
+                <time>{{ page.date | date: "%Y/%m/%d" }}</time> in
+                {% for category in page.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+            </p>
+            <h1>{{ page.title }}</h1>
+            {% if page.summary %}
+                {% if page.language == 'nl' %}
+                <p><strong>Kort</strong> {{ page.summary }}</p>
+                {% else %}
+                <p><strong>Summary</strong> {{ page.summary }}</p>
+                {% endif %}
+            {% endif %}
+        </div>
+        {% if page.next %}
+        <div class="next"><a href="{{ page.next.url }}" title="Next page: {{ page.next.title }}">→</a></div>
+        {% endif %}
+    </div>
+</summary>
+
+<article id="post" class="centered content">
+    <div>    
+        {{ content }}
+    </div>
+</article>
+
+<hr class="divider" />
+
+<div id="comments" class="centered">
+    <!--#include virtual="/director/comments/?permalink={{ page.url }}" -->
+</div>
+            
+<div class="inset">
+    <div class="centered">
+        <ul id="categories">
+            <li><a {% if page.categories contains "coding" %}class="active" {% endif %}href="/categories/coding/">coding</a></li>
+            <li><a {% if page.categories contains "journalism" %}class="active" {% endif %}href="/categories/journalism/">journalism</a></li>
+            <li><a {% if page.categories contains "information architecture" %}class="active" {% endif %}href="/categories/ia/">information architecture</a></li>
+            <li><a {% if page.categories contains "tech & society" %}class="active" {% endif %}href="/categories/tech-and-society/">tech & society</a></li>
+            <li><a {% if page.categories contains "business & management" %}class="active" {% endif %}href="/categories/biz/">business & management</a></li>
+            <li><a {% if page.categories contains "inspirational" %}class="active" {% endif %}href="/categories/inspiration/">inspirational</a></li>
+            <li><a {% if page.categories contains "personal" %}class="active" {% endif %}href="/categories/personal/">personal</a></li>
+        </ul>
+    </div>
+</div>
+<div class="centered">
+    <nav>
+        {% include nav.html %}
+    </nav>
+</div>

@@ -1,4 +1,4 @@
-body.post h1 {
+body.post h1, body.quote h1, body.comment h1 {
   color: #ca2c6f; }
 
 summary, summary.inset {
