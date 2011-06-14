@@ -1,0 +1,25 @@
+---
+language: en
+layout: post
+categories:
+    - information architecture
+    - coding
+title: The trouble with usability experts
+summary: Some engineers make unusable software because they're clueless about interaction design. Many others just make unusable software because we don't give them enough time to do a proper job. Hiring a usability expert won't solve that.
+---
+
+The demand for usability and user experiences gurus is on the rise, and has been for the past five years. That's a good thing, because in all honesty software engineers aren't very good at creating things that are easy and pleasant to use. Not as a rule.
+
+Then again, I've always been sceptical of the idea that a usability expert can just waltz in and use her supernatural powers to save the day and save your app. Two big reasons for that.
+
+The first is that you should always know more about your target market than any user experience guru does.
+
+Usability is 1/3 having a good grounding in interaction design, 2/3 knowing what the heck it is you're doing and who you're doing it for. Anything you, as a project manager or coder, lack in skill, you make up for in the sheer amount of observations and conversations you've had with clients. If that isn't true, make it true, or be prepared to keep making crappy software.
+
+The second reason usability experts are often no help at all, is that a product with a great user experience derives 1/3 from having a good UX strategy, and 2/3 from actually implementing that strategy. Most UX work is actually work developers have to do: implement new features, refine existing ones, get rid of confusing elements, replace other elements with something better. Think autocompletes, think faceted navigation (which takes _a lot_ of tweaking), think being more lax/friendly in form validation, think providing better error messages, think good documentation. These take time, not an intimate knowledge of user experience.
+
+Ask yourself this: is my software not as user-friendly as it could be because (1) we don't have enough grip on our customers, (2) we don't have time to do what we know we should be doing or (3) we don't know how to make things user-friendly. Only in the third case, if you're truly clueless about everything that touches on interface design, does the help of a user experience expert make sense.
+
+Any work by a usability expert needs to be backed up by the concerted effort of a front-end engineer and a back-end engineer. If what's keeping you from delivering great software is a big backlog of improvements that would really help out your customers, but that never seem to get implemented in a timely manner, fix that problem first. Change your priorities by tackling dev work with a clear impact on user experience first, or look towards hiring more developers so you'll have more time to work on features that improve usability.
+
+Most bad UX comes from a lack of product focus or from a lack of time. Not from a lack of experience. Find out what your problem is before you try to solve it.
