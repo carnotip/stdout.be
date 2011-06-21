@@ -1,0 +1,36 @@
+---
+layout: post
+language: nl
+categories: 
+    - journalism
+    - business & management
+title: Giswerk
+summary: Soms werkt je eigen intuïtie beter dan gelijk welk marktonderzoek. Maar soms ook niet.
+---
+
+Een lange tijd geleden, in een discussie over de zin en onzin van non-profitjournalistiek, werd de vraag gesteld: "heeft iemand hier eigenlijk ooit al online een goed doel of een leuk project gesteund?" Stilte. Nee, niemand eigenlijk. Het half uur dat voorafging aan die vraag was nochtans gevuld geweest met uitspraken als "Enfin, 5 procent van het lezerspubliek die vijftig euro per jaar betaalt voor goeie journalistiek, zo hoog gegrepen is dat toch niet?"
+
+Dat is uiteindelijk ook de redenering die de New York Times nu gemaakt heeft met haar paywall: zo belachelijk is dat toch niet, ik zou dat zelf toch ook doen, betalen voor goeie journalistiek? Het valt nog te bezien waar dat heengaat.
+
+Het kan een "goede en eenvoudige strategie":http://cdixon.org/2011/06/19/foundermarket-fit/ zijn als je een zaak wil oprichten of een product wil lanceren: gewoon jezelf de vraag stellen wat jij mist, waar jij wild van zou worden, en dan de prijs bepalen naargelang wat jou redelijk lijkt. Zeer lo-fi en je kan TEW-studenten al meteen zien protesteren, maar veel kans je niet zoveel verschilt van de mensen om je heen, die met dezelfde frustraties zitten en die dus net zo blij zouden zijn met de realizatie van je idee als jijzelf.
+
+* Je werkt al jaren in een designbureau en je bent de ouderwetse en veel te dure software beu die je klantenbestand bijhoudt. Dus je maakt "Highrise":highrisehq.com/.
+* Je woont in West-Vlaanderen in de jaren vijftig en je vindt het jammer dat je nergens regionaal nieuws kan lezen, dus je start "Roularta":http://www.roularta.be en de "Krant van West-Vlaanderen":http://kw.rnews.be/nl/regio/wvl/.
+* Je bent omringd door dokters die sukkelen met medische dossiers, dus je bouwt "Dr. Chrono":https://drchrono.com/.
+* Je speelt en houdt enorm van je elektrische gitaar maar het geluid is toch nooit wat je wil, dus je maakt je eigen elementen, eerst voor jezelf en dan voor iedereen, zoals "Bill Lawrence":http://www.billlawrence.com/ en "Seymour Duncan":http://www.seymourduncan.com/ begonnen.
+
+Bijkomend voordeel is dat je, als gebruiker van je eigen product, niet voortdurend aan marktonderzoek moet doen om te begrijpen wat mensen in hemelsnaam willen. Je zal zelf wel opmerken als er iets niet juistzit. Dogfooding in het ondernemersjargon.
+
+Vaak is op je eigen intuïtie vertrouwen ook een slechte strategie.
+
+Hoe regelmatig gebeurt het niet dat je gepassioneerd bent door iets dat anderen worst zal wezen? Zo hoor ik soms dat er dringend meer nood is aan doorwrochte long-form journalism, of slow journalism, want dat je toch nergens meer een deftig stuk journalistiek kan lezen. Nu, als journalist denk je dat misschien, of als iemand die drie kranten en twee magazines per dag verteert. Maar jij bent niet iedereen. En die andere 99 percent vindt wél zijn gading in één van de vele internationale kranten en magazines over elk onderwerp dat je je kan inbeelden. Newsweek, de Economist, de New Yorker, The Atlantic aangevuld met een hele hoop online publicaties zoals The AWL and Talking Points Memo. Wie longform.org volgt krijgt al die dingen niet op tijd gelezen.
+
+In de Vlaamse pers moet je misschien iets langer zoeken, en er zijn nog wel wat gaten in de markt, maar zelfs hier heb je een mooi gevuld medialandschap. Maar toch hoor ik: nee, er is nood aan meer. De vraag die je jezelf dan moet stellen is: _wil ik een magazine oprichten omdat het me een fantastische onderneming en job lijkt, of denk ik echt dat de wereld mijn hersenkind nodig heeft?_
+
+Een product stoelen op wat jij graag zou zien kan ook tegenvallen om een andere reden: mensen zijn rare wezens die vaak geen benul hebben van wat ze willen en waarderen.
+
+Toen ik nog studeerde en meewerkte aan de stadsgids Gent Verkend, hebben we dagen en maanden tijd gestoken in "een cafégids van Gent:http://www.gentverkend.be/gidsen/cafegids/. "Mensen moeten hun stad meer verkennen, en hoe prachtig zou het niet zijn als je elke week een nieuw cafeetje kan opzoeken om uit te proberen? Ik zou dat zalig vinden." En het resultaat mag er best zijn, het is een mooie cafégids, al zeg ik het zelf. Maar niemand zat er op te wachten. En wijzelf, de makers? Ik kan het aantal keer dat ik de gids uiteindelijk gebruikt heb op één hand tellen. De bezoekersaantallen indachtig is dat voor de meeste Gentse inwoners en studenten niet anders. Waarom zou ik ergens anders willen zitten dan in mijn stamcafé, negen op de tien? En anders vraag ik wel een suggestie aan een maat.
+
+Nogal pijnlijk natuurlijk om achteraf te beseffen dat je een oplossing hebt gebouwd voor een probleem dat niet bestaat. Om te denken dat mensen graag de portefeuille zullen openen voor dat geweldige _ding_ dat je gemaakt hebt, om vervolgens tot de constatatie te komen dat je zèlf nog nooit geld hebt gegeven aan iets gelijkaardigs.
+
+Maar wat doe je d'r aan?
