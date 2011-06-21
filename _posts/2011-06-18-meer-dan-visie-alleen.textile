@@ -3,7 +3,7 @@ layout: post
 language: nl
 title: Het draait om meer dan visie alleen
 categories:
-    - business
+    - business & management
     - journalism
 summary: Nadenken over potentiële nieuwe businessmodellen voor kranten is fijn, maar zonder data en zonder details blijft het toch ook maar bij fantaseren.
 ---

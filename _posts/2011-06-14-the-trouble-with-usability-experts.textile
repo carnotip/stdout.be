@@ -4,6 +4,7 @@ layout: post
 categories:
     - information architecture
     - coding
+    - business & management
 title: The trouble with usability experts
 summary: Some engineers make unusable software because they're clueless about interaction design. Many others just make unusable software because we don't give them enough time to do a proper job. Hiring a usability expert won't solve that.
 ---
