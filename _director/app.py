@@ -41,13 +41,16 @@ class Comment(db.Model):
     def is_recent(self):
         return datetime.now() - self.date < timedelta(days=5)
 
-    def __init__(self, post, author, email, content, website=None, date=datetime.now(), suikerklontje='', **kwargs):    
+    def __init__(self, post, author, email, content, website=None, date=None, suikerklontje='', **kwargs):    
         self.post = post
         self.author = author
         self.email = email
         self.content = content
         self.website = website
-        self.date = date
+        if date is None:
+            self.date = datetime.now()
+        else:
+            self.date = date
         self.honeypot = suikerklontje
 
     @property
