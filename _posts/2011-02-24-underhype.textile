@@ -1,6 +1,9 @@
 ---
 language: en
 layout: quote
+categories:
+    - coding
+    - business & management
 canonical: http://www.joelonsoftware.com/articles/fog0000000017.html
 author: Joel Spolsky
 ---

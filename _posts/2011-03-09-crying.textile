@@ -1,6 +1,8 @@
 ---
 layout: quote
 language: en
+categories:
+    - inspirational
 canonical: http://sneakattackphilosophy.tumblr.com/post/3586248335/i-just-realized-something
 title: I just realized something…
 author: Bernard Yu
