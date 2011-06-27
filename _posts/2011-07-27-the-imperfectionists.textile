@@ -3,7 +3,7 @@ layout: quote
 language: en
 categories:
     - journalism
-title: The Imperfectionists: A Novel
+title: "The Imperfectionists: A Novel"
 author: Tom Rachman
 ---
 
