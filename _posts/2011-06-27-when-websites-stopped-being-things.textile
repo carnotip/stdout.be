@@ -1,0 +1,28 @@
+---
+layout: post
+language: en
+categories:
+    - coding
+title: When websites stopped being things
+summary: Observations about Frankenstein websites and web development in 2011.
+---
+
+Websites used to be things. Sites, even big sites, used to consist entirely of a single Movable Type installation, or a Drupal setup, or your own little big homegrown solution. But that's hardly ever the case anymore, not for big sites anyway. Your hypothetical news emporium may have blogs that run on Wordpress, but you also maintain a couple of wikis, readers respond using Facebook Comments, your online advertising is taken care of by DoubleClick, analytics by ChartBeat, classifieds using a custom-built Django app and that special project the newsroom did last week got its own microsite.
+
+(And it's turtles all the way down: those individual components themselves are likely each built using a database, caching layer, message queue, various third-party and internal webservices, a full-text search engine, load balancing and, oh yeah, the app itself. Lots of loosely coupled components.)
+
+Patchwork websites can be pretty messy: you kind of have to hope that all these different applications and widgets will mesh without much issue, and not _look_ like they were just thrown together. But the alternative is pretty messy in its own way, too. Imagine a monolithic system that tries to handle blogging, ad handling, analytics, video serving, live chats, commenting and special-purpose mini-apps all by itself. What you end up with is a CMS that tries to be everything but is good at nothing. And few things sap the life out of product managers _and_ programmers faster than a big old system that's breaking under its own weight.
+
+So the challenge when building a website in 2011 is not to select the best CMS and then tweak it to perfection. Instead, it is to find the kind of components that together will make up a good experience. And that's hard. As good as many of those third-party widgets are, like Apture or Zemanta or Disqus or CoverItLive or the twitter streams that seem to pop up everywhere... they often keep the underlying data to themselves, making it impossible to use your very own content in any other context than the one the third-party vendor provides. Most of those apps and widgets aren't even themable, making it impossible to create a uniform user experience on your site. The result is sometimes eerily similar to your average Geocities website, for those of you who still remember what that looked like.
+
+We're in a weird transition phase, where a growing amount of people are aware that CMSes, by themselves, just aren't doing what we want them to do,  but we're still exploring the alternative and sometimes it works — I really like how "NPR combined Django and WordPress for their Argo Network":http://multimedia.journalism.berkeley.edu/blog/2010/nov/24/argo-network/ - but sometimes it doesn't.
+
+You log in on one subsite and are suddenly confronted with the fact that your usual login details don't work. You search for any topic and only find a fraction of the content you were expecting to see because apparently blog content, anything from twitter and livechats aren't indexed. You click on the Sports tab and are surprised to find yourself on an entirely different website.
+
+And it's annoying for the people actually creating all that content, too: suddenly they're faced with having to use ten interfaces, whereas one used to get the job done.
+
+We need more bright techies thinking about how we can do modern, confederated websites well. More people like "Ian Bicking":http://deliverance.openplans.org/philosophy.html.
+
+And we need more of those whiz-bang widget developers to start thinking beyond just making something that looks pretty, because what we really want aren't shiny tools that stand out, but interchangeable components that blend in seamlessly, both visually and technically.
+
+Hopefully, in a couple of years, we'll be able to reap the benefits of confederated websites without having to swallow the negatives too. Then, we'll be able to build websites containing only the very best pieces of software instead of trying to shoehorn functionality into platforms that can't support the weight they're being asked to carry. No more worries about being stuck with a system you can't experiment with, no more having  to choose between two CMSes that each only have half of what you really need. No more upgrade nightmares, no more compromises. Maybe then we can finally stop complaining about _our crappy CMS_.
