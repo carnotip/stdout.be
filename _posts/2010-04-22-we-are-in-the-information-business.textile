@@ -157,7 +157,7 @@ Holovaty's example are great, but they're also fairly narrow. Almost every examp
 
 Well thought-out entities with the right properties work best with fixed formats — standardized ways of reporting about a certain subject. If a piece of content doesn't satisfy that criterium, don't bother. It's no use trying to push content that's only "semi-structured":http://www.dcs.bbk.ac.uk/%7Eptw/teaching/ssd/slide3.html into a mold it hardly fits. Going light on structured entities and heavy on relationships often works better in that case.
 
-For example it might make more sense to indicate that something is an interview by defining relationships to the persons being interviewed (<article>contains an interview with<person>) rather than specifying a separate interview content type with anintervieweeorintervieweesproperty. After all, many reports and news stories contain interviews as well, even though you wouldn't classify them as an interview if asked the genre. Relationships allow for some flexiblity in that regard.
+For example it might make more sense to indicate that something is an interview by defining relationships to the persons being interviewed (&lt;article&gt; contains an interview with &lt;person&gt;) rather than specifying a separate interview content type with an @interviewee@ or @interviewees@ property. After all, many reports and news stories contain interviews as well, even though you wouldn't classify them as an interview if asked the genre. Relationships allow for some flexiblity in that regard.
 
 h2. Pragmatic looseness
 
