@@ -1,0 +1,25 @@
+---
+layout: post
+language: en
+categories:
+    - information architecture
+    - journalism
+title: About Apture, and getting a free lanch
+summary: You can't outsource contextualization, and there's no substitute for hard work.
+---
+
+I've always been enamored by the idea behind "Apture":https://www.apture.com/, a service that automatically augments your online stories with background information and related content from all over the web. Tristan Harris, their CEO, wants to help publishers create news websites that encourage exploration and turn frustration into learning experiences. Needless to say, "I love that stuff":http://stdout.be/2011/04/15/context-is-not-a-bolt-on/. "The Future of Context":http://www.futureofcontext.com/, as we endearingly call the research into creating those sorts of interconnected news sites, is pretty much all I think about nowadays.
+
+But the kind of context Apture doles out is so damn bland. Apture appeals to online product managers because it's like a free lunch: add a single line of JavaScript code to your news site and ta-daaah: you've entered the Temple of Context. Except, of course, that you get the same Wikipedia links and Microsoft Bing searches over and over again. No links to related stories on your site, no notion of where a story fits into the bigger picture, no topic pages or wiki-like content tailored specifically to your audience. Just a generic web search.
+
+So. Damn. Disappointing.
+
+We can do a better job, but it's not easy. Take The Guardian, where they've heavily invested in "topic pages ":http://www.currybet.net/cbet_blog/2008/07/people-places-subjects---bbc-t.php and "story trackers":http://www.guardian.co.uk/science/blog/2010/jun/09/science-story-trackers, and are encouraging reporters to put manual links to any relevant page on the web inside their stories —  all of which adds meaningful context to a story in a way Apture or "Zemanta":http://www.zemanta.com/ or "Ultra Knowledge":http://ultraknowledge.com/products/ukn-platform/ can never achieve. But it's not free: all this contextualization takes time and a concerted effort from different people in different departments, many of whom may not even care about metadata.
+
+I get that it's not easy for small newspapers, or even for big ones, to have a taxonomist on staff or to suddenly start labeling everything you publish. I get that you can't just manually annotate and enrichen 50 years worth of archives, and I'm even sympathetic that you may not even have gotten around to digitizing that archive.
+
+I therefore applaud efforts like "OpenCalais":http://www.opencalais.com/ and "Yahoo! PlaceMaker":http://developer.yahoo.com/geo/placemaker/ that aim to automate content categorization and interlinking, because those are still the central building blocks for creating the kind of site where you just surf around until you're not quite sure how you've ended up wherever you are (in a good way). These automatic content scanners make a lot of sense when used judiciously.
+
+But there's always a point where automation has done all it can, and it's up to you to turn what's merely 'mleh' into something really great. And at that point, there is simply no substitute for hard work. Creating context-rich news websites requires information architects to create solid metadata schemes, writers and editors to "interlink and tag content":http://stdout.be/2010/04/07/tags-dont-cut-it/, product managers to give reporters space and time to develop wiki content about local topics, developers to use that metadata mojo to improve "SEO":http://schema.org/ and the "search experience":http://stdout.be/2010/04/29/findability-and-exploration/, and designers to craft story pages that encourage people to explore. It's a lot of work and it never stops, but there's a reason why people are so impressed by "The Guardian's website":http://www.guardian.co.uk/ and "nytimes.com":http://www.nytimes.com/, whereas most other news websites can "hardly seem to keep people's attention for more than two minutes":http://www.niemanlab.org/2010/03/the-newsonomics-of-time-on-site/.
+
+Be wary of the free lunch.
