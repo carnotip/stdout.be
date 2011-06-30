@@ -4,7 +4,7 @@ language: en
 categories:
     - information architecture
     - journalism
-title: About Apture, and getting a free lanch
+title: About Apture, and getting a free lunch
 summary: You can't outsource contextualization, and there's no substitute for hard work.
 ---
 
