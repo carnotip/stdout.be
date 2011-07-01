@@ -1,0 +1,17 @@
+---
+layout: post
+language: en
+categories:
+    - coding
+title: Django modules looking for new maintainers
+---
+
+Some people have been asking me for an update on @django-revisions@ and @django-locking@. Both modules haven't seen a new release in about four months. Despite the lack of activity on the codebase, you can be sure these modules both work as advertised, not in small part thanks to a whole battery of unit tests. However, they _are_ slowly accumulating a to-do list of feature requests and documentation improvements.
+
+Being a freelancer means I get thrown into all kinds of different projects, and as it happens lately very few of those projects have involved Django, and none of them have needed the Django admin interface, so the cold hard reality is that while I would love to keep tweaking and updating those modules out of the kindness of my heart, there's nothing in it for me anymore, no itch that needs scratching.
+
+So what these modules really need are new maintainers. It's not fun to stop supporting code that I know people rely on, but with so many other projects clamoring for my attention, it's just not working out anymore.
+
+If you'd be interested, give me a shout, either through GitHub or via email. Much appreciated.
+
+Note that, even though it's been a while since I've done any InDesign work, I do intend to keep supporting the "Extendables":http://extendables.org framework.
