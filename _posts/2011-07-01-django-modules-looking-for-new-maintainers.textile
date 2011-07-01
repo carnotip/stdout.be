@@ -12,6 +12,6 @@ Being a freelancer means I get thrown into all kinds of different projects, and 
 
 So what these modules really need are new maintainers. It's not fun to stop supporting code that I know people rely on, but with so many other projects clamoring for my attention, it's just not working out anymore.
 
-If you'd be interested, give me a shout, either through GitHub or via email. Much appreciated.
+If you'd be interested, give me a shout, either through "GitHub or via email":https://github.com/stdbrouw. Much appreciated.
 
 Note that, even though it's been a while since I've done any InDesign work, I do intend to keep supporting the "Extendables":http://extendables.org framework.
