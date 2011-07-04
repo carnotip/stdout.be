@@ -1,0 +1,23 @@
+---
+layout: post
+language: en
+categories: 
+    - journalism
+    - personal
+title: Dataviz and beauty
+summary: A meandering post about data visualization, and why WIRED is awesome.
+---
+
+!/images/content/2011-07-05-losers-and-winners.png(Winners and losers in a fictional election; my first stab at processing.js)!
+
+I had some free time on my hands today (apologies to my dear client, who is currently waiting on some deliverables from me) which I decided to invest in three activities: 
+
+# Buy chisels, a gouge, cut-proof working gloves, fine sand paper, a mallet and sesame oil. I'm going to try my hand at some simple woodworking and  "make wooden spoons":http://www.edwardssmithfinewoodworking.com/blog/2010/05/29/making-wooden-spoons/.
+# Work on my secret side project.
+# Try out "processing.js":http://processingjs.org/.
+
+Processing is a popular visualization language that is used by artists, academics and pretty much anybody who wants to visualize and animate data. It's not for the faint of heart, though — I just had to learn how to convert polar to cartesian coordinates to render the silly spiral in the image above. And it's a programming language, so there's that barrier too. 35 lines of code for the example above. But anyway, you can create some jaw-droppingly beautiful stuff.
+
+Which got me thinking: what's the point of a visualization, its explanatory value or the aesthetics? I'd say it's really the latter for me: I love how good dataviz can tease and urge you to read the accompanying story or explore the underlying data. It's different for infographics, because an infographic is supposed to explain a difficult topic, often with a spatial component, something not easily explained in copy like how a particle collider can smash atoms and what happens when it does. It's also different for graphs, where you want the cleanest and clearest way to represent numbers and how they relate to each other. Dataviz, on the other hand, is about presenting just enough information to get people to turn things over in their mind, or about showing us the familiar in an unfamiliar context. The kind of stuff you want to buy a poster of.
+
+And this is really nothing more than just a fanciful musing, but maybe news needs to become a little bit more beautiful. Less of a commodity, more thought-provoking. Unique, rather than pushed into the same formats over and over again. Perhaps the same stuff you read anywhere, but _different_. I think that's why "WIRED":http://www.wired.com is the only magazine I actually still subscribe to.
