@@ -1,0 +1,12 @@
+---
+layout: comment
+language: en
+categories:
+    - journalism
+title: What is hyperlocal?
+canonical: http://stevebuttry.wordpress.com/2011/07/03/engagement-curation-content-branding-buzzwords-yes-but-also-accurate/#comment-10175
+---
+
+I've always thought of hyperlocal as a word much like "queer":http://en.wikipedia.org/wiki/Queer. Local journalism has for the longest time been viewed as a gig you do at the start of your career, something that sophisticated readers should just skip in favor of a good national daily, as more fluff and crime stories than real meat. So to call your own reporting hyperlocal is to say, "Not only am I doing local news, but I'm damn proud of it, too."
+
+Etymologically accurate? Probably not. And it doesn't describe the smaller-than-local focus of neighborhood blogs or an aggregator like EveryBlock. But I kind of like my explanation anyway.
