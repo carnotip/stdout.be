@@ -1,0 +1,10 @@
+---
+layout: quote
+title: Other People's Papers
+categories: 
+    - tech & society
+author: Anonymous
+canonical: http://thenewinquiry.com/post/6797940267/the-history-of-dialogue-other-peoples-papers
+---
+
+My favorite case this semester was plagiarism within plagiarism. When I informed this student that I suspected her paper was plagiarized, she said to me, “I got my paper from one of the students who was in your class last semester. How was I to know that she had plagiarized?” Which indicated to me, along with a number of the other email responses I got from students, that many of them don’t even know what plagiarism is.
