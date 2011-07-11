@@ -1,0 +1,33 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+    - coding
+    - information architecture
+title: The post-CMS CMS
+summary: We need great content creation tools, and great presentation tools. But what exactly makes for a great presentation tool?
+---
+
+"Daniel Bachhuber":http://danielbachhuber.com/ shared an interesting post last week, about "the bifurcation of content management and delivery":http://gadgetopia.com/post/7208. Or, in humanspeak: managing content and displaying it are really two separate things, and they're usually bundled in what we call a content management solely because the management part is considered to be a trivial thing (just some text boxes to enter and edit content and a way to slap tags on your content) or because we want something that works out of the box, without having to mix-and-match different components.
+
+I wouldn't call "what's happening with CMSes":http://stdout.be/2011/06/27/when-websites-stopped-being-things/ a bifurcation though, like Deane Barker (the author of that blogpost) does. It's more like having ten different little back-end pieces, with a single presentation layer that can create a uniform experience out of such a mess of individual parts.
+
+Which raises an interesting puzzle that neither Matt Waite, Sean Blanda, Matt Thompson or Ian Bicking, the gurus of the post-CMS world, seem to be talking about. And that question is: what would the ideal web delivery platform look like if our priority was to help us piece together different components, not build everything into a single app like, say, your average Drupal install. Existing CMSes aren't built for that kind of environment, so we don't just need to complement the CMS by leveraging different best-of-breed tools each with their specific focus, we actually need to replace the CMS with some kind of presentation layer software that's better suited to the new distributed reality.
+
+But what's the role of that new kind of CMS, or "presentation management system":http://blogs.alfresco.com/wp/pmonks/2008/11/05/web-cmss-dissected/ or "web publishing tool":http://blog.programmableweb.com/2009/10/13/cope-create-once-publish-everywhere/ or however you'd like to call it?
+
+First off: presentation tools can have a vastly reduced scope. Little apps are or will be taking care of all sorts of things that traditionally a CMS would do, like categorizing content and managing comments. In particular for newspapers, content creation will probably happen elsewhere, too, and it'll be stored in a platform-neutral way, because that way the same content that ends up in a CMS can also be used in print.
+
+And secondly, the defining feature of a great post-CMS system will no longer be how well it _manages_ content or even how easy it makes it to _produce_ content: we're taking care of that stuff elsewhere. Instead, the most important criteria in deciding the worth of a web publishing tool become: 
+
+* how well it can aggregate and sometimes manipulate or clean content from a ton of different places
+* how well it plays together with external apps
+* how fast it is and whether it can cache bits of content that take a long time to load
+* how easy it is to apply a consistent visual theme to that content
+
+"The home page is merely a master aggregation of this confederation" "as Matt Waite argues":http://www.niemanlab.org/2011/03/matt-waite-to-build-a-digital-future-for-news-developers-have-to-be-able-to-hack-at-the-core-of-the-old-ways/.
+
+Among newspapers, "The Guardian":http://www.guardian.co.uk is perhaps "furthest along":http://www.guardian.co.uk/open-platform/blog/what-is-powering-the-content-api the CMSless path: many parts of their website are driven by a whole bunch of search queries that fetch information from an internal search engine, which in turn grabs its content from an internal content creation tool (the vestige of what you'd traditionally call a CMS), plus a theming layer to display those search results in a pretty way.
+
+So what the future needs are powerful content ingestion tools and quick and easy ways to display that content in the style that you want, not yet another CMS. That's what I'm betting on.
