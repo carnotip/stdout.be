@@ -42,7 +42,9 @@ h3. Easier for them is harder for me
 
 Configuration over coding sucks. I'll take Django's approach any day. It doesn't work for non-technical users, true enough. You can expect a non-technical user to complete a form but you can't expect him or her to handle an object-relational mapper. However, I'm not a non-technical user and I don't want to be treated like one. Easier for them is harder for me. "Dries Buytaert":http://buytaert.net/, the project lead for Drupal, is adamant about lowering the barriers to participation on the web for non-techies. That's really cool. But I can write code perfectly well, thank you, so that's just not a selling point for me.
 
-The developers behind Drupal understand that user experience (UX) and developer experience (DX) are two different things and that they can work against each other. But because they have to serve both communities, they have to compromise. Django is geared towards developers and developers only, so it can skip all these delicate discussions about how to balance the needs of developers and those of end-users and just do whatever makes the framework more productive or comfortable for coders. And it shows.h3. The Sharpened Knife
+The developers behind Drupal understand that user experience (UX) and developer experience (DX) are two different things and that they can work against each other. But because they have to serve both communities, they have to compromise. Django is geared towards developers and developers only, so it can skip all these delicate discussions about how to balance the needs of developers and those of end-users and just do whatever makes the framework more productive or comfortable for coders. And it shows.
+
+h3. The Sharpened Knife
 
 Clicking in menus isn't a very satisfying way to spend your day, but that's not the only reason why I dislike it. Coding-by-configuring takes you away from the skills that make you so valuable as a coder. You're not advancing as a developer because you're not learning any skills that remain valuable outside of the CMS.
 
