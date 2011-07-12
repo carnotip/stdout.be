@@ -1,7 +1,7 @@
 ---
 layout: quote
 language: en
-categories
+categories: 
     - information architecture
 title: Metadata
 canonical: http://ascii.textfiles.com/archives/3181
