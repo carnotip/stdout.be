@@ -1,0 +1,11 @@
+---
+layout: quote
+language: en
+categories
+    - information architecture
+title: Metadata
+canonical: http://ascii.textfiles.com/archives/3181
+author: Jason Scott
+---
+
+Metadata, you see, is really a love note – it might be to yourself, but in fact it's a love note to the person after you, or the machine after you, where you’ve saved someone that amount of time to find something by telling them what this thing is. Lives have been absorbed getting metadata, and so there’s an entire field of computer study about this idea, and making your machines do the hard work for you. Google’s got some interest in this, I heard. If you could completely generate Metadata, life would be pretty awesome. But you can’t. Not really. Not completely.
