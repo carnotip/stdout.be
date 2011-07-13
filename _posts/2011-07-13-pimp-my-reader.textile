@@ -1,0 +1,22 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+    - coding
+title: Pimp my Reader
+summary: "Or: building a feed juggler for journalists"
+---
+
+RSS readers are a great tool for journalists to stay on top of things. They allow you to follow a gazillion websites and blogs, both famous and obscure, without having to manually check tons of irregularly updated websites each and every day. Once you've become adept at skimming, you can get a ton of news and story ideas in less than thirty minutes.
+
+Not much more than ten years ago, a reporter who kept up with trends was somebody who read a couple of different newspapers and magazines and knew a couple of people in different places and asked, "hey, what's going on?" For some journalists that's still how it works, but they're finding themselves no match for their adversaries who _do_ know how to really keep track of the remote regions of the web.
+
+That said, feed readers were made for consumers, not for newsrooms, and it shows. Here's what would change that: 
+
+* *Email inboxes as feeds.* Journalists are already used to skimming through huge piles of dirt to find the odd potential gem, but in a different context: their inboxes are filled with PR junk. It would be great if we could add email streams to our reader, together with feeds from newswires like "Reuters":http://www.reuters.com/ and "AP":http://www.ap.org/. One easy routine.
+* *Twitter and Facebook link inlining.* You should use "TweetDeck":http://www.tweetdeck.com/ or "CoTweet":http://cotweet.com/ to keep tabs on twitter, not a reader. But when you're in "curation":http://www.rohitbhargava.com/2011/03/the-5-models-of-content-curation.html mode, what's really most useful is not the actual Facebook and twitter messages but the stuff they link to. Opening fifty tabs for those links is annoying and will be full of duplicates, so I want something that can aggregate the links from my twitter stream, visit each link, grab the content and consolidate it in a feed for rapid consumption.
+* *Feed filters.* Swimming through noise is part of the game, but sometimes the noise is just too much, and it makes sense to filter feeds. Mostly through simple term matching (remove anything that doesn't have 'education' or 'Apple' in it), but I want "webhooks":http://www.webhooks.org/ too, to fix my own information overload.
+* *Scraping.* Some websites still don't have feeds, or don't have feeds of the things you want. I want a super-simple web scraper that outputs to an Atom feed, so I don't have to remember websites I have to visit every day or week.
+
+Email, social media, blogs, wires and news updates, all in one (filtered!) stream, that's what I want. I might build it, too. Halfway there: Google Reader plus "Yahoo! Pipes":http://pipes.yahoo.com/pipes/ and "ifttt":http://ifttt.com/. But easier (think "FeedHint":http://feedhint.com/) and not spread over five different services.
