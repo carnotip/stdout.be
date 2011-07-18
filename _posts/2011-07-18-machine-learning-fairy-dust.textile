@@ -6,8 +6,8 @@ categories:
     - business & management
     - tech & society
 title: Machine Learning Fairy Dust
-summary:
-	In many product ideas, machine learning seems to fill the role of industrial superglue: it's what holds an otherwise mediocre application together. Bonus points if you don't have a clue what you're talking about.
+summary: |
+    In many product ideas, machine learning seems to fill the role of industrial superglue: it's what holds an otherwise mediocre application together. Bonus points if you don't have a clue what you're talking about.
 ---
 
 I was looking over the "entries to the Mozilla-Knight digital journalism challenge":https://www.drumbeat.org/en-US/challenges/, which asks people to think of an application that could profoundly impact the way digital journalism is done. (Disclaimer: I'm a participant myself.)
