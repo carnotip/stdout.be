@@ -1,0 +1,23 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+    - business & management
+    - tech & society
+title: Machine Learning Fairy Dust
+summary:
+	In many product ideas, machine learning seems to fill the role of industrial superglue: it's what holds an otherwise mediocre application together. Bonus points if you don't have a clue what you're talking about.
+---
+
+I was looking over the "entries to the Mozilla-Knight digital journalism challenge":https://www.drumbeat.org/en-US/challenges/, which asks people to think of an application that could profoundly impact the way digital journalism is done. (Disclaimer: I'm a participant myself.)
+
+Some people are trying to solve the problem of having to browse twenty different news websites to get the kind of information you want. Um, like "Reeder":http://reederapp.com/ or "Flipboard":http://flipboard.com/, you mean? Others want to create easy ways for people to share information and for reporters to distill that information into stories. Um, like "Facebook":http://www.facebook.com/, "twitter":http://twitter.com/ and "Storify":http://storify.com/?
+
+But the thing that struck me most is how nearly half the entries mention machine learning or language analysis. And the particular way they mention it: vaguely, in a way that not quite explains how exactly the process should work and how it'll do its magic. In many product ideas, machine learning seems to fill the role of industrial superglue: it's what holds an otherwise mediocre application together. "My application proposes bundling comments by what they talk about, so people won't have to sift through tons of comments to read the ones that interest them. Difficult, time-intensive you say? Nah, we'll slap some language analysis juju on there, _et voila_." 
+
+Machine learning as a meme is very similar to "social" five to ten years ago: you took an okay-ish concept, added some crowdsourcing, folksonomies and social networking, and there it was, your wonderful Web 2.0 brainchild. AJAX used to have the same effect on people: the term found its way into the layman's lexicon and everybody started talking about how they'd make this beautiful, AJAXy web app  without really even knowing what it entailed, just that it'd be _really_ slick. _Real-time web_ has a shot at attaining the same status in the not-too-faraway future, and I can't count the amount of apps that are _mobile location-based gamification with coupons_.
+
+The fact that machine learning is on people's minds, and that to a certain extent it _has_ become easy — Google just opened up its "Prediction API":http://code.google.com/apis/predict/, taking care of all the fussy details for you, at least for a certain set of problems and provided you only need limited accuracy — has me very excited. But the nonchalance with which people talk about machine learning and natural language analysis also has me worried, because, in entrepreneurspeak, it functions as a sort of magic pixie dust that'll make everything better.
+
+There's no substitute for good product design. You still have to make something people will want to use and find your way around technical stumbling blocks, not just fill in all the gaps with "ML will solve any difficulties we face". Because it won't.

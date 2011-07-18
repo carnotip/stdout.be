@@ -1,0 +1,13 @@
+---
+layout: comment
+language: en
+title: Making the news fun again
+canonical: http://www.nicolecifani.com/2011/07/how-can-we-make-news-cool-again/
+context: Nicole Cifani thinks making the news fun again is about creating a central place for consuming the news, a place that cares about your habits  and interests. I'm not sure that's the first place to start looking.
+---
+
+I'm really intrigued by the "news isn't fun" problem, but I think it might merit thinking outside of the web. I really love printed magazines because they force me to take some time, sit down and savor every story, whereas online I often skip even the most brilliant of content because I'm more rushed, maybe just reading the news during a 5-minute work break. Same reason why Instapaper + Kindle is doing so well, I think. I'd like to see more people thinking about how you can leverage the unique properties of each medium to craft a better news experience.
+
+Another area where we can improve is, I think, conversational journalism: having journalists participate in comment threads, on twitter and on Facebook, being available for interaction with readers, doing open newsrooms, answering reader's questions and guiding coverage based on what people want to know. In short, creating a real community around a news website. Because content has become a commodity but community hasn't.
+
+I don't think having a one-stop place to get all your news is really what we need, and I'm not even convinced that there's a technical solution to be found to this problem. Making the news fun/interesting/cool again will depend on journalists approaching their interaction with readers differently than they do today.
