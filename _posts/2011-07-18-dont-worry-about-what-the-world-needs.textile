@@ -1,0 +1,11 @@
+---
+layout: quote
+language: en
+author: Howard Thurman
+categories: 
+    - personal
+    - inspirational
+title: Don't worry about what the world needs
+---
+
+Don’t worry about what the world needs. Ask what makes you come alive and do that. Because what the world needs are people who have come alive.

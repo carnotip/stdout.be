@@ -5,7 +5,7 @@ equiv: /en/contact/
 realm: contact
 ---
 
-Altijd bereid om eens te babbelen met collega's, of om een <a href="/nl/werk/">potentiële opdracht</a> te bespreken. Ik geef met graagte lezingen en schrijf soms gastbijdragen, als je 't lief vraagt. Je kan me bereiken op <span class="me">stijn</span>.
+Altijd bereid om eens te babbelen met collega's, of om een <a href="/nl/werk/">potentiële opdracht</a> te bespreken. Ik geef met graagte lezingen en schrijf soms gastbijdragen, als je 't lief vraagt. Je kan me bereiken op <span class="me">stijn</span> of <a href="http://twitter.com/stdbrouw">via twitter</a>.
 
 Je kan me ook bereiken via Skype. Mijn handle is <code>stdbrouw</code>. M'n applicatie staat meestal af, dus het is handigst om eerst iets over e-mail af te spreken. Je kan me ook bellen op 0472 410 166.
 

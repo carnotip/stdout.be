@@ -5,7 +5,7 @@ equiv: /nl/contact/
 realm: contact
 ---
 
-I'm always available for a chat with colleagues, or to discuss <a href="/en/services/">work</a>. I happily do guest posts if you ask nicely. You can reach me at <span class="me">stijn</span>.
+I'm always available for a chat with colleagues, or to discuss <a href="/en/services/">work</a>. I happily do guest posts if you ask nicely. You can reach me at <span class="me">stijn</span> or on <a href="http://twitter.com/stdbrouw">twitter</a>.
 
 You can reach me on Skype — my handle is <code>stdbrouw</code>. I'm in the GMT timezone. I don't idle that often, so it's best to schedule something over e-mail beforehand.
 
