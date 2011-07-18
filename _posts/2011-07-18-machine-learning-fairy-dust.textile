@@ -10,7 +10,7 @@ summary: |
     In many product ideas, machine learning seems to fill the role of industrial superglue: it's what holds an otherwise mediocre application together. Bonus points if you don't have a clue what you're talking about.
 ---
 
-I was looking over the "entries to the Mozilla-Knight digital journalism challenge":https://www.drumbeat.org/en-US/challenges/, which asks people to think of an application that could profoundly impact the way digital journalism is done. (Disclaimer: I'm a participant myself.)
+I was looking over the "entries to the Mozilla-Knight digital journalism challenge":https://www.drumbeat.org/en-US/projects/mojo/, which asks people to think of an application that could profoundly impact the way digital journalism is done. (Disclaimer: I'm a participant myself.)
 
 Some people are trying to solve the problem of having to browse twenty different news websites to get the kind of information you want. Um, like "Reeder":http://reederapp.com/ or "Flipboard":http://flipboard.com/, you mean? Others want to create easy ways for people to share information and for reporters to distill that information into stories. Um, like "Facebook":http://www.facebook.com/, "twitter":http://twitter.com/ and "Storify":http://storify.com/?
 
