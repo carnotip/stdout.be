@@ -1,0 +1,29 @@
+---
+layout: post
+language: en
+title: A culture of coders
+categories: 
+    - coding
+    - tech & society
+summary: Anybody, from biologists to accountants to journalists, gets an advantage out of being able to code. How can we help?
+---
+
+Our standards have gone up. The amount of tools a web developer has to master to create slick and scalable HTML5 websites is simply staggering and, on the inside, big sites "tend to look like Rube Goldberg machines":/2011/06/27/when-websites-stopped-being-things/. 
+
+But on the other hand, not-so-big websites, those that make up about 95 percent of the web, are getting ever easier to create, thanks to technologies like mod_php, infrastructure like "Heroku":http://www.heroku.com/ and frameworks like "Django":https://www.djangoproject.com/. We're at the point where casual programming "has become so easy":http://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/ that you don't really have to identify yourself as a coder anymore to actually be one. Biologists, accountants, musicians and journalists can all dive into web development and make small apps that support them in their work within a month.
+
+I attended a lecture by John Resig last week, and one of the things that stuck was his advice to _give your users the space to grow_. What made jQuery so successful is that it always encouraged newbies to stick around and persist, even if they couldn't tell a variable from a for loop. Those newbies eventually start coding up plugins, writing documentation and evangelizing your project. They're dumb only if you keep them dumb.
+
+Programming is about automating repetitive tasks and making information out of data. Those skills shouldn't be the sole province of computer science grads. Imagine what the world could look like basic computer literacy isn't reading email but writing code.
+
+We're going to get there eventually, "our society demands it":http://www.economist.com/node/15557443?story_id=15557443, but there are some steps we as programmers can take today to speed things up and create a more novice-friendly hacker culture.
+
+We can participate in spaces like "Hacks/Hackers":http://hackshackers.com/ and "StackOverflow":http://stackoverflow.com/ where aspiring coders can interact with and learn from people with more experience. Schools aren't exactly preparing people for this digital world, so we have to. But there are also some technical things we can do.
+
+One is to sometimes just suck it up and create your application in PHP. PHP apps are easy to deploy and extend, even if the language itself is a mess. I don't doubt "Drupal":http://drupal.org/ would be a more elegant CMS if it was written in Python, but it's also clear that its success has been predicated on PHP's low barrier to entry, because that's what kickstarted the whole plugin module ecosystem, as it did for "WordPress":http://wordpress.org/extend/ and even "MediaWiki":http://www.mediawiki.org/wiki/Manual:Developing_extensions.
+
+The other is to make sure our apps, even if they're "closed-source":http://en.wikipedia.org/wiki/Proprietary_software, have public APIs and are "webhook-enabled":http://www.webhooks.org/. If you're not familiar with webhooks: they're little scripts you can write that can be notified whenever something happens within an application or CMS, like somebody saving a new record into the database or deleting a comment. "This presentation by Jeff Lindsay":http://www.slideshare.net/progrium/web-hooks-and-the-programmable-world-of-tomorrow-presentation explains it really well. Webhooks can do anything you want them to, but they're ideally suited to solve "interop":http://en.wikipedia.org/wiki/Interoperability challenges like sending an email whenever you have new items in Google Reader, or saving links you post on twitter to Delicious.
+
+Together with glue services like "Scriptlets":http://www.scriptlets.org/, "ifttt":http://ifttt.com/ and "Yahoo! Pipes":http://pipes.yahoo.com/pipes/, APIs and webhooks are turning the web from a bunch of silos into something more like legos.
+
+In the words of Jeff Lindsay: "The read-write web gave us user contributed content... I want user contributed (democratized) logic."
