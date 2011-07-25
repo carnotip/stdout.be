@@ -14,7 +14,7 @@ But on the other hand, not-so-big websites, those that make up about 95 percent 
 
 I attended a lecture by John Resig last week, and one of the things that stuck was his advice to _give your users the space to grow_. What made jQuery so successful is that it always encouraged newbies to stick around and persist, even if they couldn't tell a variable from a for loop. Those newbies eventually start coding up plugins, writing documentation and evangelizing your project. They're dumb only if you keep them dumb.
 
-Programming is about automating repetitive tasks and making information out of data. Those skills shouldn't be the sole province of computer science grads. Imagine what the world could look like basic computer literacy isn't reading email but writing code.
+Programming is about automating repetitive tasks and making information out of data. Those skills shouldn't be the sole province of computer science grads. Imagine what the world could look like if basic computer literacy isn't reading email but writing code.
 
 We're going to get there eventually, "our society demands it":http://www.economist.com/node/15557443?story_id=15557443, but there are some steps we as programmers can take today to speed things up and create a more novice-friendly hacker culture.
 
